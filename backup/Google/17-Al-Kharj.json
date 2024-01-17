@@ -1,0 +1,2723 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1476314,
+                    "lng": 47.30333399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1489557302915,
+                        "lng": 47.30459528029149
+                    },
+                    "southwest": {
+                        "lat": 24.14625776970849,
+                        "lng": 47.30189731970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Baskin Robbins",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101828612479481578888\">Mr K</a>"
+                    ],
+                    "photo_reference": "AWU5eFiymwq1x5scr7yOJHRbFB8fkPDJjZjuzvNkJCCEnl0RjSVDlKdtjeyljqn1gjgVHPoSUlXX1ki3llQ_Grj_b1w_Dn9bYoug0d3vqfd13Va_n9QeObU45XTh0XQVQVrNkalXNgWUV0YTLQUk86N7gIkvgl2YTFP0pmnKBlaZqvHPI9Aj",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJichGSm9PJT4RgABGrxPDAWA",
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJichGSm9PJT4RgABGrxPDAWA",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "King Abdulaziz Road, 48X3+384, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1480118,
+                    "lng": 47.3032248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1493458802915,
+                        "lng": 47.3045245302915
+                    },
+                    "southwest": {
+                        "lat": 24.1466479197085,
+                        "lng": 47.3018265697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+            "name": "SAB الأول",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ39ATRm9PJT4RKW4QTNNjw14",
+            "plus_code": {
+                "compound_code": "48X3+67 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+67"
+            },
+            "rating": 2.6,
+            "reference": "ChIJ39ATRm9PJT4RKW4QTNNjw14",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "King Abdulaziz Road, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1477275,
+                    "lng": 47.3032872
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1491181802915,
+                        "lng": 47.30461313029151
+                    },
+                    "southwest": {
+                        "lat": 24.1464202197085,
+                        "lng": 47.30191516970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dunkin' - دانكن",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 954,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108258539076833786083\">Aref</a>"
+                    ],
+                    "photo_reference": "AWU5eFhDanhFGDgrqSaSPc4T00gMK-m_qcnCVN-KNALPKbHaHP3qkUKIKQWlEYDCZc_oXHnWfDv7ECYQLhDTIVScXdDK3uNSZFN9lkzWzIcJMFK4Zcykcuj0ewwIWQAJaE-RAeov9lXGWTgqY7q8x81SM3NfBMROR2pKTJug9tHgGGAT1eo5",
+                    "width": 1284
+                }
+            ],
+            "place_id": "ChIJx126S29PJT4RyABzHuilWQc",
+            "plus_code": {
+                "compound_code": "48X3+38 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+38"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJx126S29PJT4RyABzHuilWQc",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "bakery",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 783,
+            "vicinity": "., Riyadh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.149931,
+                    "lng": 47.3037784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1511946802915,
+                        "lng": 47.3052128302915
+                    },
+                    "southwest": {
+                        "lat": 24.1484967197085,
+                        "lng": 47.3025148697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Quickpay - SNB ALAhli",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103842498065360987137\">abdullah alezzi</a>"
+                    ],
+                    "photo_reference": "AWU5eFgsIudN4mA2Izeh4XI-ye3k_R_bstsy4FbWd2kJj3xldl7i0BqR0As2-d5ItNECgCu9taFBZmPzh3d1VnFd7zJFF7ZZyh-WMw2mZny1u8_YfvroNo67i_WD5yJlHE_72UldvewEjc9Aa-LDm7PM832QxI7p_Cl_FpNduwoHaDf3jCIu",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJJcgDCW9PJT4RJJpaRa2EdiY",
+            "plus_code": {
+                "compound_code": "48X3+XG Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+XG"
+            },
+            "rating": 2.9,
+            "reference": "ChIJJcgDCW9PJT4RJJpaRa2EdiY",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "6728 King Saud Road, 2926, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1477228,
+                    "lng": 47.3028379
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.14908833029151,
+                        "lng": 47.3042367302915
+                    },
+                    "southwest": {
+                        "lat": 24.1463903697085,
+                        "lng": 47.30153876970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Subway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100467870638629831539\">Subway Al-Thumamah Road</a>"
+                    ],
+                    "photo_reference": "AWU5eFi_Tcu5QMcvE3dulLYiPczomo-Lp6nmkIKp2L-HpiNl3mmwOve1RlD9w7Yp-SjhKBdgJYDv8Mpx4CNQamZwzbAu_G1o2RgakyltmAOB8w-JOsyDeK8_gzs_JKCq0yKHdgPNsXQ07dOf7ptjOImzq-cMqyWRaHM6gmzbmnX9XzSSz42s",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJtbDaT29PJT4RilG-PZ2_NII",
+            "plus_code": {
+                "compound_code": "48X3+34 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+34"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJtbDaT29PJT4RilG-PZ2_NII",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 628,
+            "vicinity": "3462 Al Thumamah Rd, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1478366,
+                    "lng": 47.3027227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1492282802915,
+                        "lng": 47.30403423029151
+                    },
+                    "southwest": {
+                        "lat": 24.1465303197085,
+                        "lng": 47.30133626970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Hashem Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3968,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111645510944608289522\">M Mishal</a>"
+                    ],
+                    "photo_reference": "AWU5eFizdlYzLZn5XWtngwmGOrU2D7Hvf8Eaa_Is6dXyyFLnGkAo_tUKVCd5VcNCRKTRIB8KpCHmQWWY3qd6HjoYyMmTsqAeAH8mPIJ9BmlM7EVu7RYqJS-Nouw7BXNbunj3GKpQ8G9A0LU9qXbdUb7Vimvcye39wdhAwKFsijCGhuTXNf_Z",
+                    "width": 2976
+                }
+            ],
+            "place_id": "ChIJoQuyWm9PJT4RvkvEE03tNkA",
+            "price_level": 2,
+            "rating": 3.4,
+            "reference": "ChIJoQuyWm9PJT4RvkvEE03tNkA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 537,
+            "vicinity": "48X3+43Q, الخرج"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1461793,
+                    "lng": 47.30395849999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1474888302915,
+                        "lng": 47.3051789302915
+                    },
+                    "southwest": {
+                        "lat": 24.14479086970849,
+                        "lng": 47.3024809697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Absher service device",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJaU6X6GhPJT4ResDUhuIJF2g",
+            "plus_code": {
+                "compound_code": "48W3+FH Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+FH"
+            },
+            "rating": 3,
+            "reference": "ChIJaU6X6GhPJT4ResDUhuIJF2g",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "6315 طريق الملك عبدالعزيز، السليمانية الخرج 16278 2960 King Abdulaziz Road, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1463806,
+                    "lng": 47.303344
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1477418302915,
+                        "lng": 47.30473273029149
+                    },
+                    "southwest": {
+                        "lat": 24.1450438697085,
+                        "lng": 47.30203476970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Atmosphere of the city for security and safety",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102640012538091914359\">Maaz Ahmed</a>"
+                    ],
+                    "photo_reference": "AWU5eFhKjDPnS30nPx289l2-dHD4jU3JgQuHmrz1G9R8U1c4M76MYeWcY2IP_Mzc9kY6OtGYpC2N9yXfA99LP0dlF8qNA5sHzMVii53BqT3EfsCDOCZBDSifuk0Sa-dqx6jmWRmnC9OmM8XN2qp_HgiCMORQnHyqYvrTWaEvxmioDku6In5r",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJA699wGhPJT4RwsCYW-9-7eE",
+            "plus_code": {
+                "compound_code": "48W3+H8 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+H8"
+            },
+            "rating": 4,
+            "reference": "ChIJA699wGhPJT4RwsCYW-9-7eE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "طريق الملك عبد العزيز - مقابل الاحوال المدنية, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1453717,
+                    "lng": 47.30414220000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1466969302915,
+                        "lng": 47.30541373029151
+                    },
+                    "southwest": {
+                        "lat": 24.1439989697085,
+                        "lng": 47.30271576970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "DHL Service Point (DHL - KHARJ)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117229906360619364426\">DHL Service Point (DHL - KHARJ)</a>"
+                    ],
+                    "photo_reference": "AWU5eFg4HTIGVaAK_oAka0A8-xjYaTRuYHFKYZfhddLr_UAtX_-VhXlxvVcIRVOCOv--NauYCQw5bq_aR42JRJt4aAfok9pmsYu5yfqhyAq_gxXSP3ZIqsVcPJzc7aUkXVbEqIxqeK5hX44E52Bj38u76fgOvcpkYH4UxJ9DLxooIdbKQVlg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJcXUDbXBPJT4RRDxTYyGeggA",
+            "plus_code": {
+                "compound_code": "48W3+4M Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+4M"
+            },
+            "rating": 3.3,
+            "reference": "ChIJcXUDbXBPJT4RRDxTYyGeggA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 271,
+            "vicinity": "bldg Pr. Salman str behind Arab National Bank & opp Riyadh bank, Al Shamiah, AL KHARJ"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1447228,
+                    "lng": 47.3038085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1460055302915,
+                        "lng": 47.30519503029151
+                    },
+                    "southwest": {
+                        "lat": 24.1433075697085,
+                        "lng": 47.30249706970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Civil Defense",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113348749687839243571\">ابو فراس</a>"
+                    ],
+                    "photo_reference": "AWU5eFh-KIedbSzZpm8Aza3Q7cnjOwRcS4txN7cjU3HQOpJrbwyhf2M8DA8Q-TbbGpONeIrAdABgr1Ed8eYl4cDcOjcEwbwFC5VTkX3o0mCj-i_22bJ6DFiDwGfX4-7fmLFmNbZ_tTqUgfKUYvFTMk2UC3gmSAL-ynEA6wc34y26IgtkenCL",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJsVa-W2hPJT4RtX05C9EtDq0",
+            "rating": 4.3,
+            "reference": "ChIJsVa-W2hPJT4RtX05C9EtDq0",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "48V3+VGM, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1461565,
+                    "lng": 47.30887979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1474748302915,
+                        "lng": 47.31025483029149
+                    },
+                    "southwest": {
+                        "lat": 24.1447768697085,
+                        "lng": 47.30755686970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "مراحل للوحدات السكنية الخرج 2",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113962539905837387379\">Ahmed Dayem</a>"
+                    ],
+                    "photo_reference": "AWU5eFgXKcaC89_ceHZRWq2SIcaytuWvcs91i7WhDHd-_P4TZrrmuNBEuqVB0uolCcNxN3LuFsGs9eYFgxWp3InYM6KIN6HbYfGxEThgEett5sVCdnf6u-OmuZAK-8_WcSVGAKChsMPZvctnhzHjQ4dp_E4GrA5HgktegIQ-SD3HXj-msujp",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJi9TCxPFOJT4R-Il33piQuas",
+            "plus_code": {
+                "compound_code": "48W5+FH Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W5+FH"
+            },
+            "rating": 3.7,
+            "reference": "ChIJi9TCxPFOJT4R-Il33piQuas",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 175,
+            "vicinity": "11486 King Fahd Road, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.144078,
+                    "lng": 47.305376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1454374302915,
+                        "lng": 47.3067549302915
+                    },
+                    "southwest": {
+                        "lat": 24.1427394697085,
+                        "lng": 47.3040569697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "أسواق العثيم | Othaim Markets",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108780047397239644815\">‫هشام عبدالله ،،ألم الفراق ،، (ألم الفراق)‬‎</a>"
+                    ],
+                    "photo_reference": "AWU5eFj4UJFP5AqD9KKZ9egRkQlx7_o4HVpH0qYUZ2W1UaONhABVFWTy4jatvm5_1QwdZBNJRhAB40JEtkdj1GSezuVNocAxG_MPA0VxJuFyq3wxivDtZfpnZ2GDQMEStUFTkLVwtwm57oEJS3Yu3RSojrjBv2iatoBIDQBnMGQRDMXNkwma",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJEfgn22lPJT4R2aSkvU9mFIA",
+            "plus_code": {
+                "compound_code": "48V4+J5 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948V4+J5"
+            },
+            "rating": 4,
+            "reference": "ChIJEfgn22lPJT4R2aSkvU9mFIA",
+            "scope": "GOOGLE",
+            "types": [
+                "supermarket",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 663,
+            "vicinity": "King Fahd Road, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1524019,
+                    "lng": 47.30325979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1537358802915,
+                        "lng": 47.30456123029149
+                    },
+                    "southwest": {
+                        "lat": 24.15103791970849,
+                        "lng": 47.3018632697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sky Freight Alkarj Cargo Office",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115610527937682334473\">Allan Frias Sky Express JED Main (Lan F.)</a>"
+                    ],
+                    "photo_reference": "AWU5eFhypoBIeuFsKZQ8bvPZHxgIfRDKIPOj3PP_WGzQtwlCo5r80wRU-R41XwLHbg491TMHUM5T26Ctb9DqBpj0t2ux9Mye2yvAYLbTMYoUvG7AfcaDJrZM_m-mZKzaqAPj5JyIDKA1DNi6_8u9LVO6RhRnUC7VB4S-qtwZVsIzDKtDUnGY",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJFXPZHnBPJT4R4z4UTduEH6E",
+            "plus_code": {
+                "compound_code": "5823+X8 Al-Kharj Saudi Arabia",
+                "global_code": "7HP95823+X8"
+            },
+            "rating": 4,
+            "reference": "ChIJFXPZHnBPJT4R4z4UTduEH6E",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "7007, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.152641,
+                    "lng": 47.3037641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1539791302915,
+                        "lng": 47.3050784302915
+                    },
+                    "southwest": {
+                        "lat": 24.1512811697085,
+                        "lng": 47.30238046970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ideal traning center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJP88YJHBPJT4RjDoQ-_5zUmk",
+            "rating": 4,
+            "reference": "ChIJP88YJHBPJT4RjDoQ-_5zUmk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Othman Ibn Affan Road, 5833+3G2, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.14607699999999,
+                    "lng": 47.303959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1473929802915,
+                        "lng": 47.3051956302915
+                    },
+                    "southwest": {
+                        "lat": 24.14469501970849,
+                        "lng": 47.3024976697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "مكتب الأحوال المدنية بمحافظة الخرج|Civil Affairs Office in Al Kharj",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 765,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115526597225576042791\">عبدالله الشمري</a>"
+                    ],
+                    "photo_reference": "AWU5eFgeCbac1anQDJRjCDMg31Gt9aytn9s8HSpNznM0HlY89Pg2THdi9BmtjXZPQ9y2Mg0t3aZVkZMEhsKEZE0QhnzWSyWNij28f7YflaZYE2t8MmZGgh1f3OjkpPn5kOREuVbddi7CECKJMUk7_iGfvjC9Gmzm_ZzJgtpxC6Pd_YHImXfK",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJx-vW5WhPJT4RSST9GtJDgEA",
+            "rating": 3.7,
+            "reference": "ChIJx-vW5WhPJT4RSST9GtJDgEA",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 314,
+            "vicinity": "6315 King Abdulaziz Road, 48W3+CH, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1483065,
+                    "lng": 47.3052561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1496666802915,
+                        "lng": 47.3066373302915
+                    },
+                    "southwest": {
+                        "lat": 24.1469687197085,
+                        "lng": 47.3039393697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "لغة المستهلك",
+            "photos": [
+                {
+                    "height": 3104,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116997405767044832482\">Huzifa Algaily</a>"
+                    ],
+                    "photo_reference": "AWU5eFhCcTrKRThRp9g2E-G93iy6GMum578E9AtdYp2LMCOaCVhBWCqFM3LK2PuypcnbOeoSVwa9nqc590UuBqskE4ANT-_w6eDac0ZSjSEUpgRIHtPryVoZ0U2Mgpi0gm0WtH_y58ty9LG2bMMXWrWYPe5HvLX8BXSRKyD4cBTbAs06Kc2_",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJW2X6-aJPJT4RjeabEaEAgQw",
+            "plus_code": {
+                "compound_code": "48X4+84 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+84"
+            },
+            "rating": 3,
+            "reference": "ChIJW2X6-aJPJT4RjeabEaEAgQw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6546 عثمان بن عفان، 3075،, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1486378,
+                    "lng": 47.3040558
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.14993358029151,
+                        "lng": 47.3052919302915
+                    },
+                    "southwest": {
+                        "lat": 24.1472356197085,
+                        "lng": 47.3025939697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+            "name": "مسجد القاضي شريح رحمه الله.",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106679139498723989237\">Mohamed Sulthan</a>"
+                    ],
+                    "photo_reference": "AWU5eFjDCkXyjCD_0r018gTYrDOL-PFXjqjBg0VAd6dLVWM1GjT4M20XY3IaG4vgy01eShVhNGTMI5d_6psV04yMOH_h-AWUwtLKvO32KLRIcVzZ0TBTgUo_MfaW5GZxkVXpUZ_p0XOk-bidN4f5Volx2fCQ5VrEkuS2ITICKsNfHnFh3Ahg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJWZ8kI29PJT4RUGpjcmeaOME",
+            "plus_code": {
+                "compound_code": "48X3+FJ Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+FJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJWZ8kI29PJT4RUGpjcmeaOME",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "2965, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1492427,
+                    "lng": 47.30511680000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1505775802915,
+                        "lng": 47.3064242802915
+                    },
+                    "southwest": {
+                        "lat": 24.1478796197085,
+                        "lng": 47.3037263197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "مطعم جوهرة Pakistani Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 618,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104195148389361765027\">مطعم جوهرة Pakistani Restaurant</a>"
+                    ],
+                    "photo_reference": "AWU5eFhHdU9S_bcS9hnYSe-rT_FQDDJO_vgZ2JGRMO43E-RBX_3cxFuvmsBOOrXiwhlhGbaYFG21V_dHjXY8vhwYBH6W6OZJcWvKgMfPM7IQXDtB2BJYarW5F6csBvI1soCi3dKNFECZJ4R2ZKMtFRtLClAba_tyi_irCfy3MiryEa4V8lMb",
+                    "width": 1098
+                }
+            ],
+            "place_id": "ChIJfTDsAWVPJT4RdlfIB4wR6wA",
+            "plus_code": {
+                "compound_code": "48X4+M2 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+M2"
+            },
+            "rating": 5,
+            "reference": "ChIJfTDsAWVPJT4RdlfIB4wR6wA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Othman Ibn Affan Road, Al-Kharj"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 24.1502987,
+                    "lng": 47.3046668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1581236799039,
+                        "lng": 47.31494553591943
+                    },
+                    "southwest": {
+                        "lat": 24.14343352559109,
+                        "lng": 47.3003505254845
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "As Sulaymaniyah",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102407094269549776377\">Aatisam Altaf Tarar</a>"
+                    ],
+                    "photo_reference": "AWU5eFhTILaSaAPPTptQpapTe1iVDRLyME8WrI41UoykOZJ-P5owsetC5Zpd3z58xBpMATQg5VQ6HqKtMxIrrTw-Ah0oQfq5GKb992XxCvuG6pX3tN6QY2tdqywl3ZcxmfGjPgD0pkLXkuqsDFngtfhmZ-SghTNqFacfNK2xcQNhczawi5qu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTRBTLmxPJT4RnVMc7AlbmNI",
+            "reference": "ChIJTRBTLmxPJT4RnVMc7AlbmNI",
+            "scope": "GOOGLE",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ],
+            "vicinity": "As Sulaymaniyah"
+        },
+
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.14769029999999,
+                    "lng": 47.305799
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1490209302915,
+                        "lng": 47.3070930302915
+                    },
+                    "southwest": {
+                        "lat": 24.14632296970849,
+                        "lng": 47.3043950697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sri Lanka restaurant Alkharj",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2591,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113892468339732299342\">Rizvirizly Baseem</a>"
+                    ],
+                    "photo_reference": "AWU5eFgrtpe8YcFZAth-a-g8ckrfrj5hAgDyfnaC1_UOk4IMlpjdI_oYlN7CBi6yVb2nQd7UjbUnpKjX6Jb2j_V6UzMkVxqqVRG4MV2d4ml4psgydCu3mKTnl9ltSA64_MLGxW_6LL1EeqJb7t8dOaH-xS4o71yRGR6iJfj9-PBr6dfYgvw",
+                    "width": 1759
+                }
+            ],
+            "place_id": "ChIJ197avYpPJT4Rq_EZOyZXC6Q",
+            "plus_code": {
+                "compound_code": "48X4+38 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+38"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ197avYpPJT4Rq_EZOyZXC6Q",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1493113,
+                    "lng": 47.3050851
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1506466802915,
+                        "lng": 47.3063941802915
+                    },
+                    "southwest": {
+                        "lat": 24.1479487197085,
+                        "lng": 47.3036962197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "إسكان السلام",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113139821540377254864\">إسكان السلام</a>"
+                    ],
+                    "photo_reference": "AWU5eFiqAXFPhLmC3f97iReaYvfWINM_MdcTh--GwjGkrHiuQx0ktNEWmgfisT_gYy2kr0ta4DNG16q2fPNtUjzp_ytXZpBdSP-R-7r52QXUYMnfLb9eGUKEYGyXVZZ4OhvUSDNphieuv9wyYRL0W93EtITL1k8lxicN87Qbj6EcRv6Ph5ZM",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJLcbZl1VPJT4RRxgjDach6Xg",
+            "plus_code": {
+                "compound_code": "48X4+P2 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+P2"
+            },
+            "reference": "ChIJLcbZl1VPJT4RRxgjDach6Xg",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Othman Ibn Affan Road, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.149392,
+                    "lng": 47.3050505
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1507276302915,
+                        "lng": 47.3063602802915
+                    },
+                    "southwest": {
+                        "lat": 24.1480296697085,
+                        "lng": 47.3036623197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "مطعم الجوهرة الشعبي",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ3xK0wPVPJT4R4Z6CabE2vg8",
+            "rating": 5,
+            "reference": "ChIJ3xK0wPVPJT4R4Z6CabE2vg8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Uthman Ibn Affan Street, 48X4+Q23, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1472192,
+                    "lng": 47.3047207
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1486153302915,
+                        "lng": 47.3060452802915
+                    },
+                    "southwest": {
+                        "lat": 24.1459173697085,
+                        "lng": 47.30334731970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "لمسة نورة للحلاقة الرجالية",
+            "permanently_closed": true,
+            "place_id": "ChIJE53jcHNPJT4R9N7LXq_I1ws",
+            "plus_code": {
+                "compound_code": "48W3+VV Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+VV"
+            },
+            "rating": 5,
+            "reference": "ChIJE53jcHNPJT4R9N7LXq_I1ws",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "الخرج"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1484928,
+                    "lng": 47.30379479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1498486302915,
+                        "lng": 47.3051582302915
+                    },
+                    "southwest": {
+                        "lat": 24.1471506697085,
+                        "lng": 47.3024602697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "متجر الكاشف للاتصالات",
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111121272619020924176\">Obaid M</a>"
+                    ],
+                    "photo_reference": "AWU5eFhmYNp8vo5xsBchlyGzLINEa_WGRLoiNbkvwaGnlQ-ejlsdh-cFveyc6Uqm-DynZjFjXpft7LFs4dPS9k1heMyKkKyEFJDUvfejCD14WEJfl9IDwot79yAOW59JiciYQHQ0q4zSfJ_a22AK_v1AURr_3DuMJ134VRs0JgKHTSksEPhr",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJHb2DwaVPJT4RqMsEqckL6E0",
+            "rating": 4,
+            "reference": "ChIJHb2DwaVPJT4RqMsEqckL6E0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "48X3+9GV, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1495105,
+                    "lng": 47.3050221
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.15084313029151,
+                        "lng": 47.3063230802915
+                    },
+                    "southwest": {
+                        "lat": 24.1481451697085,
+                        "lng": 47.3036251197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "مخبز الغامدي",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102850959527846262009\">mohammed al ghamdi</a>"
+                    ],
+                    "photo_reference": "AWU5eFh4_ea6_Nl6Zx24Mo7TJe7tl-jUxGqiNZkQvdvbq1d-O-soZMVTMd4-jDauBuBNgcgLJDo8HgXbsjlB-e7yLM0_FUc94lf2hs9I63c6OhNMOohpEdSu_s9_rfbYlQi-cD-9a8WUvBaXvVWjVkTwxR3xbUg7m6gI9jExj_--UU1eEfGK",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJFYE55G5PJT4RgSwpduAuz50",
+            "plus_code": {
+                "compound_code": "48X4+R2 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+R2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJFYE55G5PJT4RgSwpduAuz50",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "6685 عثمان بن عفان, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.14724430000001,
+                    "lng": 47.3057335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1485934802915,
+                        "lng": 47.3070831302915
+                    },
+                    "southwest": {
+                        "lat": 24.1458955197085,
+                        "lng": 47.3043851697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "مكتب صكوك الإعمار",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106772300058055573984\">مكتب صكوك الإعمار</a>"
+                    ],
+                    "photo_reference": "AWU5eFh6jjzm3CETyG1J6PzB7wk8NNKwvGR_4QW0KHLoAX8gXDT7TNHdOq7VyHu13dew1vZZgqeYXdGwGZZc4HmhhixTL98Rt8_o6KGFWLcXBMQWiiq1rD43xMvK9xoyJtIjsu7fS6qeqF0Px24LiiDn0pSvwuJh6XYmrU2OqCoBiPl17nTh",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJg9ZKBj5PJT4RN5lgnfyxbOk",
+            "plus_code": {
+                "compound_code": "48W4+V7 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W4+V7"
+            },
+            "reference": "ChIJg9ZKBj5PJT4RN5lgnfyxbOk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Uthman Ibn Affan Street, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1495605,
+                    "lng": 47.3047345
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1509192802915,
+                        "lng": 47.30611278029149
+                    },
+                    "southwest": {
+                        "lat": 24.1482213197085,
+                        "lng": 47.3034148197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "تموينات حمد Hamad Grocery",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104081599111761690949\">HAMAD GROCERY</a>"
+                    ],
+                    "photo_reference": "AWU5eFhBPGPY55jn17BmGmpTMqw6C9ncoSqcASNFLpPCo7Hgg5wKe6AUsDiI2rK_gQ1KRQbYolJ8s8tpmq-FNdaWw15NM7zQZr2QKkOE57TmQR5G4JtosPz_gcYPhXJhDaQz2AmTT3p-47RRyYet-7mQqfOrwQ1oRqVm_un6zjtJyvSpowgW",
+                    "width": 2946
+                }
+            ],
+            "place_id": "ChIJ__lN1SxPJT4RoffqJDhSSR0",
+            "plus_code": {
+                "compound_code": "48X3+RV Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+RV"
+            },
+            "reference": "ChIJ__lN1SxPJT4RoffqJDhSSR0",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "حي, OKSD6686, 6686 Othman Ibn Affan Rd, 3016،, الخرج"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.148504,
+                    "lng": 47.3035947
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1498867302915,
+                        "lng": 47.3049178802915
+                    },
+                    "southwest": {
+                        "lat": 24.14718876970849,
+                        "lng": 47.30221991970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pakisni Snacks",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111912463251640386868\">Naveed Afridi</a>"
+                    ],
+                    "photo_reference": "AWU5eFhBriO1UGB2FVc4px4X9mgyKLjdjUH05l9C8SFiF7GQ4gWjqvSXoj9s37U48SQ5i7fX1FHIBWrTSqK2g7Rdty5ZmWa_9eXAbAowF-NkfD0AmumQKSGL37H9RNsXUalHsJTLadv5emJ8TcVizgCdD4TykjrmKgVISyOyYJTchPy2YUp9",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJYfWz_YZPJT4RIt8RatTH_B0",
+            "rating": 5,
+            "reference": "ChIJYfWz_YZPJT4RIt8RatTH_B0",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "48X3+CC5, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1495607,
+                    "lng": 47.3045155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1508172802915,
+                        "lng": 47.30594248029151
+                    },
+                    "southwest": {
+                        "lat": 24.1481193197085,
+                        "lng": 47.30324451970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+            "name": "Enjaz Albilad Bank",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAY01HW9PJT4RP4ex-I_PKxg",
+            "plus_code": {
+                "compound_code": "48X3+RR Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+RR"
+            },
+            "rating": 3.5,
+            "reference": "ChIJAY01HW9PJT4RP4ex-I_PKxg",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "3003, 6691,, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1496478,
+                    "lng": 47.3049114
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1509907802915,
+                        "lng": 47.30624433029148
+                    },
+                    "southwest": {
+                        "lat": 24.14829281970849,
+                        "lng": 47.30354636970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bushra Hotel and Sweets فندق وحلويات بشرى",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113151332299146258551\">Atiqul Islam Tanvir</a>"
+                    ],
+                    "photo_reference": "AWU5eFiySZVo3Hp5hmbuzhxE5YaJ8aB5lqKokJxwHVtLUZA39AMbWhht3StWN7oPljVsqj1Os_3CMX2O52uqV6qWOIcEgtnl3NxTve-j6UZtZYscu8Mo6gva-meL_ISWolYJMrownxMVtfANOVAig4dFqPrXyq2HMyhSCIExiAyJQ82IjAne",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJy-NrTXlPJT4R4vlMxcbuDxY",
+            "rating": 5,
+            "reference": "ChIJy-NrTXlPJT4R4vlMxcbuDxY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "48X3+VX3, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1469733,
+                    "lng": 47.3047866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1483040802915,
+                        "lng": 47.3060862802915
+                    },
+                    "southwest": {
+                        "lat": 24.1456061197085,
+                        "lng": 47.3033883197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "نسائي استديو للتصوير النسائي مؤمنة",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2100,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103510296254223599667\">ahmed rabiea</a>"
+                    ],
+                    "photo_reference": "AWU5eFgOfNO1St-TQ3_rsnfCF-A-u0UEGF19i3dWt0gjJhRclbg2RBupDWmvn55WnxQh1bYLLvlR_IOnk4VX5Ekf7hKZx8mjkXwr2l0OEwPltWfvXoFhslPjtai_R6yabU8kvj_xXqsWMhIktNuAaYiWN8r4UjEQiQ-34CkwmB8b2N7DUIcT",
+                    "width": 1575
+                }
+            ],
+            "place_id": "ChIJl98cJ2lPJT4RCkBp1PCKY2s",
+            "plus_code": {
+                "compound_code": "48W3+QW Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+QW"
+            },
+            "rating": 3.4,
+            "reference": "ChIJl98cJ2lPJT4RCkBp1PCKY2s",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "6417, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1492284,
+                    "lng": 47.303856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1506476802915,
+                        "lng": 47.3051336802915
+                    },
+                    "southwest": {
+                        "lat": 24.1479497197085,
+                        "lng": 47.30243571970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Hadi Nasser Al Qahtani Trading Industry & Contracting",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108853309255333346300\">اتتا د</a>"
+                    ],
+                    "photo_reference": "AWU5eFjybcdTlTpBqANNKbuvCz_cy9YggYbqGZTJ26prucRrdTPfvcIn6tEFuGU6QYQvLegZVjtR9lZILWLdFHZKQsHZ8LJOSlK2Ecb61CihksEUwj1JsbLJekFc0bF8Q9Dnkmnt0PLTcoyKQKZ3y97j4o2HSZHkpIxHyqxaGBBUbcdU7Urz",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ14BCEG9PJT4RKQgIbnnM7RI",
+            "plus_code": {
+                "compound_code": "48X3+MG Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+MG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ14BCEG9PJT4RKQgIbnnM7RI",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "2951 طريق الملك سعود، السليمانية، الخرج 16278 6675 King Saud Road, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.14717460000001,
+                    "lng": 47.3059856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1485532302915,
+                        "lng": 47.3073174302915
+                    },
+                    "southwest": {
+                        "lat": 24.1458552697085,
+                        "lng": 47.3046194697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "مغسلة سامي",
+            "permanently_closed": true,
+            "place_id": "ChIJDUK2T1lPJT4RqffcjcU-ZPg",
+            "plus_code": {
+                "compound_code": "48W4+V9 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W4+V9"
+            },
+            "reference": "ChIJDUK2T1lPJT4RqffcjcU-ZPg",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "3158 طريق عثمان بن عفان, OKSA6423، 6423, الخرج"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.147992,
+                    "lng": 47.30345459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1493076802915,
+                        "lng": 47.3048215302915
+                    },
+                    "southwest": {
+                        "lat": 24.1466097197085,
+                        "lng": 47.3021235697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "مغسلة سيارات",
+            "place_id": "ChIJyd-9FJ9PJT4RrLsufzYunt4",
+            "plus_code": {
+                "compound_code": "48X3+59 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+59"
+            },
+            "rating": 2.7,
+            "reference": "ChIJyd-9FJ9PJT4RrLsufzYunt4",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "6527 طريق الملك عبدالعزيز، السليمانية، الخرج 16278 2885،"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.149568,
+                    "lng": 47.3041497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1509626302915,
+                        "lng": 47.3054523802915
+                    },
+                    "southwest": {
+                        "lat": 24.1482646697085,
+                        "lng": 47.3027544197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "AL habeeb",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 711,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116453943350263629503\">Vishnu Haridas</a>"
+                    ],
+                    "photo_reference": "AWU5eFgNUCo7BdmRj18ge8P2SjhcXZeNl0tTNyRDOZP21VzoSagRmwHNljZpKqVr2O6y4cRgzo0bE5pCz1FTWcdjSXc1mGXRFyC2AY50hsiv_Hdc8pkL8m9X85l8VHQuQRCnf6r0lhxzLNQ4ujH3IgWsDD0n72wUciGbRTX-bY0jfwfSbfxa",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJH29kbodPJT4RbCZ5fEr0WrA",
+            "plus_code": {
+                "compound_code": "48X3+RM Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+RM"
+            },
+            "reference": "ChIJH29kbodPJT4RbCZ5fEr0WrA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "6689 King Saud Road, 2963, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.14827,
+                    "lng": 47.30338039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1496769302915,
+                        "lng": 47.30467988029149
+                    },
+                    "southwest": {
+                        "lat": 24.14697896970849,
+                        "lng": 47.3019819197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "مركز الاميره لتغير الزيت",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113642583128078482778\">ابراهيم علي القاسمي</a>"
+                    ],
+                    "photo_reference": "AWU5eFgp-z4U6K_K78pKSSuo90Tim2ecNX-lGhI_O-Yg3Ddbcc0WPMbvBVbELW52stuQgamFdLFQJI5E5FEnf2bMwfJmUy6eu9RGaMZEVmq3jMj0q8KZlrD8jjBjfYJxB1V6cmNsKQlFjbFgMAnOHtIZpnVrfHDsBvBVcvqKiebTHY2vOSZt",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJMzrUwmpPJT4RigcsQbVLqQk",
+            "rating": 5,
+            "reference": "ChIJMzrUwmpPJT4RigcsQbVLqQk",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "48X3+892, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1496344,
+                    "lng": 47.30426939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1510383802915,
+                        "lng": 47.30556258029149
+                    },
+                    "southwest": {
+                        "lat": 24.1483404197085,
+                        "lng": 47.30286461970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ejaza Time Travel And Tourism Al Kharj",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108702917261866127135\">ejaza time22</a>"
+                    ],
+                    "photo_reference": "AWU5eFhH6DXUhO_eLY8zAeXaQlBQdfw9xI3zRUbu-d8fc-E3fSUwEOM8mn9YAJcUK0F06PLw49ammlQyHA0b_mXHVe5HfcG_ubgBm_wJVI32yU4UkGtXTHugG25Shd2Kr2vbbMosP0g8PH5i20EUM9OloZzVOKxLIxzuHEntt4AsZfVTLxwK",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwaoekAJPJT4RTCp2orIptks",
+            "plus_code": {
+                "compound_code": "48X3+VP Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+VP"
+            },
+            "rating": 5,
+            "reference": "ChIJwaoekAJPJT4RTCp2orIptks",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "6689 طريق الملك سعود, 2963, الخرج"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1495932,
+                    "lng": 47.3041778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1509874302915,
+                        "lng": 47.3054808802915
+                    },
+                    "southwest": {
+                        "lat": 24.1482894697085,
+                        "lng": 47.30278291970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "عدسة الرؤيا للبصريات",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106217793127672352960\">نظارات عدسة الرؤيا</a>"
+                    ],
+                    "photo_reference": "AWU5eFh0kjFLjNxA0J2e8nLHXvwFQIOz6NZEYUlq3toEExpr4Ze_IjBDGjWzjtF2gF30zLvui1pZ8zuY_oFOUnmieMoJpXdM4iSLfKbNHs_ljV6ob_unbLCMleuwwjFDxoOwq9B7ZFk5IgdSXVbGQFB6K8ePD8AxEyhYjx7-90bJ-9MjXB1D",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJn3ZkQv9PJT4R8RT39MxVGZA",
+            "rating": 4.4,
+            "reference": "ChIJn3ZkQv9PJT4R8RT39MxVGZA",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "King Saud Road, 48X3+RMM, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1497528,
+                    "lng": 47.3045765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.15112403029151,
+                        "lng": 47.3059917302915
+                    },
+                    "southwest": {
+                        "lat": 24.1484260697085,
+                        "lng": 47.3032937697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "سكن عمال شركة عبداللطيف جميل للخدمات",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110033815168167313463\">Abdelfatah Elzohairy #عبدالفتاح الزهيري</a>"
+                    ],
+                    "photo_reference": "AWU5eFhA0ErK7oxbUmQuNBs0GhIHVqixNv1KhFlHdQwIsIK2CiOb6YpCiCTWfUFleqGb6EJsLNWhcqSxZmBnEf7ApII-_Wfyr7XPmwGE3keKfON7LSOLvBemJiSh00DKv41Z7-4aQly3KuO7UI_i_CkKlhrnVmE8yISWGZxewmP6BKy25QRN",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJLb2mkwNPJT4RmN_P6Hn58Gs",
+            "plus_code": {
+                "compound_code": "48X3+WR Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+WR"
+            },
+            "rating": 5,
+            "reference": "ChIJLb2mkwNPJT4RmN_P6Hn58Gs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "OKSA6708، 6708 طريق عثمان بن عفان، 3011، حي السليمانية،, Al-Kharj"
+        },
+
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.14967709999999,
+                    "lng": 47.30434349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1510864302915,
+                        "lng": 47.30563128029149
+                    },
+                    "southwest": {
+                        "lat": 24.14838846970849,
+                        "lng": 47.30293331970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NASMA RAWAN CARGO SERVICE AL KHARJ",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103437128204560672735\">NASMA RAWAN CARGO SERVICE AL KHARJ</a>"
+                    ],
+                    "photo_reference": "AWU5eFgoaWpWA4idwYM83faJSfwk4HjKIBkTGDjhxWP03fckBFyef2ziUUDNGDeYuQVVKjVvKE9EYx_MBHfYtXUsJBXEIiLtwg683VYHwgFQUMjl_ALyYUwysQh3i4RsTJy_S3nm74Z0EgqnsyHryW-9hnjgzMS4vH_I1MZSDAaZkdKXddMA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJcybuRzNPJT4RJiXTzM4ltf8",
+            "plus_code": {
+                "compound_code": "48X3+VP Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+VP"
+            },
+            "rating": 5,
+            "reference": "ChIJcybuRzNPJT4RJiXTzM4ltf8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1468285,
+                    "lng": 47.30542459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1481464802915,
+                        "lng": 47.30670823029149
+                    },
+                    "southwest": {
+                        "lat": 24.14544851970849,
+                        "lng": 47.30401026970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+            "name": "مسجد الحزم الغربي",
+            "place_id": "ChIJUQU5FmlPJT4Rd0la_HA_Rcw",
+            "plus_code": {
+                "compound_code": "48W4+P5 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W4+P5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJUQU5FmlPJT4Rd0la_HA_Rcw",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "3099, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.149779,
+                    "lng": 47.3045534
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1511520802915,
+                        "lng": 47.30597413029149
+                    },
+                    "southwest": {
+                        "lat": 24.1484541197085,
+                        "lng": 47.3032761697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Al Kharj koththu shop",
+            "place_id": "ChIJdcy4_W5PJT4RT6H8kyasj_w",
+            "plus_code": {
+                "compound_code": "48X3+WR Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+WR"
+            },
+            "rating": 4,
+            "reference": "ChIJdcy4_W5PJT4RT6H8kyasj_w",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6708 عثمان بن عفان, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1497842,
+                    "lng": 47.3044303
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1511844302915,
+                        "lng": 47.30572728029151
+                    },
+                    "southwest": {
+                        "lat": 24.1484864697085,
+                        "lng": 47.30302931970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "نظارات الفالح",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJA1QoKUdPJT4R-RN-PnNhXtc",
+            "rating": 3.5,
+            "reference": "ChIJA1QoKUdPJT4R-RN-PnNhXtc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "King Saud Road, 48X3+WQX, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1497735,
+                    "lng": 47.30435749999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1511600802915,
+                        "lng": 47.30566838029151
+                    },
+                    "southwest": {
+                        "lat": 24.1484621197085,
+                        "lng": 47.30297041970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "GOLDEN WINGS TRAVELS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107745989731107423477\">GOLDEN WINGS TRAVELS</a>"
+                    ],
+                    "photo_reference": "AWU5eFjaubu9a-pPPfbXGhrOXUKDV92bmh47kr1ifbB6Jcyz9KUlvSYUFV5cIrIFgEk9EQKHl0Pix7SEDNZNePGEKMAYc0KclftzQqyk26SV8yOuIOWqcIKoG4Rut6eLn3hV2MCWfjw1y0q7k1LMd1Bn1c-UOXCLFktM6sklGm-nov5N9Eug",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJjRIWAQBPJT4RGXqWVr2QRGg",
+            "reference": "ChIJjRIWAQBPJT4RGXqWVr2QRGg",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "King Saud Road, 48X3+WQX, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1474166,
+                    "lng": 47.3064835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1487900302915,
+                        "lng": 47.3078195302915
+                    },
+                    "southwest": {
+                        "lat": 24.1460920697085,
+                        "lng": 47.3051215697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Al Kharj Recidency",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105063662254377662294\">Ebyson Varghese Sankarampallil</a>"
+                    ],
+                    "photo_reference": "AWU5eFifBUA16wrFo60xCwniHJCbOgQU2QU1-TdMLnJ2JeaH2G7JzHqZKacYZHpdrhJFX2rjmQXAJNQWoQglv52z8h_2dwue7SLQzvJFtBEDPudpIy-oPsPV_D08mdmw_mJKbP2Ig8utHEPFKjx9EsJbEbSEOrQ_-GHpq_8UiNurFva5Q0Dm",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJgdPZXGlPJT4RwZt-uklP0V0",
+            "plus_code": {
+                "compound_code": "48W4+XH Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W4+XH"
+            },
+            "rating": 4,
+            "reference": "ChIJgdPZXGlPJT4RwZt-uklP0V0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "3207, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1479951,
+                    "lng": 47.30326180000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1493238802915,
+                        "lng": 47.3045481302915
+                    },
+                    "southwest": {
+                        "lat": 24.1466259197085,
+                        "lng": 47.3018501697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+            "name": "Princess station",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110648246298814320985\">Hassan Yaseen</a>"
+                    ],
+                    "photo_reference": "AWU5eFgUVEV17RoKeKgiFmqmdNLkL9ZA_cKy6sjfycBxZh2SY6jr_FqAfxOtzPQLrvHtxNqSYoe7tG0CoGh38Gmt_mKMLKIlBBoYc1ZzY53NQ3OwV2rhvDrl4sKjBb5iABR14JBmZv-eg5cku3Kx-2j-_3v7qJA3CWintqyrJj6PeIcwRLAq",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJsTNnR29PJT4RGV6-TR--Htc",
+            "rating": 3.6,
+            "reference": "ChIJsTNnR29PJT4RGV6-TR--Htc",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 143,
+            "vicinity": "King Saud Road, 48X3+58R, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.148793,
+                    "lng": 47.3067161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1501670302915,
+                        "lng": 47.3080510302915
+                    },
+                    "southwest": {
+                        "lat": 24.1474690697085,
+                        "lng": 47.3053530697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "مستودع مؤسسه النحل الاصفر",
+            "place_id": "ChIJjRxijWxPJT4RtAcNACaAHMI",
+            "plus_code": {
+                "compound_code": "48X4+GM Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+GM"
+            },
+            "rating": 1,
+            "reference": "ChIJjRxijWxPJT4RtAcNACaAHMI",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "6620، السليمانية، الخرج 16278 3222"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1498635,
+                    "lng": 47.3044813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1512539802915,
+                        "lng": 47.30578818029149
+                    },
+                    "southwest": {
+                        "lat": 24.1485560197085,
+                        "lng": 47.30309021970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+            "name": "NCB ATM",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ6Q2YAW9PJT4RIxlH6s3PPPM",
+            "rating": 3.5,
+            "reference": "ChIJ6Q2YAW9PJT4RIxlH6s3PPPM",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "King Saud Road, 48X3+WQX, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.149946,
+                    "lng": 47.3052788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1512849802915,
+                        "lng": 47.3065991302915
+                    },
+                    "southwest": {
+                        "lat": 24.14858701970849,
+                        "lng": 47.3039011697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bismi cargo",
+            "photos": [
+                {
+                    "height": 534,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109986451547917527124\">SALMAN S S</a>"
+                    ],
+                    "photo_reference": "AWU5eFghZEPR0K3twg6RDK11lBeQjXKPAgZzdzJVJYOl8BUzuLLX3ilNHq7862-OaTC3JRo-7rLuuvQdOtP45PI8-UrX_xwhiyUxMQaqkBzD8pDEOMRL2N2Bs1KDiHJ-Boa9BYOPbFqOwgX5J0uHRXETOZA0bNoPB1UjVVZai79E8UdeSv6_",
+                    "width": 1156
+                }
+            ],
+            "place_id": "ChIJkzicxsZPJT4RsSJ9eZzpCSM",
+            "plus_code": {
+                "compound_code": "48X4+X4 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X4+X4"
+            },
+            "reference": "ChIJkzicxsZPJT4RsSJ9eZzpCSM",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "3078, Al-Kharj"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1499243,
+                    "lng": 47.3045516
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1512889802915,
+                        "lng": 47.3059473302915
+                    },
+                    "southwest": {
+                        "lat": 24.1485910197085,
+                        "lng": 47.3032493697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "منيفه",
+            "permanently_closed": true,
+            "place_id": "ChIJY_WyGKpPJT4Rqe3oz0l-t1M",
+            "plus_code": {
+                "compound_code": "48X3+XR Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+XR"
+            },
+            "reference": "ChIJY_WyGKpPJT4Rqe3oz0l-t1M",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "3003, 6691,, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1481345,
+                    "lng": 47.3031888
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1494308802915,
+                        "lng": 47.30448828029149
+                    },
+                    "southwest": {
+                        "lat": 24.14673291970849,
+                        "lng": 47.3017903197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "أسواق و تموينات الأميرة",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113821532340210923303\">sameh shafay</a>"
+                    ],
+                    "photo_reference": "AWU5eFhT-cik4RxMGa-6whSS4AdsgxKVVTREouZ_y44MwfrEU7_WNnNX_u-M31IKxvuaWD-5naMtdVj_pQs1UP8weyzaB-XxUEmsCC3aW_NXVN02yFkWs3cSiug8grh8N0ADNRAbrn9Nf3AC3zMytABL27-jaeP7zUjcCKBTNTeAzr-PPJXv",
+                    "width": 721
+                }
+            ],
+            "place_id": "ChIJP4_sRm9PJT4RcXtNcSlSXSw",
+            "plus_code": {
+                "compound_code": "48X3+77 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+77"
+            },
+            "rating": 3.8,
+            "reference": "ChIJP4_sRm9PJT4RcXtNcSlSXSw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "King Saud Road, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.147616,
+                    "lng": 47.3033416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1489400302915,
+                        "lng": 47.30460178029149
+                    },
+                    "southwest": {
+                        "lat": 24.1462420697085,
+                        "lng": 47.30190381970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "أبراج للأمن والسلامة",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100776791000016801917\">IBRAHIM</a>"
+                    ],
+                    "photo_reference": "AWU5eFjKfujR66dYU6czXsIdDKgi0ON-1Okg3K6MLxNnpEB-Zx5T3GyBS_5LjO6XDCjcvqBvlpGobPDe2Y1dyL5h3Kv8Kt7BJzKaC1MhgEaKu0cW0oDnz2vihcaHAHbJqDNP_YkcxHGC9yIHlQH6KGQRlpzan1rRe1WXLmEarU7s2VkJwBTz",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJqyaEeJZPJT4R2vqsJGONvEg",
+            "rating": 5,
+            "reference": "ChIJqyaEeJZPJT4R2vqsJGONvEg",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "48X3+28W, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.149939,
+                    "lng": 47.3046086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1512898802915,
+                        "lng": 47.30596328029149
+                    },
+                    "southwest": {
+                        "lat": 24.1485919197085,
+                        "lng": 47.30326531970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Abdullah",
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104062346755507555919\">Abdullah</a>"
+                    ],
+                    "photo_reference": "AWU5eFiB8wZM8a_VRU9_8mwoorHu8gvhylL6ynfALle06CF6FMSXteisr33rEDxME6E-ZV4cQNbE8W00mC6W1L2tabGcrvMV0exUsc_9hl6YQ2rQtmcOVjU9zTULqAiOQz8DL04lVBtq7jDPa4MYd5mSbG5H8O6EkNmRYXM_8PC6DcyQiKxn",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJUyC7YyNPJT4ReISzDb-pnNE",
+            "plus_code": {
+                "compound_code": "48X3+XR As Sulaymaniyah, Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+XR"
+            },
+            "reference": "ChIJUyC7YyNPJT4ReISzDb-pnNE",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "riyad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1468102,
+                    "lng": 47.3058354
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1481754802915,
+                        "lng": 47.30723423029151
+                    },
+                    "southwest": {
+                        "lat": 24.1454775197085,
+                        "lng": 47.30453626970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Men's hair salon Naushad Ahmad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113642583128078482778\">ابراهيم علي القاسمي</a>"
+                    ],
+                    "photo_reference": "AWU5eFg6i4JBBFx-30hJ2jPZzdjvv951URYBprds-3KLEgiBbuG4We5ab6BoyEz_uLotrnmw3vCAg_m5XufYI-hb_kf9cniAWY8pDCxkEjgzgjOD0NPOQKaa2nBT4pnOwKSOg-HxPHKsOceijOXu8otRO8XT1EMxEvl_sxrXYsHj4sGTDBcZ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ5VhmimhPJT4RMk8mTvcbEZc",
+            "plus_code": {
+                "compound_code": "48W4+P8 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W4+P8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ5VhmimhPJT4RMk8mTvcbEZc",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "3138 عثمان بن عفان،, 6384, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1475362,
+                    "lng": 47.30338099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1488586302915,
+                        "lng": 47.30463548029149
+                    },
+                    "southwest": {
+                        "lat": 24.1461606697085,
+                        "lng": 47.3019375197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "مركز أصول الخبرة للمساج",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105849587985902655776\">مركز أصول الخبرة للمساج</a>"
+                    ],
+                    "photo_reference": "AWU5eFjbSK8Y3De0WTPdqTND1Om6EjLzqtFIEn29FB6u8qW-gSjFPNZhLk1Cv0pC0Ti6IUmBlgPJ6Q4AF9ftAyx9iSuA9k7MZHdiTmDu9RvgYuwtFti6XNWeTnzW1L3yV8558BvHZdAQxsQ76St51De8wNhT-rugZOw-sYJCErnsnNHsYW66",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJS1CiHGdPJT4RXqbxo2nVp0Q",
+            "plus_code": {
+                "compound_code": "48X3+29 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+29"
+            },
+            "rating": 2.3,
+            "reference": "ChIJS1CiHGdPJT4RXqbxo2nVp0Q",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "King Fahd Road, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1473935,
+                    "lng": 47.30346319999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1486956802915,
+                        "lng": 47.3048409302915
+                    },
+                    "southwest": {
+                        "lat": 24.1459977197085,
+                        "lng": 47.3021429697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "مقهى اجواء ليالينا",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114523477954420933741\">Mohammed Alfateh</a>"
+                    ],
+                    "photo_reference": "AWU5eFhc46CDm8Lvy77puNqxPrEERsZHdm8epnEU3m-Y2wS2o8lXNPqm-di8UnCLD5aqkh_bP56Y3IrQ8LT6F8lML4dFQTbZNF1mRYsZygRJ1_NyyJ5fZcCxNq8tCWjVmu3hfbqNb5H1z2efibn6utxfr5Hi_nCtZ1D-ToeBLR4yDlFKk4Bv",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJyVijGvJPJT4RJwSJG7Tkguc",
+            "plus_code": {
+                "compound_code": "48W3+X9 Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+X9"
+            },
+            "rating": 3.3,
+            "reference": "ChIJyVijGvJPJT4RJwSJG7Tkguc",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "6447 طريق الملك عبدالعزيز، 2895، السليمانية،, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1498652,
+                    "lng": 47.3043009
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1512372802915,
+                        "lng": 47.3056264302915
+                    },
+                    "southwest": {
+                        "lat": 24.1485393197085,
+                        "lng": 47.3029284697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Downtown ASSAYH",
+            "place_id": "ChIJ498CIQBPJT4RaOFxDsJc3vQ",
+            "plus_code": {
+                "compound_code": "48X3+WP Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+WP"
+            },
+            "reference": "ChIJ498CIQBPJT4RaOFxDsJc3vQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "6709 King Saud Road, 2995, Al-Kharj"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1499827,
+                    "lng": 47.3046526
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1513371802915,
+                        "lng": 47.3060177802915
+                    },
+                    "southwest": {
+                        "lat": 24.1486392197085,
+                        "lng": 47.3033198197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "ENJAZ",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100512838523113867937\">Shajeer Redrose</a>"
+                    ],
+                    "photo_reference": "AWU5eFiWg-yhCaChQguCKpsgSy8YLcFPyaw3mpjQ5dSd9emDL5uHy2fILKJt9LcAP7SipKCt4JcAg5G9C8GBxoFv7EgqbC1kEA7QYtp8_Va0H4s50ayBRxTASClhBxVBSIromGZ32VL_MzVp2uSUHBQUgSrNTxxXDH0IoHWu-nGU4qoyaF2G",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJW8z3qm9PJT4Rfz9ArTzIXrQ",
+            "plus_code": {
+                "compound_code": "48X3+XV Al-Kharj Saudi Arabia",
+                "global_code": "7HP948X3+XV"
+            },
+            "rating": 3.2,
+            "reference": "ChIJW8z3qm9PJT4Rfz9ArTzIXrQ",
+            "scope": "GOOGLE",
+            "types": [
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "2986 King Saud Road 48X3+XR Al-Kharj Saudi Arabia طريق الملك سعود - السليمانية - الخرج king saud st - Sulaymaniyah - AlKharj ALKharj Center ALKharj 16278"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1467438,
+                    "lng": 47.30424549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.1482495802915,
+                        "lng": 47.30555908029149
+                    },
+                    "southwest": {
+                        "lat": 24.1455516197085,
+                        "lng": 47.3028611197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Hottin Middle School",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100159792186142478973\">عبدالرحمن آل زعير</a>"
+                    ],
+                    "photo_reference": "AWU5eFj24Nd11v_RP4GlIjrc8lZ4dtV7bmI1ZIi2zgROhRe5NUcwrRVqeNM8EwsPWiG1jQuMYfSgAmyzry11Wco4s3-5qsCZYr3OAKd65SHmzYG2qp4gsrUT9tOtO_NARs6-1Q9kaGDr8RNoJl9lRPjqmKRrx_5WU-8dqcr0oho8pSh63FMR",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGxgS3GhPJT4R4pGmpsLFj7k",
+            "plus_code": {
+                "compound_code": "48W3+MM Al-Kharj Saudi Arabia",
+                "global_code": "7HP948W3+MM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJGxgS3GhPJT4R4pGmpsLFj7k",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "6377 King Abdulaziz Road, Al-Kharj"
+        }
+    ]
+}

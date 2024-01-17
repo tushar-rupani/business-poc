@@ -1,0 +1,3511 @@
+{
+    "places": [
+        {
+            "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw",
+            "id": "ChIJ_2tr9W9PJT4RbFwicU6VLDw",
+            "types": [
+                "indian_restaurant",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "053 641 2074",
+            "internationalPhoneNumber": "+966 53 641 2074",
+            "formattedAddress": "King Abdulaziz Rd, As Sulaymaniyah, Al-Kharj 16278",
+            "addressComponents": [
+                {
+                    "longText": "King Abdulaziz Road",
+                    "shortText": "King Abdulaziz Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "As Sulaymaniyah",
+                    "shortText": "As Sulaymaniyah",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al-Kharj",
+                    "shortText": "Al-Kharj",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al Kharj",
+                    "shortText": "Al Kharj",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Riyadh Province",
+                    "shortText": "Riyadh Province",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Saudi Arabia",
+                    "shortText": "SA",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "16278",
+                    "shortText": "16278",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7HP95822+9R",
+                "compoundCode": "5822+9R Al-Kharj"
+            },
+            "location": {
+                "latitude": 24.150924399999997,
+                "longitude": 47.302098099999995
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.1495529697085,
+                    "longitude": 47.300670819708508
+                },
+                "high": {
+                    "latitude": 24.152250930291505,
+                    "longitude": 47.303368780291507
+                }
+            },
+            "rating": 3.9,
+            "googleMapsUri": "https://maps.google.com/?cid=4336004705389010028",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 12:00 AM",
+                    "Tuesday: 7:00 AM – 12:00 AM",
+                    "Wednesday: 7:00 AM – 12:00 AM",
+                    "Thursday: 7:00 AM – 12:00 AM",
+                    "Friday: 7:00 AM – 12:00 AM",
+                    "Saturday: 7:00 AM – 12:00 AM",
+                    "Sunday: 7:00 AM – 12:00 AM"
+                ]
+            },
+            "utcOffsetMinutes": 180,
+            "adrFormatAddress": "<span class=\"street-address\">King Abdulaziz Rd</span>, <span class=\"region\">As Sulaymaniyah</span>, <span class=\"locality\">Al-Kharj</span> <span class=\"postal-code\">16278</span>, <span class=\"country-name\">Saudi Arabia</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "userRatingCount": 1112,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "Mumtaz Restaurant",
+                "languageCode": "en"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Indian Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": false,
+            "dineIn": true,
+            "reservable": true,
+            "servesBreakfast": true,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBrunch": true,
+            "servesVegetarianFood": true,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 12:00 AM",
+                    "Tuesday: 7:00 AM – 12:00 AM",
+                    "Wednesday: 7:00 AM – 12:00 AM",
+                    "Thursday: 7:00 AM – 12:00 AM",
+                    "Friday: 7:00 AM – 12:00 AM",
+                    "Saturday: 7:00 AM – 12:00 AM",
+                    "Sunday: 7:00 AM – 12:00 AM"
+                ]
+            },
+            "primaryType": "indian_restaurant",
+            "shortFormattedAddress": "King Abdulaziz Rd, Al-Kharj",
+            "reviews": [
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxN3Z2X3dBRRAB",
+                    "relativePublishTimeDescription": "2 weeks ago",
+                    "rating": 1,
+                    "text": {
+                        "text": "Good atmosphere and service...but not good food provided...I ordered chilly chicken and it's after effects still not fixed...what a pathetic food",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Good atmosphere and service...but not good food provided...I ordered chilly chicken and it's after effects still not fixed...what a pathetic food",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Shabab Nm",
+                        "uri": "https://www.google.com/maps/contrib/110042067708956750308/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZKA3HQpfMmg2-pLQrre8dEHqKF5Hxmfej-A2LOLVr=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-12-30T09:27:32Z"
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQya3JlMDNnRRAB",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Good variety of food.., taste is fine..just only issue instead of normal bread (roti ) they have paratha (which is oily ) ..not so good for people who doesn't like to have oily bread",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Good variety of food.., taste is fine..just only issue instead of normal bread (roti ) they have paratha (which is oily ) ..not so good for people who doesn't like to have oily bread",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Shafiq Muhammad",
+                        "uri": "https://www.google.com/maps/contrib/101786976418230579286/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnMP6i3HMgPNBZ-PVYwrqWiccMdd3Teq96mspD68acsKjD=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2022-05-10T16:26:28Z"
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4bjZTbUtREAE",
+                    "relativePublishTimeDescription": "7 months ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Great Breakfast. Low price . Neat and clean. Lunch also reasonable. However dinner is Chinese. If you like Chinese, you can choose Mumtaz.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Great Breakfast. Low price . Neat and clean. Lunch also reasonable. However dinner is Chinese. If you like Chinese, you can choose Mumtaz.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "VIPIN RAJ",
+                        "uri": "https://www.google.com/maps/contrib/113473258113666888359/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2I5YQQHz1v3Rpe8mfWpG4GDj7Od254wBQWToFQHJBBA=s128-c0x00000000-cc-rp-mo-ba2"
+                    },
+                    "publishTime": "2023-05-29T12:40:35Z"
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2LXUzNXVnRRAB",
+                    "relativePublishTimeDescription": "2 years ago",
+                    "rating": 1,
+                    "text": {
+                        "text": "The worst food quality I've eaten ever. The appetizer is corrupted “  yogurt “ the waiter admitted too.  Chicken teka is cold and has no taste. Overall, I don't encourage anyone to be there while I reflected right experience.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "The worst food quality I've eaten ever. The appetizer is corrupted “  yogurt “ the waiter admitted too.  Chicken teka is cold and has no taste. Overall, I don't encourage anyone to be there while I reflected right experience.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Bader Alghamdi",
+                        "uri": "https://www.google.com/maps/contrib/115135855447501440190/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhXrYKft4jd-hBwENXpU3QpR1kaMBitO1uGhuIZkj2uUw=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2021-09-03T10:07:37Z"
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPak9Xdm5nRRAB",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "It's good hygenic place to eat , Veg and Non veg both available, Limited variety for vegetarian. Food is tasty and served hot. Car parking available, not so crowded, Seperate sitting arrangements for families.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "It's good hygenic place to eat , Veg and Non veg both available, Limited variety for vegetarian. Food is tasty and served hot. Car parking available, not so crowded, Seperate sitting arrangements for families.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Manish Gupta",
+                        "uri": "https://www.google.com/maps/contrib/113997207416371638373/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzOJbaQXz0CXFNDy9C7863jwomnDvo66gZBj0NV9qzaRY=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2022-06-03T11:34:26Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFgL9HmFSfj6QmFSvFeqZ2CMlB3a3DvySOyk0Y_9SHQX_j_8PCCXJ9Lqg_iuLPKVWs2MXMr8R5KX_0YfN6GQc6g-t1rsry_Oep6JCk7bEK6iqkp5u6M770hen5rHsKoelv4wv1bo_HOkU91Q0MNkaYN6hJUYicklc3mp",
+                    "widthPx": 5120,
+                    "heightPx": 2368,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Yousif Hammad",
+                            "uri": "//maps.google.com/maps/contrib/109197327055787448416",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUAOnclRIOmc3NUEoSqVQuY4sc6Pm98lxdLuIlgSbfVCfk=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFjWAdcFNGxP4PEbzPyY1DXymUO3IHz9x431YxU-3jio3GcH0rQIplxXIWfrtgx_ScA5vziKaz-Gx_MMGe0Wc3UI9MzhkVLocn4hYV9Yyd9HwYBBUhNNQNh8eeF7l3j5Zwq9pGi-6bDpYKyG6pzGPc7-k-AAg38a77JE",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mumtaz Restaurant",
+                            "uri": "//maps.google.com/maps/contrib/100900771465455654909",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLrTH0kT74MdVHrgtER83cp6QNZM-AxEsnTCfklZ0xI=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFgvFAmvI9grli_JnShIOh-3Db8MHFaR4nkifkMV2WWIpoFjwQAo69xX7YU5-X78sKPjOTYcEpYldoignb3rYH_i_CGFxQyaiKnRXkIMAonDi7GTnwtyg68lDwcCCt3_e_g9gDcQ1K0tqrun86IIruJ7HOXXaAzpPT2T",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ameerh art",
+                            "uri": "//maps.google.com/maps/contrib/109463631763238680276",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVmiRM_Eg8mHdDeq3GSyg2AMYR7oMOH7ktc-eC_1hX3hA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFj04RCH6DIH53zGHQBBvkLb7j7iZgiarl76osdRwEQSYwmKi1sXIITH7T6wUh5oVm3lm9LWLlZIbe0tBwPHyu32qUJwEIFg84aszAHLW4X41pFRnUXq7weBZTC3t8SPpVK_VSFCmI5DlOtMsjyTPH1j3IU4nist1REw",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulrhman ALfuhaid",
+                            "uri": "//maps.google.com/maps/contrib/105005842531902054870",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV2lmg1jWBxLINZzkxeuRJxPPcGGyBMrmMqAru4OTxno8w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFhQXDYc0RIl7Go_8lsCsPxTBg8G32v3zY1F1omVkkHWxziVaXmsNGVjdEaZ1XdvrVoTKTbmfqVb4GmsJS_nYuHcUnfqtSee3Y--vr3_ugnh6sJCEy6XgZ0FdOgqMtuAZnm68G1vSw6dPd3eKDfrZsoztWSFAaBcGIaD",
+                    "widthPx": 3472,
+                    "heightPx": 4640,
+                    "authorAttributions": [
+                        {
+                            "displayName": "abdullah D",
+                            "uri": "//maps.google.com/maps/contrib/104784874120748446312",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVUc_ITuPbWIGByFep8AO6YIkQw-malpIWZrbA_ZObCWiU3=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFg_srVybsxCYiNtDO8dhqsXpnZjwsagh8aDcJW2GTiqOqD5NSyYiOPlG8xVIPrreKalNCXuJEW63y3Wa3xd2JgEkRURu_kniw7MPztu5wNxQ1ti4twwhbbqQmPLFU74BsQBgFWiHLr-5UQylvQXHokmPO8L0ApumLmo",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "السيف",
+                            "uri": "//maps.google.com/maps/contrib/107293672213572021752",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU6sTP-UfbkMXv61h4xM9mc-FrJk0Dnf4bOQDiPTwpSrOU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFjBsw4GtBBs31gtQTH0Mi71uKvsy1dmwKXGKWAalzCjx4JdBakE61ued_SzuQV6pfIgrXx9zecGGKKimOJFyrzaFlaLPRJfOFW1AqqojJ3OsnL2xGruygKlSTAnSVTgPi7rWj36WHfKolb6qLdKG4dMPmKw95j-4vFv",
+                    "widthPx": 2268,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "الشهري",
+                            "uri": "//maps.google.com/maps/contrib/112612012556003452200",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL_W4dTVoGmUD7bIrTVhPZEet6NG6fBor0iDQPQpbA0=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFgWPHaAiv_EuYCJlGGHKq5_-j-Gc2aZOqcmkAeAHKM6LgXEItqQpsy-CzV20jT1CYeVDs1fzVKekdg70Q-8RPWC4Zy2OdMI1bEd6oIvbyYmdGl1yAoEvIiZk99WIChg8GN-AZjcv87GsyH0H3Arzwikpn1DvW2cuvl_",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Saleh Abdullah",
+                            "uri": "//maps.google.com/maps/contrib/117420209911406368130",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXmzJ2ed96vNjpkWz-DDOpsy2FmPTpuzopvF26Qo0oEWQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFiJLuhNDqFBZLVxZWMpqFLfTDH5fZDqcPqCrxhCG2IldZkG_-Zyyg_GPxjEkhiz_qqF7ZaSBJ8SuL7wpUWglh3nFnJ4AWND7CaBvcYNMtYqWzW-ZAiI0lvtFXG1SZjWWIKKWD4m4iddcwT2YKYuYaOqSaXCULyPeO51",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "yasser alzamil",
+                            "uri": "//maps.google.com/maps/contrib/110109403979649273182",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXfcjrQl3JhJoBlTcJBg_iPgSIXxhscvXdN5TdTqRi00zI=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ_2tr9W9PJT4RbFwicU6VLDw/photos/AWU5eFgY5w8AfqI_PxAxLgj9qiwloCQ9rEz4C7NcwfxDMcuuq2okDZntCBvlbrDvhsepFoTem-YPcDmJh1NeO0bbkgK9qwaxS-eaawkg-44BbArWTJpoDXTewuDQlkzRV0Fv5KyZF_pIJ-6edq6EBmMjFYHKCt0XQ3jrpKHD",
+                    "widthPx": 4000,
+                    "heightPx": 2252,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Quanximus QT",
+                            "uri": "//maps.google.com/maps/contrib/104088092254753240654",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXJXfYpq1RBIYLw0cfCL-1VFKojEcU2Rf9rTn2RlS8aDJxn=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesDessert": true,
+            "servesCoffee": false,
+            "goodForChildren": true,
+            "restroom": true,
+            "goodForGroups": true,
+            "goodForWatchingSports": false,
+            "paymentOptions": {
+                "acceptsCreditCards": true,
+                "acceptsCashOnly": false
+            },
+            "parkingOptions": {
+                "freeParkingLot": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleSeating": true
+            }
+        },
+        {
+            "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo",
+            "id": "ChIJsVg00GlPJT4RynFBo6W6ZVo",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "011 548 6677",
+            "internationalPhoneNumber": "+966 11 548 6677",
+            "formattedAddress": "6057 King Fahd Rd, As Sulaymaniyah, Al-Kharj 16278",
+            "addressComponents": [
+                {
+                    "longText": "6057",
+                    "shortText": "6057",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "King Fahd Road",
+                    "shortText": "King Fahd Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "As Sulaymaniyah",
+                    "shortText": "As Sulaymaniyah",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al-Kharj",
+                    "shortText": "Al-Kharj",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al Kharj",
+                    "shortText": "Al Kharj",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Riyadh Province",
+                    "shortText": "Riyadh Province",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Saudi Arabia",
+                    "shortText": "SA",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "16278",
+                    "shortText": "16278",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7HP948V3+JX",
+                "compoundCode": "48V3+JX Al-Kharj"
+            },
+            "location": {
+                "latitude": 24.1440001,
+                "longitude": 47.304886700000004
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.1426247697085,
+                    "longitude": 47.3034895697085
+                },
+                "high": {
+                    "latitude": 24.145322730291504,
+                    "longitude": 47.306187530291496
+                }
+            },
+            "rating": 4,
+            "googleMapsUri": "https://maps.google.com/?cid=6513817656632635850",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 4,
+                            "minute": 50
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 4,
+                            "minute": 50
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 4,
+                            "minute": 50
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 4,
+                            "minute": 50
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 4,
+                            "minute": 50
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 4,
+                            "minute": 55
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 4,
+                            "minute": 50
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 30
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 4:50 AM – 12:30 AM",
+                    "Tuesday: 4:50 AM – 12:30 AM",
+                    "Wednesday: 4:50 AM – 12:30 AM",
+                    "Thursday: 4:50 AM – 12:30 AM",
+                    "Friday: 4:55 AM – 12:30 AM",
+                    "Saturday: 4:50 AM – 12:30 AM",
+                    "Sunday: 4:50 AM – 12:30 AM"
+                ]
+            },
+            "utcOffsetMinutes": 180,
+            "adrFormatAddress": "<span class=\"street-address\">6057 King Fahd Rd</span>, <span class=\"region\">As Sulaymaniyah</span>, <span class=\"locality\">Al-Kharj</span> <span class=\"postal-code\">16278</span>, <span class=\"country-name\">Saudi Arabia</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "userRatingCount": 993,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "الوردة الشامية",
+                "languageCode": "ar"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "servesBreakfast": true,
+            "servesDinner": true,
+            "servesVegetarianFood": true,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 4,
+                            "minute": 50,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 4,
+                            "minute": 50,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 4,
+                            "minute": 50,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 4,
+                            "minute": 50,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 4,
+                            "minute": 50,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 4,
+                            "minute": 55,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 4,
+                            "minute": 50,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 4:50 AM – 12:30 AM",
+                    "Tuesday: 4:50 AM – 12:30 AM",
+                    "Wednesday: 4:50 AM – 12:30 AM",
+                    "Thursday: 4:50 AM – 12:30 AM",
+                    "Friday: 4:55 AM – 12:30 AM",
+                    "Saturday: 4:50 AM – 12:30 AM",
+                    "Sunday: 4:50 AM – 12:30 AM"
+                ]
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "6057 King Fahd Rd, Al-Kharj",
+            "reviews": [
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbllybENnEAE",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "The best food\nBut you have to wait at least 20min to get your food",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "The best food\nBut you have to wait at least 20min to get your food",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Tarek Shoufan",
+                        "uri": "https://www.google.com/maps/contrib/106152831924717684201/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOJOUSReJkj7vSpkZMPcR2kgvMGdmRnuS9G7vA3LIIFYo=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-11-24T18:25:21Z"
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/reviews/ChZDSUhNMG9nS0VJQ0FnSURWNExmWEZ3EAE",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Every thing very good 👍 👏 👌",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Every thing very good 👍 👏 👌",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Mohan Dass",
+                        "uri": "https://www.google.com/maps/contrib/104278959430596494504/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwpJzYf0Uzm8XEWWOYREUrWN8LtG9PBqzZNLIPlhnQl8s=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-12-10T10:34:26Z"
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/reviews/ChZDSUhNMG9nS0VJQ0FnSURXNS1uSUxnEAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 3,
+                    "text": {
+                        "text": "A nice place to sit down and enjoy traditional breakfast.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "A nice place to sit down and enjoy traditional breakfast.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Saleem Minhas",
+                        "uri": "https://www.google.com/maps/contrib/105951429055124353954/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUj4YDKSQJl8y3xjVh91qKhJA9umZW_MZvXv8ZdXf8=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2022-04-06T10:52:01Z"
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/reviews/ChZDSUhNMG9nS0VJQ0FnSUMteHNDSWJBEAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 1,
+                    "text": {
+                        "text": "Falafel is cold and the lettuce is rotten",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Falafel is cold and the lettuce is rotten",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Omar",
+                        "uri": "https://www.google.com/maps/contrib/113425303585044849425/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5JrHAdFCmH8oQ9y7K3iI9J3hk5KCK8tvw9-FnUOG5g-U=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2022-11-02T13:27:07Z"
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4Mlo2cW9RRRAB",
+                    "relativePublishTimeDescription": "7 months ago",
+                    "rating": 3,
+                    "text": {
+                        "text": "Cosy and fine",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Cosy and fine",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Abdurrahman Suwaylem",
+                        "uri": "https://www.google.com/maps/contrib/102805195409527721469/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeYHCj1PJGMUr5VnpllqvBdMnobQmvnyUkmkxtKK1iOg=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2023-06-10T16:11:46Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFhsL7fMnKUFA2FnfCAhpEHgMBAP3zMK6tGD_VQRbV1Fyzg42CFG4xd1s9sxncLlpYUy5pAP3iPN6t-CwPxUKBT_qWZvo0v95J2tUdbbs4mJxCVVwcDRUP1rmEka963jmud2jz6DZ1UNg-xe9m-3yOQ-sUo13K2G22K2",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nayef Saleh",
+                            "uri": "//maps.google.com/maps/contrib/102696415309699225551",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW49Og2fQnaVoYbH6vO9AQABcqeV5V9_glyNgLaDussLw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFjeSQViRbQBMiKF6NaXVHuZlHkfSbnkAAX5J1C3eilPoPfh5-4kA8etGSXH6GtDcX2fRNAVDULLthOcec-qRXenofJTSzn30LIVLbb03DctjVRwQcxTx7Gv1FP1WAFkDEiwbuzQ8CZOurnwwo-0KyPibXWnPkG83qNj",
+                    "widthPx": 2448,
+                    "heightPx": 2920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "TaRki",
+                            "uri": "//maps.google.com/maps/contrib/109343794448594614354",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaWDCj51OfKauGI1F3e-UJ5xFLAc8Bmx-XZk6tCpki1LU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFiIEaZgWwjLvEM3mdQCNltvhOGWP1Nuha6cge1kTBf0ARoSVo8sMm1PpbaiTcnCZWsVrt3KWjDHiVW2xL4ShS8Ads8lZLN5W_BoLq_bY7mNVx-eJM1DNOy-IDqQ1xhDhRFdAEX1xYzz3UO7FPpJB4VcloG0tPcs-IxS",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ha M",
+                            "uri": "//maps.google.com/maps/contrib/112070328471792921416",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaqrwOY68SZ91mA74JRG2xizKmbvrtQeevOrU8MjBtaqQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFjD-95HE9_M9vp0q10k44l6QMpXoBmq29iqOIhU6PIG52fL5R4C2ChnwX4Lg9cvlaY3Pv2AyVl-6V6_xInGrI61_Yy2aTEgZYDKoSBpZsC0-UO7b7iBmsiKjgc2Dr8C-vP4U-6QC61YsVZS-5h3kcn_qWLTLZfnqg79",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ادريس ضاوي 2",
+                            "uri": "//maps.google.com/maps/contrib/100515336290114176670",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLw66qrCEHi8Bku1ulbou_0hR9fwsvHLURuIblvJqQN=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFh_wAi0mQAHWEZR3QLggZHWdYPzR9nZ-LrU7EkBXrn1ir4Abm0sE1LU6sbR-qUFz0zKrD7_IsB5vtXTCZcV5DvdDLvYTAwYEAbEd9SMyNU-meusih1SoW_IIBacXyPHd1mfNCPpxe_4-zxkROnuUSenlcI70TZx9fTe",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdullah Shahrani",
+                            "uri": "//maps.google.com/maps/contrib/116318687784865931793",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe7UTTzEZDYAIX7UwEhNIpFs8l49tKc2lDa-kqK-YZcXM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFiOhvjZZQ1IrFFTLKnzvzJczp_n23xUOBDao9MiIK1y9OjJo9bBaNPlzt84FY2Yxp7MQtDsuwCgkMOU88nZ7xckyLM38Dcw5900WFoJCrZ9LpVVL-d7IXLbTAYCncJ9cKBhxEKtEkJZFIne3pUVdOO08Uw1KxxLTCVj",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ادريس ضاوي 2",
+                            "uri": "//maps.google.com/maps/contrib/100515336290114176670",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLw66qrCEHi8Bku1ulbou_0hR9fwsvHLURuIblvJqQN=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFjZyT3CJptDPCqs-4CVUFha0imG9mfxJgQKxDkx_brYBxqZ6BKo-0SI5q2bsv4iE6vpC_aLygiKilwvbFr4Rso-mRq1I8eQw2Mx1NdJO8aSTQB2rsuSImWmALX0LYdIaCZ8aXiqLDEl0IuQXCGGISVFSYUARcfblfLR",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ha M",
+                            "uri": "//maps.google.com/maps/contrib/112070328471792921416",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaqrwOY68SZ91mA74JRG2xizKmbvrtQeevOrU8MjBtaqQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFg0-GtRX4FkUqG9OWhrbBS4h9h9QA2sFVbHal5I8zcaI_p1yTXeK99Lfas5pvU-m0UeQajUoMuzF4pftbTUugw52jG976w_7NSya22bLZbfIgv0koNE7S85y-ELVN10Z9AHm81mnn4YeLb7PyOYvV9eq5mzLgBwRQTK",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ادريس ضاوي 2",
+                            "uri": "//maps.google.com/maps/contrib/100515336290114176670",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLw66qrCEHi8Bku1ulbou_0hR9fwsvHLURuIblvJqQN=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFisDCaw6XD6sadtfEfFjy9l5jqA5JLE11bF6355vC2QvWl99kQd9jr-d3e0K_0-fj1vV9YXaaPqZZ8qW6feDGC2AmP_Us33tlZkfpSyW33PWNNrpTwFJY754vUn15MQC44xys-KkVnBkvzE-FgxMaH-owWGJLBK1daZ",
+                    "widthPx": 3120,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ابراهيم علي القاسمي",
+                            "uri": "//maps.google.com/maps/contrib/113642583128078482778",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV7CeclQW93K1SRlkS-zUUT6bTrNGkEa1GUjXScIXUmPCNS=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJsVg00GlPJT4RynFBo6W6ZVo/photos/AWU5eFiimKeEz8bHNGAWfMQX1M609QEkC1k6CqBXqZlSuAPUwdwfIAZDRqidM0LddB5HnCW2V7x4K_b8JF7ZQpr__hJHhcbIGAon7dCh-TzmO53OHw5t9EtYoxB4dcVPhaBLw__DtUhJ5Z8X9NHtkuAiGAc9HLFdJK5kLJ9j",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "abdullah Fahd",
+                            "uri": "//maps.google.com/maps/contrib/111425165566610769088",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYErgmgrQotLNmYTFTPO7JYlKu-YhRjbfOv_gI5n8lIA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesDessert": false,
+            "servesCoffee": false,
+            "goodForChildren": false,
+            "restroom": false,
+            "goodForGroups": true,
+            "goodForWatchingSports": false,
+            "paymentOptions": {
+                "acceptsCreditCards": true,
+                "acceptsCashOnly": false
+            },
+            "parkingOptions": {
+                "freeParkingLot": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleRestroom": false,
+                "wheelchairAccessibleSeating": false
+            }
+        },
+        {
+            "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI",
+            "id": "ChIJ38gDWW5PJT4RgMvm8odh6RI",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "011 548 5984",
+            "internationalPhoneNumber": "+966 11 548 5984",
+            "formattedAddress": "King Saud Rd, As Sulaymaniyah, Al-Kharj 16278",
+            "addressComponents": [
+                {
+                    "longText": "King Saud Road",
+                    "shortText": "King Saud Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "As Sulaymaniyah",
+                    "shortText": "As Sulaymaniyah",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al-Kharj",
+                    "shortText": "Al-Kharj",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al Kharj",
+                    "shortText": "Al Kharj",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Riyadh Province",
+                    "shortText": "Riyadh Province",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Saudi Arabia",
+                    "shortText": "SA",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "16278",
+                    "shortText": "16278",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7HP95824+75",
+                "compoundCode": "5824+75 Al-Kharj"
+            },
+            "location": {
+                "latitude": 24.1506892,
+                "longitude": 47.305413699999995
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.149367669708496,
+                    "longitude": 47.3040361697085
+                },
+                "high": {
+                    "latitude": 24.1520656302915,
+                    "longitude": 47.3067341302915
+                }
+            },
+            "rating": 4,
+            "googleMapsUri": "https://maps.google.com/?cid=1362727598779976576",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 16,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 1,
+                            "minute": 30
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 4:00 PM – 1:30 AM",
+                    "Tuesday: 4:00 PM – 1:30 AM",
+                    "Wednesday: 4:00 PM – 1:30 AM",
+                    "Thursday: 4:00 PM – 1:30 AM",
+                    "Friday: 4:00 PM – 1:30 AM",
+                    "Saturday: 4:00 PM – 1:30 AM",
+                    "Sunday: 4:00 PM – 1:30 AM"
+                ]
+            },
+            "utcOffsetMinutes": 180,
+            "adrFormatAddress": "<span class=\"street-address\">King Saud Rd</span>, <span class=\"region\">As Sulaymaniyah</span>, <span class=\"locality\">Al-Kharj</span> <span class=\"postal-code\">16278</span>, <span class=\"country-name\">Saudi Arabia</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "userRatingCount": 823,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "مطعم الطاهي",
+                "languageCode": "ar"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "reservable": true,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBrunch": true,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 16,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 1,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 4:00 PM – 1:30 AM",
+                    "Tuesday: 4:00 PM – 1:30 AM",
+                    "Wednesday: 4:00 PM – 1:30 AM",
+                    "Thursday: 4:00 PM – 1:30 AM",
+                    "Friday: 4:00 PM – 1:30 AM",
+                    "Saturday: 4:00 PM – 1:30 AM",
+                    "Sunday: 4:00 PM – 1:30 AM"
+                ]
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "King Saud Rd, Al-Kharj",
+            "reviews": [
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsM2ZIX2ZnEAE",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 2,
+                    "text": {
+                        "text": "As per area is ok..but not very good",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "As per area is ok..but not very good",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Rizwan Ahmed",
+                        "uri": "https://www.google.com/maps/contrib/116322750758758784639/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFEskl4xmnYqTegCmjnhRyM95BZyB8dTGZw9uKbGqq=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-11-25T00:45:14Z"
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXN0p5UEF3EAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "The best Sheesh in the world. Highly recommend their sheesh",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "The best Sheesh in the world. Highly recommend their sheesh",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Hamoud Nasser",
+                        "uri": "https://www.google.com/maps/contrib/100592182568309998243/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyZKTstn32bZns5PhYhqK86GnmARSUDGK0du1zCD69wQ=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2022-02-20T08:34:37Z"
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/reviews/ChdDSUhNMG9nS0VJQ0FnSURRZ3BIQjdnRRAB",
+                    "relativePublishTimeDescription": "6 years ago",
+                    "rating": 1,
+                    "text": {
+                        "text": "Staff and cashier all have allot of bad attitude. I will never suggest to go to this restorant",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Staff and cashier all have allot of bad attitude. I will never suggest to go to this restorant",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "hameed khann",
+                        "uri": "https://www.google.com/maps/contrib/116617692953925127259/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVydUlxEqS5zMHq_ZVdq0Y6Qg10Ra41Nepo2oLPuk-c5jg=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2017-08-01T15:28:34Z"
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/reviews/ChZDSUhNMG9nS0VJQ0FnSURDaHVuLVB3EAE",
+                    "relativePublishTimeDescription": "3 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "One of the oldest restaurants and their prices are good and the taste is excellent",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "One of the oldest restaurants and their prices are good and the taste is excellent",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "wael .g",
+                        "uri": "https://www.google.com/maps/contrib/109330431415460405797/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwK86pNlRbwnP-trBqskvqbB3KyHCRDxdVzB9DGTtntu4=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2020-09-24T12:58:26Z"
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/reviews/ChdDSUhNMG9nS0VJQ0FnSURRblA2OHd3RRAB",
+                    "relativePublishTimeDescription": "5 years ago",
+                    "rating": 3,
+                    "text": {
+                        "text": "I ate Platter Shawarma... I can't say this best platter. This was just like normal shawarma...",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "I ate Platter Shawarma... I can't say this best platter. This was just like normal shawarma...",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Abdul Rehman",
+                        "uri": "https://www.google.com/maps/contrib/117038381303313051539/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8oq5FouZ5x8ZgjwDAq81sPt6kHdAtAuSjHJvaA6bNvWBg=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2018-01-25T18:53:03Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFgO7R6d6_J2FumRPWhxDzrTPd_wT8Q51G8kjJxRQAQv7cQqSa7g7AZfFYUU0xd6c2E6vkvH19D7IHxW5n2oQk-LLWkSpLE3Knsma6viGJ-49kc7gwuwvZTL91wn0oC6hadmqHSYmnkIGCzXGvEhQsXE55OHjakX7bg",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ibra hemo",
+                            "uri": "//maps.google.com/maps/contrib/115599504224632477491",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXuWbzP0EkrB5-n199mC_y2rDaOQDa0pthNkSXfPm833A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFi88gcMddjLFRO1FZts9yQVuifEOsYeiu3pnmTZK9xCK9vtglVR-OIwAOtsLi3irwy-F6ZjnC6HM1vamn9HegPFTNeoe2twpJyUcq6yDZ2qIUqY9PB8xAS4W13CLbouv6ypr2IIOaHc82WYd8u78sAC_unLhq6ycsT3",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "salha murshi",
+                            "uri": "//maps.google.com/maps/contrib/100618943263635307618",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWbCUiZ5OkW7Q2fhpAxNIpmhoOcIkCws5uHueaoQTAQSA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFi205ROdQsxACaxivkNFGcg-tUKlYG1KWg0V16p2TMwZbt1VDptuE1nyHJmau8tnvVC1ZVltQq41xxIn2eyjzzYD9NZGuZLlf61L11_bNlx4LmJ0se5VfzcRI5hrm8c5vSk6O1HPNzzxQWCOxnk-K9jFWLHrd3lXTDe",
+                    "widthPx": 3036,
+                    "heightPx": 4048,
+                    "authorAttributions": [
+                        {
+                            "displayName": "mohammed ali",
+                            "uri": "//maps.google.com/maps/contrib/115210533589360359219",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJ4UwU9G3jtTXUzxcMNlSkvoHASTQtnubx5XqNgZBcQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFgpILMOxngwxJcIs9CWhifUILMyi7yv-B8cHokAlpHiOArlDmDFhcOFscYcjHOIlxSyZJeD7DMEKcjCd-7UnD49HOZWEG3zO49WlflcZfaH2HjIDbgLg1zn3ZSbW35chDadCMkIfh7TsV6a9dZKxPnNLyljxKY3-e_s",
+                    "widthPx": 2268,
+                    "heightPx": 1894,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aatisam Altaf Tarar",
+                            "uri": "//maps.google.com/maps/contrib/102407094269549776377",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWORvbxSOCpFCPrvPFjc1H9pP8NRzEC_Dpa_ak0G4p7Gjo=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFjSaJ5OeGAdAU5INFRWvpECLIUYHfiSPjnMYXl2iWnfMAuA8rJP30Di3bmZLnYiEijuw3phPD7sbpqeW6bf96f-PCl2MDmRRWTvXL5coc-yh7Dj0LU5V40UJXfhiO6h1rvoAOoZnQ-3SWcR7HfbjYMBMb5pHha02X8h",
+                    "widthPx": 5312,
+                    "heightPx": 2988,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mohammed Qahtani",
+                            "uri": "//maps.google.com/maps/contrib/109332548918581810028",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVINhRwlSwE3AFez3PnjS4AQv-3r6XB7wdXfXFMEchB6-g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFjrr4UfeL3za-eCOJrPHdg2hYCZG0Vl6YUsSYrP9TpFT5WoAhVZKiwOPHSUTwYSvlEGybCfsAZCNy8ybzHpeHXRShR-pPa_d0m_eEIf4EX3mgmP2VPtq5Vj83RFCy_KWd1qqLnarf4nZ-ACphE5F3V-1Sr79nuOpqIO",
+                    "widthPx": 2988,
+                    "heightPx": 5312,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mohammed Qahtani",
+                            "uri": "//maps.google.com/maps/contrib/109332548918581810028",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVINhRwlSwE3AFez3PnjS4AQv-3r6XB7wdXfXFMEchB6-g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFjroOQ5lEKezyvZsNiG5zQTzEEI1YVuODopB8b__-SwTbJivU-wd1LEG03uTQsnua_7EDYVeHPAwFRb7ntwZuhyItczKq1xtGeLZifuJu9l_kyfFze7XytLFCqfixCzt-x8todLGrHfyqkTSiDd2wwPVZe-sOgC6jYb",
+                    "widthPx": 3096,
+                    "heightPx": 4128,
+                    "authorAttributions": [
+                        {
+                            "displayName": "hameed khann",
+                            "uri": "//maps.google.com/maps/contrib/116617692953925127259",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVydUlxEqS5zMHq_ZVdq0Y6Qg10Ra41Nepo2oLPuk-c5jg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFidwULuhYYUVI8hEHcrB5eOwRw2on8hbpLkJi8MgS6dPizAFlwjPVRoQll_nYmeJwn8LyMTD-File_l6HwJEx-0VOnklFk5X3LcPPisKI2X9_ifIx1M2yrgBUIoaVNolGK3xl0QOktsrYGnJzYy9ouGWLfhCdhSzt_l",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "salha murshi",
+                            "uri": "//maps.google.com/maps/contrib/100618943263635307618",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWbCUiZ5OkW7Q2fhpAxNIpmhoOcIkCws5uHueaoQTAQSA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFjSSbr-8QRzhyNhhBtnQBI8y0WoLuZtCPEwlomchgiiyHeBukuNIGDPMl-q-8NiqSQiqYOTAAhWBWdjeesaUqMROve9oXjILPW6OJ1y3zO4wAKx_IQ1Tv6HrTzn47sMEfmJFTXQxNClo9-Qr89-_l8ZeGTGd3_nCfuZ",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "صالح بن علي الحجي",
+                            "uri": "//maps.google.com/maps/contrib/108776976985112069583",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVYEGnTR8ZbRSFMfZN7Uenf3vyAvpUFXqwKKgKKwUt2tnYs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ38gDWW5PJT4RgMvm8odh6RI/photos/AWU5eFj-I_Ug2f4unAmcA8LWS5SrSzFJqqRNWfu29jZDjVskb_QgHgTR12w9UfeXQf5I03pG-umDrCPhzB3IcMf88t9FX5eTuC8F8tuDsWL-5YflUwjVGU7jXru-tYYkG5Id8H5REzvw8gvDH5HhbRcj6IMzVO1xBsTtTWiD",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "salha murshi",
+                            "uri": "//maps.google.com/maps/contrib/100618943263635307618",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWbCUiZ5OkW7Q2fhpAxNIpmhoOcIkCws5uHueaoQTAQSA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesDessert": false,
+            "servesCoffee": false,
+            "goodForChildren": false,
+            "restroom": false,
+            "goodForGroups": true,
+            "goodForWatchingSports": false
+        },
+        {
+            "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM",
+            "id": "ChIJ3Ryd72lPJT4REWW8YO_MFkM",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "9200 33336",
+            "internationalPhoneNumber": "+966 9200 33336",
+            "formattedAddress": "King Fahd Rd, حي السليمانية, Al-Kharj 16278",
+            "addressComponents": [
+                {
+                    "longText": "King Fahd Road",
+                    "shortText": "King Fahd Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "حي السليمانية",
+                    "shortText": "حي السليمانية",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al-Kharj",
+                    "shortText": "Al-Kharj",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al Kharj",
+                    "shortText": "Al Kharj",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Riyadh Province",
+                    "shortText": "Riyadh Province",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Saudi Arabia",
+                    "shortText": "SA",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "16278",
+                    "shortText": "16278",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7HP948V4+QG",
+                "compoundCode": "48V4+QG Al-Kharj"
+            },
+            "location": {
+                "latitude": 24.1444171,
+                "longitude": 47.3062855
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.142988669708494,
+                    "longitude": 47.3050038197085
+                },
+                "high": {
+                    "latitude": 24.1456866302915,
+                    "longitude": 47.3077017802915
+                }
+            },
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=4834276578521015569",
+            "websiteUri": "https://shawayahouse.com.sa/ar/",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 10:30 AM – 2:00 AM",
+                    "Tuesday: 10:30 AM – 2:00 AM",
+                    "Wednesday: 10:30 AM – 2:00 AM",
+                    "Thursday: 10:30 AM – 2:00 AM",
+                    "Friday: 12:30 PM – 2:00 AM",
+                    "Saturday: 10:30 AM – 2:00 AM",
+                    "Sunday: 10:30 AM – 2:00 AM"
+                ]
+            },
+            "utcOffsetMinutes": 180,
+            "adrFormatAddress": "<span class=\"street-address\">King Fahd Rd</span>, <span class=\"region\">حي السليمانية</span>, <span class=\"locality\">Al-Kharj</span> <span class=\"postal-code\">16278</span>, <span class=\"country-name\">Saudi Arabia</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "userRatingCount": 1308,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "Shawaya House",
+                "languageCode": "en"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "curbsidePickup": false,
+            "reservable": false,
+            "servesBreakfast": false,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBrunch": false,
+            "servesVegetarianFood": true,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 10:30 AM – 2:00 AM",
+                    "Tuesday: 10:30 AM – 2:00 AM",
+                    "Wednesday: 10:30 AM – 2:00 AM",
+                    "Thursday: 10:30 AM – 2:00 AM",
+                    "Friday: 12:30 PM – 2:00 AM",
+                    "Saturday: 10:30 AM – 2:00 AM",
+                    "Sunday: 10:30 AM – 2:00 AM"
+                ]
+            },
+            "currentSecondaryOpeningHours": [
+                {
+                    "openNow": true,
+                    "periods": [
+                        {
+                            "open": {
+                                "day": 0,
+                                "hour": 10,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 21
+                                }
+                            },
+                            "close": {
+                                "day": 1,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 22
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 1,
+                                "hour": 10,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 22
+                                }
+                            },
+                            "close": {
+                                "day": 1,
+                                "hour": 23,
+                                "minute": 59,
+                                "truncated": true,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 22
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 2,
+                                "hour": 0,
+                                "minute": 0,
+                                "truncated": true,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 16
+                                }
+                            },
+                            "close": {
+                                "day": 2,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 16
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 2,
+                                "hour": 10,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 16
+                                }
+                            },
+                            "close": {
+                                "day": 3,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 17
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 3,
+                                "hour": 10,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 17
+                                }
+                            },
+                            "close": {
+                                "day": 4,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 18
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 4,
+                                "hour": 10,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 18
+                                }
+                            },
+                            "close": {
+                                "day": 5,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 19
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 5,
+                                "hour": 12,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 19
+                                }
+                            },
+                            "close": {
+                                "day": 6,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 20
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 6,
+                                "hour": 10,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 20
+                                }
+                            },
+                            "close": {
+                                "day": 0,
+                                "hour": 1,
+                                "minute": 30,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 1,
+                                    "day": 21
+                                }
+                            }
+                        }
+                    ],
+                    "weekdayDescriptions": [
+                        "Monday: 10:30 AM – 1:30 AM",
+                        "Tuesday: 10:30 AM – 1:30 AM",
+                        "Wednesday: 10:30 AM – 1:30 AM",
+                        "Thursday: 10:30 AM – 1:30 AM",
+                        "Friday: 12:30 PM – 1:30 AM",
+                        "Saturday: 10:30 AM – 1:30 AM",
+                        "Sunday: 10:30 AM – 1:30 AM"
+                    ],
+                    "secondaryHoursType": "DELIVERY"
+                }
+            ],
+            "regularSecondaryOpeningHours": [
+                {
+                    "openNow": true,
+                    "periods": [
+                        {
+                            "open": {
+                                "day": 0,
+                                "hour": 10,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 1,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 1,
+                                "hour": 10,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 2,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 2,
+                                "hour": 10,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 3,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 3,
+                                "hour": 10,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 4,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 4,
+                                "hour": 10,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 5,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 5,
+                                "hour": 12,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 6,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 6,
+                                "hour": 10,
+                                "minute": 30
+                            },
+                            "close": {
+                                "day": 0,
+                                "hour": 1,
+                                "minute": 30
+                            }
+                        }
+                    ],
+                    "weekdayDescriptions": [
+                        "Monday: 10:30 AM – 1:30 AM",
+                        "Tuesday: 10:30 AM – 1:30 AM",
+                        "Wednesday: 10:30 AM – 1:30 AM",
+                        "Thursday: 10:30 AM – 1:30 AM",
+                        "Friday: 12:30 PM – 1:30 AM",
+                        "Saturday: 10:30 AM – 1:30 AM",
+                        "Sunday: 10:30 AM – 1:30 AM"
+                    ],
+                    "secondaryHoursType": "DELIVERY"
+                }
+            ],
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "King Fahd Rd, Al-Kharj",
+            "reviews": [
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1anQzYVJnEAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 3,
+                    "text": {
+                        "text": "Better place to Dine. Kabsa is nice. Chicken is also good but the mutton has some undesirable smell. Better to opt chicken and don’t forget to have fresh creamy sweet kunafa",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Better place to Dine. Kabsa is nice. Chicken is also good but the mutton has some undesirable smell. Better to opt chicken and don’t forget to have fresh creamy sweet kunafa",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Mohammad Jawed Khusroo",
+                        "uri": "https://www.google.com/maps/contrib/118116077458105386149/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUB8TU1sbH9dYd2IkH5Bgo92i_7ZdtNS_g1quZZf3PEzQ=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2022-08-20T20:27:56Z"
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLODU3NDJ3RRAB",
+                    "relativePublishTimeDescription": "2 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Wow! This place is very clean, not crowded and they have huge comfort room. They said this is the only one branch in al Kharj. It’s very safe because it’s very near in police station.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Wow! This place is very clean, not crowded and they have huge comfort room. They said this is the only one branch in al Kharj. It’s very safe because it’s very near in police station.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Rondo Ponce",
+                        "uri": "https://www.google.com/maps/contrib/116895969760130337693/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdzK1ErrRf_8vIsw08S24oCaEJoo9wgwNGOS4vN3vUl7M=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2021-04-18T12:24:56Z"
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/reviews/ChdDSUhNMG9nS0VJQ0FnSURaanNiczd3RRAB",
+                    "relativePublishTimeDescription": "3 months ago",
+                    "rating": 1,
+                    "text": {
+                        "text": "Ordered some rice item from them via jahez app and they delivered me spoiled rice, that rice was smelling so bad 😡😡😡😡",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Ordered some rice item from them via jahez app and they delivered me spoiled rice, that rice was smelling so bad 😡😡😡😡",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "dar asif",
+                        "uri": "https://www.google.com/maps/contrib/116368763461235185678/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVskeCb184DTaTgA2XBk-LfIGZFw_zEc9k69Npd_oBd-yo=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2023-09-30T22:11:14Z"
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwN3VTeFZnEAE",
+                    "relativePublishTimeDescription": "4 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Good place for Lunch after Juma Prayer... I visits it at least once in a week.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Good place for Lunch after Juma Prayer... I visits it at least once in a week.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Muhammad Irfan MughaL",
+                        "uri": "https://www.google.com/maps/contrib/116393603345898658799/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUw86UxZWqfH8GqQvKibT3zjUHcJVybgUBabDeXMqxggw=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2019-09-27T10:28:44Z"
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBd3BiaHhRRRAB",
+                    "relativePublishTimeDescription": "5 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "A perfect place to enjoy your meal, calm and quite, friendly staff, good service too, hygiene at its best, wash rooms in perfect condition s, tasty foods.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "A perfect place to enjoy your meal, calm and quite, friendly staff, good service too, hygiene at its best, wash rooms in perfect condition s, tasty foods.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Majintha Peiris",
+                        "uri": "https://www.google.com/maps/contrib/101922881095337139383/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZw4B0AD5wqCfMb8FcuxAeGDg8g-nna3mzczt_woNs6Js=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2018-08-14T23:26:42Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFgDT7fG4GR-nzLBo90RNPe5Z7fRdITWwDT-oYCnkFU48LWlFUPn08pBVxUT2WROxBZiLuARA5_YUKcn7wGkP886Lno0QOM7VUdGvM6-Jn1gRyDUGkFtTRyZ9GESXkUifUgh870-Q8PXFoMB0ZiYrkIEuyrVzWSr8q9C",
+                    "widthPx": 3264,
+                    "heightPx": 1632,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mohamed Sulthan",
+                            "uri": "//maps.google.com/maps/contrib/106679139498723989237",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWd5aWkMy4SDdVJLCqGWYF02SGrVhWvNkgjluen6_qep-0=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFgItHc5Jqo8bcYXFTNyZiBBs4_diEgadyZrHC0IY2YK3fSyWJVE-WqJn4-AStN6WLjR-UYCg5tzDQ65KykyVY6hCZoRmEwr77GF2BZ7I6Z9DIxzEDAnNMJ-25ICXrt0Gr3etQNwjQq3dzTzrlEBPOs6U4GrQKL0b9ot",
+                    "widthPx": 1773,
+                    "heightPx": 656,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Shawaya House",
+                            "uri": "//maps.google.com/maps/contrib/101253249041161375765",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOHa4tpdNmoXcrCTWBp71-djbCZD14mXrtKUZ-hSsjrg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFiM2130n3-G3qe4FYT4C6YviZDo2ElCbmb4oCeZ7UDguArFxPPPEVJwdUkh2PCs-8K39g-hO4Gq_ZHTYx3D5rwlMQnF_XWrQ7Xv8ANEvcYgO68BMQQbG5eehEucnP-DNOeJCadQdUuZ3AfAuFES79vfY5uyl8K6clZU",
+                    "widthPx": 1080,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Shawaya House",
+                            "uri": "//maps.google.com/maps/contrib/101253249041161375765",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOHa4tpdNmoXcrCTWBp71-djbCZD14mXrtKUZ-hSsjrg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFjdGJ6j_DCPiP8--ijm3jfsdUjNR9gjpqBQ9H-V8d-Snb55Vr_kEdOCo2SfOs4WwCb3Aq8BJIqn0ENcJzcIHfF5i7Zoo4xb0PnIfCoPDp93j_LWh2qye8c0T9BDqehd-Tmjuj0Cs2wyVKn-SaE9bL6k6iOHyM_jE303",
+                    "widthPx": 693,
+                    "heightPx": 816,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulrhman Alrashid",
+                            "uri": "//maps.google.com/maps/contrib/100240127368362004232",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjN4zjAD3GiUTvkuZ5NYeZb99oGb5ZjYuL2WFtkom1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFh-KPsh2KoIUfKiCytxRiHlJYmDk7p4Oj-ygHl7HtZnPW8VWsMXpo0odUMsTEYLmJrW1WR8t9Wv3dq8sSsS80z_hC5cEk7F8K40677ALP3mgOqM7mm_oPCIpCYcW3zSBY6R_h7FlR9P7ltjsFR6jH00yAE4Cbgps3bX",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulrhman Alrashid",
+                            "uri": "//maps.google.com/maps/contrib/100240127368362004232",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjN4zjAD3GiUTvkuZ5NYeZb99oGb5ZjYuL2WFtkom1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFjZ3YfwNRbgYa1ZDAfDahm2yw-gen4Y6K0yU2t7HrvvGyVNBFs22m_lo42GGOm-8w3Z_gfW1zrLR2CCIq04zNkZWh9J2erWxx-IRHkQRAS-4-T2DhujEnUDNTktrYnXFvuZ64xhfJhraNYPooINWFejmPBcW4RTFOU8",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulrhman Alrashid",
+                            "uri": "//maps.google.com/maps/contrib/100240127368362004232",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjN4zjAD3GiUTvkuZ5NYeZb99oGb5ZjYuL2WFtkom1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFiWCdWPDpY39pN8-2QwQAonzHzqRviBnrKACBPVoOHR_aTjF3HJjAM7KTROruxZKMPExAeXU2k5b_6xShCqK0GOnAY41Zr6hNxIVL6AxgZUioCjDVcLylSw6Kt0iV7C-0Z2-AIFJ1OIiepxcMC8ta8XB6-S9o9jK3Ok",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "wkz Wkz",
+                            "uri": "//maps.google.com/maps/contrib/103021384593720809435",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVEuKQpZpLnMXs4KuMavsp3NUgA3MpH2bfbaXtOybwnIw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFiuDyHwJkooSlmMz9UsO_SZes2bjFd1fh0d2LwyapB8C3XKrABEMEY0cso9k9p9mXOIQoDoslbTrwAjgK2ykn0fSg6howZU6NGYjZO0Tzzcxlbrr44nr4tZtB9pfuA5KAwTY1T35Z6EAaj4NS4SnHpVZSVfGXZVptKC",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulrhman Alrashid",
+                            "uri": "//maps.google.com/maps/contrib/100240127368362004232",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjN4zjAD3GiUTvkuZ5NYeZb99oGb5ZjYuL2WFtkom1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFgyvBNDuqFcdz-SbFPTldUUrUXpHa-mpRKyJQJtUQqButmioKgFzHvfA11Twn303e2l5I7s2OElBla7gQTZnWLjjO9-VamFQVHZg5ZWKhdhuUbmVwM420sI1rFpEL9pUaZzaIx1MOYGlMFXwO9DBcObrECoUcQM68gs",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulrhman Alrashid",
+                            "uri": "//maps.google.com/maps/contrib/100240127368362004232",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJjN4zjAD3GiUTvkuZ5NYeZb99oGb5ZjYuL2WFtkom1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3Ryd72lPJT4REWW8YO_MFkM/photos/AWU5eFgR7_UAdX1PzpGUq-rIF_UFlqmnQ6ZatT0uF9P-KQE8wm4ws3vKlQWGfMZv2gEQUY9fkPuN_eoxYfDzq4p3yh2keauT8MEOI8WLThTK9yRX7PtmZqSp-95tLyrf9uwYwT_R0D5m3lx3hPJLiBhrxr6thSsFjp2or0Aj",
+                    "widthPx": 1170,
+                    "heightPx": 1140,
+                    "authorAttributions": [
+                        {
+                            "displayName": "‫بندر المطيويع (ابوحصه)‬‎",
+                            "uri": "//maps.google.com/maps/contrib/117482252410869827203",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXVbUtndVEmkOL7MRrOznomZ3DvgCdGWnn3koXO0ocsUjM=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesDessert": true,
+            "servesCoffee": false,
+            "goodForChildren": true,
+            "restroom": true,
+            "goodForGroups": true,
+            "goodForWatchingSports": false,
+            "paymentOptions": {
+                "acceptsCreditCards": true,
+                "acceptsCashOnly": false
+            },
+            "parkingOptions": {
+                "freeParkingLot": true,
+                "freeStreetParking": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleEntrance": true,
+                "wheelchairAccessibleSeating": true
+            }
+        },
+        {
+            "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU",
+            "id": "ChIJUUvh5mVPJT4RkzX3C_RayHU",
+            "types": [
+                "barbecue_restaurant",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "055 574 0908",
+            "internationalPhoneNumber": "+966 55 574 0908",
+            "formattedAddress": "3911 King Saud Rd Al Kharj 16274 9708 King Saud Rd, 9708, Al-Kharj 16274",
+            "addressComponents": [
+                {
+                    "longText": "3911 King Saud Rd Al Kharj 16274 9708",
+                    "shortText": "3911 King Saud Rd Al Kharj 16274 9708",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "King Saud Road",
+                    "shortText": "King Saud Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al-Kharj",
+                    "shortText": "Al-Kharj",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Al Kharj",
+                    "shortText": "Al Kharj",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Riyadh Province",
+                    "shortText": "Riyadh Province",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Saudi Arabia",
+                    "shortText": "SA",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "16274",
+                    "shortText": "16274",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "9708",
+                    "shortText": "9708",
+                    "types": [
+                        "postal_code_suffix"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7HP948W2+RC",
+                "compoundCode": "48W2+RC Al-Kharj"
+            },
+            "location": {
+                "latitude": 24.1470727,
+                "longitude": 47.3010698
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.145724569708495,
+                    "longitude": 47.2997199197085
+                },
+                "high": {
+                    "latitude": 24.1484225302915,
+                    "longitude": 47.3024178802915
+                }
+            },
+            "rating": 3.9,
+            "googleMapsUri": "https://maps.google.com/?cid=8487133501998970259",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 12,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 12:30 PM – 12:00 AM",
+                    "Tuesday: 12:30 PM – 12:00 AM",
+                    "Wednesday: 12:30 PM – 12:00 AM",
+                    "Thursday: 12:30 PM – 12:00 AM",
+                    "Friday: 12:30 PM – 12:00 AM",
+                    "Saturday: 12:30 PM – 12:00 AM",
+                    "Sunday: 12:30 PM – 12:00 AM"
+                ]
+            },
+            "utcOffsetMinutes": 180,
+            "adrFormatAddress": "<span class=\"street-address\">3911 King Saud Rd Al Kharj 16274 9708 King Saud Rd</span>, 9708, <span class=\"locality\">Al-Kharj</span> <span class=\"postal-code\">16274</span>, <span class=\"country-name\">Saudi Arabia</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "userRatingCount": 925,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "مطعم بركة الرافدين للمشويات",
+                "languageCode": "en"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Barbecue Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "reservable": true,
+            "servesBreakfast": false,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBrunch": true,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 19
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 12,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 20
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 1,
+                                "day": 21
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 12:30 PM – 12:00 AM",
+                    "Tuesday: 12:30 PM – 12:00 AM",
+                    "Wednesday: 12:30 PM – 12:00 AM",
+                    "Thursday: 12:30 PM – 12:00 AM",
+                    "Friday: 12:30 PM – 12:00 AM",
+                    "Saturday: 12:30 PM – 12:00 AM",
+                    "Sunday: 12:30 PM – 12:00 AM"
+                ]
+            },
+            "primaryType": "barbecue_restaurant",
+            "shortFormattedAddress": "3911 King Saud Rd Al Kharj 16274 9708 King Saud Rd, Al-Kharj",
+            "reviews": [
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2MkliWlJ3EAE",
+                    "relativePublishTimeDescription": "2 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Tasty Iraqi BBQ in modest and unassuming restaurant.\nCame to this restaurant from Google Maps, at first the restaurant doesn't look very convincing but don't let that fool you.\nThe BBQ is tasty and with right amount of spice. I also tried the sauted meat platter with tahini which was amazing. Will definitely come back next time.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Tasty Iraqi BBQ in modest and unassuming restaurant.\nCame to this restaurant from Google Maps, at first the restaurant doesn't look very convincing but don't let that fool you.\nThe BBQ is tasty and with right amount of spice. I also tried the sauted meat platter with tahini which was amazing. Will definitely come back next time.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Handy Christian",
+                        "uri": "https://www.google.com/maps/contrib/107443926424639255206/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWht_-nrxkGBZdZIfOmN5Peu7Yu2JNnu40ThCdikVI-yvE=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2021-08-30T05:55:47Z"
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/reviews/ChdDSUhNMG9nS0VJQ0FnSURtemRuc3d3RRAB",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Awesome food, but khubz becomes too hard to chew.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Awesome food, but khubz becomes too hard to chew.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "AbdulRahim Fitwala",
+                        "uri": "https://www.google.com/maps/contrib/113460767367662623861/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0BgmeOHqj9eX9xZujq-Ky1ToaxlFf_1fnN6DvgWBE=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2022-02-05T15:58:39Z"
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvcXVhdzJnRRAB",
+                    "relativePublishTimeDescription": "4 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Best barbecue mediterranean food in town\n\nVery fresh",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Best barbecue mediterranean food in town\n\nVery fresh",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Mohammed Abdullah",
+                        "uri": "https://www.google.com/maps/contrib/116890284241608083561/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFnQC_Be2vQfIAvYRO4Fex8BH4_gt91va1RXv8o5qRxRo=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2019-02-10T16:13:40Z"
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwdXBQeHRnRRAB",
+                    "relativePublishTimeDescription": "4 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Mutton Kabab are too tasty. Best kababs in Al kjarj.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Mutton Kabab are too tasty. Best kababs in Al kjarj.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Muhammad Irfan MughaL",
+                        "uri": "https://www.google.com/maps/contrib/116393603345898658799/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUw86UxZWqfH8GqQvKibT3zjUHcJVybgUBabDeXMqxggw=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2019-09-23T12:01:45Z"
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdFBTS2hnRRAB",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Best bbq in alkharaj",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Best bbq in alkharaj",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Haroon Khan",
+                        "uri": "https://www.google.com/maps/contrib/111776795218916426653/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKw3IubEWzud4-dvgfMK7SrupwNSSi-8oYoq64uqPDA=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2023-01-12T17:03:56Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFjGMcEOt_e3QduSvoaxTSDM3fuI6cwNVjxCjXVdCoYQ_UWeWFGBez76o5toGdhcvTT2iMqH8v1UZS1fsYlOyi8BBMHnu5rdJS4dv2TFPgZGR5VMmeM6FCi2Oed6lcppFj8OA6Pih-ONjYNgvi9DEmxPRNeAHDKEWXfx",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "محمد الزهراني",
+                            "uri": "//maps.google.com/maps/contrib/101340404499021819553",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLX3kSGMiMqSXFFNlx0v39eZcYi6ppzk1q8iTnJ5H_L=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFjrdgFFmGpvo1YCH4lrMmITgpmIrP6ZXa7XxNsXIwneB3O45J5VAn-0PzWQwc9Fp10PsO7r9ivnDErFn0HHJ51BBIaS3h5EdFwdd04X9K7GvUuHZzqBU3T2dvmC5mXl5xlhZY631meEEerZ74c3OLY7sQwZzYEu4B3s",
+                    "widthPx": 6000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "abdulnasser sabaallil",
+                            "uri": "//maps.google.com/maps/contrib/105756488366613830671",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW1mNENLwFQeIU-QysyNVYfEsRNeuR9nOPAKoC0aZzVfEKE=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFhp1ETLSo3IjV4gJrUyNzuJ6bMTmWg4sNCqZLonzZ-CHDVI6sJ6m3bcX1tpM7mhXBBc_gUSEJhy8Q9uQNGj1zEuGgzRJFN4SugIz1ABXNLapZfnrufpFv4YaTPn1T8lrUtGk_3cUNN8IpUuZdrJqqQ66OGgM2RfheHv",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "abdullah alezzi",
+                            "uri": "//maps.google.com/maps/contrib/103842498065360987137",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8NNdfEAb0tpjJGAQBQAn8ak5fXVlcI-7MLa5f5V2q5UU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFgyoSZH2w5S6vVEDIcRLipzYebRajg7j1u0ej3DI4RY5SYPbtYKJFvuhhA4mdVBxCnmnh8RXHp0omlj1dEhheFREFyhXnngJCK7pG88euACpA6nT59REuYnj42Kj-LoDLQjIRG5SBICYqH5bwC1wUSh2ratCeP5Yem9",
+                    "widthPx": 3024,
+                    "heightPx": 3678,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abid Abid",
+                            "uri": "//maps.google.com/maps/contrib/112815929740948646234",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVZUrf1GwfTq8K1XkTWR7OHDEY3yGQIj20UUssH6H7PQ48=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFiRa7M1kvXcQXvpbvrOPQmEy6-HqLv2Peo5OYiB92EYoxN1J41xQR-8ub3Pge-oITjCSNXmHBqa_WDowgHuWN_v4KeKGUpQiWU5j_6WK8T9i_lhUGeaFVX19VO5LAEvyHSAffOUhxkgBqITbZeMXh9d2AtWUE2y1Q8G",
+                    "widthPx": 960,
+                    "heightPx": 1792,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdulaziz Alturkistani",
+                            "uri": "//maps.google.com/maps/contrib/117462718023611030432",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJX8cXYn3Vv1f3jgeXD2Cm4NgMECiuXK3w96_KDGfwn=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFg5uGWLS9v-201YMtX_7H3sjXXRFQjymqcngldmfi5M5tsefB8bWLfTbaRwvIAo0P-KH6KXYVRaI6C-ZWcz9PnpJZAsqzoyP3ledalsQ1B-t3AXO0-G1YiS2qIM9mhNiZIbmAKHsNHyUTrcn5-7RLIv1NNmkfD_i1wK",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abdullah Shahrani",
+                            "uri": "//maps.google.com/maps/contrib/116318687784865931793",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXe7UTTzEZDYAIX7UwEhNIpFs8l49tKc2lDa-kqK-YZcXM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFjbPdvPRF-YammmCKoRRTBp5GDQzeeArAHPgBnedwa-6LGipeC74fc5pTmwiGGMZpkMkZP1FsvFHibP1nSiIAlOV-Qr6sRpR-zuxMedhaw5RsgwLofv-7FD6OAVaMZ-n5jhrPp6vQdA7s_2Z8YElSTRfZtg1E8TG0gP",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hassan Yaseen",
+                            "uri": "//maps.google.com/maps/contrib/110648246298814320985",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXpC1h140ZXCVQDU5mtS4R-GEHK2Y-8QLYPRgIjM4NCywZP=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFjTabm9Aw3mImbvpceiK4hjRuc7OPhaEiG3EqYs95slpzHd8ucTaJDDU79jRXvWlB6gdWWmji-9X8nwJReZSI2b3R3lGT-2T9Feu_pC4SscMR0SoTdnZ2sZW6PVBcEfNppkXUxk6kRTwDHmHqGutCPSjn9YH8y6KzCl",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mohammed Alanazi",
+                            "uri": "//maps.google.com/maps/contrib/108071646062120915412",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_fqI-PbzY_-37vzG19y7G_EBIMPOTnzaU_gpIEgGo0lpM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFhmOfy5mKtsnlMtkGnm-dC-z3o5MJKGlr5v4Srnlfuo8DBb-g9kH2FSlSYBosxHHImNr7PQxoQTfBJ9iP5R_mTaFts3kVqnRnnlMgdEHrEb24fdfh6Br4vH-5Mj_te0vLkzovZ7ZpR6JFpdKDBVsEFwkWW_LfnDBnAI",
+                    "widthPx": 2992,
+                    "heightPx": 2992,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mazen Amarh",
+                            "uri": "//maps.google.com/maps/contrib/101425865138317277354",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWOMQcL6funEFEFpOtsyndBUVnyqwq7_8RFDcVrNGcwHQw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJUUvh5mVPJT4RkzX3C_RayHU/photos/AWU5eFjistpMnkCayIQeYu751GFHbIGXpTLnSB01VpKqOChKCB6tspxftzZ0IbG9WuF4GItqUi2RYN_5hxoKoD5-Xfx7rfCLMjSyIIMaIk0V88_MGIzlMLKNh68OKrVzDZEvioj5qsPHKr4Hs22ucm8hwWHq0cM2YpfGeqN4",
+                    "widthPx": 4608,
+                    "heightPx": 3456,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bilal RF",
+                            "uri": "//maps.google.com/maps/contrib/112058491993740639615",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW0fulJNQ33NCqKVas50IvOYk23kdmSBZ7iqCHGY3W8Ug=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesDessert": false,
+            "servesCoffee": false,
+            "goodForChildren": false,
+            "restroom": false,
+            "goodForGroups": true,
+            "goodForWatchingSports": false,
+            "parkingOptions": {
+                "freeParkingLot": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleSeating": true
+            }
+        }
+    ]
+}

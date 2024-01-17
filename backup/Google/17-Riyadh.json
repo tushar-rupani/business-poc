@@ -1,0 +1,2703 @@
+{
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7111355,
+          "lng": 46.67451980000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7124844802915,
+            "lng": 46.6758687802915
+          },
+          "southwest": {
+            "lat": 24.70978651970849,
+            "lng": 46.67317081970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Four Seasons Hotel Riyadh At Kingdom Center",
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116501341536049193368\">Four Seasons Hotel Riyadh At Kingdom Center</a>"
+          ],
+          "photo_reference": "AWU5eFhgcXVuiTm9rrWtysUgdpShSaEm-Yu_9cV7g-vd8YwwrGBI9Lj0e1E2Xu1_H-gD4-7xponayiQH7srfgKvyY9CbMdOKI1YkSJMsOpMdJIYyzjEa79z-6asRf24L1OdLq3yxRGw7M6je7a6ue_COdgOuf8ei5sGuZ-f1c38UFEvc4fg7",
+          "width": 1915
+        }
+      ],
+      "place_id": "ChIJmZNIDYkDLz4RvkI6LbJcj7c",
+      "plus_code": {
+        "compound_code": "PM6F+FR Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6F+FR"
+      },
+      "rating": 4.5,
+      "reference": "ChIJmZNIDYkDLz4RvkI6LbJcj7c",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 10555,
+      "vicinity": "Dist, Center Point, Olaya Street, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7122941,
+          "lng": 46.6767869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7136636802915,
+            "lng": 46.6781931802915
+          },
+          "southwest": {
+            "lat": 24.71096571970849,
+            "lng": 46.6754952197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ibis Riyadh Olaya Street",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109925896101858728757\">ibis Riyadh Olaya Street</a>"
+          ],
+          "photo_reference": "AWU5eFh81YfdSJWQgMOBFjgUhcmKTyWOJ6mA17i0dRw-YNmExWZit3nAC7wFz5OHCjEbEWBgw-5Kpa0bqwZ9a23MD_ZLOshemRiBEYru4ck4NnnLnnUCNgn50z-SJYTS4emjFCWN8LeeQ6h34ExNURJoyfd6eAf-QfONy286Vmj3YCPgKBIL",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJBwmLndcDLz4Rb_gSHrYEvVo",
+      "plus_code": {
+        "compound_code": "PM6G+WP Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+WP"
+      },
+      "rating": 3.8,
+      "reference": "ChIJBwmLndcDLz4Rb_gSHrYEvVo",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 3607,
+      "vicinity": "Opposite To The Kingdom Tower, Olaya Street, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7141081,
+          "lng": 46.6771964
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7154528302915,
+            "lng": 46.67850738029151
+          },
+          "southwest": {
+            "lat": 24.7127548697085,
+            "lng": 46.67580941970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "MySaudiJobs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106248996968147735342\">Md Al Amin</a>"
+          ],
+          "photo_reference": "AWU5eFhULx-TBUEGAHACV9E3RV1cC31wrmX1n_iSpinVk2X18taVUWwPEVFlFI2S3Wfo2gJu8sHyKVNuOlctYz2OuSe1o2cR3Kezm6hWu27J0voUMTKuZQBn50ZyhTO6nlhbg4rzwakL67I_BQ3wmk3F0NkYsWBSJmm3Mjdv13Iynxmb1xBF",
+          "width": 1844
+        }
+      ],
+      "place_id": "ChIJlUJktNcCLz4R68NpXRIUqKI",
+      "plus_code": {
+        "compound_code": "PM7G+JV Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+JV"
+      },
+      "rating": 3.6,
+      "reference": "ChIJlUJktNcCLz4R68NpXRIUqKI",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 27,
+      "vicinity": "tahlia street Riyadh 11322 Saudi Arabia, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7146538,
+          "lng": 46.6769616
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7158869302915,
+            "lng": 46.67837333029149
+          },
+          "southwest": {
+            "lat": 24.7131889697085,
+            "lng": 46.6756753697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Watania Agriculture Showrooms",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJe5FSpNECLz4RZXQd8ovRlJM",
+      "rating": 3.2,
+      "reference": "ChIJe5FSpNECLz4RZXQd8ovRlJM",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 9,
+      "vicinity": "Al Urubah Road, PM7G+VQ8, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7135517,
+          "lng": 46.6752957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149046802915,
+            "lng": 46.6766558802915
+          },
+          "southwest": {
+            "lat": 24.71220671970849,
+            "lng": 46.6739579197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ata Assaudia",
+      "place_id": "ChIJG964KtICLz4R2qJOm87MBjQ",
+      "reference": "ChIJG964KtICLz4R2qJOm87MBjQ",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "vicinity": "Riyadh"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 24.7135517,
+          "lng": 46.6752957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149046802915,
+            "lng": 46.6766558802915
+          },
+          "southwest": {
+            "lat": 24.71220671970849,
+            "lng": 46.6739579197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "NAHAR MUSTAQBAL ESTABLISHMENT",
+      "permanently_closed": true,
+      "place_id": "ChIJG964KtICLz4R6DFxsn1GAdk",
+      "reference": "ChIJG964KtICLz4R6DFxsn1GAdk",
+      "scope": "GOOGLE",
+      "types": ["shopping_mall", "point_of_interest", "establishment"],
+      "vicinity": "Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7135517,
+          "lng": 46.6752957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149046802915,
+            "lng": 46.6766558802915
+          },
+          "southwest": {
+            "lat": 24.71220671970849,
+            "lng": 46.6739579197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Domino's Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109066205251603629893\">Domino&#39;s Pizza</a>"
+          ],
+          "photo_reference": "AWU5eFjtjc33p48vtve8eE2jMfeIZroA1zIXydLMB-tYdYJ5paHAiSUj6IUnXu7fYOdxSxzptXO-0_9qb44AveqNwlvU4ChtXSjm5rN_kYgjzgZxZQZ25yec1PazRiTmeQXzn80kLrfmUDSmtlk24STCaf2rx6rlKHWu-Z9l42jRzuV2hjTN",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJsZUtNGEOLz4RNBD4258sb-s",
+      "plus_code": {
+        "compound_code": "PM7G+C4 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+C4"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJsZUtNGEOLz4RNBD4258sb-s",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 104,
+      "vicinity": "7469 Al Khalifah Al Maamoun St., Badr Riyadh 14724-3616, الرياض"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7135517,
+          "lng": 46.6752957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149046802915,
+            "lng": 46.6766558802915
+          },
+          "southwest": {
+            "lat": 24.71220671970849,
+            "lng": 46.6739579197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+      "name": "Naft Fuel Station",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102725221632343083267\">N 7</a>"
+          ],
+          "photo_reference": "AWU5eFi3iyUDVwDcBZP_1ew7QkfoxBojuuCVwunvIyrHUw3vWZrXCVNt3kD8VeYCxgQYzbHVTVq7hxJkmHEO0lPUnLGWniY_pPwhYxARt2bKhdho0aGlvXGIPm9-910b-XKrbPEuESCrbLfgcWv-UlHc1OKCOMKDplYUiXNARSI5xXc9Q-m5",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ_7vP0HoQLz4RvD1P9LcfUu4",
+      "plus_code": {
+        "compound_code": "PM7G+C4 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+C4"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ_7vP0HoQLz4RvD1P9LcfUu4",
+      "scope": "GOOGLE",
+      "types": ["gas_station", "point_of_interest", "establishment"],
+      "user_ratings_total": 426,
+      "vicinity": "شارع الشيخ إسحاق بن عبدالحمن بن حسن, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.713552,
+          "lng": 46.675296
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149048802915,
+            "lng": 46.6766557802915
+          },
+          "southwest": {
+            "lat": 24.7122069197085,
+            "lng": 46.6739578197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Dr.Ahmed Alsadi",
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108284879649030202975\">Dr.Ahmed Alsadi</a>"
+          ],
+          "photo_reference": "AWU5eFh703qom6lWpKje-_QdsL3ODmL1XAVRbxRbGTvYPI4RRj5zK52RAHqCuatKLn9ZIq9gAjadEYJWOCC6xa5rRJ5Zl9q620P9cvDcu8kYf1C13VkEJu07qr8Gpo9zQIsXQfY1SQ0KojrNB6yRbeSX42HSz-UqE-O79W7i8Jz_jgmeRfgz",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJSd64KtICLz4RIeIV2eVwPuo",
+      "reference": "ChIJSd64KtICLz4RIeIV2eVwPuo",
+      "scope": "GOOGLE",
+      "types": ["hospital", "point_of_interest", "health", "establishment"],
+      "vicinity": "Abi Bakir assediq st., Riyadh"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 24.7135517,
+          "lng": 46.6752957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149046802915,
+            "lng": 46.6766558802915
+          },
+          "southwest": {
+            "lat": 24.71220671970849,
+            "lng": 46.6739579197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "بيت الست المصرية",
+      "permanently_closed": true,
+      "place_id": "ChIJG964KtICLz4R-fsRMrCuFwU",
+      "rating": 1,
+      "reference": "ChIJG964KtICLz4R-fsRMrCuFwU",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7135517,
+          "lng": 46.6752957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7149046802915,
+            "lng": 46.6766558802915
+          },
+          "southwest": {
+            "lat": 24.71220671970849,
+            "lng": 46.6739579197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sun and Sand Sports Head Office",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJWbhqrk8dLz4RJsDtoLXHcuc",
+      "rating": 2.9,
+      "reference": "ChIJWbhqrk8dLz4RJsDtoLXHcuc",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 23,
+      "vicinity": "PM7G+C4F, Tatweer Towers, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7134428,
+          "lng": 46.6756681
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7147334302915,
+            "lng": 46.6768698302915
+          },
+          "southwest": {
+            "lat": 24.7120354697085,
+            "lng": 46.6741718697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Parsons",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJG964KtICLz4RuSbXDR2u37Y",
+      "plus_code": {
+        "compound_code": "PM7G+97 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+97"
+      },
+      "rating": 2.9,
+      "reference": "ChIJG964KtICLz4RuSbXDR2u37Y",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 9,
+      "vicinity": "Olaya Street, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.71402489999999,
+          "lng": 46.6753906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7152026802915,
+            "lng": 46.6766470802915
+          },
+          "southwest": {
+            "lat": 24.7125047197085,
+            "lng": 46.6739491197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Banque Saudi Fransi",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106918469846751148173\">Abdullah</a>"
+          ],
+          "photo_reference": "AWU5eFg6tljbqbSXNxz_vKb71DAMA7BA_nOMrlt-MkVeUYTRFGecaBPUH2tpYLINYogPxmH3hpURfoNaKFq-iJvfio81RDRoc3kQ-UMIdfmbAMEeF__2Zzb66tEWXmx446kc3knTOEfmAvCierPhIbs9_GjBQdOoD6Ouftwwg9J3dnnlUoS7",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJx7osIdICLz4R4gIKEjCo2o0",
+      "plus_code": {
+        "compound_code": "PM7G+J5 Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+J5"
+      },
+      "rating": 3.5,
+      "reference": "ChIJx7osIdICLz4R4gIKEjCo2o0",
+      "scope": "GOOGLE",
+      "types": ["bank", "finance", "point_of_interest", "establishment"],
+      "user_ratings_total": 118,
+      "vicinity": "Al Khurmah, Al Wurud, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.714088,
+          "lng": 46.6756521
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7153206302915,
+            "lng": 46.6770633302915
+          },
+          "southwest": {
+            "lat": 24.7126226697085,
+            "lng": 46.6743653697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "شركة رمزان للتجارة والمقاولات RAMZAN TRADING &CONTRACTING EST",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105198772800797024679\">Souha Ab</a>"
+          ],
+          "photo_reference": "AWU5eFgVVSJXKkRdsm06q2PozDMwJhf1_xgN_cz7nmdB0JOwCPZkd0n_XGEgGwBYpEHoYDAOXKktlcVp_Z0kj01lxuoj0o1_eZTYk4KrFr0PohiwpluLIHCDw2Q9bdtdj-9QnpO4Qh7M7Uuz4bJ7-KWgG5bZQsnlfDEYbtubRKl33-dzTToM",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJG-l-htECLz4ROrtF89eRpS0",
+      "plus_code": {
+        "compound_code": "PM7G+J7 Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+J7"
+      },
+      "rating": 5,
+      "reference": "ChIJG-l-htECLz4ROrtF89eRpS0",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "2868 Al Urubah Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7141414,
+          "lng": 46.67570439999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7153611802915,
+            "lng": 46.6771213802915
+          },
+          "southwest": {
+            "lat": 24.7126632197085,
+            "lng": 46.6744234197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "Alinma ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105837689067650769320\">Atef Ammar</a>"
+          ],
+          "photo_reference": "AWU5eFjtIxoEnvSiWgmF-eY8-esShMb5VLP7Y4SmJfUYDv--MawtQj9tnbFZPq6yTZQs4TVLkzg9Pj175kWuW8w-qLFSQAh6b41CWgxCgSlMcXOE1KgUAKFNrlTnRiDh1hNzBHcyjmc5XKtDtT_r1DZ_jqbsRQV2icSf90ONpeRMDVuJe4mp",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJAQqsMNICLz4R1rY8va9FInA",
+      "plus_code": {
+        "compound_code": "PM7G+M7 Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+M7"
+      },
+      "rating": 4.3,
+      "reference": "ChIJAQqsMNICLz4R1rY8va9FInA",
+      "scope": "GOOGLE",
+      "types": ["atm", "finance", "point_of_interest", "establishment"],
+      "user_ratings_total": 9,
+      "vicinity": "2868 Al Urubah Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.714273,
+          "lng": 46.675897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7154732302915,
+            "lng": 46.6773242302915
+          },
+          "southwest": {
+            "lat": 24.71277526970849,
+            "lng": 46.6746262697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Lifestyle",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106916612192848056751\">Lifestyle</a>"
+          ],
+          "photo_reference": "AWU5eFi4WOLfRl4nNd0_h5mLDoFG7n8ICMfMipncu5UTkS_5BZyDWVWqIecnFPOJNZM5_1ikQRoQrd2S7p7YSudV_yCn26M8BobFbeDayyxh68__mP54HF9FmJjAuSAp9lspTWGgKkQ85UBSHXKtgAcWVPTQPbCjOEP1mIkHJUIwl2sYlQ0r",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJp85ChdECLz4RXmwobVRQeus",
+      "plus_code": {
+        "compound_code": "PM7G+P9 Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+P9"
+      },
+      "rating": 3.2,
+      "reference": "ChIJp85ChdECLz4RXmwobVRQeus",
+      "scope": "GOOGLE",
+      "types": [
+        "department_store",
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "Hotat Bin Tamimi, الرياض"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 24.7142507,
+          "lng": 46.67608509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7154932802915,
+            "lng": 46.6774900802915
+          },
+          "southwest": {
+            "lat": 24.7127953197085,
+            "lng": 46.6747921197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Circle Global Logistics - Riyadh Br.",
+      "permanently_closed": true,
+      "place_id": "ChIJUc_em9ECLz4RCIoVXLNsYss",
+      "plus_code": {
+        "compound_code": "PM7G+PC Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+PC"
+      },
+      "rating": 3.5,
+      "reference": "ChIJUc_em9ECLz4RCIoVXLNsYss",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 4,
+      "vicinity": "2908 Al Urubah Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7142472,
+          "lng": 46.67615759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7155039802915,
+            "lng": 46.67755508029149
+          },
+          "southwest": {
+            "lat": 24.7128060197085,
+            "lng": 46.67485711970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ميدكوليز",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100303560387315774865\">Mohamed Elhosary</a>"
+          ],
+          "photo_reference": "AWU5eFgoCB3xtls-FwwMUlctb7F-8Tq9DPT9oTvZJcQnnTufDIQ1SMWcqYebXSXvmKVgH565xrqgLlF8W7Nl_VnASLjpll-RR4t0l2Xt9wLPKPYy1u79A8fYClEFkXiCSm3ZprHODan0SxuZsQn7XA-PPKnvY97uQuKyAVmcXet1rvRGyPYK",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJX0_Bm9ECLz4RFEV0NLDTkFo",
+      "plus_code": {
+        "compound_code": "PM7G+MF Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+MF"
+      },
+      "rating": 3.9,
+      "reference": "ChIJX0_Bm9ECLz4RFEV0NLDTkFo",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "health", "establishment"],
+      "user_ratings_total": 138,
+      "vicinity": "2922 Al Urubah Road, Riyadh"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 24.695087,
+          "lng": 46.6806472
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.71655269971117,
+            "lng": 46.70351172555217
+          },
+          "southwest": {
+            "lat": 24.66823978836725,
+            "lng": 46.66354518575102
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Al Olaya",
+      "photos": [
+        {
+          "height": 1792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116558856029794993638\">Hasher Gems Afzal Qureshi</a>"
+          ],
+          "photo_reference": "AWU5eFjW-3uv3aYbuyizfhP8g9427q4cQQ1XCS9deL3EVByqdYoz-FYWMK9aNTO3jQl5-xBj2-NjmANDyaTFkN6bZB5n49a58QeuK5PB5jQJdPpdU1b_pwfx5pxxajXlzBPPdc41mdtaSHGsODlVcj862AXsELizSBpx03xpRhRzHVP984JN",
+          "width": 3904
+        }
+      ],
+      "place_id": "ChIJF7QkuDsDLz4R0rJ4SsxFl9w",
+      "reference": "ChIJF7QkuDsDLz4R0rJ4SsxFl9w",
+      "scope": "GOOGLE",
+      "types": ["sublocality_level_1", "sublocality", "political"],
+      "vicinity": "Al Olaya"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7137972,
+          "lng": 46.6764771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7152101302915,
+            "lng": 46.6777900802915
+          },
+          "southwest": {
+            "lat": 24.71251216970849,
+            "lng": 46.6750921197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Turkish Airlines Office",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109508775836953260731\">عارف آل عطية</a>"
+          ],
+          "photo_reference": "AWU5eFhaeElUgyOkl6bzkYaN6Sj0fr_oTE-55DngeL3aejATveolHCyN2hyzl5FoVYPSMw4HKLosCcU9k6Ei50g3svGRLfioySScRxCAKw6WiCUXRblVomBYT1PW1kUAmgpWsG_yKi7CxcmB55Sw82dcABFDAR-zq00k6W6nJHTUJGcknUkK",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJF10rddECLz4Rkoe3lhYcchI",
+      "plus_code": {
+        "compound_code": "PM7G+GH Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+GH"
+      },
+      "rating": 3.6,
+      "reference": "ChIJF10rddECLz4Rkoe3lhYcchI",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 605,
+      "vicinity": "Al Urubah Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7123165,
+          "lng": 46.67531959999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7136671302915,
+            "lng": 46.6766882802915
+          },
+          "southwest": {
+            "lat": 24.71096916970849,
+            "lng": 46.6739903197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "KFC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 771,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110337794107884391361\">Abdul Samad</a>"
+          ],
+          "photo_reference": "AWU5eFgovKsyg-lyBTv849ud9ZOfKSiSaL1UIDcG4dZgF5S43DnbN4xfQTTPz0tWZSTgU5XI943f1AYCEFqqg8n5DTMFAD6gNKMAO4OhxFlqXgHPOBEsg4d6XNqSpEU8MYYn9VeBrE64pVkdujY2MC1jLkEDq5Yl6IDPgU8dAHyvqzaX8tKy",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJFahb4tMCLz4RtRkeoqCppyk",
+      "plus_code": {
+        "compound_code": "PM6G+W4 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+W4"
+      },
+      "price_level": 2,
+      "rating": 3.2,
+      "reference": "ChIJFahb4tMCLz4RtRkeoqCppyk",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 141,
+      "vicinity": "Kingdom Mall, Olaya Street, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.712466,
+          "lng": 46.67462500000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.71374713029151,
+            "lng": 46.6757838302915
+          },
+          "southwest": {
+            "lat": 24.7110491697085,
+            "lng": 46.6730858697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Oasis",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108547921505531493893\">rahaf alf</a>"
+          ],
+          "photo_reference": "AWU5eFjK20lrO8KfVQVq3T1ujPABUPeqaAL86vE5RcS6uzR55zlLnTUIFsTHkeoq6H-waRqc-sXfGpbRWw8YDRb7Frn3eL5L09EJc4g_I1YO4te4UL69F-ofIVK7-Gw1dnob0AmS0VPzCdgXrYiHjKYfn0a3xJ-w5pKiBOGjr4KocefqhSu7",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJbc_2xNMCLz4Ru9uyvx3UKME",
+      "plus_code": {
+        "compound_code": "PM6F+XR Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6F+XR"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJbc_2xNMCLz4Ru9uyvx3UKME",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 182,
+      "vicinity": "Kingdom Centre Riyadh, Olaya St, Al Olaya, Riyadh 12214, الرياض"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7121198,
+          "lng": 46.6751598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7134710302915,
+            "lng": 46.6766225802915
+          },
+          "southwest": {
+            "lat": 24.71077306970849,
+            "lng": 46.6739246197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Kudu - Kingdom Tower",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111634727290037928139\">Kudu - Kingdom Tower</a>"
+          ],
+          "photo_reference": "AWU5eFi_GWdWRPeq00wgJgPNNAgziW1gC_OP7Ackct221b6zbjaNGBvUVFtkgWDQpaYMInSx3Fm9ZUngTHFfaEPZivBNiVj0Zn6ZiDiGGbdPlz3hQsM1Uqc63Pzw30DhjvudzhJAxZlZMcE2kSKXysKVmWdHBeAFlBgpNDN88y41nIIdRXZr",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ3ZQH4dMCLz4RaQubCmzu61o",
+      "plus_code": {
+        "compound_code": "PM6G+R3 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+R3"
+      },
+      "price_level": 2,
+      "rating": 3.5,
+      "reference": "ChIJ3ZQH4dMCLz4RaQubCmzu61o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "meal_delivery",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 91,
+      "vicinity": "سنتر بوينت, Food Court, Ground Floor, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7121829,
+          "lng": 46.67471789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7134991802915,
+            "lng": 46.67586793029149
+          },
+          "southwest": {
+            "lat": 24.7108012197085,
+            "lng": 46.6731699697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nespresso",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100612830989134198364\">Rico Sumadia</a>"
+          ],
+          "photo_reference": "AWU5eFjB3h7cL2yy8wn44qbr7a-iZ__H4KQ-MeavTq3Tksrivk_9UvYdkEdWRcZiDSx9JFkCBFL1l5qLUb37mjEDqq1sTaajwIZvuz2be9w2yIbL2BGh1EhdOnCEGnoNg36eJyh62_fZiYIBlaGqoPeu7O5c4NhvKjnWSZl_nxjojDI5S7Ai",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6TRi4tMCLz4RN0A7opPfhB8",
+      "rating": 4.1,
+      "reference": "ChIJ6TRi4tMCLz4RN0A7opPfhB8",
+      "scope": "GOOGLE",
+      "types": ["food", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 132,
+      "vicinity": "PM6F+VVG, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7121408,
+          "lng": 46.6747972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7134641302915,
+            "lng": 46.6759103802915
+          },
+          "southwest": {
+            "lat": 24.7107661697085,
+            "lng": 46.67321241970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Swarovski",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101118443812869452196\">Sonu Anand</a>"
+          ],
+          "photo_reference": "AWU5eFiFc55OLy9NstuH_05A7OnR18JS0v67l3nYtMQZLnwVA2fAeIHmjOGf7vdlk8eMJRmMyeMWWHQdRDmsNB925txV669nhjXG5c_Uipk6clOof0LnZtqfs2RvbnO6iNJZ7sTf71Is3xnUR6dXyafoFLgC7DJB-jg5hd4sMfFEBKaoekan",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJpeRb5NMCLz4Rb5cMQRU3A6c",
+      "plus_code": {
+        "compound_code": "PM6F+VW Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6F+VW"
+      },
+      "price_level": 4,
+      "rating": 4.1,
+      "reference": "ChIJpeRb5NMCLz4Rb5cMQRU3A6c",
+      "scope": "GOOGLE",
+      "types": ["jewelry_store", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 75,
+      "vicinity": "9597 Al Urubah Road, 2239 طريق العروبة،, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7139709,
+          "lng": 46.6770027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7153664802915,
+            "lng": 46.6782074302915
+          },
+          "southwest": {
+            "lat": 24.71266851970849,
+            "lng": 46.6755094697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Sidewalk",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 462,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106377935953740215228\">سايدووك</a>"
+          ],
+          "photo_reference": "AWU5eFhhvWtrVmbf_swjISqL2PMEwAepoo0RzbGDWEAchZV5ySyd5ps-acLMys9bPUyvvHLzSvM4Dvjn2o2o-hSALufIEutyBDrFeCTRLvfwQ69eDaqkQaulHTGSvs25H1IgwCJoKds0k3fUzbZPumZakP4Wm3jsa5Kdt66B1mylI_LTWdz4",
+          "width": 687
+        }
+      ],
+      "place_id": "ChIJs1-4CdECLz4RzP0SiDd_z-4",
+      "plus_code": {
+        "compound_code": "PM7G+HR Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+HR"
+      },
+      "rating": 3.7,
+      "reference": "ChIJs1-4CdECLz4RzP0SiDd_z-4",
+      "scope": "GOOGLE",
+      "types": ["shoe_store", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 591,
+      "vicinity": "طريق العروبة, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7119496,
+          "lng": 46.6749583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7133180302915,
+            "lng": 46.6765212802915
+          },
+          "southwest": {
+            "lat": 24.71062006970849,
+            "lng": 46.6738233197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Omega Boutique",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101417399967872515173\">عبدالله Am</a>"
+          ],
+          "photo_reference": "AWU5eFgXfH_CDl5ll3bUWTgdr3fb8lkh-2AZBQq8pX9FN81qlS-D1LCV6b5zX7rbp0xYKxRXvmW9U0sPa6TeODLuyKPNzANqySbZPkGmwiHbill3IYEw0MPayxqP_np5POBvyqVBiO62_swcBeYVl_n2GfXyHXyXLRhuyLLwZDzPcf4uVGIZ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJE8mX5tMCLz4RTP0jP1-WmlY",
+      "plus_code": {
+        "compound_code": "PM6F+QX Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6F+QX"
+      },
+      "rating": 4,
+      "reference": "ChIJE8mX5tMCLz4RTP0jP1-WmlY",
+      "scope": "GOOGLE",
+      "types": [
+        "jewelry_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "Kingdom Mall King Fahad road Axross Urubah St. Olaya St. Across Urubah, Kingdom Center Plaza ground floor, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7118618,
+          "lng": 46.67566479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7132094802915,
+            "lng": 46.6770108802915
+          },
+          "southwest": {
+            "lat": 24.7105115197085,
+            "lng": 46.67431291970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Victoria's Secret",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116868292934991574777\">dr.Maha Nahass</a>"
+          ],
+          "photo_reference": "AWU5eFibmtns_hjnQ8TDN1DCRmZZXHXhGAk6bDJy5Yaz055_IlmRotMEh45lqK_9TPrUCkELIUYgG5UzU2LfH-dYW0amV_iPBWLoGb0crkF4j01_i01lS4gIkyjwxIQcVmdSxDix9ck5Niqs_ju0fUyygtQE4gZyHHEaDqsrKp7T9azKaSHu",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJz7Fcw9MCLz4RjTIudJIwniA",
+      "plus_code": {
+        "compound_code": "PM6G+P7 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+P7"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJz7Fcw9MCLz4RjTIudJIwniA",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 62,
+      "vicinity": "Kingdom Centre, King Fahad Branch Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.71183599999999,
+          "lng": 46.675464
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7131929802915,
+            "lng": 46.6768323302915
+          },
+          "southwest": {
+            "lat": 24.7104950197085,
+            "lng": 46.6741343697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "H&M",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 948,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100100590521161099748\">Amnah Naji</a>"
+          ],
+          "photo_reference": "AWU5eFjk5dyhqO9J7dSPh-BzEjaxhBOQ-369988wO7CGAqGh7Ud_3EOdb5KETpufLCmkHcI86j7J6_ZUMORQGXlhMLhd4h9QpnPuIRbgwDdCFutfuP3YfOshdkkcLNsNL5Befw9xwUhjACLgeTUFy1FtQGUpbKK_tz_wcii7yA0WzpXDhEc",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJ32_s7dMCLz4RCG9gNujy0yM",
+      "plus_code": {
+        "compound_code": "PM6G+P5 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+P5"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ32_s7dMCLz4RCG9gNujy0yM",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 123,
+      "vicinity": "Kingdom Centre, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.71183599999999,
+          "lng": 46.675464
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7131929802915,
+            "lng": 46.6768323302915
+          },
+          "southwest": {
+            "lat": 24.7104950197085,
+            "lng": 46.6741343697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Boots",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110418768825328450817\">Adnan Merhabi</a>"
+          ],
+          "photo_reference": "AWU5eFho_NTW1L3ZOs6GebrjzMs6dptzw1pb2vrxZbhA9CZAHst3iwIJMqvaa5EHBI6SiQBlB1dYEz4xd_saO7vyDWD-VKVlfjEZoxnLz1GZOoYeXt66tIuXKeoiRzHSjDiQ1XhFqoc-JFj94EOc6VzmG0iIGI9gH4QzszAgfGvdzUQ8NxqY",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJAQAAm9MCLz4R49uKEDGHedE",
+      "plus_code": {
+        "compound_code": "PM6G+P5 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+P5"
+      },
+      "rating": 4,
+      "reference": "ChIJAQAAm9MCLz4R49uKEDGHedE",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "Kingdom Centre, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7137246,
+          "lng": 46.67323679999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7150387802915,
+            "lng": 46.6745051802915
+          },
+          "southwest": {
+            "lat": 24.7123408197085,
+            "lng": 46.6718072197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tharaa Global Recruitment",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105423802803392421297\">Farrukh Baig</a>"
+          ],
+          "photo_reference": "AWU5eFjrI43puy4F5tNyIXeUat-OyPEorAa0Oa44KHzCpc7aRHwpicRzrzzRDITdypS6F_J8D7efVsumvIJaOo4yH-OopLQhXr6KeaKQjghvk1Xoc05j5oeAOISo-4xWOYs8vBU-29qmFOuFF-fXEobLGvVNHkYvhK7vWOeU0VXFAK_ZFgEF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJE1y6kdYCLz4RNOI1Vm_URY8",
+      "rating": 4.2,
+      "reference": "ChIJE1y6kdYCLz4RNOI1Vm_URY8",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 6,
+      "vicinity": "Al-Thumamah Valley Street, PM7F+F7Q, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7118891,
+          "lng": 46.67434169999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7132391302915,
+            "lng": 46.6756971302915
+          },
+          "southwest": {
+            "lat": 24.7105411697085,
+            "lng": 46.6729991697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Nfhat Ocean Head office",
+      "place_id": "ChIJz_7rz9MCLz4Rct2je_50BkY",
+      "reference": "ChIJz_7rz9MCLz4Rct2je_50BkY",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "vicinity": "Al Urubah Road, PM6F+QP4, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.714616,
+          "lng": 46.6772066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7159084302915,
+            "lng": 46.6785861802915
+          },
+          "southwest": {
+            "lat": 24.7132104697085,
+            "lng": 46.6758882197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Noor-Clinics",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117186161252140138042\">مجمع عيادات نور الطبية حي الورود</a>"
+          ],
+          "photo_reference": "AWU5eFjc1_cVv9P5s0PDAd3VY-7qSZt3N1Zmgaz8Wi_0Huzh6skYBSUPLSJMWSb7HshELKLEPsdnOXgpK-oLXqLPeYD6v2_-axabLdDGQ9L8RrT0qJc2_ZZpIk4X3SuGoYptXmL8W0gFHxvNrlRqWOMkrLecfGjpOekColtVeXRSlsVHUoVV",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJt4uRpdECLz4RHxUnNy_zTIY",
+      "plus_code": {
+        "compound_code": "PM7G+RV Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7G+RV"
+      },
+      "rating": 3.7,
+      "reference": "ChIJt4uRpdECLz4RHxUnNy_zTIY",
+      "scope": "GOOGLE",
+      "types": ["hospital", "health", "point_of_interest", "establishment"],
+      "user_ratings_total": 1442,
+      "vicinity": "Al Urubah Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7115886,
+          "lng": 46.6752852
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7130136302915,
+            "lng": 46.6767400302915
+          },
+          "southwest": {
+            "lat": 24.7103156697085,
+            "lng": 46.6740420697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Piaget Boutique",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110418768825328450817\">Adnan Merhabi</a>"
+          ],
+          "photo_reference": "AWU5eFjQT4YG8Zmc4LbYXywpeZqlnGUiuSXl2b9viazz7FX14S_WzlQEXmBJXMJnLlT2GR9lS7D9twIJMAk2_3f5hrYRZQ09KMcHbSGkRU_e0V-bdnnr5Fwo5VBYGi6g_Fo296tPGuhkyczwCjBypzp5PdLCmqIXVUSNl9j-Mh5JxvIDBnO_",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJtaqqm9MCLz4RjbCrKdgc_Oc",
+      "plus_code": {
+        "compound_code": "PM6G+J4 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+J4"
+      },
+      "rating": 4.5,
+      "reference": "ChIJtaqqm9MCLz4RjbCrKdgc_Oc",
+      "scope": "GOOGLE",
+      "types": ["jewelry_store", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 40,
+      "vicinity": "Level 1, Kingdom Centre, Olaya Street, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7115689,
+          "lng": 46.6753596
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7129883802915,
+            "lng": 46.6767928302915
+          },
+          "southwest": {
+            "lat": 24.7102904197085,
+            "lng": 46.6740948697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "LUSTRO",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 982,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104377050933816104503\">LUSTRO</a>"
+          ],
+          "photo_reference": "AWU5eFis49yxmm8D5wG9z-eqwmq4i4rIaB5ljfcaM603seXacPrZ4FtpwvkdHZktCdZJMNk99cihdvPBVBwN8Ku-FaPusApt3iIUTnkZnxCyfdksNACe2tVgpD8m3xbdo2o4Ns6NJNbkkOprKhzzf90QHTkuu6dvdP11sN02Q-IYWxkqK9Ag",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJZeL3xKQCLz4RLA8yBaShC5w",
+      "plus_code": {
+        "compound_code": "PM6G+J4 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+J4"
+      },
+      "rating": 4.9,
+      "reference": "ChIJZeL3xKQCLz4RLA8yBaShC5w",
+      "scope": "GOOGLE",
+      "types": ["jewelry_store", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 101,
+      "vicinity": "برج المملكة, King Fahd Road, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7115177,
+          "lng": 46.6752286
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7129785802915,
+            "lng": 46.6767115302915
+          },
+          "southwest": {
+            "lat": 24.7102806197085,
+            "lng": 46.6740135697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Louis Vuitton Riyadh Kingdom",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112992374487437762689\">Hamdan Hamad</a>"
+          ],
+          "photo_reference": "AWU5eFhUtNIuR1DjcKfvgdp-U01vLL-4lXm1NgEOizvqX6RNzxB9RORfH_A3dh5V5Qj_Q6v4URoS1Lo6KC_Fk8Fs_5qQ6eudO1scUYLvipo4w7v25yo34shKw5zR8-XB8GDAi83qpN6Hf8OAD15OhqRSOZRdX4GZDSoQjuUiHwMXf3DBie36",
+          "width": 906
+        }
+      ],
+      "place_id": "ChIJJ938_zsDLz4RxO3kfTX0Jqw",
+      "plus_code": {
+        "compound_code": "PM6G+J3 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+J3"
+      },
+      "price_level": 4,
+      "rating": 4,
+      "reference": "ChIJJ938_zsDLz4RxO3kfTX0Jqw",
+      "scope": "GOOGLE",
+      "types": [
+        "shoe_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 576,
+      "vicinity": "Main Street, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7133308,
+          "lng": 46.6730306
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7147175802915,
+            "lng": 46.6744671802915
+          },
+          "southwest": {
+            "lat": 24.7120196197085,
+            "lng": 46.6717692197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "HUED",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107207868349606955914\">Rabih Rahil</a>"
+          ],
+          "photo_reference": "AWU5eFivHqHMu9-JDEtPQBLiimyxWR89TH8qjeg09nwfEVrBflUQQAJtyZygtNeaEPMa9QI_pS4EbVVyGG9r61xw-LHoFCHXGX7TB_YMhadxbBXrYH1rvA_wuHnGHb9Yj9R0GfGCQhVne4aYhNzPhpBt-iC2TObfDI_CzSwKcEzy-ctrRala",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJawg9WNICLz4R5cyUanfNm9E",
+      "plus_code": {
+        "compound_code": "PM7F+86 Al Wurud, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM7F+86"
+      },
+      "rating": 4.6,
+      "reference": "ChIJawg9WNICLz4R5cyUanfNm9E",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 33,
+      "vicinity": "Al Urubah Road, Olaya View Mall, 1st Floor, Araamis Consulting Company, Riyadh"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.7115024,
+          "lng": 46.675132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.71297053029151,
+            "lng": 46.6766634302915
+          },
+          "southwest": {
+            "lat": 24.7102725697085,
+            "lng": 46.67396546970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Boutique Messika",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111078381529623091414\">Noufy AlGassim</a>"
+          ],
+          "photo_reference": "AWU5eFgHbbhds9PvSbTj8bwFTQJsHJW8tAwB6LSin3l0Zb51Ikqowv8wqgNUzQpbutu9qWiHnGilnZ3tEivW4IGv853zX1irqAtkw_Mkk7L5h2kT-PM7xxuEYMesOYUitxfPmXloglcxIFLlTUVTmSJPZmBHZYwjAHDG4lJDB6PI_NSxdUgC",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJHQfEVdECLz4RCwCjBleoyAY",
+      "plus_code": {
+        "compound_code": "PM6G+J3 Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6G+J3"
+      },
+      "rating": 3.1,
+      "reference": "ChIJHQfEVdECLz4RCwCjBleoyAY",
+      "scope": "GOOGLE",
+      "types": ["jewelry_store", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 125,
+      "vicinity": "مركز المملكة, شارع العليا العام، العليا"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 24.71175839999999,
+          "lng": 46.6741531
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 24.7131473302915,
+            "lng": 46.6754826302915
+          },
+          "southwest": {
+            "lat": 24.71044936970849,
+            "lng": 46.6727846697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "PwC's Academy Riyadh",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106324264005475327241\">Abdulmalik .s</a>"
+          ],
+          "photo_reference": "AWU5eFiErzL8HT034pBUpS3IbsVTUmNYi1toBCDJBm5KnWw3vpevgsSnegGgK0edDDNhd1ugtnP3rnB_6OkwDD1oUAv-7hqLKO9ZSs-R1P0ikt7URtXdTX5RW6vSLozYjMFCusq0kBG3JdJzWaEe-8GHjwL8okjKxa9l3GAfyTbVCFvuZ1Gk",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJxeq2ESgDLz4RybvhnEt3RSE",
+      "plus_code": {
+        "compound_code": "PM6F+PM Al Olaya, Riyadh Saudi Arabia",
+        "global_code": "7HP8PM6F+PM"
+      },
+      "rating": 4.3,
+      "reference": "ChIJxeq2ESgDLz4RybvhnEt3RSE",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 50,
+      "vicinity": "سنتر بوينت, King Fahd Highway, 21st Floor, Price water house Coopers, Riyadh"
+    },
+
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 24.7117529,
+                "lng": 46.67416
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.71306433029151,
+                    "lng": 46.67552903029151
+                },
+                "southwest": {
+                    "lat": 24.7103663697085,
+                    "lng": 46.67283106970851
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "King & Spalding LLP",
+        "permanently_closed": true,
+        "place_id": "ChIJ1xvcxL7iLj4R-qfsMxTV8cQ",
+        "plus_code": {
+            "compound_code": "PM6F+PM Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+PM"
+        },
+        "rating": 2.5,
+        "reference": "ChIJ1xvcxL7iLj4R-qfsMxTV8cQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "برج المملكة, طريق الملك فهد, 20th Floor،, الرياض"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7114933,
+                "lng": 46.6749243
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7126549802915,
+                    "lng": 46.6761613802915
+                },
+                "southwest": {
+                    "lat": 24.7099570197085,
+                    "lng": 46.6734634197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111031015076366549846\">Subway Al-Orouba Road</a>"
+                ],
+                "photo_reference": "AWU5eFinr-uCZLLl01wKdtNxi6jDCNpl64rhQzgpgVQqRssLT3A7u790eZPxugKbo03SIBzPJoIs58wSWN7J4SEsx_zLhoGuX11hwZdXpO-OPalEkJF_qh5e9N7knQT0LCW_SDVgGchdHIAI4FLmpA0UuAwOYFN5CFpalQtRBkx-kNLHCkTV",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJLXfe3NMCLz4RJ26CQfPU7Rg",
+        "plus_code": {
+            "compound_code": "PM6F+HX Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+HX"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJLXfe3NMCLz4RJ26CQfPU7Rg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 949,
+        "vicinity": "Al-Orouba Rd, Kingdom Tower, Food Court,Al Olaya District Block # 2239, Riyadh"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 24.7113852,
+                "lng": 46.6750566
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7125871302915,
+                    "lng": 46.67624868029149
+                },
+                "southwest": {
+                    "lat": 24.7098891697085,
+                    "lng": 46.67355071970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Samsunait",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103478646296152178284\">Yousef</a>"
+                ],
+                "photo_reference": "AWU5eFhNu_91Xafq_bVnEBu201ZDxHFjHEOkImvsAbiXI3eS26slGPKuvRaY8MXGK70OtOIhQS3bH3xRRJccsR6dMaIEDbiporoyNDUVn8f7RWv8RpZIW05uxG0WIDnzqnGMSEfNdg7Vi42GX25ZrFdklNmgb1XCLvK6ogtKcKp30hvaOtbi",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJn1v2-9MCLz4RqajYO0Sh4H8",
+        "rating": 3.4,
+        "reference": "ChIJn1v2-9MCLz4RqajYO0Sh4H8",
+        "scope": "GOOGLE",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 21,
+        "vicinity": "PM6G+H23, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7113949,
+                "lng": 46.6748755
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7126038802915,
+                    "lng": 46.67614083029149
+                },
+                "southwest": {
+                    "lat": 24.7099059197085,
+                    "lng": 46.6734428697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "early learning centre مركز التعليم المبكر",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118118092269404648540\">Rawanoo Rawan</a>"
+                ],
+                "photo_reference": "AWU5eFj9XewIuunZ_LN1x9EssqxlmYP-26L1MCmXlt7BseZVCSBbNk4zNvfQE4enZQy0b9GeLTM6UB7WcX9N659bMz-dnmKBCiTGZF3b9nbkvqVVEW1RLjCQg0XVqOh4C74ouznJRmh6draA0PgBiK--SnigyJsXfcpDcmsRHC7KAM9m-67E",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJQ6RI-tMCLz4R40LCWkblDqQ",
+        "plus_code": {
+            "compound_code": "PM6F+HX Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+HX"
+        },
+        "rating": 3.7,
+        "reference": "ChIJQ6RI-tMCLz4R40LCWkblDqQ",
+        "scope": "GOOGLE",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 23,
+        "vicinity": "العليا،, الرياض"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7112724,
+                "lng": 46.6750445
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7125061302915,
+                    "lng": 46.6762705302915
+                },
+                "southwest": {
+                    "lat": 24.7098081697085,
+                    "lng": 46.6735725697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Graff Riyadh, The Kingdom Centre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108736631761181650442\">Areej Al Khowaiter</a>"
+                ],
+                "photo_reference": "AWU5eFgwXToZd-31ZEfl3mLHdcgutIF3eJt8tUuohXSy_dzsopCERz0dqb3m0zh59xB5kfoxl5B5I4nIB_0CUD-KOqr5OZ5LJ_1p0klhCFVwgQ0v50-dVl8gsKFfWqTFryGUUvQY-tdHp1UETFqi34tLmk7RIJWRpTMbiYrck6flYT0aFRqb",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJN9wL7dMCLz4RNDrW7F9F32A",
+        "plus_code": {
+            "compound_code": "PM6G+G2 Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6G+G2"
+        },
+        "rating": 3.2,
+        "reference": "ChIJN9wL7dMCLz4RNDrW7F9F32A",
+        "scope": "GOOGLE",
+        "types": [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "Kingdom Centre, The, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7113828,
+                "lng": 46.6743951
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7141164,
+                    "lng": 46.67781504999999
+                },
+                "southwest": {
+                    "lat": 24.7083796,
+                    "lng": 46.67075484999999
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Kingdom Centre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105136840126918476607\">faisal ali</a>"
+                ],
+                "photo_reference": "AWU5eFjx16IhkP7rbocuu2gPf_v15YRxJAWi9Ru8MUb9dg28Znd-Ok1NfVbh9NJ2OUUXshGTbrbuhQwAy85N_xdwNvv9CQratetE9c5UtCycoUgPMn1qH4QZtIno1UhmHMmQW4QFi7-iT5D526KqqI_cf9kjkNGo1LzG5YEZV1S_eYARAW4S",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJmW8EDigDLz4REqJgseo3dwM",
+        "plus_code": {
+            "compound_code": "PM6F+HQ Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+HQ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJmW8EDigDLz4REqJgseo3dwM",
+        "scope": "GOOGLE",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 25169,
+        "vicinity": "King Fahd Road, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7113861,
+                "lng": 46.6743468
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7125892802915,
+                    "lng": 46.67576053029149
+                },
+                "southwest": {
+                    "lat": 24.7098913197085,
+                    "lng": 46.67306256970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "كانتون Canton Express",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101999252915132958950\">كانتون Canton Express</a>"
+                ],
+                "photo_reference": "AWU5eFjwKqj-xqtm2jx48ph1bOww-qW1lRWqWiXxB1-lxbu55gkrKEceEY6NiEBr2kA0rVN11qhWSnYlep6MdS44k7cKvkz130MzuqbPTZOeEFJsY7ISLLnfMQcDV7hOI7zw1-ZgMiOZu1sK8x4SHcC3u5q3VYmndsXwmPXepIwXN2B2rN2p",
+                "width": 820
+            }
+        ],
+        "place_id": "ChIJZ2yZ7dMCLz4RdZRNREEll18",
+        "plus_code": {
+            "compound_code": "PM6F+HP Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+HP"
+        },
+        "price_level": 2,
+        "rating": 3.6,
+        "reference": "ChIJZ2yZ7dMCLz4RdZRNREEll18",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 85,
+        "vicinity": "Kingdom Centre, Olaya Street, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7129556,
+                "lng": 46.6727687
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7142163802915,
+                    "lng": 46.6741623302915
+                },
+                "southwest": {
+                    "lat": 24.7115184197085,
+                    "lng": 46.6714643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Araamis",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116149822867644092910\">osama abo-alqumsan</a>"
+                ],
+                "photo_reference": "AWU5eFjyLBAPPk7M6X78uwGUjimTpv1d-RExzFMUJv6VMJWbTJshJOhkBR_kbXSKJy7znFOvXgT6rcQqwJBqF-hntLOhNp0E2LqVA64WzeKseSM7RdZlJ_l3fAKJjMH3VVj_VouRPFcoTNohM6pDpokt-eJJOIpxTAVOuAB9kf8whMfSRplE",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJbwgj-dICLz4RBuPb4VlTUU8",
+        "plus_code": {
+            "compound_code": "PM7F+54 Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7F+54"
+        },
+        "rating": 4.3,
+        "reference": "ChIJbwgj-dICLz4RBuPb4VlTUU8",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7113795,
+                "lng": 46.6742193
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7128659302915,
+                    "lng": 46.6755320302915
+                },
+                "southwest": {
+                    "lat": 24.7101679697085,
+                    "lng": 46.6728340697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "VALENTINO",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 596,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105507196156232682040\">VALENTINO</a>"
+                ],
+                "photo_reference": "AWU5eFgjIlB42dMurueDFmOAHrxKqudoIp-LteeLLLnCEd1n0xKliWsjDQ69fX3tkgJu2dNrpOKmh3uAbMwPW9PeN80PsdP9wfvc3URa-xH1SFBVql_e5rnwlX7rogql7ZhCUJf6riqr_Ye3HtlQD6qeVK_TwGgTIVJSV4BdmLJrjjO22XE",
+                "width": 1060
+            }
+        ],
+        "place_id": "ChIJ5U034tMCLz4R-m0QsA4EBHQ",
+        "plus_code": {
+            "compound_code": "PM6F+HM Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+HM"
+        },
+        "rating": 2.8,
+        "reference": "ChIJ5U034tMCLz4R-m0QsA4EBHQ",
+        "scope": "GOOGLE",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 92,
+        "vicinity": "Kingdom Centre, King Fahd Road, 2nd Floor, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7139321,
+                "lng": 46.6726567
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7153142802915,
+                    "lng": 46.6740734302915
+                },
+                "southwest": {
+                    "lat": 24.71261631970849,
+                    "lng": 46.6713754697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "TeleNoc HQ - هلكون لتقنية المعلومات",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2604,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110875701729231104131\">TeleNoc HQ - هلكون لتقنية المعلومات</a>"
+                ],
+                "photo_reference": "AWU5eFjG3MuXE1OFm25YlDwQj9OLrtqvqceTni-yGmiECK3i5y13ftxmKiuhCYHl6BR57VWq3logvY_kwkmoKxjntCCL_sNs7tEkANp9thsgypF8Uq8Ul9XjBN_rF9xEhMlv2dvSJ6RGTFIwX_zX0nGJR-aeUST1nmnDfPCCc46w6QlLtj0",
+                "width": 5472
+            }
+        ],
+        "place_id": "ChIJzRka-i4DLz4Rhrla4zCM89k",
+        "plus_code": {
+            "compound_code": "PM7F+H3 Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7F+H3"
+        },
+        "rating": 4,
+        "reference": "ChIJzRka-i4DLz4Rhrla4zCM89k",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 43,
+        "vicinity": "Olaya View Tower, 2nd Floor, Office No. 4027"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7155373,
+                "lng": 46.67355959999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7169225302915,
+                    "lng": 46.6749930302915
+                },
+                "southwest": {
+                    "lat": 24.7142245697085,
+                    "lng": 46.6722950697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Graphics Moryh",
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103140107130413288170\">مريح جرافيك | moryh graphic</a>"
+                ],
+                "photo_reference": "AWU5eFiBkvHwrlz-xjLQZKopdr4OXAu0KbYKZ5siMIZd1DD3aHcmUtN0QXOIe6iPsmePkEtF3mWGdUsxyHmcMaxjLUJAHM4cHEBP6qqtVCTMCTCvCGP1rHHK6V5nKPuqroLF3ZpM6lW09j8qBa-WuNN3sK5L7_SJZlgvvhOSyADOXcDCkHxq",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJq6qqqv8ALz4RYW5YrZNk7Tc",
+        "plus_code": {
+            "compound_code": "PM8F+6C Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM8F+6C"
+        },
+        "rating": 4.9,
+        "reference": "ChIJq6qqqv8ALz4RYW5YrZNk7Tc",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "طريق العليا, اسواق الاندلس, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7110919,
+                "lng": 46.67541269999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7123183802915,
+                    "lng": 46.67656063029149
+                },
+                "southwest": {
+                    "lat": 24.7096204197085,
+                    "lng": 46.67386266970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Groundrealtor",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105820746116622244278\">Sabir Ali</a>"
+                ],
+                "photo_reference": "AWU5eFigok0aV-kqCxFduq9S-UdFUWkPMKKqisimEkec_mRdtENaikjc3UusV0VF8JWxGqgGK85MNkM1R1WQM_Qm3a2Gus8ZXWKpRIczaT48NkIyFNS5BbZsddZFLfvXif5UGFaLzQFVaQLexMnabSH4GpOh6KioqHkr00Q_eBpSoPG0YiHw",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ87q9qtYCLz4RuhahBKCE0_w",
+        "rating": 4.3,
+        "reference": "ChIJ87q9qtYCLz4RuhahBKCE0_w",
+        "scope": "GOOGLE",
+        "types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "PM6G+C5M, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7112997,
+                "lng": 46.6740035
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7128260302915,
+                    "lng": 46.67541398029149
+                },
+                "southwest": {
+                    "lat": 24.7101280697085,
+                    "lng": 46.6727160197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "سنسي للعطور والتجميل",
+        "place_id": "ChIJTXdiktMCLz4RVSHRzLTwZYs",
+        "plus_code": {
+            "compound_code": "PM6F+GJ Al Olaya, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM6F+GJ"
+        },
+        "rating": 5,
+        "reference": "ChIJTXdiktMCLz4RVSHRzLTwZYs",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "2239 Al Urubah Rd, Al Olaya, Riyadh 12214 9597 Al Urubah Road, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.714745,
+                "lng": 46.67791
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7161434302915,
+                    "lng": 46.6792000302915
+                },
+                "southwest": {
+                    "lat": 24.7134454697085,
+                    "lng": 46.6765020697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 900,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109909089555884467196\">Mohammed Eid</a>"
+                ],
+                "photo_reference": "AWU5eFjBTYGx6yInuQlapKZgVWmQwNZsL_4zrIlLwBU5pQQqY6pXMfnbXUbN1Z3Tl_PejMWX4xfgJlU6tHf1naQDfM9h84MgKiAF0RkoxrNK1YB6O1Zbn2xV-D1MQ48dA5er_jkp2WPBAXNjQkx3koOZcvXYOfaBXSdhAO9CoC1zIpQVVwkX",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJI0SlUtACLz4RSNSjSof0040",
+        "plus_code": {
+            "compound_code": "PM7H+V5 Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7H+V5"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJI0SlUtACLz4RSNSjSof0040",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2142,
+        "vicinity": "Oruba Street, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.71154630000001,
+                "lng": 46.6734744
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7130560302915,
+                    "lng": 46.6750231302915
+                },
+                "southwest": {
+                    "lat": 24.7103580697085,
+                    "lng": 46.6723251697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "آي بي إم",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107327549563309470534\">Christian Noll</a>"
+                ],
+                "photo_reference": "AWU5eFjHw4NCF73w0qdDJ0Ze8gYUchcYJHn-1E_TnvX_JPrNWhWcofN_0RhiU94HeJGa1DTMkEAP1223NWgpMoVXXOSTEMLKM70_s1N9aHFA_eybBxkCLZKKw5wy_DiHXhpdFIGlhtP5ThBxEIZYxqr2yRuAfJfDAA8dkQU_PFDtFPBt7fcf",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJQ_dcmNMCLz4Rsz9GRjzPlcM",
+        "rating": 3.6,
+        "reference": "ChIJQ_dcmNMCLz4Rsz9GRjzPlcM",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 39,
+        "vicinity": "King Fahd Branch Road, PM6F+J99, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.713454,
+                "lng": 46.672338
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7147146302915,
+                    "lng": 46.6734781802915
+                },
+                "southwest": {
+                    "lat": 24.7120166697085,
+                    "lng": 46.6707802197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "ART CODE",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2812,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112633171845143518261\">ART CODE</a>"
+                ],
+                "photo_reference": "AWU5eFhT135AIegAQjXBANqmsP1YyFFaMk7aqm37W9j9J1xcS3iDrAKx6DAHRXV8xGdG-nQiit1PjCDjbE5xzNunXrBCPJBeqrUgDpZN3S-yEp_1nNaf0xlw55KZRsdsFXFwVFX_ogn3m4eMGTB_9AlUBVWuh1zswgSQtL9Ox7miYwghkScG",
+                "width": 3750
+            }
+        ],
+        "place_id": "ChIJ8VsGk9ICLz4R1gM6LPTnp54",
+        "plus_code": {
+            "compound_code": "PM7C+9W Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7C+9W"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ8VsGk9ICLz4R1gM6LPTnp54",
+        "scope": "GOOGLE",
+        "types": [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 23,
+        "vicinity": "طريق الملك فهد, Olaya View Mall, الرياض"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.713916,
+                "lng": 46.672339
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7153513302915,
+                    "lng": 46.67388963029149
+                },
+                "southwest": {
+                    "lat": 24.71265336970849,
+                    "lng": 46.6711916697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Nomed Telecom & Information Technologies Co.",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJk8EAktICLz4RFiQdst8ey0Y",
+        "rating": 2,
+        "reference": "ChIJk8EAktICLz4RFiQdst8ey0Y",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "PM7C+HW8, Orouba street, Riyadh"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 24.7138888,
+                "lng": 46.67232509999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7153290302915,
+                    "lng": 46.6738872302915
+                },
+                "southwest": {
+                    "lat": 24.7126310697085,
+                    "lng": 46.6711892697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "NOMAD Office",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100354049911564186009\">kerlo !</a>"
+                ],
+                "photo_reference": "AWU5eFjx1dnEUi9axaQ3GFxbBUCuACu6G13SKgDnqQWBbBNFsWjkMyI2Ps_v9K-IGuOY0UJuHGVmc2EO0HhL2syFX2FYHTtKfM7vMD1qVZzMn7U8L8Ih_ISkgcOZf0ymnL1E89-pjaLFdywSriqEOpjOIltpw1V2YAz0Fj83XDCAJdMFC-Gt",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ5f4FktICLz4RTnqc20qiTgw",
+        "plus_code": {
+            "compound_code": "PM7C+HW Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7C+HW"
+        },
+        "rating": 2,
+        "reference": "ChIJ5f4FktICLz4RTnqc20qiTgw",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "25 King Fahd Branch Road, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7127875,
+                "lng": 46.67243680000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7140629802915,
+                    "lng": 46.67381608029149
+                },
+                "southwest": {
+                    "lat": 24.7113650197085,
+                    "lng": 46.6711181197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Elm - Sohail Building",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103260136752524717546\">Almohannad Alsbeai</a>"
+                ],
+                "photo_reference": "AWU5eFiX2r460aQF6cVG3VXpd9rUBAlpKfMgGLY6crnxVZABwasigA_bDfcKjZ0jNysCST0k90XnN6kuSl_KQShOFi94fxxgoORZEEOtkyh1y0D_AfC8AIm1q5WfTwApx40VxYhLq056xma2TQL_qgdLHXvn4zi5-xUuKg2TaMiCeY-xd0j1",
+                "width": 2160
+            }
+        ],
+        "place_id": "ChIJZwEHoNICLz4R9-76W4S9vpc",
+        "plus_code": {
+            "compound_code": "PM7C+4X Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7C+4X"
+        },
+        "rating": 4.5,
+        "reference": "ChIJZwEHoNICLz4R9-76W4S9vpc",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 186,
+        "vicinity": "6141 King Fahd Branch Road, Riyadh"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 24.7134947,
+                "lng": 46.6722983
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 24.7147586302915,
+                    "lng": 46.6734462302915
+                },
+                "southwest": {
+                    "lat": 24.7120606697085,
+                    "lng": 46.6707482697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Anmat Co. HQ",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4624,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103206966161735566330\">HúŠÑaÎñ dÂR</a>"
+                ],
+                "photo_reference": "AWU5eFgKW7M8moU1sLDN9lF2008TDgUIh9e1j6sK_uwyydOuSI2Lv2vqEeOAgARpju3i8xdlfMoIu4zh2iyv2O1EwTl8jJO4Y4bgRtFZw7goa5WSNVg2C29rBVZ_s9ElRTKklIzl0pN-nZj8KGv3eY4i9LtsCzdcI6pbUy5W03BxtcKQNRtp",
+                "width": 3468
+            }
+        ],
+        "place_id": "ChIJ0fxw7dICLz4RNiEPAjETVKk",
+        "plus_code": {
+            "compound_code": "PM7C+9W Al Wurud, Riyadh Saudi Arabia",
+            "global_code": "7HP8PM7C+9W"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ0fxw7dICLz4RNiEPAjETVKk",
+        "scope": "GOOGLE",
+        "types": [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "6141 King Fahd Branch Road, Riyadh"
+    }
+  ]
+}

@@ -14,21 +14,32 @@ const GoogleKhobarCached = require("../backup/Google/17-Khobar.json");
 const GoogleRiyadhCached = require("../backup/Google/17-Riyadh.json");
 const GoogleAlKharjCached = require("../backup/Google/17-Al-Kharj.json");
 async function test() {
-  const businesses = await Business.findAll({
+  const categoryWiseBusiness = await CategoryBusiness.findAll({
     raw: true,
-    group: ["name"],
+    where: {categoryId: 13035},
+    nest: true,
     include: {
-      model: CategoryBusiness,
-      as: "catBusiness",
+      model: Business,
+      as: "business"
+    }
+  });
+  const finalData = []
+  for(const cwBusiness of categoryWiseBusiness) {
+    const getAllCategories = await CategoryBusiness.findAll({
+      raw: true,
+      nest: true,
+      where: {businessId: cwBusiness.business.id},
       include: {
         model: Category,
         as: "category"
       }
-    }
-  });
+    })
+    const allCategories = getAllCategories.map((data) => data.category.name)
+    finalData.push({...cwBusiness.business, category: allCategories})
+  }
+  return finalData;
 }
-test();
-
+test().then(data => console.log(data))
 exports.insertAllCategoriesOfFourSquare = async (req, res) => {
   try {
     const options = {

@@ -11,7 +11,8 @@ module.exports = (sequelize, DataTypes) => {
       });
       Business.hasMany(models.BusinessMetrics, {
         foreignKey: 'placeId',
-        as: 'businessMetrics'
+        as: 'businessMetrics',
+        sourceKey: "placeId"
       });
     }
   }

@@ -16,12 +16,12 @@ const GoogleAlKharjCached = require("../backup/Google/17-Al-Kharj.json");
 const { Op } = require("sequelize");
 
 // async function test() {
-//   const data = await BusinessMetrics.findAll({
+//   const data = await Business.findAll({
 //     raw: true,
 //     nest: true,
 //     include: {
-//       model: Business,
-//       as: "businessInfo"
+//       model: BusinessMetrics,
+//       as: "businessMetrics"
 //     }
 //   });
 //   console.log(data);
@@ -372,7 +372,6 @@ exports.getMetricsFromGooglePlaces = async (req, res) => {
 exports.getAllCategories = async (req, res) => {
   try {
     const categories = await Category.findAll({
-      raw: true,
       attributes: ["id", "name"],
     });
     return generalResponse(
@@ -400,63 +399,63 @@ exports.getBusinessByCategoryId = async (req, res) => {
       search_term,
       popularity_order,
       rating_order,
+      show_delta
     } = req.body;
-    if (category_id) {
-      const searchTerm = search_term ?? "";
-      const currentPage = current_page ? current_page : 1;
-      const whereFilterForBusiness = [];
-      if (popularity_order) {
-        whereFilterForBusiness.push([
-          { model: Business, as: "business" },
-          "popularity",
-          popularity_order === "high" ? "DESC" : "ASC",
-        ]);
-      } else if (rating_order) {
-        whereFilterForBusiness.push([
-          { model: Business, as: "business" },
+
+    const searchTerm = search_term ?? "";
+    const currentPage = current_page ? current_page : 1;
+    const whereFilterForBusiness = [];
+    if (popularity_order) {
+      whereFilterForBusiness.push([
+        { model: Business, as: "business" },
+        "popularity",
+        popularity_order === "high" ? "DESC" : "ASC",
+      ]);
+    } else if (rating_order) {
+      whereFilterForBusiness.push([
+        { model: Business, as: "business" },
+        "rating",
+        rating_order === "high" ? "DESC" : "ASC",
+      ]);
+    }
+    const showDeltaInformation = {model: BusinessMetrics, as:"businessMetrics",attributes:["rating", "reviewCount", "popularity", "totalPhotosCount", "createdAt"]}
+    const { count, rows } = await CategoryBusiness.findAndCountAll({
+      where: { categoryId: category_id },
+      include: {
+        model: Business,
+        include: show_delta ? showDeltaInformation : {...showDeltaInformation, attributes: []},
+        attributes: [
+          "id",
+          "name",
+          "description",
+          "address",
+          "link",
           "rating",
-          rating_order === "high" ? "DESC" : "ASC",
-        ]);
-      }
-      const { count, rows } = await CategoryBusiness.findAndCountAll({
-        raw: true,
-        nest: true,
-        attributes: [],
-        where: { categoryId: category_id },
-        include: {
-          model: Business,
-          attributes: [
-            "id",
-            "name",
-            "description",
-            "address",
-            "link",
-            "rating",
-            "contactNumber",
-            "totalRatings",
-            "popularity",
-            "region",
-            "categories",
-            "placeId",
-          ],
-          as: "business",
-          where: {
-            name: {
-              [Op.iLike]: `%${searchTerm}%`,
-            },
+          "contactNumber",
+          "totalRatings",
+          "popularity",
+          "region",
+          "categories",
+          "placeId",
+        ],
+        as: "business",
+        where: {
+          name: {
+            [Op.iLike]: `%${searchTerm}%`,
           },
         },
-        offset: (currentPage - 1) * 10,
-        limit: 5,
-        order: whereFilterForBusiness
-      });
-      return generalResponse(
-        res,
-        [{ success: true, businesses: rows, totalCount: count }],
-        "Business Retrieved!",
-        true
-      );
-    }
+      },
+      offset: (currentPage - 1) * 10,
+      limit: 5,
+      order: whereFilterForBusiness,
+      subQuery: false
+    });
+    return generalResponse(
+      res,
+      [{ success: true, businesses: rows, totalCount: count }],
+      "Business Retrieved!",
+      true
+    );
   } catch (error) {
     console.log(error);
     return generalResponse(

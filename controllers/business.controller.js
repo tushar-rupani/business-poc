@@ -324,9 +324,9 @@ exports.getMetricsFromGooglePlaces = async (req, res) => {
         rating: result.rating ?? 0,
         reviewCount: result.user_ratings_total,
         popularity: calculatePopularity(
-            result.user_ratings_total,
-            result.rating
-          ),
+          result.user_ratings_total,
+          result.rating
+        ),
         placeId: result.place_id,
         totalPhotosCount: result.photos?.length,
         createdAt: new Date("2024-01-17"),
@@ -349,6 +349,61 @@ exports.getMetricsFromGooglePlaces = async (req, res) => {
       res,
       { success: false },
       "Something went wrong while inserting categories!",
+      "error",
+      true,
+      200
+    );
+  }
+};
+
+exports.getAllCategories = async (req, res) => {
+  try {
+    const categories = await Category.findAll({
+      raw: true,
+      attributes: ["id", "name"],
+    });
+    return generalResponse(
+      res,
+      [{ success: true, categories }],
+      "Categories Fetched",
+      true
+    );
+  } catch (e) {
+    return generalResponse(
+      res,
+      { success: false },
+      "Something went wrong while fetching categories!",
+      "error",
+      true
+    );
+  }
+};
+
+exports.getBusinessByCategoryId = async (req, res) => {
+  try {
+    const { category_id } = req.body;
+    const businessesByCategoryId = await CategoryBusiness.findAll({
+      raw: true,
+      nest: true,
+      attributes: [],
+      where: { categoryId: category_id },
+      include: {
+        model: Business,
+        attributes: ["id", "name", "description", "address", "link", "address", "contactNumber", "totalRatings", "popularity", "region", "categories"],
+        as: "business",
+      },
+    });
+    return generalResponse(
+      res,
+      [{ success: true, businesses: businessesByCategoryId }],
+      "Business Retrieved!",
+      true
+    );
+  } catch (error) {
+    return generalResponse(
+      res,
+      { success: false },
+      "Something went wrong while fetching categories!",
       "error",
       true
     );

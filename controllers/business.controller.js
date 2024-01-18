@@ -17,12 +17,16 @@ const { Op } = require("sequelize");
 
 // async function test() {
 //   const data = await Business.findAll({
-//     raw: true,
 //     nest: true,
-//     include: {
+//     // raw: true,
+//     include: [{
 //       model: BusinessMetrics,
-//       as: "businessMetrics"
-//     }
+//       as: "businessMetrics",
+//     }, {
+//       model: CategoryBusiness,
+//       where: { categoryId: 13065 },
+//       as: "catBusiness"
+//     }],
 //   });
 //   console.log(data);
 // }
@@ -399,7 +403,7 @@ exports.getBusinessByCategoryId = async (req, res) => {
       search_term,
       popularity_order,
       rating_order,
-      show_delta
+      show_delta,
     } = req.body;
 
     const searchTerm = search_term ?? "";
@@ -407,49 +411,51 @@ exports.getBusinessByCategoryId = async (req, res) => {
     const whereFilterForBusiness = [];
     if (popularity_order) {
       whereFilterForBusiness.push([
-        { model: Business, as: "business" },
         "popularity",
         popularity_order === "high" ? "DESC" : "ASC",
       ]);
     } else if (rating_order) {
       whereFilterForBusiness.push([
-        { model: Business, as: "business" },
         "rating",
         rating_order === "high" ? "DESC" : "ASC",
       ]);
     }
-    const showDeltaInformation = {model: BusinessMetrics, as:"businessMetrics",attributes:["rating", "reviewCount", "popularity", "totalPhotosCount", "createdAt"]}
-    const { count, rows } = await CategoryBusiness.findAndCountAll({
-      where: { categoryId: category_id },
-      include: {
-        model: Business,
-        include: show_delta ? showDeltaInformation : {...showDeltaInformation, attributes: []},
-        attributes: [
-          "id",
-          "name",
-          "description",
-          "address",
-          "link",
-          "rating",
-          "contactNumber",
-          "totalRatings",
-          "popularity",
-          "region",
-          "categories",
-          "placeId",
-        ],
-        as: "business",
-        where: {
-          name: {
-            [Op.iLike]: `%${searchTerm}%`,
-          },
+    const showDeltaInformation = {
+      model: BusinessMetrics,
+      as: "businessMetrics",
+      attributes: [
+        "rating",
+        "reviewCount",
+        "popularity",
+        "totalPhotosCount",
+        "createdAt",
+      ],
+    };
+    const { count, rows } = await Business.findAndCountAll({
+      nest: true,
+      where: {
+        name: {
+          [Op.iLike]: `%${searchTerm}%`,
         },
       },
+      attributes: {exclude: ["photos", "createdAt"]},
+      include: [
+        {
+          model: BusinessMetrics,
+          as: "businessMetrics",
+        },
+        {
+          model: CategoryBusiness,
+          where: category_id ? { categoryId: category_id } : {},
+          attributes: [],
+          as: "catBusiness",
+        },
+      ],
       offset: (currentPage - 1) * 10,
       limit: 5,
       order: whereFilterForBusiness,
-      subQuery: false
     });
+
     return generalResponse(
       res,
       [{ success: true, businesses: rows, totalCount: count }],

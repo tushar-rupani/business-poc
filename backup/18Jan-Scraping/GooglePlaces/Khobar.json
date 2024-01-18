@@ -1,0 +1,2556 @@
+{
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 26.2171906,
+          "lng": 50.1971381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.37049378578998,
+            "lng": 50.23931984508061
+          },
+          "southwest": {
+            "lat": 26.0274786381363,
+            "lng": 50.09078973650816
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Al Khobar",
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107316072684936475992\">Ranjeeth Krishna</a>"
+          ],
+          "photo_reference": "AWU5eFhlFuwQWAtGt0We98qTQlKZHAmXFIyMzzSe_CdF42ZMdDy8pckXXR-oBq1rI_Dl9KKL-aV-3UBJ1WKKAmPfCYa7_LYqzPddg_ik8DOrF0FZaLfQBaXm-PNtQslXtKKl76eDWvnjcWZvmmJicG9_oK1xr5qZmwzVGBLpewriSRjd_7f0",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ2Vjv6DnoST4R0aq22BKId-8",
+      "reference": "ChIJ2Vjv6DnoST4R0aq22BKId-8",
+      "scope": "GOOGLE",
+      "types": ["locality", "political"],
+      "vicinity": "Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.28389799999999,
+          "lng": 50.2034275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2851743302915,
+            "lng": 50.2047319302915
+          },
+          "southwest": {
+            "lat": 26.2824763697085,
+            "lng": 50.2020339697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Ramada by Wyndham Al Khobar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118376107539194477397\">Ramada by Wyndham Al Khobar King Abdullah Street</a>"
+          ],
+          "photo_reference": "AWU5eFjgrJR0RYQdTgzLKQHdWF73ggG8BUeyab2dFkYaH1EyWXCmVrzMkXNljMTJmSNGP3QRC_QKHWJpDcABNWX7OAdvFu0TJlm3ablQ9uy8O8h3HD2CMUDYTpepwKgbwmBXixNDtTjjJdqHjUCQDDwjmnKIb7zgSjPzeVYR4d3RYUug1dtI",
+          "width": 576
+        }
+      ],
+      "place_id": "ChIJaW3z6zHoST4RvdOO1gMRtyk",
+      "plus_code": {
+        "compound_code": "76M3+H9 Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M3+H9"
+      },
+      "rating": 3.7,
+      "reference": "ChIJaW3z6zHoST4RvdOO1gMRtyk",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 2198,
+      "vicinity": "King Abdulaziz Street, King Abdullah Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2839846,
+          "lng": 50.1996694
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2855178302915,
+            "lng": 50.2010811302915
+          },
+          "southwest": {
+            "lat": 26.28281986970849,
+            "lng": 50.1983831697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Luxurious Al Rawdah Suites",
+      "place_id": "ChIJ2yj1oxboST4RflSScSU_f_E",
+      "plus_code": {
+        "compound_code": "75MX+HV Madinat Al Umal, Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+HV"
+      },
+      "rating": 4,
+      "reference": "ChIJ2yj1oxboST4RflSScSU_f_E",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 12,
+      "vicinity": "Middle East Commercial Center, Custodian of The Two Holy Mosques Road, المدينة"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.286274,
+          "lng": 50.197227
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2875503302915,
+            "lng": 50.19853508029149
+          },
+          "southwest": {
+            "lat": 26.28485236970849,
+            "lng": 50.19583711970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Nozol El Shrouq Apartments",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111341581961524430410\">ndahbali nd</a>"
+          ],
+          "photo_reference": "AWU5eFiZ7isDQE1rMXbTxWZnHWJZZDpYb-RbP2LRfMYCD-xnB5Ud-z_ot1QBPZoneR-Uic3qveJf54iSm2eIlEqXFMC8k5MGN0_efgX0NuAyzzM2taZFfKAj1scv6NA5-NtuNF8fttQhavZ7cG8cdkU3wVGvt8itoc5OFAXfAKihVuwpXGh1",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJS2mxCxPoST4RQXlN5nnL5YY",
+      "plus_code": {
+        "compound_code": "75PW+GV Al Khobar Saudi Arabia",
+        "global_code": "7HRG75PW+GV"
+      },
+      "rating": 3.7,
+      "reference": "ChIJS2mxCxPoST4RQXlN5nnL5YY",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 101,
+      "vicinity": "3rd Street, Al Aqrabya District, الخبر"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2850594,
+          "lng": 50.1956809
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2867209802915,
+            "lng": 50.1968206802915
+          },
+          "southwest": {
+            "lat": 26.2840230197085,
+            "lng": 50.1941227197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Layali El Bonduqya Suites",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108873369888634527841\">Rs Rifat hossen Rs Rifat hossen</a>"
+          ],
+          "photo_reference": "AWU5eFjW9mmqbC_sSX6kKpCp8x-jdj_sHnY57vnRmSV3xz6sm1GtoHB8oDxWgN_I_VjT5qOB1ajaQdK4sog1UKOm-BrcaCLOyJyBNjERomoyGy58dsNQqWpUaWA4OHTgC1O_1mfsx4-ici5ae5qIPH0ryfDV3DsK1tRqeSY687KD42NI37Kp",
+          "width": 576
+        }
+      ],
+      "place_id": "ChIJy3JE_xLoST4ROJzvK52kcWU",
+      "plus_code": {
+        "compound_code": "75PW+27 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75PW+27"
+      },
+      "rating": 3.5,
+      "reference": "ChIJy3JE_xLoST4ROJzvK52kcWU",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 20,
+      "vicinity": "3500 Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2844483,
+          "lng": 50.19803350000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2858117302915,
+            "lng": 50.19925648029151
+          },
+          "southwest": {
+            "lat": 26.2831137697085,
+            "lng": 50.19655851970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Layfootak",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJK_a6-hPoST4RQLn26Ppy-CE",
+      "plus_code": {
+        "compound_code": "75MX+Q6 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+Q6"
+      },
+      "rating": 5,
+      "reference": "ChIJK_a6-hPoST4RQLn26Ppy-CE",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 6,
+      "vicinity": "6217 Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2837757,
+          "lng": 50.19969829999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2849905302915,
+            "lng": 50.2009967302915
+          },
+          "southwest": {
+            "lat": 26.2822925697085,
+            "lng": 50.1982987697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloom Branding Consultants and Designers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101966043818463248479\">MALIK ABUZAID</a>"
+          ],
+          "photo_reference": "AWU5eFgZpqPVmEY8x-tHqO6xnSFTXiROiLSE7dw6B5ygE5D_cXj1CYV0_na_IHZcF8_F17U-A2vM5dYzdhW91--pCYPHcvNXiK-nTtQyW-KhZ0Tn1DmEAcZFht9PZk9o1NK54c61OlLfmdUaQRThS4m8-aH4n3N0NrLshCbnjKeUwRseNo0n",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJmXzfWz7oST4RIGfzNLG0O9E",
+      "reference": "ChIJmXzfWz7oST4RIGfzNLG0O9E",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "vicinity": "75MX+GV8, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2835064,
+          "lng": 50.2009522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28467163029151,
+            "lng": 50.20223198029149
+          },
+          "southwest": {
+            "lat": 26.2819736697085,
+            "lng": 50.19953401970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Saudi Powerline Trading Co Ltd - Oil & Gas Supplier",
+      "place_id": "ChIJbUP36RboST4RXDIQcOoxfMk",
+      "plus_code": {
+        "compound_code": "76M2+C9 Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M2+C9"
+      },
+      "rating": 3,
+      "reference": "ChIJbUP36RboST4RXDIQcOoxfMk",
+      "scope": "GOOGLE",
+      "types": ["food", "point_of_interest", "store", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Office No: 304, AD-Dewan Commercial Complex, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2836267,
+          "lng": 50.2014806
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2849545802915,
+            "lng": 50.20289548029151
+          },
+          "southwest": {
+            "lat": 26.2822566197085,
+            "lng": 50.20019751970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "IP Telecom Networks",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 460,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112030945202122286391\">IP Telecom Networks</a>"
+          ],
+          "photo_reference": "AWU5eFjzQqDQv_ec8bbbC2urrcerkn6gY7aD-0ZHL7p3O3SCGLNe7jW9ZqlNg-9yq1MCqJkfYlpVoygsyofr_BSYPvVo1QiTEYbWkmdq2fA-3g1XZVUXBUXbF-ofo9qS1iD9dE1H6NpsQWYb-g_cuDjXFvaFg7PhxXJtt9gpLtINlBA78SmU",
+          "width": 1324
+        }
+      ],
+      "place_id": "ChIJcS9hlRboST4Rh2qEAgd8bgY",
+      "plus_code": {
+        "compound_code": "76M2+FH Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M2+FH"
+      },
+      "rating": 2,
+      "reference": "ChIJcS9hlRboST4Rh2qEAgd8bgY",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "Prince Muqrin Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2840021,
+          "lng": 50.19937890000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2854173302915,
+            "lng": 50.2005314302915
+          },
+          "southwest": {
+            "lat": 26.2827193697085,
+            "lng": 50.1978334697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "مستشاركم للاستشارات والتدريب",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJI8InphboST4RMCwHKCWXPm4",
+      "plus_code": {
+        "compound_code": "75MX+JQ Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+JQ"
+      },
+      "rating": 3,
+      "reference": "ChIJI8InphboST4RMCwHKCWXPm4",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 11,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 26.2833333,
+          "lng": 50.2
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2846992302915,
+            "lng": 50.2013553302915
+          },
+          "southwest": {
+            "lat": 26.2820012697085,
+            "lng": 50.1986573697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "wepco",
+      "permanently_closed": true,
+      "place_id": "ChIJ2Vjv6DnoST4R2wzwIZFDmoI",
+      "rating": 5,
+      "reference": "ChIJ2Vjv6DnoST4R2wzwIZFDmoI",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "store", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "Saudi Arabia"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2839545,
+          "lng": 50.19970060000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2854975802915,
+            "lng": 50.2011157302915
+          },
+          "southwest": {
+            "lat": 26.2827996197085,
+            "lng": 50.1984177697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Alowaid Trading",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109621936983616269418\">Mukhtar Afkar</a>"
+          ],
+          "photo_reference": "AWU5eFhdghKNiAvTZmjmaslZOlt6bOCpxcySV53zo2DhO2n0ggh9m1G4k3IkBJ2X3rV-GG0b-hMBrxWnUxMtTf6PASH1WR7998yEmuZ69ou1mHbjhMO1v_pFPVVJdVe6XjCa63lI7XQoLuZdl0RMzCXRp_KhMk7FgrLThM07Q2fFN9ehC92v",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ9aXztxboST4R3RUvZHn6FsA",
+      "plus_code": {
+        "compound_code": "75MX+HV Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+HV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ9aXztxboST4R3RUvZHn6FsA",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 9,
+      "vicinity": "مركز الشرق الأوسط التجارية, 3938 Custodian of the two Holly Mosques Road 5th, الخبر"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2840257,
+          "lng": 50.19954389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2855558802915,
+            "lng": 50.2009546302915
+          },
+          "southwest": {
+            "lat": 26.2828579197085,
+            "lng": 50.1982566697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Taslehat Trading Co.",
+      "place_id": "ChIJKTQnqBboST4R0lkv5qDXJc0",
+      "reference": "ChIJKTQnqBboST4R0lkv5qDXJc0",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "vicinity": "Custodian of The Two Holy Mosques Road, 75MX+JR7, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2827044,
+          "lng": 50.2000739
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2841319302915,
+            "lng": 50.2014502802915
+          },
+          "southwest": {
+            "lat": 26.28143396970849,
+            "lng": 50.1987523197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "ولاء للتأمين",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103736468942164305278\">Sid Deligero</a>"
+          ],
+          "photo_reference": "AWU5eFiAYxrEWoYcgaYDd2fTQZW8__scPhNpbjYBg4RJYQ_SekJBHHLs0ahkkOs67xEcnU7k69KXEB0cMZfF2scJu6JgWkurlhPaloFlv2IG4tm2DCGW2M9WLqJHXUXPpHafCoDrx0DoiEFJGH56yZmsyP84tPx7i70LBSe3DSbV99g6QSsF",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJAdE14xboST4RuiJln5OS2ew",
+      "plus_code": {
+        "compound_code": "76M2+32 Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M2+32"
+      },
+      "rating": 3.4,
+      "reference": "ChIJAdE14xboST4RuiJln5OS2ew",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 984,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2826848,
+          "lng": 50.2001657
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2841095302915,
+            "lng": 50.2015411302915
+          },
+          "southwest": {
+            "lat": 26.28141156970849,
+            "lng": 50.19884316970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "المتجر الالكترونى لفروتشى",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115876303542844701127\">المتجر الالكترونى لفروتشى</a>"
+          ],
+          "photo_reference": "AWU5eFiDh9KASh7bxvxGzRTgDPrhPwLcpTZS8OfOS3dSq6JUifvUPBbZ0d9uCmAycVTOJ5Wtjbz82wgsu1sjFosND19Arh0fnN4rgF7YwEFIgrb8Syr4UpylaRaWj9n4a-oHYn2xhXeX31xdWwo6KnzjWZX7YJgO_aBpJhDXhmrbSpiKAgCS",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJS3JD1kDoST4RROoduIJpNVs",
+      "plus_code": {
+        "compound_code": "76M2+33 Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M2+33"
+      },
+      "rating": 4,
+      "reference": "ChIJS3JD1kDoST4RROoduIJpNVs",
+      "scope": "GOOGLE",
+      "types": [
+        "furniture_store",
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2828609,
+          "lng": 50.1993989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2843066302915,
+            "lng": 50.20078463029149
+          },
+          "southwest": {
+            "lat": 26.28160866970849,
+            "lng": 50.1980866697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "MOHAMMED ALSHAREEF LAW FIRM",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJZag0xhboST4RbJM1rqvoVIU",
+      "plus_code": {
+        "compound_code": "75MX+4Q Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+4Q"
+      },
+      "rating": 4.9,
+      "reference": "ChIJZag0xhboST4RbJM1rqvoVIU",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 15,
+      "vicinity": "Custodian of The Two Holy Mosques Rd Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 26.2839545,
+          "lng": 50.19970060000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2854975802915,
+            "lng": 50.2011157302915
+          },
+          "southwest": {
+            "lat": 26.2827996197085,
+            "lng": 50.1984177697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Black Arrow Trading Est.",
+      "permanently_closed": true,
+      "place_id": "ChIJcS9hlRboST4R2gvXIHu73-4",
+      "plus_code": {
+        "compound_code": "75MX+HV Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+HV"
+      },
+      "reference": "ChIJcS9hlRboST4R2gvXIHu73-4",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "vicinity": "4451 Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2839545,
+          "lng": 50.19970060000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2854975802915,
+            "lng": 50.2011157302915
+          },
+          "southwest": {
+            "lat": 26.2827996197085,
+            "lng": 50.1984177697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sintechs",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104325225438496929367\">Sintechs</a>"
+          ],
+          "photo_reference": "AWU5eFjAj9XgUfX4FEiOFsm2j5R7blliClEOySiEVhwrVPMr-keo9Xf_vzKRdjUeqVY5_RPEhXVykkUpt44VB3bHH950CCW23sqx51l2Ng2Do4cIvXGEb1ldp9ALqikicCUpQUnJKo2sA9_ghV7otocvs9oDqOKX0ddl3eA60tNK4vUNKCkq",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJSxc5kpz8ST4RK9SjPUWXz6A",
+      "plus_code": {
+        "compound_code": "75MX+HV Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+HV"
+      },
+      "rating": 5,
+      "reference": "ChIJSxc5kpz8ST4RK9SjPUWXz6A",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "Middle East Commercial Center, Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2826751,
+          "lng": 50.19956949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2840032302915,
+            "lng": 50.20099048029149
+          },
+          "southwest": {
+            "lat": 26.2813052697085,
+            "lng": 50.1982925197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Amana Cooperative Insurance",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108980870032980824938\">Ahmed Albrahim</a>"
+          ],
+          "photo_reference": "AWU5eFiqmAG-_0fsbaQrbV5OBA1tHNRTlHgcen2AwS0CvvYBic4XYlTYwlWd8NqtLhqKAWg7KKFkssP5l67eufqgWwVfi4L9oajmH-vPeQtzaM0mJqk7AzJjfeQQEydfiztxP-K-oupbLsvvcuiu6QxJHVOQ2K_Zsr2bgtufTVtFvvl294u2",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJF99cxBboST4RJs17QirJF6s",
+      "rating": 2.8,
+      "reference": "ChIJF99cxBboST4RJs17QirJF6s",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 187,
+      "vicinity": "75MX+3RG, Al Khobar"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 26.2968719,
+          "lng": 50.1932556
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.3066595145838,
+            "lng": 50.20171332480924
+          },
+          "southwest": {
+            "lat": 26.28384812880966,
+            "lng": 50.18351872269843
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Al Aqrabiyah",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112301504740526810632\">ديكور فني</a>"
+          ],
+          "photo_reference": "AWU5eFh-VOdDyEpGwjPt-a9ycvMYuDNldmJ21sey1JabL7Ozxh2BcGHmqFO1Qcd0O3PTEpDUSyzK6ZSwWXcccZ-OKtQBRFhARbIl4WmuWPRJ4FnlnjLC3QyJ5V45fuM1vkORG7cDdbH2bVzCE7dUEjxJgiN3otiDKAD_8NOnVzvJFyhmCUiq",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJV_BdPnDoST4RQR_5zJ6KXqc",
+      "reference": "ChIJV_BdPnDoST4RQR_5zJ6KXqc",
+      "scope": "GOOGLE",
+      "types": ["sublocality_level_1", "sublocality", "political"],
+      "vicinity": "Al Aqrabiyah"
+    },
+
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 26.2839064,
+          "lng": 50.1993575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2851088802915,
+            "lng": 50.20065128029151
+          },
+          "southwest": {
+            "lat": 26.2824109197085,
+            "lng": 50.19795331970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Money And Business Trainig Center",
+      "permanently_closed": true,
+      "place_id": "ChIJ_2xx-xPoST4R-8jSpfXqqMM",
+      "reference": "ChIJ_2xx-xPoST4R-8jSpfXqqMM",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "vicinity": "75MX+HP9, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2840119,
+          "lng": 50.1994742
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2851450302915,
+            "lng": 50.2007644802915
+          },
+          "southwest": {
+            "lat": 26.2824470697085,
+            "lng": 50.1980665197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Medart Clinics - مجمع عيادات فنون الطبي (ميدارت)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5267,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101612674743380067144\">Medart Clinics - مجمع عيادات فنون الطبي (ميدارت)</a>"
+          ],
+          "photo_reference": "AWU5eFgy6kl1ZUKMOQk9bTsc06NrpZLwiKBm4r3jKWXuSmw8GJXaZCPKAZ2c80ez8zIaRXE-BEekryfzy7oLS5DeJifrgj3NLJ5u2IQAjMfmsZ6hvMT_RLIXESX2hiZhXwvFCFfoG3LL19HXNT0D3Z2gsUwX7X4Z5g5w9xH-5DuyGJZjFE1o",
+          "width": 7913
+        }
+      ],
+      "place_id": "ChIJX8DSqxboST4RUOc7kjRDQOk",
+      "plus_code": {
+        "compound_code": "75MX+JQ Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+JQ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJX8DSqxboST4RUOc7kjRDQOk",
+      "scope": "GOOGLE",
+      "types": ["hospital", "health", "point_of_interest", "establishment"],
+      "user_ratings_total": 233,
+      "vicinity": "Dhahran Road, Madinat Al Omal Unit 1, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2826632,
+          "lng": 50.19932720000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2840520802915,
+            "lng": 50.2005382802915
+          },
+          "southwest": {
+            "lat": 26.28135411970849,
+            "lng": 50.1978403197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "PKF Al Bassam & Co.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118075369365434018445\">محمد العمري رسمي</a>"
+          ],
+          "photo_reference": "AWU5eFhSZuFBL5-VqDVJ6l6jkmCnYPuvWPU29v_QCh5qzwRuS9ALGJDbJ1IEb--MZBx_Sx8q8gA5Flw3EPhfw6wkBMQpdSUafzVuTud0SuEsV_BSguSkT-jZ3e01CQVZ9Vl2j-k2PFrocF83YAMdcdXrtnINl_AQVYVArqTC-d3EToci5uj9",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJoRxvxRboST4RIhKBSBXWtQg",
+      "plus_code": {
+        "compound_code": "75MX+3P Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+3P"
+      },
+      "rating": 4.4,
+      "reference": "ChIJoRxvxRboST4RIhKBSBXWtQg",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 12,
+      "vicinity": "4381 Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2829962,
+          "lng": 50.1989847
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28432083029151,
+            "lng": 50.20040383029149
+          },
+          "southwest": {
+            "lat": 26.2816228697085,
+            "lng": 50.19770586970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tamimi Commercial",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 875,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115509920135616721107\">إبراهيم العصري</a>"
+          ],
+          "photo_reference": "AWU5eFjoMZkpENcuEuw2jY6dVCWRSMdgU7seCpQdRY3G-YVrVLndh_zfAOVEQ1rbxHZ_che3AV0RWDICYbllthqXU39tffWlszB27lYxmjVJWp-5ewyTL4Z2GtUQ4QirsqzPfXUMI4Sj-JeUD5hlflN5nLG6EGRNx_vQerw9rpkyDNKaIvbm",
+          "width": 1908
+        }
+      ],
+      "place_id": "ChIJicDRTRHoST4RWY6GS8g50Dc",
+      "rating": 4.3,
+      "reference": "ChIJicDRTRHoST4RWY6GS8g50Dc",
+      "scope": "GOOGLE",
+      "types": ["car_repair", "point_of_interest", "establishment"],
+      "user_ratings_total": 112,
+      "vicinity": "Custodian of The Two Holy Mosques Road, 75MX+5HX, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2839308,
+          "lng": 50.1991586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2853178802915,
+            "lng": 50.2003945302915
+          },
+          "southwest": {
+            "lat": 26.2826199197085,
+            "lng": 50.1976965697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "AlphaGraphics الفاغرافكس",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105073349917236152031\">AlphaGraphics الفاغرافكس</a>"
+          ],
+          "photo_reference": "AWU5eFhDjVJPjmxvvZWpWzxzhyqd7nmdx5bX-RVeHHmhUa7PISo98zxvNxswA1hrnXPE8qm0pCI5diC3_oMQ9AHUshDqAX8qA_uBefXEsEPRXpJvENNFPFztSZx8lxCXcWBxHhFIBNrKoO3YmbkzCFhdhIH6lgPoO7vDfBYcF8G5lsQc9Eqx",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJiccKpRboST4RrpQlbjlDOns",
+      "plus_code": {
+        "compound_code": "75MX+HM Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+HM"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJiccKpRboST4RrpQlbjlDOns",
+      "scope": "GOOGLE",
+      "types": ["store", "point_of_interest", "establishment"],
+      "user_ratings_total": 127,
+      "vicinity": "DhahranTower الخبر SA, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2830143,
+          "lng": 50.1989208
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28432988029151,
+            "lng": 50.20037188029149
+          },
+          "southwest": {
+            "lat": 26.2816319197085,
+            "lng": 50.19767391970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Bajaj Motorcycles",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100398709726743163711\">Mohammed Ihtishamuddin</a>"
+          ],
+          "photo_reference": "AWU5eFhfL_5QI8K_rMI_nSBzOO_v29FCj4yQSR4xpQqeQMAC9oiJ_Q2EUr6rf4bqV3kY53R44dkDICMPzGyNdRhauXo9v0XTwclHS4VcT-lnmR8V1M1-Ip7MzXmmVCJZULgT0FrMYY8yv9-ScPuTmhuH3lFqydQvpk8I1Sl0PIn8v0hFMgkc",
+          "width": 5056
+        }
+      ],
+      "place_id": "ChIJ6wlMtBboST4RUqJAenpM4Fk",
+      "plus_code": {
+        "compound_code": "75MX+6H Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+6H"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ6wlMtBboST4RUqJAenpM4Fk",
+      "scope": "GOOGLE",
+      "types": ["store", "point_of_interest", "establishment"],
+      "user_ratings_total": 103,
+      "vicinity": "Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2824614,
+          "lng": 50.2006722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2839118802915,
+            "lng": 50.20205783029149
+          },
+          "southwest": {
+            "lat": 26.2812139197085,
+            "lng": 50.19935986970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Nouran Co. Ltd. for Lighting",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJA77H_BboST4Rrx2W0xEODAE",
+      "plus_code": {
+        "compound_code": "76J2+X7 Al Khobar Saudi Arabia",
+        "global_code": "7HRG76J2+X7"
+      },
+      "rating": 4,
+      "reference": "ChIJA77H_BboST4Rrx2W0xEODAE",
+      "scope": "GOOGLE",
+      "types": [
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "Custodian of The Two Holy Mosques Rd Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 26.284272,
+          "lng": 50.1995105
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28569368029151,
+            "lng": 50.2008842802915
+          },
+          "southwest": {
+            "lat": 26.2829957197085,
+            "lng": 50.1981863197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Prospects of Religious Endowments Inc.",
+      "permanently_closed": true,
+      "place_id": "ChIJx3R3pxboST4RZ_wgop-SI8s",
+      "plus_code": {
+        "compound_code": "75MX+PR Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+PR"
+      },
+      "rating": 5,
+      "reference": "ChIJx3R3pxboST4RZ_wgop-SI8s",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "Abdulaziz Bin Heteb Street, برج الظهران حبيب الله، الدور الثاني، جناح 201, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.282951,
+          "lng": 50.1987996
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2842571802915,
+            "lng": 50.2002964802915
+          },
+          "southwest": {
+            "lat": 26.2815592197085,
+            "lng": 50.1975985197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Red Cap - Bajaj",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110533423479275681957\">MOHAMMED ALMALKI</a>"
+          ],
+          "photo_reference": "AWU5eFi6Uklr8EaZZLcq2v5G6XEb4lHangvu1gb5SugGeK62aZ_ezshe3rNHKKtveEK6AMr4EUVtzVUerYbs3-TkvJjcgzYSAKDhSJCPfmEu4ODFkvsjIujelv9-8t9iaZGPs4wfLESmZxdMdFhP6f2fR6fW--eO4LyMimPnAEi_v_NjZODE",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJa5jttBboST4RL4chS0-JlAY",
+      "plus_code": {
+        "compound_code": "75MX+5G Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+5G"
+      },
+      "rating": 4,
+      "reference": "ChIJa5jttBboST4RL4chS0-JlAY",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 14,
+      "vicinity": "طريق خادم الحرمين الشريفين Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2830416,
+          "lng": 50.1984926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2845304302915,
+            "lng": 50.1998947302915
+          },
+          "southwest": {
+            "lat": 26.28183246970849,
+            "lng": 50.1971967697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Red Wing",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101554161661970454041\">MS I</a>"
+          ],
+          "photo_reference": "AWU5eFiYDC3oAGFHicuGqEQgIEyQBsvctykeGtxM7fXgCfq9Bl7r6y6DPLDmJfiKvfeQPf9Mz_h4YJ8gkzOpSHnXiQzIvuVnFhgIrNUrVtmRam7_gh-XbszAqlBHRJetfR5Oq9EC5geKL_9R0MHS1YY4zS3gv3v5fshH-mIhWahTTcguqrHA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJcxaUtBboST4RX6NdRl4wHXc",
+      "plus_code": {
+        "compound_code": "75MX+69 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+69"
+      },
+      "rating": 3.2,
+      "reference": "ChIJcxaUtBboST4RX6NdRl4wHXc",
+      "scope": "GOOGLE",
+      "types": ["shoe_store", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 309,
+      "vicinity": "4327 Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2839642,
+          "lng": 50.1985134
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28574843029151,
+            "lng": 50.1996374802915
+          },
+          "southwest": {
+            "lat": 26.2830504697085,
+            "lng": 50.1969395197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Nazih Cosmetics (Dhahran Showroom)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109762687924449272219\">Nazih Cosmetics (Dhahran Showroom)</a>"
+          ],
+          "photo_reference": "AWU5eFi54riXI3vf59tcCNiHjWG2Hiy_lxBsFkhrg1urQoB8B_A7UZ6HjX6ZbDkTBpnAFN89D6uReCpwprZd3ILO67Kar4CjDPo_FtM1EVp1YS4Z2HqP01eHO4R87e61Cxcl7Bh4if52Zb9262rF8IHJ0_zQT2fGG4_CQVeiouSUaTZpb4e6",
+          "width": 993
+        }
+      ],
+      "place_id": "ChIJydlv7RPoST4RtTTJf5c0Z18",
+      "plus_code": {
+        "compound_code": "75MX+HC Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+HC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJydlv7RPoST4RtTTJf5c0Z18",
+      "scope": "GOOGLE",
+      "types": ["store", "point_of_interest", "establishment"],
+      "user_ratings_total": 161,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2841154,
+          "lng": 50.19839499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2853474302915,
+            "lng": 50.1997040802915
+          },
+          "southwest": {
+            "lat": 26.2826494697085,
+            "lng": 50.1970061197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jacobs Zate",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101707513248468127429\">Muhammad Tariq</a>"
+          ],
+          "photo_reference": "AWU5eFhdErv83hVk0P8DR9Y-6EGbspLrcfbO9ue8lDb8UybeSJTG6rvh2J2xiFCDUUVbfrFxVaiG8JEkkQAclOBV06PUyXjn3zuWI83xd5Kio5rzWTGYHAT2fYlppX4OXDHE1ZClURF3ErW27OPTueg1w0THS_3noseUEyX2443eSOXjp7-h",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJreVaBxToST4RZ7A4cNREOOQ",
+      "plus_code": {
+        "compound_code": "75MX+J9 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+J9"
+      },
+      "rating": 4.2,
+      "reference": "ChIJreVaBxToST4RZ7A4cNREOOQ",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 439,
+      "vicinity": "Al Fanar Tower, Abulaziz Bin Heteb Street, Madinat Al Umal District 34443, الخبر"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2831173,
+          "lng": 50.1981563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2844777302915,
+            "lng": 50.19946008029149
+          },
+          "southwest": {
+            "lat": 26.28177976970849,
+            "lng": 50.1967621197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Tamimi Firestone",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117336970522368821708\">فيصل بن محمد بن سلمان</a>"
+          ],
+          "photo_reference": "AWU5eFhZNzTtMzGB-NF7JbtQDeHbfG1uboSe-6MsyqlaPe7vtZqH65aaL_PPeTNo0I-9lwcjXqyfwivIlnGZRwSGSX4x4Jw1JPfcBulOOQzY5_8rKy2y6oxasUL6v1LbHZwx1uMjjEoXAbAPRCsVnSn933yM__hVznDKLfH414hG23c98Fhp",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJn6MzThHoST4RujoNjYlDM-s",
+      "plus_code": {
+        "compound_code": "75MX+67 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+67"
+      },
+      "rating": 3.5,
+      "reference": "ChIJn6MzThHoST4RujoNjYlDM-s",
+      "scope": "GOOGLE",
+      "types": ["store", "car_repair", "point_of_interest", "establishment"],
+      "user_ratings_total": 138,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2816302,
+          "lng": 50.199117
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2829483802915,
+            "lng": 50.2005728802915
+          },
+          "southwest": {
+            "lat": 26.2802504197085,
+            "lng": 50.1978749197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Inwan.com",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJEcu-KRfoST4RKmScXQ0d4Vg",
+      "plus_code": {
+        "compound_code": "75JX+MJ Al Khobar Saudi Arabia",
+        "global_code": "7HRG75JX+MJ"
+      },
+      "rating": 5,
+      "reference": "ChIJEcu-KRfoST4RKmScXQ0d4Vg",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "8540, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.28159549999999,
+          "lng": 50.19914999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2829196302915,
+            "lng": 50.20058528029148
+          },
+          "southwest": {
+            "lat": 26.2802216697085,
+            "lng": 50.19788731970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Adel Alharbi Customs Clearance.Est",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101266457078691175828\">العبدالله عقيل</a>"
+          ],
+          "photo_reference": "AWU5eFhpxHE-cyY1BiL3jTF4l8TlEVPdU3I2UHJBQn2mA5ZYzgH_uq0mrTfrfKw__Jnys_lu_qkO00fv9padydDApvnM5zPjVIN4RhnnqrysMicIUxdLXX56ouLC3KMS_mblThfifnSl80F402kOTpPD5x7DoSz-w4RhKw-bdJWWYz5kODFM",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJq_GzLhfoST4Rb9Kc46kmRP4",
+      "plus_code": {
+        "compound_code": "75JX+JM Al Khobar Saudi Arabia",
+        "global_code": "7HRG75JX+JM"
+      },
+      "rating": 4.1,
+      "reference": "ChIJq_GzLhfoST4Rb9Kc46kmRP4",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 7,
+      "vicinity": "8512, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.284111,
+          "lng": 50.19799259999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2852776802915,
+            "lng": 50.19975958029149
+          },
+          "southwest": {
+            "lat": 26.2825797197085,
+            "lng": 50.19706161970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "SPORTA Fitness Equipment | سبورتا لتجهيز الأندية الرياضية",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 351,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113654983640136641634\">SPORTA Fitness Equipment | سبورتا لتجهيز الأندية الرياضية</a>"
+          ],
+          "photo_reference": "AWU5eFj8IoJdD0BP6o-i3RIZcqUTgdhpzd7zXC4Pn3HmyAUB_izSfZz31f3AqDtqB69RRLTx3w36ulC10utWuhZeVkUTQLR1oBv8oxsHJdt_SJ67vsXJU0AgyDGJTaFX6xQgqsyp7PMC9pcAg-67Kvn0Y4cOpj903Z5lFTAM8EImXqSCfEbH",
+          "width": 815
+        }
+      ],
+      "place_id": "ChIJ8RPG_BPoST4RrGtHFN35raw",
+      "plus_code": {
+        "compound_code": "75MX+J5 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+J5"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ8RPG_BPoST4RrGtHFN35raw",
+      "scope": "GOOGLE",
+      "types": ["store", "point_of_interest", "establishment"],
+      "user_ratings_total": 11,
+      "vicinity": "Custodian of The Two Holy Mosques Road, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2829056,
+          "lng": 50.1977713
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28427803029151,
+            "lng": 50.1989749802915
+          },
+          "southwest": {
+            "lat": 26.2815800697085,
+            "lng": 50.1962770197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "name": "Salman Alfarisi Masjid",
+      "photos": [
+        {
+          "height": 2936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105953650491978741046\">Masaru KUWAHARA</a>"
+          ],
+          "photo_reference": "AWU5eFik13hgGA6WP0unFNqtqOgnVazq4-gHnHBPH_WLAT8J2tOP31JzW5R-wwXWCyZRtOAUKlcM6CpP79VH9I9DWtut0Fa_Nr3uJ7JGJtYzY2Ncww2sgTT4UQ1hM7LLiN8Qn60t0FIdTW8sGtWwfDOyypKXPVyy6UVg29rcC8tcRZAlv5Nd",
+          "width": 3916
+        }
+      ],
+      "place_id": "ChIJaQp1RBHoST4RKUdHoKIcLn8",
+      "rating": 4.6,
+      "reference": "ChIJaQp1RBHoST4RKUdHoKIcLn8",
+      "scope": "GOOGLE",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 119,
+      "vicinity": "Riyadh Street, 75MX+546, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.284421,
+          "lng": 50.197899
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2857770302915,
+            "lng": 50.1991862302915
+          },
+          "southwest": {
+            "lat": 26.2830790697085,
+            "lng": 50.1964882697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "مجمع عيادات رام - العقربية",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117283956818512298649\">Trinty Art</a>"
+          ],
+          "photo_reference": "AWU5eFgmw3qtmNIjseehgFlQWqXNzP2XiWwiNeIf8HXkdnVgNVjYTHscIPmOPULB1LjEMhH6KuFIuYKVQBZTxTJeVkGaOX1n6uKY_1h0UvtXq2jg2D_gk4Vg0zzfmW-Xo9t01HbnVHhfCilFZW4gRtMBQQ1Dsqzc8x95WH3fy_KuQ0rDIpPY",
+          "width": 4224
+        }
+      ],
+      "place_id": "ChIJsfIt-xPoST4RgrCTXcQ__Dg",
+      "plus_code": {
+        "compound_code": "75MX+Q5 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MX+Q5"
+      },
+      "rating": 3.5,
+      "reference": "ChIJsfIt-xPoST4RgrCTXcQ__Dg",
+      "scope": "GOOGLE",
+      "types": ["health", "point_of_interest", "establishment"],
+      "user_ratings_total": 722,
+      "vicinity": "Prince Hammoud, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2810488,
+          "lng": 50.1991445
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2823977802915,
+            "lng": 50.2004934802915
+          },
+          "southwest": {
+            "lat": 26.2796998197085,
+            "lng": 50.19779551970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "M.A.AL-KAWARI EST Trading Est",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ-338ghfoST4R_m8ydSffl3U",
+      "plus_code": {
+        "compound_code": "75JX+CM Al Khobar Saudi Arabia",
+        "global_code": "7HRG75JX+CM"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ-338ghfoST4R_m8ydSffl3U",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 9,
+      "vicinity": "Opposite Saudi Polycon Water Tanks, 4th Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.284716,
+          "lng": 50.2022145
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2860749302915,
+            "lng": 50.2035036802915
+          },
+          "southwest": {
+            "lat": 26.2833769697085,
+            "lng": 50.20080571970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "EMBARK, Khobar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 590,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117594574891124851490\">EMBARK, Khobar</a>"
+          ],
+          "photo_reference": "AWU5eFjA60kz5Y219nan5lHQNIDWCIJAdaONI5jd9vy6t1OB8J4oEGeVesHPeIaDUL_6tfBSdDRSCFl0hPx5f_AgQ2Kkg3ewcM3_S_3bff5ExyryoJvcTHmDDbIx0IdIi3w0n0OWve7fbK8NVYBgUyTbdytdOCyWFiBkELaUclB1ngdrMq08",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJy0PocRboST4REXzH2nfMaE0",
+      "plus_code": {
+        "compound_code": "76M2+VV Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M2+VV"
+      },
+      "rating": 4.3,
+      "reference": "ChIJy0PocRboST4REXzH2nfMaE0",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 15,
+      "vicinity": "Al Khobar"
+    },
+
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2854068,
+          "lng": 50.20146749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2869518802915,
+            "lng": 50.20282998029149
+          },
+          "southwest": {
+            "lat": 26.28425391970849,
+            "lng": 50.20013201970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "فرع مصلحة المياه بالخبر",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109020906027540678730\">Abdllah Alrooq alzamil</a>"
+          ],
+          "photo_reference": "AWU5eFjMuO2A1avvGmcULT_hX2Hf5Hf6-kf2oCjc4regvYKTajtKFPFMr6hTNRt5FastLWpcJfXOjSAFg2OJXEJNXR0XgThvEzUl6-7d3TgZPA1JlqMgs7ojOZAM0u9GjkRT7kl3sf-AeThC9-Nux5-rS6jy_BaYj_J6cBd0bQwWf1SWWT4q",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ-15Y-UHoST4RCZxH-rSEy1E",
+      "rating": 2,
+      "reference": "ChIJ-15Y-UHoST4RCZxH-rSEy1E",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 96,
+      "vicinity": "Prince Muqrin Street, Madinat Al Umal, 76P2+5H8, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2835882,
+          "lng": 50.19709709999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2849371802915,
+            "lng": 50.1984460802915
+          },
+          "southwest": {
+            "lat": 26.2822392197085,
+            "lng": 50.1957481197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "KFC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116192028069509743031\">Omar</a>"
+          ],
+          "photo_reference": "AWU5eFikXEIW1FlcgvWOzxd87xV-v2zxZHZB1g12OR7md1rO2-Np9E0IokJOzWWciArqNprB1P-wA5AmtepDakrH-mWlqNX8Gt6_S67_i6cQQrLTH_Ke0PE8Vj-_vEQZU_SjMu2DMOBRJ0jXy6-_QQGhA_R_YjNny55QQZhZQ7GuC326n3h2",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJFdDTYRHoST4RyFercf35iWM",
+      "plus_code": {
+        "compound_code": "75MW+CR Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MW+CR"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJFdDTYRHoST4RyFercf35iWM",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1360,
+      "vicinity": "King Abdullah Rd, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2818706,
+          "lng": 50.1974506
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2832006302915,
+            "lng": 50.19887773029151
+          },
+          "southwest": {
+            "lat": 26.2805026697085,
+            "lng": 50.19617976970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ansab",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102396367026445120909\">Firoz Kharim</a>"
+          ],
+          "photo_reference": "AWU5eFjr_JPvsetFIK0h3_5kA2VWcH1c-wkDN01jE7rrMZrKkMXMlGPuhZ8JeBVMkRWC8vZ0qw-k1BVOIWqyHihBomVAmJCjW1LSLUPFwfXxSXxJHalgHREdPVa7f7sz8wtmehv4NXu6RHS_3948KiQuhtDbkL755swvopnRdRq0nbPofdxY",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ7c9TPRHoST4RG4DqnWmymI0",
+      "plus_code": {
+        "compound_code": "75JW+PX Al Khobar Saudi Arabia",
+        "global_code": "7HRG75JW+PX"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ7c9TPRHoST4RG4DqnWmymI0",
+      "scope": "GOOGLE",
+      "types": ["general_contractor", "point_of_interest", "establishment"],
+      "user_ratings_total": 193,
+      "vicinity": "Al Riydh Road Crossing 4th Street Near 8569 4th St, Al Khobar Al Janubiyah, Al Khobar 34621 4192, الخبر"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2846728,
+          "lng": 50.19734130000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2859884302915,
+            "lng": 50.1988705302915
+          },
+          "southwest": {
+            "lat": 26.28329046970849,
+            "lng": 50.1961725697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "شركة الشهراني للمحاماة والتوثيق والإستشارات القانونية",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1185,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100176513881091312236\">شركة الشهراني للمحاماة - Alshahrani Law Firm</a>"
+          ],
+          "photo_reference": "AWU5eFjqro-E1XnkgoF2NDI_cnB0eq2XUzduu8WBYzK9ixL4djP4smAZXsDiL-MJRt-WXcF_2tcMJWy3BsqeoK7JqWGEln9wLbmVzmCIKteRWhPq23fN6OBBxA2npOOumQOfXyOE49tLbW_cjL-VA-kToQ-reCcrRkkwD6w2-QkOPa_ywtDD",
+          "width": 1333
+        }
+      ],
+      "place_id": "ChIJJ5CgwRPoST4RqdMOBDEpGqA",
+      "plus_code": {
+        "compound_code": "75MW+VW Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MW+VW"
+      },
+      "rating": 4,
+      "reference": "ChIJJ5CgwRPoST4RqdMOBDEpGqA",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 8,
+      "vicinity": "3688, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2848322,
+          "lng": 50.1971627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28612868029151,
+            "lng": 50.1987951802915
+          },
+          "southwest": {
+            "lat": 26.2834307197085,
+            "lng": 50.1960972197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Al-Kuthban Engineering Services",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109466242895848630850\">Kuthban Engineering</a>"
+          ],
+          "photo_reference": "AWU5eFjUJGjklvspkAufhwa8lPEzA8wM2LUiS3nexpRmTxo-JikULJgEfSUC9NlwEZu67TiPG1RzHGxHfwe0HQ64xo9Tglhzc_yH2pyatRf98Oq00gJdrVhA4l2Vz0dyB9pN4_wgPQiE0eFLAvlj3jjBkh063VCCwDJji4IRW9wF-zS0gtv3",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJJeFCDyXoST4RhdORZ0VluuY",
+      "plus_code": {
+        "compound_code": "75MW+WV Al Khobar Saudi Arabia",
+        "global_code": "7HRG75MW+WV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJJeFCDyXoST4RhdORZ0VluuY",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 5,
+      "vicinity": "Unit 111, Al-Jazeera Building, Prince Hammoud, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2850121,
+          "lng": 50.19714399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2864202802915,
+            "lng": 50.19851578029149
+          },
+          "southwest": {
+            "lat": 26.2837223197085,
+            "lng": 50.19581781970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "مؤسسة التقنية الدقيقة لتقنية المعلومات \"ميكروتيك\"",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ29igZxHoST4RXzSy5x_s4Lg",
+      "plus_code": {
+        "compound_code": "75PW+2V Al Khobar Saudi Arabia",
+        "global_code": "7HRG75PW+2V"
+      },
+      "rating": 2.9,
+      "reference": "ChIJ29igZxHoST4RXzSy5x_s4Lg",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 8,
+      "vicinity": "8704 الشارع الأول, 4166, الخبر"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2804257,
+          "lng": 50.2012982
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2817945302915,
+            "lng": 50.20265458029149
+          },
+          "southwest": {
+            "lat": 26.2790965697085,
+            "lng": 50.19995661970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "مجموعة تقنية العرب | ArabTech Group",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJE_OXGxjoST4RXliOdOgvD_Q",
+      "plus_code": {
+        "compound_code": "76J2+5G Al Khobar Saudi Arabia",
+        "global_code": "7HRG76J2+5G"
+      },
+      "rating": 5,
+      "reference": "ChIJE_OXGxjoST4RXliOdOgvD_Q",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "4756 4th Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2802185,
+          "lng": 50.20125789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2816103302915,
+            "lng": 50.2026223802915
+          },
+          "southwest": {
+            "lat": 26.2789123697085,
+            "lng": 50.1999244197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "بيت المكملات",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 669,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117287872303842385273\">Ali Nawaf</a>"
+          ],
+          "photo_reference": "AWU5eFhH_Ge2LlWs75GD02PveAjYdaeXnn3BmWAnWUb0jyH7vUcPo-CDfXLhMfVfTe2Yb1CFc-kuXz6vwpyI_iu8j6_2KwCjltBTDBk68lWri2pDpjJ2cZ8WPL8uIG7Hhj4BxuytVkgjoLUVTf3A01dxc2hH0L-NKa8fk-xRangzPyVTy1wC",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJcwU5fxfoST4RAvmYqyTaC5k",
+      "plus_code": {
+        "compound_code": "76J2+3G Al Khobar Saudi Arabia",
+        "global_code": "7HRG76J2+3G"
+      },
+      "rating": 4.5,
+      "reference": "ChIJcwU5fxfoST4RAvmYqyTaC5k",
+      "scope": "GOOGLE",
+      "types": ["health", "store", "point_of_interest", "establishment"],
+      "user_ratings_total": 112,
+      "vicinity": "4th Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2801312,
+          "lng": 50.2012726
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2815605802915,
+            "lng": 50.20265068029151
+          },
+          "southwest": {
+            "lat": 26.2788626197085,
+            "lng": 50.19995271970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Alhussaini Trading EST",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100638454029048981334\">Alhussaini Trading EST</a>"
+          ],
+          "photo_reference": "AWU5eFhwzXc7lTZsYkvSXD574mZ3BWtmJUmKyr194aztzrzRMjJtFeCJytW7ntl-IX68gMGxINSxupWOaxyUzX3J_UZBA28bKmn9db-rcitKc56q9IYasXqIowTDxRxn0azSI262DGyOj5ilB2tReMUvFDOJFR-f04Ix5il3iRkHo560XkJS",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ9yj2gBfoST4RWFUAh_rvlx0",
+      "plus_code": {
+        "compound_code": "76J2+3G Al Khobar Saudi Arabia",
+        "global_code": "7HRG76J2+3G"
+      },
+      "rating": 4.9,
+      "reference": "ChIJ9yj2gBfoST4RWFUAh_rvlx0",
+      "scope": "GOOGLE",
+      "types": ["store", "point_of_interest", "establishment"],
+      "user_ratings_total": 14,
+      "vicinity": "4th Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.283764,
+          "lng": 50.2037809
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2851217302915,
+            "lng": 50.2050813302915
+          },
+          "southwest": {
+            "lat": 26.28242376970849,
+            "lng": 50.2023833697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gulf Architecture Co. alkhobar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108978729468319865484\">شركة عمارة الخليج للديكورالخبر</a>"
+          ],
+          "photo_reference": "AWU5eFh7ekjjpK2ZLLN8EunPwx3Dd3hxvsOYiYyk7hyWpjWjDaP1QLizprEae_dxzVIMxrVGyXbdsTwJIrajWgv59DSer7MThYPWqtCh8SRSs-tJ1lupZygo3C8RC6ypeviXONX_E1mcu_36vvo__O4w_OWXMY9gNjYL1cRBTDqPOIZaEUIC",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJg8j6iD3oST4R_w0dThCU6z0",
+      "plus_code": {
+        "compound_code": "76M3+GG Al Khobar Saudi Arabia",
+        "global_code": "7HRG76M3+GG"
+      },
+      "rating": 4.5,
+      "reference": "ChIJg8j6iD3oST4R_w0dThCU6z0",
+      "scope": "GOOGLE",
+      "types": ["general_contractor", "point_of_interest", "establishment"],
+      "user_ratings_total": 24,
+      "vicinity": "Prince Muteb Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2811104,
+          "lng": 50.19693849999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28248333029151,
+            "lng": 50.19835973029149
+          },
+          "southwest": {
+            "lat": 26.2797853697085,
+            "lng": 50.19566176970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Zain KSA - Shop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115060564795332923433\">Zain KSA - Shop</a>"
+          ],
+          "photo_reference": "AWU5eFhBYhP3SViLgZAm1vyi0y6P6TAkyJkIEVehd4eH-NR5GXrIeoqU-der5ih7WbiOYzSoYY-vZgWFbvqP9moDxGyYo5x0JeLizUrpPRZCHeUNaUq669Q8XUJceVHzga1O8eR4M9qz00GLXKPFlsDqYKR2xNjLJ1uffgJXA_JpKlkR0ovq",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJIYlKHBHoST4RLDQpXPFrC8A",
+      "plus_code": {
+        "compound_code": "75JW+CQ Al Khobar Saudi Arabia",
+        "global_code": "7HRG75JW+CQ"
+      },
+      "rating": 3.7,
+      "reference": "ChIJIYlKHBHoST4RLDQpXPFrC8A",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 511,
+      "vicinity": "Al Khobar Riyadh Street Thoqba District, الخبر"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2802844,
+          "lng": 50.2020418
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2815938302915,
+            "lng": 50.20337678029149
+          },
+          "southwest": {
+            "lat": 26.2788958697085,
+            "lng": 50.2006788197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "2 Al Muhaideb National Tanks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118436362101659452819\">AL AHAMED</a>"
+          ],
+          "photo_reference": "AWU5eFjSulzeO8ReuHD_cM_PoaSdKIKNJbX6ZoZlZ9x_SChMpEIFq3cUG0XUVyG4D32GS9xoBofGKObsBvnVwuPD-HZ5BKEMZnHQdaWvHIiuTJ-AF2-__dXdG42RgEXGDQuqyw5ktYONNAMZUQgmLno3vKjdggRb7hKnAdpMQ9OoJstiiahU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlXdtiBfoST4RAIyOk0DJoU4",
+      "plus_code": {
+        "compound_code": "76J2+4R Al Khobar Saudi Arabia",
+        "global_code": "7HRG76J2+4R"
+      },
+      "rating": 4.6,
+      "reference": "ChIJlXdtiBfoST4RAIyOk0DJoU4",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 20,
+      "vicinity": "8400 4628 4th Street, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2851618,
+          "lng": 50.1962543
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2866201302915,
+            "lng": 50.19764113029149
+          },
+          "southwest": {
+            "lat": 26.2839221697085,
+            "lng": 50.1949431697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "TAACA | Energy Resources Development Co.",
+      "photos": [
+        {
+          "height": 1905,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114198994972181991266\">Expat View</a>"
+          ],
+          "photo_reference": "AWU5eFgbFk555iF2Ft7nJaDr-jqzI_9zMBgCXqe47gqII-49-hvCnS-NorOh05UbXrjtPplMSIauXW5RvnKVjIZdEqXWsdtaxQl7Tlr5smc-Wqzm16342o0oJVMQ8YDQfEPXpFinFgWES9F09-PAdjUmM4eZYnOYIUAG_tTAvTjqpu19JRT1",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJGzJzrRPoST4R9cNd6j1rD3s",
+      "rating": 4.4,
+      "reference": "ChIJGzJzrRPoST4R9cNd6j1rD3s",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 8,
+      "vicinity": "75PW+3G6, Al Khobar"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 26.2839856,
+          "lng": 50.203965
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2853549802915,
+            "lng": 50.2052008302915
+          },
+          "southwest": {
+            "lat": 26.28265701970849,
+            "lng": 50.2025028697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ghazal Almaha Industrial Services",
+      "permanently_closed": true,
+      "place_id": "ChIJBX2wiT3oST4RqknrceR21Kk",
+      "reference": "ChIJBX2wiT3oST4RqknrceR21Kk",
+      "scope": "GOOGLE",
+      "types": ["general_contractor", "point_of_interest", "establishment"],
+      "vicinity": "Prince Muteb Street, 76M3+HHW, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.28567679999999,
+          "lng": 50.19584709999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2869548802915,
+            "lng": 50.1971702302915
+          },
+          "southwest": {
+            "lat": 26.28425691970849,
+            "lng": 50.1944722697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Al Sawsun For Furnished Units",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100755669986927785100\">Ahmed Atef</a>"
+          ],
+          "photo_reference": "AWU5eFgFD9zj_a9NQhba2_8T3NCLL53-Aq511OVGZqWdgBsmq9-US0FPveMiom-nzwbDfE5LsLg6v_qgNiTmmXErcp1KCMNy4Ua7cPNRfC5zGhECoiyq5sa5W0va08b_RJE2ytSPEvKHrQltLXCzpMvYrNaejiwWIS5RnGSRWwHOVPFEvrcx",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJF4uVrhPoST4RgQtWvuN-aWM",
+      "plus_code": {
+        "compound_code": "75PW+78 Al Khobar Saudi Arabia",
+        "global_code": "7HRG75PW+78"
+      },
+      "rating": 3.7,
+      "reference": "ChIJF4uVrhPoST4RgQtWvuN-aWM",
+      "scope": "GOOGLE",
+      "types": ["lodging", "point_of_interest", "establishment"],
+      "user_ratings_total": 47,
+      "vicinity": "حي العقربية شارع 1, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2862487,
+          "lng": 50.2024757
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28760258029151,
+            "lng": 50.20379498029151
+          },
+          "southwest": {
+            "lat": 26.2849046197085,
+            "lng": 50.20109701970851
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+      "name": "بنك الرياض",
+      "place_id": "ChIJqWjb6RXoST4RF5UKbkJ8o1s",
+      "plus_code": {
+        "compound_code": "76P2+FX Al Khobar Saudi Arabia",
+        "global_code": "7HRG76P2+FX"
+      },
+      "rating": 4,
+      "reference": "ChIJqWjb6RXoST4RF5UKbkJ8o1s",
+      "scope": "GOOGLE",
+      "types": ["atm", "point_of_interest", "finance", "establishment"],
+      "user_ratings_total": 4,
+      "vicinity": "Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2840047,
+          "lng": 50.2040648
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.28531318029151,
+            "lng": 50.20545518029149
+          },
+          "southwest": {
+            "lat": 26.2826152197085,
+            "lng": 50.2027572197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cyper Space Solutions شركة الفضاء الرقمي",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116507540287500417864\">Ahmed SE</a>"
+          ],
+          "photo_reference": "AWU5eFiFmOyIaNOcGxehI1LwScglDIgYOKG_PYesrsrT8ysrvGZqiWhQTP9LdGtLOxe66TzVg8kknLL2oCF4G6iINwu2sPKY-2ampGAb64lZU8GJZv9gdzHqEWl_m-u5aZeWMUR5vNA-fJgiZmr61hDnEj9BfyrUtYxVyryrWlRQYH3Q_17N",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJXxQdiT3oST4RO3__BKisvX0",
+      "rating": 3,
+      "reference": "ChIJXxQdiT3oST4RO3__BKisvX0",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "76M3+JJ4, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.28515429999999,
+          "lng": 50.19639399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2865983302915,
+            "lng": 50.19777588029149
+          },
+          "southwest": {
+            "lat": 26.28390036970849,
+            "lng": 50.1950779197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Ocean Training Center",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118054921487106031866\">Moayad Jarrash</a>"
+          ],
+          "photo_reference": "AWU5eFhCxMZR0OkX20pV8QEcfCB_Q_8-3GdV8keaWZzXJcoxCP2zh5UwTz5bfVyWN8wcbrnlvo05d8lZtZrtZPYGGej_gWg2i2VVQv5vJ0itRhlYC_c2yjcbR149BN1lQI3JU2EdC_JR-2JzSdCUpRK1q-8VYn_FqSHg-9-K2PPEjCj_GHrx",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJ5z_-rRPoST4R0IitA0ZyjII",
+      "rating": 3.5,
+      "reference": "ChIJ5z_-rRPoST4R0IitA0ZyjII",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "75PW+3H6, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.2812444,
+          "lng": 50.20353129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2825459302915,
+            "lng": 50.2050689302915
+          },
+          "southwest": {
+            "lat": 26.2798479697085,
+            "lng": 50.2023709697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sixt for Cars rental",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101841586753812628208\">سيكست Sixt</a>"
+          ],
+          "photo_reference": "AWU5eFgYw6D7M1efmHTr94-OUk30pOY1EQ4EExDdMLpbjjgPX8dpnch4Cj6pk5GPSgiNBiOtGP50a3pyj2_BvqkIrdT99si9DgggU-dMpFOajI0w0K9Tp7Mo6H3dBuLXmsdbxqch3vFOoKEEuYpGPglSlx5r3m8_ZC7S5OyxlS2w1D_uHkgW",
+          "width": 1179
+        }
+      ],
+      "place_id": "ChIJ8d45oe38ST4RpxgZT6JI69k",
+      "plus_code": {
+        "compound_code": "76J3+FC Al Khobar Saudi Arabia",
+        "global_code": "7HRG76J3+FC"
+      },
+      "rating": 3,
+      "reference": "ChIJ8d45oe38ST4RpxgZT6JI69k",
+      "scope": "GOOGLE",
+      "types": ["car_rental", "point_of_interest", "establishment"],
+      "user_ratings_total": 162,
+      "vicinity": "طريق خادم الحرمين, Custodian of The Two Holy Mosques Rd, Al Khobar"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 26.285077,
+          "lng": 50.196274
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 26.2865715302915,
+            "lng": 50.1976733302915
+          },
+          "southwest": {
+            "lat": 26.28387356970849,
+            "lng": 50.1949753697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Saudi Boiler",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1905,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114198994972181991266\">Expat View</a>"
+          ],
+          "photo_reference": "AWU5eFh9cepN-lJSzUdtwIjNhTY26arVJDpTE3N9IITjVBveg5OaKkLB90gPGgFKkikMqX3zKe0vES1GF_a-ag7ojkT-0OAqghZsgwEkR_a9nKfZFOrht_z3xFU8uLPXqzVA2hgIfB9moHl3vpWQaJn-jvOXW_TxLweFGIM0A8jLNCjv-VDR",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJQRX-rRPoST4R5AGB_FiQ0dA",
+      "plus_code": {
+        "compound_code": "75PW+2G Al Khobar Saudi Arabia",
+        "global_code": "7HRG75PW+2G"
+      },
+      "rating": 4.8,
+      "reference": "ChIJQRX-rRPoST4R5AGB_FiQ0dA",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 13,
+      "vicinity": "King Abdullah St, Al Jarbou Tower, Office No.904,9th Floor, الخبر"
+    }
+  ]
+}

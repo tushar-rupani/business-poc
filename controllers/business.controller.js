@@ -9,28 +9,21 @@ const { Category, Business, CategoryBusiness, BusinessMetrics } = db;
 const FourSquareKhobarCached = require("../backup/4Square - Khobar.json");
 const FourSquareRiyadhCached = require("../backup/4Square - Riyadh.json");
 const FourSquareAlKharjCached = require("../backup/4Square - Al-Kharj.json");
+/**
+ * This data were scraped on Date: 18th January : 6:45PM
+ */
+// const FourSquareKhobarCached = require("../backup/18Jan-Scraping/4Square/Khobar.json");
+// const FourSquareRiyadhCached = require("../backup/18Jan-Scraping/4Square/Riyadh.json");
+// const FourSquareAlKharjCached = require("../backup/18Jan-Scraping/4Square/Al-Kharj.json");
 // Google Places API Cached Data. These data were scraped on 17th January, 2024
+// const GoogleKhobarCached = require("../backup/18Jan-Scraping/GooglePlaces/Khobar.json");
+// const GoogleRiyadhCached = require("../backup/18Jan-Scraping/GooglePlaces/Riyadh.json");
+// const GoogleAlKharjCached = require("../backup/18Jan-Scraping/GooglePlaces/Al-Kharj.json");
 const GoogleKhobarCached = require("../backup/Google/17-Khobar.json");
 const GoogleRiyadhCached = require("../backup/Google/17-Riyadh.json");
 const GoogleAlKharjCached = require("../backup/Google/17-Al-Kharj.json");
 const { Op } = require("sequelize");
 
-// async function test() {
-//   const data = await Business.findAll({
-//     nest: true,
-//     // raw: true,
-//     include: [{
-//       model: BusinessMetrics,
-//       as: "businessMetrics",
-//     }, {
-//       model: CategoryBusiness,
-//       where: { categoryId: 13065 },
-//       as: "catBusiness"
-//     }],
-//   });
-//   console.log(data);
-// }
-// test();
 exports.insertAllCategoriesOfFourSquare = async (req, res) => {
   try {
     const options = {
@@ -302,7 +295,11 @@ exports.getMetricsFromFourSquare = async (req, res) => {
         totalPhotosCount: result.stats.total_photos,
         createdAt: new Date("2024-01-17"),
       };
-      await BusinessMetrics.create(metricsPayload);
+      try {
+        await BusinessMetrics.create(metricsPayload);
+      } catch (e) {
+        console.log("Error Occured!");
+      }
     }
     return generalResponse(
       res,
@@ -403,7 +400,9 @@ exports.getBusinessByCategoryId = async (req, res) => {
       search_term,
       popularity_order,
       rating_order,
+      total_review_count_order,
       show_delta,
+      platform,
     } = req.body;
 
     const searchTerm = search_term ?? "";
@@ -419,6 +418,11 @@ exports.getBusinessByCategoryId = async (req, res) => {
         "rating",
         rating_order === "high" ? "DESC" : "ASC",
       ]);
+    } else if (total_review_count_order) {
+      whereFilterForBusiness.push([
+        "totalRatings",
+        rating_order === "high" ? "DESC" : "ASC",
+      ]);
     }
     const showDeltaInformation = {
       model: BusinessMetrics,
@@ -431,26 +435,28 @@ exports.getBusinessByCategoryId = async (req, res) => {
         "createdAt",
       ],
     };
+    const includeToAddInBusiness = [
+      {
+        model: CategoryBusiness,
+        where: category_id ? { categoryId: category_id } : {},
+        attributes: [],
+        as: "catBusiness",
+      },
+    ];
+    if (show_delta) {
+      includeToAddInBusiness.push(showDeltaInformation);
+    }
     const { count, rows } = await Business.findAndCountAll({
-      nest: true,
       where: {
+        platform: {
+          [Op.eq]: platform ?? "",
+        },
         name: {
           [Op.iLike]: `%${searchTerm}%`,
         },
       },
-      attributes: {exclude: ["photos", "createdAt"]},
-      include: [
-        {
-          model: BusinessMetrics,
-          as: "businessMetrics",
-        },
-        {
-          model: CategoryBusiness,
-          where: category_id ? { categoryId: category_id } : {},
-          attributes: [],
-          as: "catBusiness",
-        },
-      ],
+      attributes: { exclude: ["photos", "createdAt"] },
+      include: includeToAddInBusiness,
       offset: (currentPage - 1) * 10,
       limit: 5,
       order: whereFilterForBusiness,

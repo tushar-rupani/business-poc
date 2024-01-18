@@ -1,0 +1,3738 @@
+{
+    "results": [
+      {
+        "fsq_id": "5177b526e4b0421364ed57cd",
+        "categories": [
+          {
+            "id": 13199,
+            "name": "Indian Restaurant",
+            "short_name": "Indian",
+            "plural_name": "Indian Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5177b526e4b0421364ed57cd",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "مطعم ممتاز الهندي",
+        "photos": [
+          {
+            "id": "653183510ac0dc7fb9f50a28",
+            "created_at": "2023-10-19T19:28:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403769757_Va4LEw0JWDkzB1TBUb7mnR1cCTCl5qjgN9J0hXDjASE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63edb156da920b706eeb3221",
+            "created_at": "2023-02-16T04:30:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/208549105_wWh1LrK3JKf4Z7is_5DUY_CRxRM-8K7ET3l7uF2KswU.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "63e6445e7de3993c62b27f32",
+            "created_at": "2023-02-10T13:19:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/208549105_vsBs91WqUdq6hXz3hH-7TAKxDWd33x1Z8kfJMS_eGFI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63e36fc84e88721db4b2e95f",
+            "created_at": "2023-02-08T09:47:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/208549105_vF_NgiYs2S3hNcWN3KFjwgZydid1_05tCR_RL57HUe4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "639774f3568e5609fd289575",
+            "created_at": "2022-12-12T18:37:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359016269_vjyulHYYM20XhhmDa2eMKGy0cgWHWxjwtKFc52bmEJ4.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9993112674584779,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 26,
+          "total_ratings": 47,
+          "total_tips": 10
+        }
+      },
+      {
+        "fsq_id": "5dbf0454eb5a0d00080d42b6",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5dbf0454eb5a0d00080d42b6",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Bold",
+        "photos": [
+          {
+            "id": "65a8481b4196f857440e3d4a",
+            "created_at": "2024-01-17T21:35:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1368546096_Gfud2JF58wCwzTZ8Zzn8LlO4Ddfolx43kk82uA4fLxM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a7cca930cc65411474bece",
+            "created_at": "2024-01-17T12:48:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/539393543_tFiWllFrrOBozRN8Ar25Bzo3JYhbNvqbhJGTPldlqOs.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6ce057c19cf339ea2515d",
+            "created_at": "2024-01-16T18:42:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401891407_8Rf_HNKOqmI2Igljk5hdsLSuLunFQMoVnqe5zvd8zpo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a2aef23e7229120eeec55e",
+            "created_at": "2024-01-13T15:40:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523200236_QC6bN12m_C0VQdbxptGo0yKxAc3uHfoVtduPwJk_yMw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a16e8efe77ef341aff57a5",
+            "created_at": "2024-01-12T16:53:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/526886684_YtUrO1Md-V9UnKO6u9dnk9r_EHVaNAyxgO1BoIs7aTg.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999991701705137,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 13507,
+          "total_ratings": 577,
+          "total_tips": 127
+        }
+      },
+      {
+        "fsq_id": "644ac6b514fa0831cdd84f85",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/644ac6b514fa0831cdd84f85",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Mav Cafe",
+        "photos": [
+          {
+            "id": "65a8156d65b9694e1e34d988",
+            "created_at": "2024-01-17T17:59:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/555261947_102Zxtw_vrtpoI1LcjCZdbaV3w7NC68yw8PVY6DV2jI.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a68e4f33f41f1e44e2e6b6",
+            "created_at": "2024-01-16T14:10:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1378178159_92G6yEj_9x94vUXdxuvoVfSkLzI1Ty9D33V4AEWKwB0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a40b7c659421040a71574f",
+            "created_at": "2024-01-14T16:27:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_5jV_8twu_xg50ljfyHWQDg739_f-t97rpYEe5tBGlN0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a40b7cf82d19537a4865c4",
+            "created_at": "2024-01-14T16:27:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_7Vl5cev14ViT_cikpNz_VtQykI7mtqFwecxsjfixz2w.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a40b7cefcba45aa5103b04",
+            "created_at": "2024-01-14T16:27:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_KOYl-QFj_Nke1q8veUqiupmxJHZm3el0uNf7fV0gDQA.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999801618888413,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1145,
+          "total_ratings": 32,
+          "total_tips": 8
+        }
+      },
+      {
+        "fsq_id": "5a9989f3805e3f40f5fdeadd",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "short_name": "Restaurant",
+            "plural_name": "Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5a9989f3805e3f40f5fdeadd",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16278",
+          "locality": "Al Kharj",
+          "postcode": "16278",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "The Coffee Note (إيحاء القهوة)",
+        "photos": [
+          {
+            "id": "65a69fb3a8d595797404fd46",
+            "created_at": "2024-01-16T15:24:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1383777184_bDic_YWYQae_PwztgM6NOrPjTC2K0A3021MV3vysT3M.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658a016b5c655c4b52c2e567",
+            "created_at": "2023-12-25T22:25:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1389046051_ujaIX9h1wArFe3nmzacmRp7L7r7x2dll_j5VUvvmS08.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658a016b5c655c4b52c2e4cc",
+            "created_at": "2023-12-25T22:25:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1389046051_KZAPeB5vOFPTel9bmRzQ98pOhRbp80T6aVNL8AYkzxg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658a016acd0e0912a0b5113f",
+            "created_at": "2023-12-25T22:25:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1389046051_6Lp_4o7Mq9TsS9LZftJx6bJtlW4fLBS71aGfwoaOnv8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "657ab0a68cf8c71ea67080aa",
+            "created_at": "2023-12-14T07:37:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/538980030_v9-YtKnBt2Udk6y-mohgGOihvNRihFcjkfhUOQP1S8k.jpg",
+            "width": 1440,
+            "height": 1440
+          }
+        ],
+        "popularity": 0.9950204525739612,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 4341,
+          "total_ratings": 288,
+          "total_tips": 57
+        },
+        "tel": "055 521 3129"
+      },
+      {
+        "fsq_id": "60537a9e4610e54811555ba1",
+        "categories": [
+          {
+            "id": 13016,
+            "name": "Lounge",
+            "short_name": "Lounge",
+            "plural_name": "Lounges",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/60537a9e4610e54811555ba1",
+        "location": {
+          "address": "3780 Amr Bin Al As St",
+          "country": "SA",
+          "cross_street": "Amro Bin Al As",
+          "formatted_address": "3780 Amr Bin Al As St (Amro Bin Al As), الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Ivy Lounge",
+        "photos": [
+          {
+            "id": "60943271f5cd3e53044f381c",
+            "created_at": "2021-05-06T18:16:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/564841514_Bp8SzZjCfJXcpTpY-tDSPDyeDy_VP8mAfKjDXT59Gv8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "60c4f7198202ed7a101b45a5",
+            "created_at": "2021-06-12T18:04:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/577514419_T2xm1mkf6gp7Jz1G7GtfTqFXwbqBVsXltssnDSZQJpc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "606cc8e85242c2665af604db",
+            "created_at": "2021-04-06T20:47:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/484188792_rOO_ZGcZEx0uA5ZYLxmAGyCv_k5qHgeorEIc0n-GtFU.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "6089d4462118cc771330a197",
+            "created_at": "2021-04-28T21:31:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/573426784_ovJouzRkyZSGL8VBK7bOMelGt4j1zp2wshC9TMqEDYM.jpg",
+            "width": 1022,
+            "height": 1920
+          },
+          {
+            "id": "6594f587c30c507da7a57afc",
+            "created_at": "2024-01-03T05:49:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/603677241_oWS-c52FuNdC1_9MDMyEohqAJIKSf5N1biXQGDfSGRE.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9993038249252719,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1447,
+          "total_ratings": 63,
+          "total_tips": 13
+        }
+      },
+      {
+        "fsq_id": "5fb549344bb22d01fbe69fee",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5fb549344bb22d01fbe69fee",
+        "location": {
+          "address": "الورود",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الورود, الخرج 16278",
+          "locality": "Al Kharj",
+          "postcode": "16278",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Qatebah (قاطبة)",
+        "photos": [
+          {
+            "id": "65a59bea88c5ed7036eb5b76",
+            "created_at": "2024-01-15T20:56:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_-HkAU7wJF5sLlGVSKOUAWHGo1RMaUiucIVY6i3d82WA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a59be9192da159b73b1c40",
+            "created_at": "2024-01-15T20:56:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_29Ci5ftvz2M9ggNBhaf2Wxi7AlsR-f7ZE72kq517LYU.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a59be8255b822b5b8811fa",
+            "created_at": "2024-01-15T20:56:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_-3YYgsODHymnB0BlRJySutRvY_Jiky3Mc9xAeMCn4t8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658d21437a05f44d59b6e64a",
+            "created_at": "2023-12-28T07:18:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/538980030_pf660HP00XA2ca1xQYj35vFjv1rsUBkbK1eOeYOX2rM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658d214225a3580ddf34143c",
+            "created_at": "2023-12-28T07:18:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/538980030_WvWVdpM6uzhfaUfwTDzgwxusEcM_9Ix9qN0o47eLB1U.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9898656036689251,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 2965,
+          "total_ratings": 110,
+          "total_tips": 25
+        }
+      },
+      {
+        "fsq_id": "5f8329ee7a1eff27bfa5c9f8",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5f8329ee7a1eff27bfa5c9f8",
+        "location": {
+          "address": "الخرج ، حي الورود",
+          "country": "SA",
+          "cross_street": "الشارع العام",
+          "formatted_address": "الخرج ، حي الورود (الشارع العام), الخرج 16278",
+          "locality": "Al Kharj",
+          "postcode": "16278",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "كوفي ماج",
+        "photos": [
+          {
+            "id": "657756b9d006fa53525e980a",
+            "created_at": "2023-12-11T18:36:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/77991378_dMjwoQmVNqsBsERxo5FvuJD4Gqfy6k9-RP5S5HRdh34.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "656ddae66a941d7b9633d640",
+            "created_at": "2023-12-04T13:57:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/61046752_UOyobFp6zHWvlZhByrcdfEHHqZOc8WhUuoIRWoNOJYM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6569c341fd850d764c42b9ad",
+            "created_at": "2023-12-01T11:28:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1370728375_U3tbLsDRKoGq3VthMiXhXA0lSMZandCCS5KDdG_-JAU.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6560a19b2be5126a28394046",
+            "created_at": "2023-11-24T13:14:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/555783711_BdVnU9HqK5G6OZ8_BOPG6wgzO4wpudXWWVNEagpmzsI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652e293cae6e105d2799020d",
+            "created_at": "2023-10-17T06:27:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369705793_RxmCnGdGSsje490zB0fFjKpW1XrEsms1btnpqcZWT_g.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9985489912787255,
+        "rating": 9,
+        "stats": {
+          "total_photos": 2288,
+          "total_ratings": 83,
+          "total_tips": 17
+        }
+      },
+      {
+        "fsq_id": "4ef62b3f469012b8bffdddbf",
+        "categories": [
+          {
+            "id": 13002,
+            "name": "Bakery",
+            "short_name": "Bakery",
+            "plural_name": "Bakeries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/4ef62b3f469012b8bffdddbf",
+        "location": {
+          "address": "طريق الملك عبدالله",
+          "country": "SA",
+          "formatted_address": "طريق الملك عبدالله, الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "مخابز وحلويات الأرياف",
+        "photos": [
+          {
+            "id": "649cf32386050a40fcfd7165",
+            "created_at": "2023-06-29T02:57:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/585453235_tncHvwPO8cjp4Kwv84g-vZdiYROHqkU1ld1FUk7akl0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61fbdd16b7ed84602a16279a",
+            "created_at": "2022-02-03T13:48:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/535194614_fMzaUxKEv9yYPOKWrn9xKFwGE4nbxwCpoJfzuXsqJBo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "613281302056d45bc8e88f5a",
+            "created_at": "2021-09-03T20:10:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/520201347_zLRVp5Wf7rQenclb6qyHITfYeHn75uChHPqATdv3M-I.jpg",
+            "width": 1440,
+            "height": 1657
+          },
+          {
+            "id": "607592526a99274b591440db",
+            "created_at": "2021-04-13T12:45:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/529069665_BMzboLSQfh9UfFhq5ZSS6OKgIB3b_Js6hdNzBfMZbgQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5e3050a6f157fa0008501cb3",
+            "created_at": "2020-01-28T15:17:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/96071691_jzMIOcK54X7H54dDqZYMKhIPTSc-edKI7Gv4ikDELSg.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9980431064780924,
+        "rating": 9,
+        "stats": {
+          "total_photos": 12,
+          "total_ratings": 67,
+          "total_tips": 7
+        }
+      },
+      {
+        "fsq_id": "6234dbcd5c909d1831ec229f",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6234dbcd5c909d1831ec229f",
+        "location": {
+          "address": "Al burj",
+          "country": "SA",
+          "cross_street": "عثمان ابن عفان",
+          "formatted_address": "Al burj (عثمان ابن عفان), الخرج 16278",
+          "locality": "Al Kharj",
+          "postcode": "16278",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "مسرّة | Sepcialty Coffee",
+        "photos": [
+          {
+            "id": "65a82ea30e3c675e792fc56f",
+            "created_at": "2024-01-17T19:46:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/501607995_abFs9SWIZjO08qxoydYaOiBg5eFSUrDHirBofhIj4dY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a82ea182d0255278cb1cef",
+            "created_at": "2024-01-17T19:46:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/501607995_CHcHTP-4hp15_EJBU-69qTNXtMKaGmDV0O5ycnNUhg0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6b777192da159b781d9b5",
+            "created_at": "2024-01-16T17:05:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/565801439_mQUSgnXhnPPLCKgt5L8rv8st9KemXSozoEBplUduYF0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a56a3b76bac60223ddef5f",
+            "created_at": "2024-01-15T17:24:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401891407_o9cbf4mWGQd76UzX0kWCfdgd_kSxnD8zkcWYLPhq1L0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a00c3cbf2ca404bb6f50c8",
+            "created_at": "2024-01-11T15:41:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523200236_rIwkkq1i5kUuGauIy_VqxqVu4B1gCEkQGX4StXUjH9M.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999815103617566,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 3079,
+          "total_ratings": 79,
+          "total_tips": 12
+        }
+      },
+      {
+        "fsq_id": "4f2aec30e4b0ba9488787e3a",
+        "categories": [
+          {
+            "id": 13309,
+            "name": "Middle Eastern Restaurant",
+            "short_name": "Middle Eastern",
+            "plural_name": "Middle Eastern Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/4f2aec30e4b0ba9488787e3a",
+        "location": {
+          "address": "طريق الملك عبدالعزيز",
+          "country": "SA",
+          "formatted_address": "طريق الملك عبدالعزيز, الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Al Tahi (الطاهي)",
+        "photos": [
+          {
+            "id": "64a8562840f55951fbad2db4",
+            "created_at": "2023-07-07T18:15:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543892702_4jbxIqgYgdfTBUXzms4nPtI2LmLkai59_eDoS7lg3-8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64a855bdb2e9a12e8a6309f0",
+            "created_at": "2023-07-07T18:13:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543892702_V5SDhQwNL44SfrINq5SekxVl_eXUk_jIUNauYri2w1A.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "638d124d9ae8102bff03ba25",
+            "created_at": "2022-12-04T21:34:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/526419924_jiwBBdtKq5cZX1YuzG5350HyvoPRhT85Hvda083v1gc.jpg",
+            "width": 1440,
+            "height": 1822
+          },
+          {
+            "id": "63486931e9c44d5209f9cf0a",
+            "created_at": "2022-10-13T19:38:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1370350828_Yx0t26tpRPj7Wo7ennF7l9cL3dS69X4Ee4lPZsBuUG4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6348692c51d3ae0b6d0a92fc",
+            "created_at": "2022-10-13T19:38:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1370350828_e0ONFb7Wg5TxVAsGIAAeVnUf0BPswjx9t0OqTB3BZ0A.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997616833443809,
+        "rating": 9,
+        "stats": {
+          "total_photos": 45,
+          "total_ratings": 104,
+          "total_tips": 18
+        }
+      },
+      {
+        "fsq_id": "6322904e89fd8e2581776695",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6322904e89fd8e2581776695",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16278",
+          "locality": "Al Kharj",
+          "postcode": "16278",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "RATIO (ريشيو)",
+        "photos": [
+          {
+            "id": "65a46da8db92f76277e1ca30",
+            "created_at": "2024-01-14T23:26:32.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/571864271_E9GRo7I9gmZk_h7EzhboUJqEBZJHUEklUP7QSSEDhGY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a39fabe0081675460b7bd2",
+            "created_at": "2024-01-14T08:47:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/61046752_2Xxlo_39N-OMpsaf1gI7ULQW5IqCiQwVFvFYnznljqc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a17772b6ebc37873d8cd9a",
+            "created_at": "2024-01-12T17:31:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/572712883_q7BJxMqzUTPLL7LML3nikSz2aBCVUzB7-oRS-LKtcZ8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a0646e2b5e246bf9945682",
+            "created_at": "2024-01-11T21:58:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/587975465_qgelzHIghINEGOAiSHTURRnSFRZKgWnFCwoFcRH1H1A.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a034c2808b2769b5f8e1b5",
+            "created_at": "2024-01-11T18:34:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/530861425_drc8EGIdmjFLp4gZGmO4TPvD1aTBrTGbzJd-ZXVaHAs.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998648933867491,
+        "rating": 9,
+        "stats": {
+          "total_photos": 927,
+          "total_ratings": 31
+        }
+      },
+      {
+        "fsq_id": "5f79b372f2fb9551c7883fec",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5f79b372f2fb9551c7883fec",
+        "location": {
+          "address": "شارع الحمراء",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "شارع الحمراء, الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "RAW (راو)",
+        "photos": [
+          {
+            "id": "652fee813fa5f0231a17fa54",
+            "created_at": "2023-10-18T14:41:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1360809315_pufN8ddoAi5z3CusXlx-ujXcVB2lyAacAlbd8d7ybSk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64d24487cd507644271b91ff",
+            "created_at": "2023-08-08T13:35:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1376943806_oo4Cr_hOxw_pfLbAGryXRcmdFf4aD2EOuTbcgk4-BqY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64c679cc9b490d135198d5a6",
+            "created_at": "2023-07-30T14:55:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1382986558_OCuZbyVqavrr7vbkhK5xA8Ax2Bm3khDT3p2IRtSM77g.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64a59d9c9eac7012d6320081",
+            "created_at": "2023-07-05T16:43:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534650174_evGNbh6q8TfenZPICXS_MNH9o85VJL0OZ2E58dEvFKs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64a59d9c3282bf4f86556107",
+            "created_at": "2023-07-05T16:43:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534650174_u0ELT1L8mIPPBIur8rqdB4_12bCA5yAje9yTKlsa-Uk.jpg",
+            "width": 1081,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9988561319173711,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 1705,
+          "total_ratings": 65,
+          "total_tips": 8
+        }
+      },
+      {
+        "fsq_id": "601a5c1635c339788df18150",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/601a5c1635c339788df18150",
+        "location": {
+          "address": "حي الورود، مقابل مودنق كافيه",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "حي الورود، مقابل مودنق كافيه, الخرج 16278",
+          "locality": "Al Kharj",
+          "postcode": "16278",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "توكان",
+        "photos": [
+          {
+            "id": "6555a9b5b1e9bf73e8dcca60",
+            "created_at": "2023-11-16T05:33:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374552648_fOC-xHniGbOFg8Ya9nMsyO2JTdILDGYdF27FVFTKae0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6555a9b49bcde23251dc3e20",
+            "created_at": "2023-11-16T05:33:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374552648_XDV0Wsr2gl_vtvLSys4hP5G_5nq_o_zyHI_vNs-LMP4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6555a9b35e73c61b9ba2e1b4",
+            "created_at": "2023-11-16T05:33:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374552648_m4RHsH6020p8_uCuVXGBr5TAwq-QJp-fNhcjT12kbdY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65545ff4934d023ccc367a5c",
+            "created_at": "2023-11-15T06:06:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/112461989_HA1tJQU-Y6jqLuVgWKk7_6GCUdzPv7RaXwfDZLiQ0OM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6518239b9766bd241a1fd8cb",
+            "created_at": "2023-09-30T13:33:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/572410131_sifle5bLMuu-obtPqPQSW9bgnVS4CWRb9WFfAUrrJFs.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9991054178815133,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1450,
+          "total_ratings": 80,
+          "total_tips": 20
+        }
+      },
+      {
+        "fsq_id": "5cc74b69270ee700398e8403",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5cc74b69270ee700398e8403",
+        "location": {
+          "address": "الخرج، حي الحمراء",
+          "country": "SA",
+          "cross_street": "طريق الأمير سطام بن عبدالعزيز",
+          "formatted_address": "الخرج، حي الحمراء (طريق الأمير سطام بن عبدالعزيز), الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Khaisha Coffee (قهوة خيشة)",
+        "photos": [
+          {
+            "id": "65982879495f870ac165d418",
+            "created_at": "2024-01-05T16:04:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524671868_7yutMlK9AK9O3GRGnCLHYgkNFe_zM-Zwmfn4t5heK7U.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65982876de7c1d593259d69f",
+            "created_at": "2024-01-05T16:04:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524671868_HnTojhh1Q9U_XaEGTZOCk2YaZxAcKvkBSzpr95Q_Co0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6594132ebaf9a47d1fa858f6",
+            "created_at": "2024-01-02T13:44:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/72041735_tOqALOzikI4fbHJruE0kjSWTeaBVZ3m32mZ2hG7EeFE.jpg",
+            "width": 1437,
+            "height": 1920
+          },
+          {
+            "id": "6575c62241eb84778bd20570",
+            "created_at": "2023-12-10T14:07:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/72041735_8eh2zbHqOL6P87vH0AtU04mgs7A1y3EvChsVK80gg8g.jpg",
+            "width": 1440,
+            "height": 1555
+          },
+          {
+            "id": "6570234e92fdba0f280f3af7",
+            "created_at": "2023-12-06T07:31:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_n11q24IXHym4hmYTc4C3xbTd6VdTV5tbKeC6lIwYGbo.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998137292124796,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 4470,
+          "total_ratings": 193,
+          "total_tips": 47
+        },
+        "tel": "056 581 1112"
+      },
+      {
+        "fsq_id": "57397179498ecfdeab3236e9",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "dr.CAFE COFFEE is a leading coffee company that provides unmatched standards in high quality products, knowledgeable and friendly services in an outstanding Ultimate Place Experience to suit each individual guest's lifestyle and for a memorable personal experience",
+        "link": "/v3/places/57397179498ecfdeab3236e9",
+        "location": {
+          "address": "King Fahad Rd",
+          "address_extended": "Prince Nasir Bin Abdulaziz Street",
+          "country": "SA",
+          "cross_street": "Prince Nasir Bin Abdulaziz Street",
+          "formatted_address": "King Fahad Rd (Prince Nasir Bin Abdulaziz Street), الخرج",
+          "locality": "الخرج",
+          "region": "الرياض"
+        },
+        "name": "dr.CAFE COFFEE | د. كيف",
+        "photos": [
+          {
+            "id": "64733c631874f03d32f0d5f1",
+            "created_at": "2023-05-28T11:34:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1365874516_ThcScFjkQwHYA3_ZBYK6bRYOcUnt0vxRW8KMRKhAcLE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "647c07dc3b0d0f1bd3ba8d4d",
+            "created_at": "2023-06-04T03:41:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/603677241_TLMZ4iC4jZV1ED-9_TofctH-mIspuGSFq2f1oBBO6w4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5f721c2a0c32f71948f6a360",
+            "created_at": "2020-09-28T17:23:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/548609222_OheI7B7i-H7ijaMxS_r7sMgF2LVcuC1yLmY-cCpW-G8.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "5f4cc207250989508e877069",
+            "created_at": "2020-08-31T09:25:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/17818367_9PBPn26y1kNXzpJzU6bJoVXM5UTz5qZl051WafIFjcc.jpg",
+            "width": 1425,
+            "height": 1900
+          },
+          {
+            "id": "63fee56756f1fc3e72a586fb",
+            "created_at": "2023-03-01T05:40:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1370365344_ANlCMyEmYvAQ0wY-MSMOHTxN_7vNkX_x8cx-BE1tkpI.jpg",
+            "width": 1081,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.99914955443732,
+        "rating": 9,
+        "stats": {
+          "total_photos": 736,
+          "total_ratings": 305,
+          "total_tips": 144
+        },
+        "tel": "800 122 8222"
+      },
+      {
+        "fsq_id": "602d3cf2e7ce9d173d4bf6b0",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/602d3cf2e7ce9d173d4bf6b0",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16275",
+          "locality": "Al Kharj",
+          "postcode": "16275",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "حروف",
+        "photos": [
+          {
+            "id": "65749fee8748546de03e35f0",
+            "created_at": "2023-12-09T17:12:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/463757941_lCk6SK2wm2c-mctBGUClGDtAErMWBu6FtT0NRZXkSrI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6546159e3297966ea27d9704",
+            "created_at": "2023-11-04T09:57:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/77334482_v1W150t7yIPyYSCDSop7mj45jg7RiKEBlY-u04Dh8AY.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "653d69101a777e6bbef74762",
+            "created_at": "2023-10-28T20:03:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1392608285_cfai0729rsFoNYRQYnVQXvNFXA2VKFCTLzrEcuigbFY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6539f31b52072667c66cd39c",
+            "created_at": "2023-10-26T05:03:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1372944631_a-vQHEH1QGoLQj5A5-B6Plti_V7W96L2t3B0b1sPdrc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65231b1178e3dc3dfbcc274a",
+            "created_at": "2023-10-08T21:11:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1404502888_bBjiWuzrN17QOwiRfGDA7puKcaFYAKEVNXH_c9shmXQ.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9993061588207024,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 2112,
+          "total_ratings": 90,
+          "total_tips": 19
+        }
+      },
+      {
+        "fsq_id": "53b07bc8498e6967a50f61e9",
+        "categories": [
+          {
+            "id": 17069,
+            "name": "Grocery Store",
+            "short_name": "Grocery Store",
+            "plural_name": "Grocery Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/53b07bc8498e6967a50f61e9",
+        "location": {
+          "address": "King Abdullah Rd",
+          "country": "SA",
+          "cross_street": "Ibn Sena Rd",
+          "formatted_address": "King Abdullah Rd (Ibn Sena Rd), الخرج",
+          "locality": "الخرج",
+          "region": "الرياض"
+        },
+        "name": "Danube (الدانوب)",
+        "photos": [
+          {
+            "id": "5930821546e1b6531cbaae1c",
+            "created_at": "2017-06-01T21:07:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/35436676_RhtTaMYGFIHZxMZfwuVqXCY6h9uGyftLRwKVenYIQn8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "655cde2e3133e61c8ff9be99",
+            "created_at": "2023-11-21T16:43:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/33432079_X7Ff3Op99_MJfMA3xSotYzEyNDStl3EVXxknYNMirqM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "653fde41167f825df71d086b",
+            "created_at": "2023-10-30T16:48:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/33432079_c54cYMpHy8aS1I_mJm1Fi7rDy7oCqkHP5ww3eFlCk1w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "653a9f603f2b5530564d19f5",
+            "created_at": "2023-10-26T17:18:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/33432079_aj-jEy2Y_Trp2tXxd1PgdJokbwDyGt4qStpSnQcveHI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652990cda12bf14b525b5fc6",
+            "created_at": "2023-10-13T18:47:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534444549_EulVNzxdddF2pZ9zzG2_lhQr7GzbERHDJUW-KKjnVEc.jpg",
+            "width": 1078,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.999571055952057,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 176,
+          "total_ratings": 208,
+          "total_tips": 11
+        }
+      },
+      {
+        "fsq_id": "5c3214304b78c5002c11a86b",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "The Starbucks Experience is more than a cup of coffee. From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated the rich tradition of coffee, but that also brought a feeling of community, a comfortable third place away from the demands of work and home.",
+        "link": "/v3/places/5c3214304b78c5002c11a86b",
+        "location": {
+          "address": "بانوراما بلازا لخدمة السيارات",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "بانوراما بلازا لخدمة السيارات, الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "ستاربكس",
+        "photos": [
+          {
+            "id": "659e4e1d525ba8049123700e",
+            "created_at": "2024-01-10T07:58:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/77991378_k1sV9ru8Eu7IuQVWv89yLzgCcwxI_hVZD245S5rsFtI.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659cf8962f52364b49049210",
+            "created_at": "2024-01-09T07:41:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/583207168_Y1c9z1iMSrZroaw-QIDqSN-YGEe22Z48Y5pkJzNNfjw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659673775fee3b18f710988e",
+            "created_at": "2024-01-04T08:59:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/77991378_ABMx9ssLYiDQzjhC886zJqCejRoU47atQAUzKAHEHJg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6596605838fce54d3d2574f0",
+            "created_at": "2024-01-04T07:38:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/77991378_YKWzl74rUUXOuMiGvYvn5HpEnNZ8hOUylRawNFxxy3o.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6595617949e520353a083827",
+            "created_at": "2024-01-03T13:30:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/565742692_oTMjQbLXxQLL5JziU2gQllPsEziPkOGemOFkufFgxVY.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "popularity": 0.9999971474611405,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 9970,
+          "total_ratings": 509,
+          "total_tips": 104
+        },
+        "tel": "011 520 0494"
+      },
+      {
+        "fsq_id": "632f3cbde9ccdb0a87305606",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/632f3cbde9ccdb0a87305606",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "A Part",
+        "photos": [
+          {
+            "id": "65a8342b30cc654114c7340b",
+            "created_at": "2024-01-17T20:10:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554750225_nDIoPCq5Yn31C4HcmH9AgMCg3tyCWAwYhFJLvjbyezc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6883b192da159b7eee163",
+            "created_at": "2024-01-16T13:44:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/522263699_JosIhl5QKgEbcL3JBn1oIF5t4kAKmPb9TuLVEwjo228.jpg",
+            "width": 1213,
+            "height": 1920
+          },
+          {
+            "id": "65a42b5a5df1dd5b295ae6a4",
+            "created_at": "2024-01-14T18:43:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1375273260_ytZy4ZXW-_m7iqdluD1Wnju6MjNEd-w35EZudDI_RbY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a16de518420171aebbe3bb",
+            "created_at": "2024-01-12T16:50:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/521492634_7dzsGNpRBFUrlf4-_7KYJTiBLvdNvpOGh1z4rLIlVbw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659f6ebe46b0bb2d63547f06",
+            "created_at": "2024-01-11T04:29:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/512145039_ET5DurWiH6U2mLbk-paqS60TXCQn2ziw-IxS-GPVSlI.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999972511898264,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 1672,
+          "total_ratings": 49,
+          "total_tips": 5
+        }
+      },
+      {
+        "fsq_id": "5de2a4049a84f00007fb82fd",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5de2a4049a84f00007fb82fd",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Π|Pi Cafe",
+        "photos": [
+          {
+            "id": "65a861f57d777c02fa0a4275",
+            "created_at": "2024-01-17T23:25:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1395047642_kc0nPNYbluX3O7YVJZoZeaVNTFrFCMAKeskpq6Iqeew.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a65441b226132b9137e2fa",
+            "created_at": "2024-01-16T10:02:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/582647459_svY6O8-v5FZdOYJKnfItmdDzGHnEbOpNAK6c0-YYVrc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a625e95ccdd97ff6231624",
+            "created_at": "2024-01-16T06:44:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401891407_K1QkIW6x_UCqjmF3kt3rJbaWTRIw2jyBdV2OEAcRBRk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a4ba1410be5874c711246e",
+            "created_at": "2024-01-15T04:52:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401891407_Wh5emW2nzdbQIQOfNPBXpcD-to7w2UsbOSkKsNpUO-Y.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a42e355357dd60b2f1acb4",
+            "created_at": "2024-01-14T18:55:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523200236_axYjuTplK6qA8mRgPQ9P2cAuO7yaMIaM41f5gJzvRJs.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999672217352881,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 7144,
+          "total_ratings": 303,
+          "total_tips": 60
+        }
+      },
+      {
+        "fsq_id": "6388e5fa65f1893aa0cd6697",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6388e5fa65f1893aa0cd6697",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Witro Cafe",
+        "photos": [
+          {
+            "id": "65a6adda0c24c577c952bdae",
+            "created_at": "2024-01-16T16:24:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523200236_CeI9Iz7WgC4ghwel9UJwTxcI8AjqGgjSnc-NR77BonY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6add90c24c577c952b9ee",
+            "created_at": "2024-01-16T16:24:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523200236_giFCTzahxn8pQ-BC8MLnngw92MBf25TgmVb7xYdIMn0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a5b29e40fc921de332c619",
+            "created_at": "2024-01-15T22:33:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_ffyVWLHYj_i6xJSFF37PsI0eGQdbn_1XEIwuWKScSgA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a40c5e9638223d2dea6d1f",
+            "created_at": "2024-01-14T16:31:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/561861232_z-lITwSs-c8BVy-xJlo_La93wCAwRtnMjlJJytAAE-s.jpg",
+            "width": 1140,
+            "height": 1920
+          },
+          {
+            "id": "65a3006a7b47273e6fb8c570",
+            "created_at": "2024-01-13T21:28:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/591415445_gauuX3A0oA3tFkHyE19Rx3U92qvQ1l1dLgEliaeAuE4.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997609053792373,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1019,
+          "total_ratings": 31,
+          "total_tips": 5
+        }
+      },
+      {
+        "fsq_id": "623f767b96ea4c2e51b933b9",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/623f767b96ea4c2e51b933b9",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "8oz Coffee (ايت اوز كوفي)",
+        "photos": [
+          {
+            "id": "65a40d11db92f76277ce808a",
+            "created_at": "2024-01-14T16:34:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/592888376_7HXJDyRLLu4BSRF_PniI3mwYmxrs3sxZKbd1C3bvjWg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659da4a04910ee6a53f9b242",
+            "created_at": "2024-01-09T19:55:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1379429383_p2xYOAZ2HFIkvO_sS50Aq8LCeXFJQ__4HHdXG9f5e6M.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659bb34307cd3d2ad5fe564a",
+            "created_at": "2024-01-08T08:33:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514567164_fFUJt4t9fjchz9jtgeOn_fjjH2XsBmkNLEhbWgKYoQA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659726b673d74143b1b3db6b",
+            "created_at": "2024-01-04T21:44:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1372283421_zeY192bl_p0kDN4e0eJBaQF8DrVV9KUuHYMi9ttOc_w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659704e238dbf52d5002c1e2",
+            "created_at": "2024-01-04T19:20:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/568867003_gHjN1sDoNId1XAUTjxrblW_517qdPj8w2-IbI4PEthc.jpg",
+            "width": 1440,
+            "height": 1857
+          }
+        ],
+        "popularity": 0.9998744364258425,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 4627,
+          "total_ratings": 163,
+          "total_tips": 34
+        }
+      },
+      {
+        "fsq_id": "607e3fb37150f31b1c1c22af",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/607e3fb37150f31b1c1c22af",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "2Pump",
+        "photos": [
+          {
+            "id": "65a4cd253fd548117d2b0ab6",
+            "created_at": "2024-01-15T06:13:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1400444292_KcQo8QG8E9tBVTGMbTCmldDUr32tPXANxQLE8bjiKgM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a433057b12be4318290cfd",
+            "created_at": "2024-01-14T19:16:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/540620382_5_ZMx9-S99v95OjYzuvWR8W-EfuKT5LWJS-Q_-ZYU8w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ffc6319501b6fd95f8ee1",
+            "created_at": "2024-01-11T14:34:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543845678_RVPVIVOTtHNVTi6xopSgO64woQWO4zeulDvQSjhbj2Y.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659cf3656ff3be659310760b",
+            "created_at": "2024-01-09T07:19:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/501607995_Gj5RF6KLDEKe9Gikg_GXM33WzuzZ9SVNl270W_6ZiUA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65984a28b3a4103489af7429",
+            "created_at": "2024-01-05T18:27:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/591415445_XYkZSCWBieCK0dDttkWEo7q1U6VSZXkuU89g_m182aw.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999502102308173,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 2245,
+          "total_ratings": 76,
+          "total_tips": 13
+        }
+      },
+      {
+        "fsq_id": "5e6a47c2bd23420008ef765d",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e6a47c2bd23420008ef765d",
+        "location": {
+          "country": "SA",
+          "cross_street": "King abdullah road",
+          "formatted_address": "King abdullah road, الخرج 16275",
+          "locality": "Al Kharj",
+          "postcode": "16275",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "E i H Ā Coffee (ايحاء القهوة)",
+        "photos": [
+          {
+            "id": "659316d36b7c5e3455107049",
+            "created_at": "2024-01-01T19:47:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/517108813_Ow-VyJrmur74bp-k7HsQgkHrRnPJ6T4tnyxouxn5rOY.jpg",
+            "width": 1102,
+            "height": 1960
+          },
+          {
+            "id": "6591b4ac9aee373b77dc873a",
+            "created_at": "2023-12-31T18:36:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554750225_9weRZOtYuaqrSyyp4Fb6xYtaSP3fCau9tfR2oy19Sfg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658d084e7a05f44d59614141",
+            "created_at": "2023-12-28T05:31:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359556549_xak3CZo_8I7zUtaDt3miv83nUWQ9Xw31ylvAfwxwE1w.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658d084db7b1e55ac7e42bde",
+            "created_at": "2023-12-28T05:31:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359556549_WigLJoiXkqdt_nLK_Wht4QFVXEGMJ4kMgum-N_Xk6bA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658b38649ffb403d467940c7",
+            "created_at": "2023-12-26T20:32:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1397284470__p2Qdzztbs5NyBTnx3BpCPe3ksXBFoUWXyGetRKIa4s.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997081593425095,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 7832,
+          "total_ratings": 305,
+          "total_tips": 58
+        }
+      },
+      {
+        "fsq_id": "5e0720da39b982000859206a",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e0720da39b982000859206a",
+        "location": {
+          "address": "King Abdullah",
+          "address_extended": "King Abdullah",
+          "country": "SA",
+          "cross_street": "King Abdullah",
+          "formatted_address": "King Abdullah (King Abdullah), الخرج",
+          "locality": "الخرج",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Scale Cafe & Bar",
+        "photos": [
+          {
+            "id": "5fb7e1aa87657d64a022ccac",
+            "created_at": "2020-11-20T15:32:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/540330960_TonncrOivjMR0Wdz74Qh-AWZL-TGSuUjIDkruc9cgfA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5fa44cc3d2e70a4333078559",
+            "created_at": "2020-11-05T19:04:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/520940426_xHfWiMsoad0W2cUdudSPU34KASViHeiRyJDbMz-jByc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5f9653539d04a9737bf3dd1e",
+            "created_at": "2020-10-26T04:40:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/551932052_r9yIKNILKuoAu45oaviqdwlXcdXEgn7Gyfdh-6jTTfY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5fb018107eed7979e45f2962",
+            "created_at": "2020-11-14T17:46:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/552939873_yWu-KuD3jXyHgr7SLaA5UjYZGTaMJWShH1bgsSjAyzI.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "5fa46bafdde3ae01cea608ac",
+            "created_at": "2020-11-05T21:16:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/541309025_G0BILEx47d5wUMs4LkptrE_6UZkuvAedssMXrhANh4U.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999277789025137,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 8135,
+          "total_ratings": 364,
+          "total_tips": 70
+        }
+      },
+      {
+        "fsq_id": "5bfb98971ffed7002c482bca",
+        "categories": [
+          {
+            "id": 17018,
+            "name": "Bookstore",
+            "short_name": "Bookstore",
+            "plural_name": "Bookstores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5bfb98971ffed7002c482bca",
+        "location": {
+          "country": "SA",
+          "cross_street": "King Abdullah Street",
+          "formatted_address": "King Abdullah Street, الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Jarir Bookstore (مكتبة جرير)",
+        "photos": [
+          {
+            "id": "63e851039caa466a61489ca5",
+            "created_at": "2023-02-12T02:37:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/562201162_B7h3HdFDpnQKvpDNpxs0JLX_0yTXnhOhdlInqcC8RB0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "62cedf828ed0546165cfb909",
+            "created_at": "2022-07-13T15:06:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/53956188_t5fvDXFTRaH7Ch9M9-RTUzofHoWGF7wa9UaGEizm3gU.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "624802eb1ee5dd267caf66ef",
+            "created_at": "2022-04-02T08:01:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/167567030_-x9UkIoBFSwf7ADjzlXKhuAx9PRLx_HUo4w5xhPgtD0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "621f6b233f3b8279c065488b",
+            "created_at": "2022-03-02T13:03:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/167567030_1ycccQrCkq2htBvbjZ1bVwoVGOFgrbc-zrV-9JRxhNU.jpg",
+            "width": 1031,
+            "height": 1920
+          },
+          {
+            "id": "61e18befe3ada640411e2397",
+            "created_at": "2022-01-14T14:42:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/167567030_QZ8yAChnw7Fl3rwG-J2NiMdQq7LcCh5e03tHGl9Su5Y.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998911626764273,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 263,
+          "total_ratings": 71,
+          "total_tips": 6
+        }
+      },
+      {
+        "fsq_id": "5d9f4cc9929fc80008ae87a5",
+        "categories": [
+          {
+            "id": 12080,
+            "name": "Library",
+            "short_name": "Library",
+            "plural_name": "Libraries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d9f4cc9929fc80008ae87a5",
+        "location": {
+          "address": "Al Khuzama",
+          "country": "SA",
+          "cross_street": "King Abdullah Road",
+          "formatted_address": "Al Khuzama (King Abdullah Road), الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "JARIR BOOKSTORE (مكتبة جرير)",
+        "photos": [
+          {
+            "id": "659c49ed3c65d37b81c4392f",
+            "created_at": "2024-01-08T19:15:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1379429383_znYzOb3wwnDBMRErt2mXr-uj1X6Fa7hWQvdH4W-t2Sk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659808c4b5abaf2369fc945d",
+            "created_at": "2024-01-05T13:48:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/571338994_Ut9vtpFhaQL1fZJ7j2BwD6Me7s7t_R-6pavlz_oUcTY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658813a42fe1be3c99cb596d",
+            "created_at": "2023-12-24T11:19:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/571338994_g6KtwAk1lYK4rqg9f6qostbt5rfhtvKoVkQ_3ZhdC4U.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "654287daa0f37d7df0c21a2c",
+            "created_at": "2023-11-01T17:16:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/454596103_kUhYPGa2pFKeXP373NIpjXr9K_JchY5frPwEDnCekxQ.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "652d0f358fde364127423d08",
+            "created_at": "2023-10-16T10:23:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/561861232_bsvjD5W7WGVtPdDK9-cwLu-w_uhmftIO8AYV0zSwR5o.jpg",
+            "width": 1177,
+            "height": 1919
+          }
+        ],
+        "popularity": 0.9997640431719828,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 196,
+          "total_ratings": 22,
+          "total_tips": 1
+        }
+      },
+      {
+        "fsq_id": "63668830824d5519e73aabdf",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/63668830824d5519e73aabdf",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Filtro",
+        "photos": [
+          {
+            "id": "65a827e90ce69a17272775c1",
+            "created_at": "2024-01-17T19:18:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523200236_bUuAGrnhJeKxLUX0ZWYqKmngfrrr2cktOyVGIOZAtTw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6440f59aaf427013dad3e",
+            "created_at": "2024-01-16T08:53:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/593483905_wT6dH0jkjrYsZAYV-tXa-zDTiKKV9Y7Ug_l-0hir3m8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a62f014e7ca7731e62f49e",
+            "created_at": "2024-01-16T07:23:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1364337308_Jw2vs2v383RAszoByU5NUNlQRojvtF8ETOoosNpgzAY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a4ebe4761078621541c47e",
+            "created_at": "2024-01-15T08:25:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1398622010_TnfIpe4unaBp_Yb6bJm-HwwgZMBBuq7GdR96WFKGdhI.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a44ac874fabe5caeccf3a4",
+            "created_at": "2024-01-14T20:57:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1380834310_CLMqMyXoRkOPrLnv1hMIHMq4MdK3MouIzMagDGRRz-U.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999661844484301,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1190,
+          "total_ratings": 33,
+          "total_tips": 5
+        }
+      },
+      {
+        "fsq_id": "59a7eeeb4a1cc03ef38f57c1",
+        "categories": [
+          {
+            "id": 13031,
+            "name": "Burger Joint",
+            "short_name": "Burgers",
+            "plural_name": "Burger Joints",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/59a7eeeb4a1cc03ef38f57c1",
+        "location": {
+          "country": "SA",
+          "cross_street": "King Fahad Road",
+          "formatted_address": "King Fahad Road, الخرج 16439",
+          "locality": "Al Kharj",
+          "postcode": "16439",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "The Real Burger",
+        "photos": [
+          {
+            "id": "637786a347412e130fa9b7d7",
+            "created_at": "2022-11-18T13:20:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/520940426_zILmxcwCMBLi_bjG_PwO0nY4S69TZ3t6ctTncFnt5OE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6374bfb8bc93ca0e60526b0f",
+            "created_at": "2022-11-16T10:47:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1395434797_h55kID0HY1OdHuPfsPkG_OQr7e0Z8hoRqWNCMk9Nv0U.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "636e9b05577c8438c9010173",
+            "created_at": "2022-11-11T18:57:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/515833859_aa_uWWepNiEBrMprk2T_FEjYEpEQFbgAQAh-sMQatCU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6339713631bb552fbcb0dd08",
+            "created_at": "2022-10-02T11:08:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/565431583_wLm84MRzayjLhGkDe9KZfc5yJxjE8mA4TG5JoRKMC0A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "62c0a545651dd8212006a4d1",
+            "created_at": "2022-07-02T20:06:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/517971139_KXnaPHyer3ms0gudKFKPMsJQnzO6qPX5GMzSF9isSjI.jpg",
+            "width": 1440,
+            "height": 1730
+          }
+        ],
+        "popularity": 0.9983210215595146,
+        "rating": 9,
+        "stats": {
+          "total_photos": 148,
+          "total_ratings": 77,
+          "total_tips": 16
+        }
+      },
+      {
+        "fsq_id": "5c0553aab6eedb002cf5315f",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafe, Coffee, and Tea House",
+            "short_name": "Cafe, Coffee, and Tea House",
+            "plural_name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5c0553aab6eedb002cf5315f",
+        "location": {
+          "address": "Thumamah Bin Athal Rd",
+          "country": "SA",
+          "cross_street": "King Abdullah Rd",
+          "formatted_address": "Thumamah Bin Athal Rd (King Abdullah Rd), الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "كاريبو",
+        "photos": [
+          {
+            "id": "654c68d7319f80672722afee",
+            "created_at": "2023-11-09T05:06:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1372944631_mBWc7nMwyXae2s10-b1gslHPxUJVn0iYzwVmstxSojo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65148cab2ca934405195f80b",
+            "created_at": "2023-09-27T20:12:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1404263415_faIE-3tHyfc9RgQYo68rAceDtUKpJc5GWyo3uPs9sTM.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "64f46c186a24bc3a3659b158",
+            "created_at": "2023-09-03T11:20:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374299659_EDga-JHwh6bPzxVALWfF7RFkC8odQ1u6FoQQ8l4iZ3U.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64d5324e86d3864c12e4f90f",
+            "created_at": "2023-08-10T18:54:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359852619_krDtlMjc01lJX3IjLtSKEr1q7EskeZStJEFC_R3lIZ0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64ca681edf6c6171dc31cb60",
+            "created_at": "2023-08-02T14:28:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1382441691_RcpOBWti6X7IM3e3IkuBqjXwjs77R-6hqpAVn0x26sQ.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9971562262145262,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 978,
+          "total_ratings": 101,
+          "total_tips": 25
+        },
+        "tel": "058 166 5077"
+      },
+      {
+        "fsq_id": "603806f75aaee352294b1269",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/603806f75aaee352294b1269",
+        "location": {
+          "address": "Thumamah Bin Athal Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Thumamah Bin Athal Rd, الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "شغف",
+        "photos": [
+          {
+            "id": "6517e910223172430dc34018",
+            "created_at": "2023-09-30T09:23:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/392298776_13mlquyt5-c1ez-TbBkJig5DVDZ4UpqJ8txVegdDRao.jpg",
+            "width": 1406,
+            "height": 1919
+          },
+          {
+            "id": "64fa226eb8e64f6d61555e56",
+            "created_at": "2023-09-07T19:20:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/81767106_CZ0wVPg7boBpuDKCDa2oWxJ1UW1Em6YOjHMM9Twmldg.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "64fa226bbf8d4808d00d3a4a",
+            "created_at": "2023-09-07T19:20:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/81767106__seEqHJJe_8wVoQKxlRiRDQ3yG6i2VnosBQqrWmbRMs.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "64fa226a9bff7f4e729742fc",
+            "created_at": "2023-09-07T19:20:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/81767106_O7qSWG1fBm0xV1xUn8y0ljoRy6anvrb7iZ4_H52uhSs.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "64fa2268dfe1933b8ea6d66a",
+            "created_at": "2023-09-07T19:20:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/81767106_F36E8N_91Zq-Tq5NgNJOx4oBTzUY0qPdWlvO19z5Zak.jpg",
+            "width": 1079,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9950409649215776,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 2658,
+          "total_ratings": 87,
+          "total_tips": 19
+        }
+      },
+      {
+        "fsq_id": "5d99f5a6674cd40008c3002d",
+        "categories": [
+          {
+            "id": 13031,
+            "name": "Burger Joint",
+            "short_name": "Burgers",
+            "plural_name": "Burger Joints",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d99f5a6674cd40008c3002d",
+        "location": {
+          "address": "King Abdullah Rd",
+          "country": "SA",
+          "cross_street": "Thumamah Bin Athal Rd",
+          "formatted_address": "King Abdullah Rd (Thumamah Bin Athal Rd), الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Burger lounge",
+        "photos": [
+          {
+            "id": "6594897018f5670b415ef9bf",
+            "created_at": "2024-01-02T22:08:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/551565533_UdYelWcmQkIzS3XkR7Z3KTrXZJiBMd0cwnc_ZzBcdbM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659488eca620220b1859652a",
+            "created_at": "2024-01-02T22:06:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/551565533_htsqKTwCoMLXEbzy_HQVaxC2J77NxQX-4S4OjzY5AK8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6543f2e81ed186206a701830",
+            "created_at": "2023-11-02T19:05:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/530029263_J2mfFpdHDskE_4ugD-IcyhzxpN9II_BA4piy9qq7azU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6531bd4c35db0711ccd31c5e",
+            "created_at": "2023-10-19T23:35:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_peh7-DVUnqWXp2UeIg0MmQcLIQclXn2VHGqHqJOFg-Y.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6531bd4c5321347f77556b97",
+            "created_at": "2023-10-19T23:35:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_NWSdZABPTjBVdi3lZgSFr8eGfO7KZHFQ67n9kv72y6s.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9996844314056333,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 937,
+          "total_ratings": 103,
+          "total_tips": 15
+        }
+      },
+      {
+        "fsq_id": "631613889d89197d1126198e",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/631613889d89197d1126198e",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Vonny Cafe (ڤوني كافيه)",
+        "photos": [
+          {
+            "id": "65a780f382d02552788c858c",
+            "created_at": "2024-01-17T07:25:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543169599_29dv2huixVk-dj3t3k3hhgFQapGBwOF5-WfxMY_aEGA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a176ed4a59d37415465be2",
+            "created_at": "2024-01-12T17:29:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405657442_Jaz9HZda2_hcpSkq9YiQAwDqB3LQuOFVjkMXUS2t3bA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65995f6467771c205f3e289b",
+            "created_at": "2024-01-06T14:10:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/580271657_7l04jCoEF6AO0k1QE2fWJ2YDj-3MIUa3edCbyQ2cHDA.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "6595230cd63965692e634c20",
+            "created_at": "2024-01-03T09:04:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558888349_qkAN-s1Bb0HutY5FxP1QeRBnNYxKwnrZgbWulnOH0c8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6593b40285fb577c099eb95b",
+            "created_at": "2024-01-02T06:58:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/591776535_nIuXgqb56sVT9JCIrU_rHsTLvd3EZOKjCxZN2vUSSMA.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999564598841366,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 1765,
+          "total_ratings": 46,
+          "total_tips": 9
+        }
+      },
+      {
+        "fsq_id": "62c730a41020b50406856e70",
+        "categories": [
+          {
+            "id": 13031,
+            "name": "Burger Joint",
+            "short_name": "Burgers",
+            "plural_name": "Burger Joints",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/62c730a41020b50406856e70",
+        "location": {
+          "address": "Alaskar Ave",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Alaskar Ave, الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Copo Burger",
+        "photos": [
+          {
+            "id": "6581d0d486d9f168b5c22dd2",
+            "created_at": "2023-12-19T17:20:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1391896498_qC9cQfqrtdKrlJvQmzBdF0hKG1Li2vmH_8cSdApZl3E.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65739a6200ed1c1def012d66",
+            "created_at": "2023-12-08T22:36:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1402464224_59oWvvpN2Rv3OhO-oGVVSAPYyAix56bWTjIyXJLlq0o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "655e1d87b0cd8b4976fb81df",
+            "created_at": "2023-11-22T15:25:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/522977118_D2tgYIRwnqGCJYYkuavK_PcwRVC83jOQ4y2n6BrXa5c.jpg",
+            "width": 1529,
+            "height": 1440
+          },
+          {
+            "id": "655660f694da047fa89a2ff4",
+            "created_at": "2023-11-16T18:35:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403769757_0t3UlFUxhDIP5_6lrgUFBMBMdytQOjrJhLJ8vyVwUvg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "655660f538630d0d8a18257e",
+            "created_at": "2023-11-16T18:35:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403769757_RoVFhqlGU5D2ZVTTkkz0qL0XAYCpBLnoFcxxrpwMajA.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9995236260104763,
+        "rating": 9,
+        "stats": {
+          "total_photos": 362,
+          "total_ratings": 18,
+          "total_tips": 1
+        }
+      },
+      {
+        "fsq_id": "61f2e984d642a33f33845414",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/61f2e984d642a33f33845414",
+        "location": {
+          "address": "طريق اليمامة",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "طريق اليمامة, الخرج 16285",
+          "locality": "Al Kharj",
+          "postcode": "16285",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Husk (هاسك)",
+        "photos": [
+          {
+            "id": "65a7ebcbf5c95f246f3eb102",
+            "created_at": "2024-01-17T15:01:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/564777277_Em4NQfOeFPC5jzG0JRzmBfxgJF46cuMmLsVhoLexCck.jpg",
+            "width": 1080,
+            "height": 1919
+          },
+          {
+            "id": "65a7ebcab19ba161f2e6b000",
+            "created_at": "2024-01-17T15:01:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/564777277_CzZtKz_ZiKkxOQ49Ksdh3QI0qpskRHzqI5M49bAJlvU.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a140cbdfe43b68b6b2df96",
+            "created_at": "2024-01-12T13:38:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523990490_cCejXc2XuiJBNe16Ba1gH1U8vXWFe9UBCvXmJsemjuA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a04499ab03e95f668049a3",
+            "created_at": "2024-01-11T19:42:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/571978181_3axh3ucfDQwd2mYVDo7JzrB80woynfenu4SipxkyzjM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a02d8802c1bf0ea33fe551",
+            "created_at": "2024-01-11T18:03:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514819413_rQ1B7tdP4cmp7w50u7eJmy0K6-lmFgt0EvzkdykQVyo.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998085168460183,
+        "rating": 9.6,
+        "stats": {
+          "total_photos": 1605,
+          "total_ratings": 52,
+          "total_tips": 11
+        }
+      },
+      {
+        "fsq_id": "5d810f41bdfe770008d6dec1",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d810f41bdfe770008d6dec1",
+        "location": {
+          "address": "Yamamah Rd",
+          "country": "SA",
+          "cross_street": "Wurood Distrect",
+          "formatted_address": "Yamamah Rd (Wurood Distrect), الخرج 16285",
+          "locality": "Al Kharj",
+          "postcode": "16285",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Green Garden Cafe",
+        "photos": [
+          {
+            "id": "65a173502b5e246bf9c7b7ad",
+            "created_at": "2024-01-12T17:13:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/330693219_poKQhI3QWzZ1NJzwCXwIgsOVhJ2yW_MLXFkHUd39yUk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a05174dfe43b68b6bfd2e2",
+            "created_at": "2024-01-11T20:37:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1399594749_DjGdax_IfeguPbFZmI6UtnEYxW3tK3Eg_lqy-WpP_ng.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ae528de259c01bee36eca",
+            "created_at": "2024-01-07T17:53:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/330693219_UHNV_XLqyibve_OHx21WCprbesD5_fghPrh7xdBgIa8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6581f809694cc37c94b229b8",
+            "created_at": "2023-12-19T20:07:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1395756016_u47wTnpsqv4Hx90WLH6mD8GFUVt11WRocdfmTHq1twc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65620dbcccb6566b10aa7a3c",
+            "created_at": "2023-11-25T15:07:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/551121308_uaLdaoaKOr46CtJ7YdoJx-4t_IjYBAk8Z1Hu-QK-gZ0.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9982488263941998,
+        "rating": 9,
+        "stats": {
+          "total_photos": 1220,
+          "total_ratings": 97,
+          "total_tips": 23
+        }
+      },
+      {
+        "fsq_id": "5d30a69572ce9000087a4594",
+        "categories": [
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "short_name": "Restaurant",
+            "plural_name": "Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d30a69572ce9000087a4594",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16439",
+          "locality": "Al Kharj",
+          "postcode": "16439",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Fit Box",
+        "photos": [
+          {
+            "id": "659310ecccef3c4ddf23aae0",
+            "created_at": "2024-01-01T19:22:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495157216_lZZtbbnpjmmp2XDUnpwjM4qnZfG8Zm1fqG4X9rU2oZk.jpg",
+            "width": 1920,
+            "height": 1440
+          },
+          {
+            "id": "659310eb39599a4cadc8ce23",
+            "created_at": "2024-01-01T19:22:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495157216_tokHGv_44hM6SGWKchE0TyAjckxEyPcDtRbiTRYqkjw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6573184326bcc340231bede8",
+            "created_at": "2023-12-08T13:21:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1370728375_x1-TyXqGlTGlzcrf7d9ktu25jF3Qnvd-RuVUmQvXmSc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "655e49f92008e06dc5e99831",
+            "created_at": "2023-11-22T18:35:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/494185251_7j__CUQyzk4diK-_ja-9KtJABfked7D7UNBKcMcBo40.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64dbceeb8ee9f03ca1162638",
+            "created_at": "2023-08-15T19:15:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374694846_3ja4BR2ADqJ5B3ciya9ITmbnwkr_XWB7avdRewm8EzI.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998237649628305,
+        "rating": 9,
+        "stats": {
+          "total_photos": 150,
+          "total_ratings": 30,
+          "total_tips": 2
+        }
+      },
+      {
+        "fsq_id": "4e8827608b8108aacde7c587",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/4e8827608b8108aacde7c587",
+        "location": {
+          "address": "King Fahad Rd",
+          "country": "SA",
+          "formatted_address": "King Fahad Rd, الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Dunkin' Donuts (دانكن دونتس)",
+        "photos": [
+          {
+            "id": "65792fa42373520477860b81",
+            "created_at": "2023-12-13T04:14:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/603677241_jzRQztaAHZgIzMTO0R5GJmlI0RgFXY7Ggi5iZ7OiEl0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6552758f1e7a797f07ca667a",
+            "created_at": "2023-11-13T19:14:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523143836_BUYo4L4iiVOLyvXmmhOyUO7qqaj6X-6syIr_bywFiIk.jpg",
+            "width": 1440,
+            "height": 1535
+          },
+          {
+            "id": "653b278c577bbc6d95e3811c",
+            "created_at": "2023-10-27T02:59:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403769757_v2U8FAhg9NX4yrsqaqUuh3BP0zR8BUyZokDuyNXpCFY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652228a05e6ade200637da85",
+            "created_at": "2023-10-08T03:57:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/603677241_fUKNrtp3vLR3cjaxtXfJq-Y-liikquc5H1Asevoq1rc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "650dd70d3c82a95c45d4a8ce",
+            "created_at": "2023-09-22T18:03:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534444549_Icq7-GPZQ0sSbWr8aAwto38f1WoxSCGncql6Nmi2q-c.jpg",
+            "width": 1198,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998749810014429,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 987,
+          "total_ratings": 314,
+          "total_tips": 46
+        }
+      },
+      {
+        "fsq_id": "58c19c0a9dc8d06581ab615a",
+        "categories": [
+          {
+            "id": 17082,
+            "name": "Furniture and Home Store",
+            "short_name": "Furniture and Home Store",
+            "plural_name": "Furniture and Home Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/58c19c0a9dc8d06581ab615a",
+        "location": {
+          "address": "King Abdullah Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "King Abdullah Rd, الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Saco (ساكو)",
+        "photos": [
+          {
+            "id": "639b2d2315a11b3f06722b5e",
+            "created_at": "2022-12-15T14:20:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/536409584_TZ9jyx8lvZIas654jzK2juAW_WxsLxH3COemxPJVWRA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "623782def359f20a8ee1ebd0",
+            "created_at": "2022-03-20T19:39:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/593862243_bpTC1N1HrsR0beGTeueJx4B-en7_tgh_uYQSBy6VtCo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61a7b45df9a39e0d32ca7ed6",
+            "created_at": "2021-12-01T17:43:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/567271545_Mo31TsXhjchjgXHoauOoxjFWo8X8pyE8cCbtrKImRZ4.jpg",
+            "width": 1028,
+            "height": 1920
+          },
+          {
+            "id": "61953806b0b83b423fcd98fa",
+            "created_at": "2021-11-17T17:12:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369705793_OqZQrGTduDgZjA8fey-c4uXXiwlKJ0BWBMTPVLjFB2k.jpg",
+            "width": 1028,
+            "height": 1920
+          },
+          {
+            "id": "618578337ebfbe4df660a6e9",
+            "created_at": "2021-11-05T18:30:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/93660737_yN6qfbRQbsYBoOxCDrRcrwpoNEVRc7iP8uCTymzSkyY.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9995896752511576,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 48,
+          "total_ratings": 41
+        }
+      },
+      {
+        "fsq_id": "62eab58f834b717b9b9f2184",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/62eab58f834b717b9b9f2184",
+        "location": {
+          "address": "Alkharj",
+          "address_extended": "Prince Sultan Bin Abdulaziz",
+          "country": "SA",
+          "cross_street": "Prince Sultan Bin Abdulaziz",
+          "formatted_address": "Alkharj (Prince Sultan Bin Abdulaziz), الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Bold",
+        "photos": [
+          {
+            "id": "65a020bef921635bb2e8a66b",
+            "created_at": "2024-01-11T17:09:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369206647_LQUbxSFfDjgK7YGRL6P1xvfELdcB_HSKscdIWIjPrkk.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "659be32bca9fd0093189050f",
+            "created_at": "2024-01-08T11:57:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_Ken0C7da7GL9D0kPJbCxfxHItjGJ8QN2B2XeV5M8qm4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659bcfd6cfba8a44c54b893d",
+            "created_at": "2024-01-08T10:35:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558963483_EvLftkt5-YESIq3vcW4pUgLMz1QCdtk4gtE0CDlNVIA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ab1efe40e7e6ea6282a4a",
+            "created_at": "2024-01-07T14:15:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_eSOH8fO6VOqlDb9fLd5Z-5kqTpJv596HP8auda7p0Eg.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65997dbef7bb154f5042704e",
+            "created_at": "2024-01-06T16:20:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/432421902__WFWsE15D5WeJWllX92becnT38Ko8SQcNXVVCM1TP-o.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999914164512502,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 1238,
+          "total_ratings": 41,
+          "total_tips": 7
+        }
+      },
+      {
+        "fsq_id": "61997764510a9b31a7a2a68f",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/61997764510a9b31a7a2a68f",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16439",
+          "locality": "Al Kharj",
+          "postcode": "16439",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Dunes Cafe",
+        "photos": [
+          {
+            "id": "65a47c7d5df1dd5b2939eee4",
+            "created_at": "2024-01-15T00:29:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1394504460_U7cuxN8621giEK9G9pLrlUk_iuxDLREuCEug5MkQYRA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659eed38b7fd7d052f87cabc",
+            "created_at": "2024-01-10T19:17:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369829716_n8u79RMF6926phz_byGoY7XhxWUbDRVyxP6swmkL2y8.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "659eed32553d537d9ef5325b",
+            "created_at": "2024-01-10T19:17:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369829716_0X8DeTSzGWYMUw9EN8rkY2yZ5rs8K9A4kAg7IGtor1k.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659b16d3233d4e0827168e91",
+            "created_at": "2024-01-07T21:25:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1372283421_y7CFdSfx6iVRHhtri9Rf_Uik-m7G7D74sC2zsBpvn2g.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ae69810ac306a4207dc57",
+            "created_at": "2024-01-07T17:59:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524679335_3cV60vEJ6jQq7asdWW8o0ksDTe8Mp2ArZhZ89FH0GnI.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997581565690637,
+        "rating": 9,
+        "stats": {
+          "total_photos": 2019,
+          "total_ratings": 80,
+          "total_tips": 18
+        }
+      },
+      {
+        "fsq_id": "5d1a786cd5d77a0023b410b3",
+        "categories": [
+          {
+            "id": 16004,
+            "name": "Bike Trail",
+            "short_name": "Bike Trail",
+            "plural_name": "Bike Trails",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d1a786cd5d77a0023b410b3",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16439",
+          "locality": "Al Kharj",
+          "postcode": "16439",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "ممشى حي الأندلس ( تقاطع الملك سلمان مع الأمير سلطان )",
+        "photos": [
+          {
+            "id": "6568eed94cd9851d19831821",
+            "created_at": "2023-11-30T20:21:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569276719_K8GbUS75SoYPWFgdEBQKHvYz2qlh-gqBiERUXse_OaE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "656372d29b0252280005395a",
+            "created_at": "2023-11-26T16:31:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359016269_2Lui4_Sf-fPPQAMdqopdhpGyDU-xP8DZJjnwfCBuZxA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "656236d1567b35178afd5208",
+            "created_at": "2023-11-25T18:02:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558468252_2Y4DeCdec03RtVfDijnSSZ_c-W7GXCWYAEiKuCDW3Ow.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "654fe46f218e47579292e665",
+            "created_at": "2023-11-11T20:30:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569694819_qqiY032wh2Sxzo_rQ8gs-tywYxH5NeTON6PZmqgscaE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "654287df8ce2e8222d21d95e",
+            "created_at": "2023-11-01T17:16:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518098499_xYNJT4YoQBNgiJADad7A6GN3pDQ1nLjE8XTQnFROIas.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9992316816243,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 469,
+          "total_ratings": 46,
+          "total_tips": 10
+        }
+      },
+      {
+        "fsq_id": "610c15b8eef5d22a9172a7b2",
+        "categories": [
+          {
+            "id": 13002,
+            "name": "Bakery",
+            "short_name": "Bakery",
+            "plural_name": "Bakeries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/610c15b8eef5d22a9172a7b2",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "le pain bakery (لوبين بيكري)",
+        "photos": [
+          {
+            "id": "659d7d91cc499332393dd37f",
+            "created_at": "2024-01-09T17:08:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369795570_w2upXsCKhDhySj1kpIdltULyzmIErNBhP2drE7_niLo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659d7d8adccb1b0ef3aaf756",
+            "created_at": "2024-01-09T17:08:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369795570_Rci5kIEXW9tB9cy8_pXD3nFextlbEOdjUjpiWDcBZzU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65966b6bf046c22d03e02a60",
+            "created_at": "2024-01-04T08:25:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/506273385_JWuwBRHjORsQh7Y2uFhi9MfSleABLfgrvmLJxgw1e0I.jpg",
+            "width": 1920,
+            "height": 1440
+          },
+          {
+            "id": "659643c3c82d9957863c35f7",
+            "created_at": "2024-01-04T05:36:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403769757_9WwnEi8J7exIQOT6Gtjj864qdYLt0bdiWcsm9XAhllg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6593ac0e78a4f826ea82ba83",
+            "created_at": "2024-01-02T06:24:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554176954_KT6Gtn4XllclZ7-9n3agndRmGXUN8sRmf7FGJUliX6k.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998324263080945,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 1157,
+          "total_ratings": 64,
+          "total_tips": 9
+        }
+      },
+      {
+        "fsq_id": "580380b438fabaf6b997986b",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/580380b438fabaf6b997986b",
+        "location": {
+          "address": "الواحه مول طريق الملك عبدالله",
+          "country": "SA",
+          "cross_street": "King Abdullah Rd",
+          "formatted_address": "الواحه مول طريق الملك عبدالله (King Abdullah Rd), الخرج",
+          "locality": "Al Kharj",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "658313c426e7721d55d71c72",
+            "created_at": "2023-12-20T16:18:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405768186_Ac2HGTfnS63OTxY890AhTxRgO5C8Sx92P30-iMZM12g.jpg",
+            "width": 1048,
+            "height": 1920
+          },
+          {
+            "id": "656b69a197c45f1194a8cf11",
+            "created_at": "2023-12-02T17:30:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/585897132_UZInQKp7MlN7gMCu6YQ1f5GCRNviYDcbloUR039A_kQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6525928d8a96b14e369c8bcb",
+            "created_at": "2023-10-10T18:06:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/469430740_AM1xED6jZxQTogsnY3Z01eF0CCmooOIvvI9f-RYNnyQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "651d83327a49da2c87ace776",
+            "created_at": "2023-10-04T15:22:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1404455469_iiv4G5ZInO0EVLYrNF17tgDCgj2UeA-GKy8J5S7fmug.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64c6d08009bff65e04ea72ef",
+            "created_at": "2023-07-30T21:05:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/567930205_8ox0vR5y-H0_CEd_Ewe0uo-bDeN6yx47_rPnQf_d4GE.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9994170447858196,
+        "rating": 9,
+        "stats": {
+          "total_photos": 649,
+          "total_ratings": 223,
+          "total_tips": 28
+        }
+      },
+      {
+        "fsq_id": "58a734c04988da0f65ddb422",
+        "categories": [
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "short_name": "Fast Food",
+            "plural_name": "Fast Food Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/58a734c04988da0f65ddb422",
+        "location": {
+          "country": "SA",
+          "cross_street": "طريق الملك عبدالله",
+          "formatted_address": "طريق الملك عبدالله, الخرج 11942",
+          "locality": "Al Kharj",
+          "postcode": "11942",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "البيك",
+        "photos": [
+          {
+            "id": "652ffca39a082d2a8a501564",
+            "created_at": "2023-10-18T15:41:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566970093_5f83fxuRTXEInyKhq6nSGPcshzinyu9bJBTQxbMKAAE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652d01877bd35179378ababc",
+            "created_at": "2023-10-16T09:25:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581873654_01ScEagcDe4PdL-oxJ4_7qFab0bHAtNRoi8DbRCGeuM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64c162020eb966694ad7a4ab",
+            "created_at": "2023-07-26T18:12:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543892702_VQXBHGxQcdTAokcmDJA45yr5B1lx_FFM7nQ2p8nfZ8o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "643f23db0dad7d1231a0599f",
+            "created_at": "2023-04-18T23:12:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369705793_kVcKrzNanB9u-uYxD1xLet-vgO87s7a4G-5RQTSudH0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "63c042b7b01c6462557e60a9",
+            "created_at": "2023-01-12T17:26:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/517971139_3nQjRZEpxBnw2yD75XXty2tkOOW-gtem0QzImafw8Is.jpg",
+            "width": 1479,
+            "height": 1440
+          }
+        ],
+        "popularity": 0.9997403152351066,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 139,
+          "total_ratings": 98,
+          "total_tips": 8
+        }
+      },
+      {
+        "fsq_id": "5a427e33ff0306677f5cfc1d",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5a427e33ff0306677f5cfc1d",
+        "location": {
+          "address": "Centro Plaza",
+          "country": "SA",
+          "cross_street": "King Abdulla Road",
+          "formatted_address": "Centro Plaza (King Abdulla Road), الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Episodes Café (أباسودز كافيه)",
+        "photos": [
+          {
+            "id": "6573625e1c437959609f268f",
+            "created_at": "2023-12-08T18:37:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/525146522_vvN71aKDun3x8m9I3SLav-1jQVbsZsL3_ajsffVU84o.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "655b02491ad237572a53109e",
+            "created_at": "2023-11-20T06:52:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/568231387_65SkMFLkVKngmwDGi1_YWQMsJlFZEvh0at4-xJv4s1Q.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "64f2065d868c7d667f8dcc93",
+            "created_at": "2023-09-01T15:42:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/525844166_e6mSQin5cq7elTS6mzR9uJU0YWeTBI02LKwyuDSxlAE.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "64b791f154df5b41ad1e4005",
+            "created_at": "2023-07-19T07:34:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1384419252_tqETzA5bMyu-_l6mQuSJtbeFYi2_APgm8BlCIIMNQCM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64b791efa113aa5478563be4",
+            "created_at": "2023-07-19T07:34:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1384419252_gaTQb6q-14uLL6q1bjOWcIinOoRmsbpFddksjDulo60.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9982009037413614,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 6333,
+          "total_ratings": 348,
+          "total_tips": 84
+        }
+      },
+      {
+        "fsq_id": "5c2256861ffe97002c5510d3",
+        "categories": [
+          {
+            "id": 17069,
+            "name": "Grocery Store",
+            "short_name": "Grocery Store",
+            "plural_name": "Grocery Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5c2256861ffe97002c5510d3",
+        "location": {
+          "address": "طريق الملك عبدالله",
+          "country": "SA",
+          "cross_street": "King Abdullah Street",
+          "formatted_address": "طريق الملك عبدالله (King Abdullah Street), الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "لولو هايبر ماركت",
+        "photos": [
+          {
+            "id": "64a8683b97e89a241aa16b33",
+            "created_at": "2023-07-07T19:32:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543892702_AhCVTQJFUq5ajkUY-5RKVUr0yp2tL57jCkR1AVo4HTo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6481df58bdb85e3076f331a2",
+            "created_at": "2023-06-08T14:02:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/580825076_x5AuYr4hnTtswtzm9fb8iwgF2XAhU2UB_Iqexs_LMNA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63d2ca2e584f587cc287ee9f",
+            "created_at": "2023-01-26T18:45:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1397760209_Qh7qAq1lY7cTHbfwTV7QsarFopEXzCz-AjGu6CY-B48.jpg",
+            "width": 1032,
+            "height": 1920
+          },
+          {
+            "id": "62f1fd1555e3b942ca74cf9e",
+            "created_at": "2022-08-09T06:22:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1360997583_KZ1zNghoXGcvrY7M1KKvmgpSl7M59BeGFYqLUZ5jZJc.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "6248b3bd866783263be7f2e7",
+            "created_at": "2022-04-02T20:36:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/544151896_-Z5WcuCYhgklw3ycvveoQAaxrcsUubKuwidx4yKYvfw.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997345582930449,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 116,
+          "total_ratings": 63,
+          "total_tips": 6
+        }
+      },
+      {
+        "fsq_id": "5be12062b6b04b002c1deae0",
+        "categories": [
+          {
+            "id": 13043,
+            "name": "Donut Shop",
+            "short_name": "Donuts",
+            "plural_name": "Donut Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5be12062b6b04b002c1deae0",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Dunkin’ Donuts",
+        "photos": [
+          {
+            "id": "6587cdc56a4c5a4484e276bb",
+            "created_at": "2023-12-24T06:20:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1391600674_wMFX8NYnu17tXLwuS9cGIvEFqMr-KhQAmQJFWk535-g.jpg",
+            "width": 1381,
+            "height": 1920
+          },
+          {
+            "id": "65783d82ed3946116ba837e8",
+            "created_at": "2023-12-12T11:01:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1385329649_NBBMCNJvAh_8o_eKLvhdyYSZ_en_LyzkMawYn32T44w.jpg",
+            "width": 1440,
+            "height": 1453
+          },
+          {
+            "id": "64ee920964f30b239913a223",
+            "created_at": "2023-08-30T00:49:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/540051844_O1RrPOWcU8OKI1br7aqjdMXyx_OPWCw2E1ZD9dXp6Ss.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64b23dcd39e30b530ba33b70",
+            "created_at": "2023-07-15T06:33:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/555016136_EcPBeU2RS50FC3dW_Tn91SjpIBmVGzXAVok1U8IRnbQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64b23cd73727840dc39f724e",
+            "created_at": "2023-07-15T06:29:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/555016136_TaZdHPkNMqVWWEDipDD49RPcevxqetHXsyKnu2iwmaE.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997952395742363,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 355,
+          "total_ratings": 34,
+          "total_tips": 8
+        }
+      },
+      {
+        "fsq_id": "62b520f4531360085c38c14e",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/62b520f4531360085c38c14e",
+        "location": {
+          "address": "Extraction , King Abdullah Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Extraction , King Abdullah Rd, الخرج 16272",
+          "locality": "Al Kharj",
+          "postcode": "16272",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Extraction Cafe",
+        "photos": [
+          {
+            "id": "659be2eb4c8378256f3f3604",
+            "created_at": "2024-01-08T11:56:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_O0CbyGM7wveC_k_e-ZH9ASutBXZrzeW8UE7xlf0snrU.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659be2eb2a4d611fe0dce5e7",
+            "created_at": "2024-01-08T11:56:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_vk_tCikcHu_7j2cSiyYyQOEVIme6bTfe101NN3Gmye4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659be2eadc9e71655e7da875",
+            "created_at": "2024-01-08T11:56:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_M2TXHZXLfGAeCBiIQe0PcYrY5UcfcPQ0IYvIIBQZ9TQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659be2ea68652a20033c140c",
+            "created_at": "2024-01-08T11:56:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406125795_irF6HFeJAgw6iyatalFrDNiZRnIIMnu_-p-IDYNyFV0.jpg",
+            "width": 1083,
+            "height": 1920
+          },
+          {
+            "id": "659198676b2240776d6b61b0",
+            "created_at": "2023-12-31T16:35:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558120288_KU1ug61L6Jzxyr3iTQs61VJJl7wmzMZNl9u7gt4m2R4.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9994199491890219,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 662,
+          "total_ratings": 24,
+          "total_tips": 3
+        }
+      },
+      {
+        "fsq_id": "59f493a1e57ca6630c13c5c4",
+        "categories": [
+          {
+            "id": 13043,
+            "name": "Donut Shop",
+            "short_name": "Donuts",
+            "plural_name": "Donut Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/59f493a1e57ca6630c13c5c4",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخرج 16279",
+          "locality": "Al Kharj",
+          "postcode": "16279",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Dunkin’ Donuts",
+        "photos": [
+          {
+            "id": "65844a9cbdf9676fafd5ca1c",
+            "created_at": "2023-12-21T14:24:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374552648_VH5KTZmN-3ZIjs6z0JYJH1RWgNexFf7oLjnFs_HRVG8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6559b1aaa913e226398564a8",
+            "created_at": "2023-11-19T06:56:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566772375_dGk8gPHutCEmYAzalNYsGJz6Siymf6C8CasJ1ZZN6HE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "654afe121c421268016f6236",
+            "created_at": "2023-11-08T03:18:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534652587_vhCoxql0YpTXieI_w98EYJgIcD1LF5XF6DVM1hCKUvk.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "6540fe7d7c95ee3bb04d9d1c",
+            "created_at": "2023-10-31T13:17:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374552648_fbJzHjEWixEfuLbWnlpqkmwOoGNTcmYNk9xiQ1cc6FA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "653ce6849d9fd0002dd8ff52",
+            "created_at": "2023-10-28T10:46:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/586350638_tZgRn0m2-YE1Qt3ct_wRbjhxvQp50lDfRiSzPWeUHCg.jpg",
+            "width": 1081,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9995768388262902,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 260,
+          "total_ratings": 27,
+          "total_tips": 7
+        }
+      }
+    ],
+    "context": {
+      "geo_bounds": {
+        "circle": {
+          "center": {
+            "latitude": 24.1483,
+            "longitude": 47.305
+          },
+          "radius": 22000
+        }
+      }
+    }
+  }

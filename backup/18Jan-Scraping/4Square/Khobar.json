@@ -1,0 +1,3788 @@
+{
+    "results": [
+      {
+        "fsq_id": "51e968d4498e71c2a1d552c9",
+        "categories": [
+          {
+            "id": 13334,
+            "name": "Sandwich Spot",
+            "short_name": "Sandwich Spot",
+            "plural_name": "Sandwich Spots",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/51e968d4498e71c2a1d552c9",
+        "location": {
+          "address": "25th St",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "25th St, Thuqbah",
+          "locality": "Thuqbah",
+          "region": "الشرقية"
+        },
+        "name": "بوفية دنيا الهناء",
+        "photos": [
+          {
+            "id": "659a3eb6cfba8a44c58258f8",
+            "created_at": "2024-01-07T06:03:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1378152361_7vOYelog5q0A4kk6gXG8NP8S0uxHE99fRkaUtkb4wXg.jpg",
+            "width": 1395,
+            "height": 1920
+          },
+          {
+            "id": "658db6c9403446770b2df1d7",
+            "created_at": "2023-12-28T17:56:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1378152361_Egdsyur17f4j2Zm4Yr_BMuv0Sk58hsTI7_zoOwXqwTA.jpg",
+            "width": 1419,
+            "height": 1920
+          },
+          {
+            "id": "64a79c9b47ff29445ba413cf",
+            "created_at": "2023-07-07T05:03:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/489157384_yuuBfHnKdpwme4S6gSAZMkHwsOuq9lMUt8MYt9SqkZk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "62dccc4d436b5658277e8a9f",
+            "created_at": "2022-07-24T04:36:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1383946070_Dj9wiMq0MDxkBAw4BPphj-vaZGNsM2fzNoVDmVmq6a4.jpg",
+            "width": 1425,
+            "height": 1900
+          },
+          {
+            "id": "62ccdff110f1125142143103",
+            "created_at": "2022-07-12T02:44:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/473783799_GOvbUHVJSrm5z5MAfY6F2_uHNruB0XetvTG9S-R3cZE.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9894560453725187,
+        "rating": 9,
+        "stats": {
+          "total_photos": 24,
+          "total_ratings": 31,
+          "total_tips": 1
+        }
+      },
+      {
+        "fsq_id": "5ff25ce74c12d24366ac950a",
+        "categories": [
+          {
+            "id": 13298,
+            "name": "Lebanese Restaurant",
+            "short_name": "Lebanese",
+            "plural_name": "Lebanese Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5ff25ce74c12d24366ac950a",
+        "location": {
+          "address": "Prince Abdulilah St",
+          "country": "SA",
+          "cross_street": "Prince Majid St",
+          "formatted_address": "Prince Abdulilah St (Prince Majid St), الخبر 34611",
+          "locality": "Khobar",
+          "postcode": "34611",
+          "region": "الشرقية"
+        },
+        "name": "Golden Gate Restaurant (مطعم جولدن جيت)",
+        "photos": [
+          {
+            "id": "65a4ad5476107862156944dd",
+            "created_at": "2024-01-15T03:58:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1384646111_K6g7e8s6yBLkB4gBlVS8W9Yb-zchReTvQVIwYcoGw7A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a3cc7c0973c3795259a0da",
+            "created_at": "2024-01-14T11:58:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1399675170_KlequNmw-xs3AwgaztMvBc_kLuvhJRzD_AIUrslHJqY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a389c31498160bdefd681a",
+            "created_at": "2024-01-14T07:14:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514915233_rM4iPdE9uOP1mazepE6Zkoj2TRcjvq1sNyTBuCx4e5I.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a25c3591cbbe23261c5855",
+            "created_at": "2024-01-13T09:47:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405672710_FLOAAapeTV3KlGb6XJWMSI1oCfwyG0gglCBN1B37_PM.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "65a160837136645cf0a6f2f7",
+            "created_at": "2024-01-12T15:53:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/538822370_qO5Z7h3bNYJtg2EZ7foHcTGHMMkQBWmFVR_JRtV-oaE.jpg",
+            "width": 1439,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9913250837844806,
+        "rating": 8.9,
+        "stats": {
+          "total_photos": 1028,
+          "total_ratings": 85,
+          "total_tips": 14
+        },
+        "tel": "053 308 8181"
+      },
+      {
+        "fsq_id": "5dd5672fc61ceb00088c19b5",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5dd5672fc61ceb00088c19b5",
+        "location": {
+          "address": "Corniche Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Corniche Rd, الخبر 34611",
+          "locality": "Khobar",
+          "postcode": "34611",
+          "region": "الشرقية"
+        },
+        "name": "Shathrat Cafe (شذرات كافيه)",
+        "photos": [
+          {
+            "id": "657494d72166592b0d6fa88f",
+            "created_at": "2023-12-09T16:24:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/547557419_j0ITOaGZ0LgHWGe487ySEOGPopn5D6VC0ZfupH1p_SI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64ea59942ea9985e4324dd0f",
+            "created_at": "2023-08-26T19:59:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1383452461_oOpIYDaAW_r6EuXfZshOVAVwzxI3KmbZhoJONSyYRgk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64af9ceee4ba3230dbf08a2b",
+            "created_at": "2023-07-13T06:42:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/515002209_NqPXALs4pANohI3gehImUbTPYFG4UJaPCNhBjDvfjBM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "648378f45d215f5c3ec640fc",
+            "created_at": "2023-06-09T19:09:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1399092272_oBE0ZvubF5Zap0AU8RvxKoVzCaOqzJMPG0brWUgwBLk.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "64779a5047f87843797199b8",
+            "created_at": "2023-05-31T19:04:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/80076680_ZdHSgbpKfJF-jmY-M9281jwPFbmkcZZzXvkmZRFtKPA.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9691286414024233,
+        "rating": 8.9,
+        "stats": {
+          "total_photos": 192,
+          "total_ratings": 31,
+          "total_tips": 16
+        }
+      },
+      {
+        "fsq_id": "5a81936c5d891b6e3feabf99",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5a81936c5d891b6e3feabf99",
+        "location": {
+          "address": "Turki St",
+          "country": "SA",
+          "formatted_address": "Turki St, الخبر 34611",
+          "locality": "Khobar",
+          "postcode": "34611",
+          "region": "الشرقية"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "6599947c00117339ba9f0eed",
+            "created_at": "2024-01-06T17:57:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/567815280_qlR4NPIAgZcFxEoixpC7z2S_XE4zg7cTHr0QnoisLjA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659489b5178aec5bd59ef690",
+            "created_at": "2024-01-02T22:09:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/70870046_EWkcIUOlRrHJWDVBp2j7dngxEPGbIFVFtHGwLzjiLQY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659061a99e3455382523e6d8",
+            "created_at": "2023-12-30T18:30:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/510916573_y5rhjiTzb4shfZHGTC7L3yQPN6fw1kYOOFFnZpTvH4o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6590121e3a80c777277d30ab",
+            "created_at": "2023-12-30T12:50:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532144869_0cyO9oBuJ9PPmhe8LFa2jN9pmvgLvCHqTbqrQX8NXmE.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "657aedc10cbbea1ec0fd260b",
+            "created_at": "2023-12-14T11:57:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1360615584_CmAntJEfP_tuQbKvJP7paF3USFTEBYeIoDhMJajoBLg.jpg",
+            "width": 1079,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.993993297241557,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 2420,
+          "total_ratings": 347,
+          "total_tips": 43
+        },
+        "tel": "013 806 4291"
+      },
+      {
+        "fsq_id": "5c1b61392db4a9002c8c2986",
+        "categories": [
+          {
+            "id": 13055,
+            "name": "Fried Chicken Joint",
+            "short_name": "Fried Chicken",
+            "plural_name": "Fried Chicken Joints",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5c1b61392db4a9002c8c2986",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخبر 34611",
+          "locality": "Khobar",
+          "postcode": "34611",
+          "region": "الشرقية"
+        },
+        "name": "Raising Cane’s (ريزينج كينز)",
+        "photos": [
+          {
+            "id": "65a528a610be5874c782c752",
+            "created_at": "2024-01-15T12:44:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/448406486_sipmZrcpDKV-JUEbqkqUnYM24gRgMem7AxsiRfmCBeA.jpg",
+            "width": 1084,
+            "height": 1920
+          },
+          {
+            "id": "65a528a53075570469b71da0",
+            "created_at": "2024-01-15T12:44:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/448406486_ZjGLMnqrcaRtW21WWdFyJQqQkWoZvYldTjFQ0SZZjJ8.jpg",
+            "width": 1084,
+            "height": 1920
+          },
+          {
+            "id": "65a03ea19723db32ed47f65c",
+            "created_at": "2024-01-11T19:16:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/466113269_tK-GrbR73sMgYYRKHyvKHjnChy0Jj5-vl-2kDl7x7Wg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ec7d2b7fd7d052f17c91a",
+            "created_at": "2024-01-10T16:37:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556149578_5HG52eD3iJCsyHNK0LnXlvoSNbZ0bAnD2cxbluri_Hg.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659ec77eb27abd1ae7a14b32",
+            "created_at": "2024-01-10T16:36:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556149578_wJATmbKARGIxnmrDUnL-WT2P13fuBR2Ii-4x5ujF6HE.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9886697602474864,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 948,
+          "total_ratings": 134,
+          "total_tips": 19
+        }
+      },
+      {
+        "fsq_id": "50106f0ce4b0c5fcbc8a2a35",
+        "categories": [
+          {
+            "id": 13040,
+            "name": "Dessert Shop",
+            "short_name": "Desserts",
+            "plural_name": "Dessert Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 17062,
+            "name": "Chocolate Store",
+            "short_name": "Chocolate Store",
+            "plural_name": "Chocolate Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/50106f0ce4b0c5fcbc8a2a35",
+        "location": {
+          "address": "Feras bin Al Nadher (14th St.)",
+          "country": "SA",
+          "cross_street": "14th St.",
+          "formatted_address": "Feras bin Al Nadher (14th St.) (14th St.), الخبر 31952",
+          "locality": "Khobar",
+          "postcode": "31952",
+          "region": "الشرقية"
+        },
+        "name": "Anoosh (أنوش)",
+        "photos": [
+          {
+            "id": "6585b8212eadf814d291be71",
+            "created_at": "2023-12-22T16:24:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/74128662_wQ6zezhE1qedaFIJEucu3lZgEtNGVjjKf_kLt9LPsz0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "652ea9a619a5a63a85997fa2",
+            "created_at": "2023-10-17T15:35:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401214317_bTvtMh7PHA2r-3os7xaO2FYqNQ2q1_NfLv1vDtXmtw8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652ea9a47035544736393b85",
+            "created_at": "2023-10-17T15:35:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401214317_I4_-paSIXYTWPpwO4A2RcFicE0lExWUkbtFR_LGHzsk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6529518d9c9e0a5f7198a726",
+            "created_at": "2023-10-13T14:17:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/488041653_oE9qPAiewSqDC9JdUQsm0TZcSgG1Udi-1kG1koEV9Jw.jpg",
+            "width": 1103,
+            "height": 1920
+          },
+          {
+            "id": "65258acd3a0f647ebba6fd5d",
+            "created_at": "2023-10-10T17:33:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359254560_kt74PV0__cxx3CYcE1cMNr4gM14htVfKTMSLbv48y4s.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9692059809229183,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 327,
+          "total_ratings": 359,
+          "total_tips": 72
+        }
+      },
+      {
+        "fsq_id": "535b33c9498eeca5bfc34769",
+        "categories": [
+          {
+            "id": 13002,
+            "name": "Bakery",
+            "short_name": "Bakery",
+            "plural_name": "Bakeries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/535b33c9498eeca5bfc34769",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "Shallal",
+        "photos": [
+          {
+            "id": "65a7d357e125e50d24eeecfc",
+            "created_at": "2024-01-17T13:17:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1395215460_tT66DZGJY0TfMWI7jymSNQtqh3HJkMUiGAxL3x15Bv4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6598c7556d9f5d5714e946d6",
+            "created_at": "2024-01-06T03:21:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/582341615_jHJTtf0X0HcoTw2nZ0Fsq28TCygan7x8oO26RcLayIg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64560cc16a610935fd157604",
+            "created_at": "2023-05-06T08:16:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/62351731_A1YTQGvVfkRqdjsfHfj1iCn7v6SfRuKEsY2mbM3H6E4.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "6450803e1950697d0372f172",
+            "created_at": "2023-05-02T03:15:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/537080219_Nj4SbklVly0P6-7UW--v8HRJXq3uDd8OYlPaJ7x0mFU.jpg",
+            "width": 1236,
+            "height": 1920
+          },
+          {
+            "id": "63a04c631b7d9b0c68e05566",
+            "created_at": "2022-12-19T11:34:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1381845541_ESYKRcb0hO6hoxy1DVvuxlwAzltvlROgnFzBAph_OGw.jpg",
+            "width": 1028,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9941866460427945,
+        "rating": 8.9,
+        "stats": {
+          "total_photos": 36,
+          "total_ratings": 66,
+          "total_tips": 7
+        },
+        "tel": "017 283 4001"
+      },
+      {
+        "fsq_id": "5b48c04167af3a002c8468fb",
+        "categories": [
+          {
+            "id": 13031,
+            "name": "Burger Joint",
+            "short_name": "Burgers",
+            "plural_name": "Burger Joints",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "short_name": "Fast Food",
+            "plural_name": "Fast Food Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5b48c04167af3a002c8468fb",
+        "location": {
+          "address": "King Fahd Rd, Al Khobar Al Janubiyah",
+          "country": "SA",
+          "cross_street": "30th St",
+          "formatted_address": "King Fahd Rd, Al Khobar Al Janubiyah (30th St), الخبر 34622",
+          "locality": "Khobar",
+          "postcode": "34622",
+          "region": "الشرقية"
+        },
+        "name": "ماكدونالدز",
+        "photos": [
+          {
+            "id": "658849d62fe1be3c9960b846",
+            "created_at": "2023-12-24T15:10:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532144869_CVVS55CKutL5ovwi5dja7-1Jps34fsbGTPPF09uaIc0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "653dadc29d9fd0002dccd709",
+            "created_at": "2023-10-29T00:56:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401704636_N7eURgSWPN7egvx0-UlW9CAuvNK4Lp03ajc9fHK6MQ0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6515e4bde250db61c01b8e9e",
+            "created_at": "2023-09-28T20:40:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/586594834_mLeO2VaksPe0pW8U4u8YTP1K82dkP0h-PTH91Q6Wexc.jpg",
+            "width": 1681,
+            "height": 1440
+          },
+          {
+            "id": "64f131fd5debbf0368bc0c34",
+            "created_at": "2023-09-01T00:36:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524397021_Dfc0nERHQxXW_icoQHFrMqceaZSA6kKSTnlc0T46D-o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64b0930a71d332387cecb449",
+            "created_at": "2023-07-14T00:12:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/545017091_keLBpcAug9a_LtpzM3s2_zyE222plM_KLbyWyZvIuhM.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9963263727764888,
+        "rating": 8.8,
+        "stats": {
+          "total_photos": 123,
+          "total_ratings": 43,
+          "total_tips": 9
+        },
+        "tel": "9200 00001"
+      },
+      {
+        "fsq_id": "5f03408660ec8e19e5404b5d",
+        "categories": [
+          {
+            "id": 13059,
+            "name": "Juice Bar",
+            "short_name": "Juice Bar",
+            "plural_name": "Juice Bars",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5f03408660ec8e19e5404b5d",
+        "location": {
+          "address": "العليا",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "العليا, الخبر 34447",
+          "locality": "Khobar",
+          "postcode": "34447",
+          "region": "الشرقية"
+        },
+        "name": "Manto Rose (مانتو روز)",
+        "photos": [
+          {
+            "id": "652f0650de60f92353b995d8",
+            "created_at": "2023-10-17T22:10:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/512357440_LWEhg9bXrYhaqE5w90kwMWf4-0Y5bIiHwgtmSV8LCek.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "651f2ec0f507814e2398f8a8",
+            "created_at": "2023-10-05T21:46:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403243025_fDRVVqbUN8iIivqARxI8b1KNpluVgR5hDU63_qYdiRc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64c11cb0e47fdc2b9faab29a",
+            "created_at": "2023-07-26T13:16:32.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/582341615_FvHbepxu4cSROLtGeKt7x1VO7sWYipWzozxwsC-SZEU.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "64c0d742febfe431b2bf3af0",
+            "created_at": "2023-07-26T08:20:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/366693830_uRgPtOyLrB8rUC5s40ac309mw3Ag9hBa9FM-zlzm55Q.jpg",
+            "width": 1440,
+            "height": 1444
+          },
+          {
+            "id": "64b9baf2c30f923747657170",
+            "created_at": "2023-07-20T22:53:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/59130433_6DpaL-vWTH0ishjYXREEY0RAWeAh9-KC-abNG9-qlGI.jpg",
+            "width": 1081,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9876643464810518,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 546,
+          "total_ratings": 78,
+          "total_tips": 7
+        }
+      },
+      {
+        "fsq_id": "607df923b803cb4491253518",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/607df923b803cb4491253518",
+        "location": {
+          "address": "Prince Faisal Bin Fahad Bin Abdulaziz Rd",
+          "country": "SA",
+          "cross_street": "Makkah Almukaramah Street",
+          "formatted_address": "Prince Faisal Bin Fahad Bin Abdulaziz Rd (Makkah Almukaramah Street), الخبر 34445",
+          "locality": "Khobar",
+          "postcode": "34445",
+          "region": "الشرقية"
+        },
+        "name": "7 Grams (٧ جرام)",
+        "photos": [
+          {
+            "id": "617eac55d7c24f5ed93bed79",
+            "created_at": "2021-10-31T14:46:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514829350_YFTdhpJaWuQbqHFBBXJOZgxefGxuoohnVsJ8a3i-0xs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "617e772dd7c24f5ed9af068c",
+            "created_at": "2021-10-31T10:59:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550952759_lwnPV5o3ei_aTdCEjNw7-nXmj1J1lzNo8UstjEI8h9M.jpg",
+            "width": 1094,
+            "height": 1920
+          },
+          {
+            "id": "617cfe0c9dd91b1680f39abc",
+            "created_at": "2021-10-30T08:10:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/541650559_EfpktoBRuE6sRF2Ub0ftSgVU04bSSWAQQeVYeu4r_FY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61797227cbbdfd38533760b3",
+            "created_at": "2021-10-27T15:37:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/71745369_a-N4T_nPQl4FFN3FJ8f7TmeLA6AF66VesM2p2hcz12g.jpg",
+            "width": 1251,
+            "height": 1920
+          },
+          {
+            "id": "617814fb9e66817e56b2d483",
+            "created_at": "2021-10-26T14:47:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/580928933_DTmJzQ5HEODKCEoSAoZHZ3ErkauIj_h8zDRUnpMPDB0.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9961716937354989,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 8446,
+          "total_ratings": 429,
+          "total_tips": 57
+        },
+        "tel": "056 677 0608"
+      },
+      {
+        "fsq_id": "586223e3d4390729e0924f5b",
+        "categories": [
+          {
+            "id": 17063,
+            "name": "Coffee Roaster",
+            "short_name": "Coffee Roaster",
+            "plural_name": "Coffee Roasters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/586223e3d4390729e0924f5b",
+        "location": {
+          "address": "21 St",
+          "country": "SA",
+          "cross_street": "Gudama Bin Jafar St",
+          "formatted_address": "21 St (Gudama Bin Jafar St), الخبر 34439",
+          "locality": "Khobar",
+          "postcode": "34439",
+          "region": "الشرقية"
+        },
+        "name": "QAF Coffee Roasters (محمصة ومقهى قاف)",
+        "photos": [
+          {
+            "id": "58d7e0a5abf6327b4e8e6bd8",
+            "created_at": "2017-03-26T15:39:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/18175986_uGBwi89pFl6xcKBuldMCy3ZSmNfU373b-7iDyf1oJAQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "58d624bd0b56560fa5ff47b4",
+            "created_at": "2017-03-25T08:05:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/35978931_f3zGmtlGTfjZ-HIjQ_ciKgpaWsfzSiPJTfBWi2UKg6c.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "64745ae3ba5d331982b71a67",
+            "created_at": "2023-05-29T07:57:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514665164_OWzl7_QPIrSwfcMJlN5Z166vbmVynhrwYNYjdB2Tdoc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "60587e817a577548c262e748",
+            "created_at": "2021-03-22T11:24:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/544191844_9GuHEZn3zCN2dN7WQLQuIFHAPqqD6u-wKWg-v4a7wow.jpg",
+            "width": 1033,
+            "height": 1920
+          },
+          {
+            "id": "590ffde19de23b76e2caf1e7",
+            "created_at": "2017-05-08T05:10:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/24013800_DX5A_X9ADlqceDiI6mk8nMVSeYi5jBsS1HOcd8x3LuY.jpg",
+            "width": 1079,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998711007991751,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 97239,
+          "total_ratings": 5967,
+          "total_tips": 1074
+        }
+      },
+      {
+        "fsq_id": "6235b0d3416b807fc969e5f8",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6235b0d3416b807fc969e5f8",
+        "location": {
+          "address": "Zaid Ibn Al Khattab St",
+          "country": "SA",
+          "cross_street": "21 St",
+          "formatted_address": "Zaid Ibn Al Khattab St (21 St), الخبر 34447",
+          "locality": "Khobar",
+          "postcode": "34447",
+          "region": "الشرقية"
+        },
+        "name": "Left (ليفت)",
+        "photos": [
+          {
+            "id": "65a6df8153f43100002f8a70",
+            "created_at": "2024-01-16T19:56:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/59763545_wVWh0-XQa5exQIs3ECYQcD0rSlr_dQhxzomZ-TVsxuE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6d5fda567e754d8c04f00",
+            "created_at": "2024-01-16T19:16:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/55724430_IZ3WKOH09OoBF1gmmqrOgwaD-dTbcq_71qejTDZeBes.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6d5fd379b2d2bdd14da44",
+            "created_at": "2024-01-16T19:16:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/55724430_NV_bdlddhTJOx74U5mjJ6w9eMacqBSdbB-8c_Koel2w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6c79e40fc921de3773da6",
+            "created_at": "2024-01-16T18:14:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369305377_7Y7BjBHRGCXtatw5vMUFuD0ry8-UNP_ydrRmFfq2lFE.jpg",
+            "width": 1440,
+            "height": 1800
+          },
+          {
+            "id": "65a6c79e53f4310000e7286d",
+            "created_at": "2024-01-16T18:14:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1369305377_HJzqSRBsQm97kZh39wyCMe7k8d7U4GX5yJ1Smfpbe70.jpg",
+            "width": 1439,
+            "height": 1799
+          }
+        ],
+        "popularity": 0.9936065996390823,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1808,
+          "total_ratings": 90,
+          "total_tips": 13
+        }
+      },
+      {
+        "fsq_id": "614e08c358bb2536d5771f15",
+        "categories": [
+          {
+            "id": 13265,
+            "name": "Japanese Curry Restaurant",
+            "short_name": "Japanese Curry",
+            "plural_name": "Japanese Curry Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/614e08c358bb2536d5771f15",
+        "location": {
+          "address": "Zaid Bin Al Khattab St",
+          "country": "SA",
+          "cross_street": "Qasem Bin Abdullah St",
+          "formatted_address": "Zaid Bin Al Khattab St (Qasem Bin Abdullah St), الخبر 34447",
+          "locality": "Khobar",
+          "postcode": "34447",
+          "region": "الشرقية"
+        },
+        "name": "Kokoro (كوكورو)",
+        "photos": [
+          {
+            "id": "63731d05476ff32a8bf37d8a",
+            "created_at": "2022-11-15T05:00:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518858437_J35qyuLeSG9i2DQHYxplBkrdNrfLjfg5OrC_PdIqYCM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "63511776c3940d4d4b78fabe",
+            "created_at": "2022-10-20T09:40:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/192792131_D6xOPybzl3AQylSDeDOcfrS_iE56IMLktGnVKjh6_BU.jpg",
+            "width": 1031,
+            "height": 1920
+          },
+          {
+            "id": "630fa4e0a442e454c6cbbb8a",
+            "created_at": "2022-08-31T18:13:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550166906_uBJzoNkKKaoEjJy6PRzc9e3sd__M9tNxh9Ir6YGNtcs.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "62ab8d2e24058336b30e9332",
+            "created_at": "2022-06-16T20:06:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/66131605_0fkJDK95SKf9qeQCILf76mAxPnwjEwh-OrsdT2CN36c.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "637263d907b24b30deabbe5a",
+            "created_at": "2022-11-14T15:50:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/536704098_NrXSi84jnkIvEoNvMFr9XmYaxuVYiIfmul6NxXMRHwA.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9963908223769012,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 3223,
+          "total_ratings": 404,
+          "total_tips": 56
+        },
+        "tel": "013 813 1775"
+      },
+      {
+        "fsq_id": "6099a160cecd5a047969a737",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6099a160cecd5a047969a737",
+        "location": {
+          "address": "Zaid Ibn Alkhattab Sreet",
+          "country": "SA",
+          "cross_street": "Qasem Bin Abdullah St",
+          "formatted_address": "Zaid Ibn Alkhattab Sreet (Qasem Bin Abdullah St), الخبر 34447",
+          "locality": "Khobar",
+          "postcode": "34447",
+          "region": "الشرقية"
+        },
+        "name": "Arches (أرتشز)",
+        "photos": [
+          {
+            "id": "622dfcd8d7764907d62588f7",
+            "created_at": "2022-03-13T14:16:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/516621773_xpuB_sazotbm7x_EoStKlp5VeRAGSXnGiotm-FDHsik.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a86758480c9e7a52d1b5d6",
+            "created_at": "2024-01-17T23:48:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1366892994_0giSknCy0ncXMIA-W2HAyrfTEaWj3hP2WplmzwW8nls.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a867560f992714150f9017",
+            "created_at": "2024-01-17T23:48:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1366892994_9HvV0jFi9e3_E7TnepXEpTbM42eneyBjbWbHsUmTeP0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a808c5d263305935a7a012",
+            "created_at": "2024-01-17T17:05:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/72012870_DRsrl4LZ0b69LMApW7422elVx_ESeY61PJEGTUZ8xrI.jpg",
+            "width": 1300,
+            "height": 1920
+          },
+          {
+            "id": "65a7b1410e3c675e798e99ec",
+            "created_at": "2024-01-17T10:51:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406172692_Xw34QhvXM1Ntlwh3meb1WYNJQ7l1iDMtSk0bouKzL24.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9965970610982212,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 10580,
+          "total_ratings": 547,
+          "total_tips": 67
+        }
+      },
+      {
+        "fsq_id": "5b61bab6a42362002c01a524",
+        "categories": [
+          {
+            "id": 13059,
+            "name": "Juice Bar",
+            "short_name": "Juice Bar",
+            "plural_name": "Juice Bars",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5b61bab6a42362002c01a524",
+        "location": {
+          "address": "الخبر، الثقبة صناعية الخليج",
+          "country": "SA",
+          "cross_street": "طريق الجزائر",
+          "formatted_address": "الخبر، الثقبة صناعية الخليج (طريق الجزائر), الخبر 34626",
+          "locality": "Khobar",
+          "postcode": "34626",
+          "region": "الشرقية"
+        },
+        "name": "Manto Rose (مانتو روز)",
+        "photos": [
+          {
+            "id": "64bcfe034c7b4f574416599f",
+            "created_at": "2023-07-23T10:16:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/542030996_iu72NhB_RzjbRRzRhCg3P4ziuAap62QBXEVWXEkQyhE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "648226205cc6d71ad5d74f11",
+            "created_at": "2023-06-08T19:04:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1378462723_8FhdY7VM5it4ygqO8XYXTOOScpd5UY7oHqi91xIlX38.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "646b801940b90e1e3d1bfc83",
+            "created_at": "2023-05-22T14:45:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534588045_yhI8FtT4ZlJS14V9bG1m4n9lCKt3zoOEcO1A3GrKyf8.jpg",
+            "width": 1079,
+            "height": 1919
+          },
+          {
+            "id": "6431ac7154b45c1b074d4513",
+            "created_at": "2023-04-08T18:03:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/502909371_HdkCuFIFhMCQ6p0HZ8vl7IsxvdANBe--na7eysMtfTM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "632472f6e7b4c65f4f4a4a32",
+            "created_at": "2022-09-16T12:58:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1389344894_lbr-lNdAVaP09jO35oIZzsJv16dQdechzfslZnYQWbI.jpg",
+            "width": 1017,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9831786542923434,
+        "rating": 8.8,
+        "stats": {
+          "total_photos": 152,
+          "total_ratings": 34,
+          "total_tips": 3
+        }
+      },
+      {
+        "fsq_id": "53244727498e54640e22007b",
+        "categories": [
+          {
+            "id": 16053,
+            "name": "Waterfront",
+            "short_name": "Waterfront",
+            "plural_name": "Waterfronts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/53244727498e54640e22007b",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Khobar",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "كورنيش الخبر",
+        "photos": [
+          {
+            "id": "58e641af6cea3f52fc97c323",
+            "created_at": "2017-04-06T13:25:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/38465362_cYnA1g-FFwJJacUAlBd3d-9D_urHHlAu3zzwGYBx2tU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5d840c0985aecf000812aad5",
+            "created_at": "2019-09-19T23:15:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/512452118_3PVEmO3nPZ-7moycH0YTX_5EDNrTbHz21yMbN6veLWU.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "5856c637da54ae2d88b80595",
+            "created_at": "2016-12-18T17:24:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/73601369_tpNFEHSF8SVl6dFhVK6uY8fBK8-wOqK8wPOv_Ccg79U.jpg",
+            "width": 1920,
+            "height": 1440,
+            "classifications": [
+              "outdoor"
+            ]
+          },
+          {
+            "id": "5a968cfd3c858d605a5f0d95",
+            "created_at": "2018-02-28T11:05:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/476086234_BXqvk1oU4Msz2cEZ_XM6CK3uBVXKXqKqy2Dqpn0y4Pw.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "5c95b1a8e57ca6003949443f",
+            "created_at": "2019-03-23T04:10:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/527666516_bjJcFFEi_9OXvpKRJViI_Wnu6s0GFfoOZcavuwc9nTs.jpg",
+            "width": 1920,
+            "height": 1440
+          }
+        ],
+        "popularity": 0.9981567414282031,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 2860,
+          "total_ratings": 479,
+          "total_tips": 33
+        },
+        "tel": "013 899 9797"
+      },
+      {
+        "fsq_id": "5bba62db2632ec002c57d3be",
+        "categories": [
+          {
+            "id": 16032,
+            "name": "Park",
+            "short_name": "Park",
+            "plural_name": "Parks",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5bba62db2632ec002c57d3be",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخبر 34439",
+          "locality": "Khobar",
+          "postcode": "34439",
+          "region": "الشرقية"
+        },
+        "name": "Al Muhaidib Park (حديقة المهيدب)",
+        "photos": [
+          {
+            "id": "65812875b4bb0e3bb296a9a7",
+            "created_at": "2023-12-19T05:21:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401198818_ZKUId5Ckbg9iv9TZ0cnPXTs7ITGDZFPh6sDdZlyXLHY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6581287305b0f0663bfd06d2",
+            "created_at": "2023-12-19T05:21:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401198818_YvLfqqd-YCuA-hmUjI5GngITEI_n7QaYju685ft2J20.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658128719822b0590dc140d4",
+            "created_at": "2023-12-19T05:21:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401198818_EktwJIaylBksjBfRy0Lvk6hI4LVzemC9-WY43gpiYyA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "657159ecf017e723ccd0f04b",
+            "created_at": "2023-12-07T05:36:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/573408726_yNhJMgc4fah_87gzK898DI9qqvRSQ3JB-wuxWUXLuak.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6559cd7d6160d152cc5ef43c",
+            "created_at": "2023-11-19T08:55:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554892834_Je2QYD4vwDy-yX979O4pT2g7XPoTZ18g3d5yepQ8NDg.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9653647847383346,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 160,
+          "total_ratings": 66,
+          "total_tips": 10
+        }
+      },
+      {
+        "fsq_id": "4d5243859ffc236a1c7d2ba7",
+        "categories": [
+          {
+            "id": 17043,
+            "name": "Clothing Store",
+            "short_name": "Apparel",
+            "plural_name": "Clothing Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/4d5243859ffc236a1c7d2ba7",
+        "location": {
+          "address": "King Saud Bin Abdulaziz Rd",
+          "country": "SA",
+          "cross_street": "Next Gate 2",
+          "formatted_address": "King Saud Bin Abdulaziz Rd (Next Gate 2), الظهران 34448",
+          "locality": "الظهران",
+          "postcode": "34448",
+          "region": "الشرقية"
+        },
+        "name": "ZARA (زارا)",
+        "photos": [
+          {
+            "id": "657468837935be282c6898ca",
+            "created_at": "2023-12-09T13:15:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523194572_gyMGL7YFnSzCkGdx3vRpPFLCPbi1RrTBoPA0NO2stPA.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "65735f8fc6b968145176b588",
+            "created_at": "2023-12-08T18:25:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1376050470_erc8TzV_XI7ppr8SeE_JCJn5I9NWYHR2V7RmTBd6vYs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6564372692a0205d4dd4c7df",
+            "created_at": "2023-11-27T06:28:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/123820631_N0Qab-Kp6V17-NZGfMlKhPy0vwKvhUckKwwx4L0Mx0E.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65609dea4b06e32f66a8cc2f",
+            "created_at": "2023-11-24T12:58:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550892611_qgfZNMySvYDK_sG6RIPjAO18K53GVOD2bskP9paHQYU.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64d3330f868caf3aeb5e7594",
+            "created_at": "2023-08-09T06:32:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1373237912_WUzLc55FhPRRqxQcd6IO1mY_Cj-5h2yPgcxebqICmyU.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.997396236143336,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 141,
+          "total_ratings": 167,
+          "total_tips": 8
+        }
+      },
+      {
+        "fsq_id": "4f70533ee4b0d638a393fae0",
+        "categories": [
+          {
+            "id": 17030,
+            "name": "Cosmetics Store",
+            "short_name": "Cosmetics",
+            "plural_name": "Cosmetics Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/4f70533ee4b0d638a393fae0",
+        "location": {
+          "address": "Dhahran Mall",
+          "country": "SA",
+          "cross_street": "Gate 1",
+          "formatted_address": "Dhahran Mall (Gate 1), الظهران",
+          "locality": "الظهران",
+          "region": "الشرقية"
+        },
+        "name": "SEPHORA (سيفورا)",
+        "photos": [
+          {
+            "id": "659a9048d36dd12507d5fe40",
+            "created_at": "2024-01-07T11:51:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1365752254_nMH7rSrtVzEnyR3mPtPYR6G81dH1bHwMwmZ69x3lCLw.jpg",
+            "width": 1555,
+            "height": 1440
+          },
+          {
+            "id": "659953a6ed3cae4aa74fff1c",
+            "created_at": "2024-01-06T13:20:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/570896444_Tobmn-8Hs16Y9DfYE3ydhm0pSFYa5r3VL7X9quXt7Qs.jpg",
+            "width": 1085,
+            "height": 1920
+          },
+          {
+            "id": "659910a59e1ce16c2c380d5f",
+            "created_at": "2024-01-06T08:34:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/20237496_RnINbDl-sIh6llj2cqGhpGDPCo6NGNGedfDMZ1Pw5ZM.jpg",
+            "width": 1080,
+            "height": 1440
+          },
+          {
+            "id": "6599108130564479366885e8",
+            "created_at": "2024-01-06T08:34:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/20237496_RnINbDl-sIh6llj2cqGhpGDPCo6NGNGedfDMZ1Pw5ZM.jpg",
+            "width": 1080,
+            "height": 1440
+          },
+          {
+            "id": "65647360ab3ba2100314afc3",
+            "created_at": "2023-11-27T10:45:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/496854203_a2CuK9zFwjheNsCmjfPNfiS5pEynvRO7WcpWX6xbWyE.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9985821087909255,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 381,
+          "total_ratings": 235,
+          "total_tips": 21
+        },
+        "tel": "9200 11359"
+      },
+      {
+        "fsq_id": "5f8df098b294602b1f06a3b3",
+        "categories": [
+          {
+            "id": 10024,
+            "name": "Movie Theater",
+            "short_name": "Movie Theater",
+            "plural_name": "Movie Theaters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5f8df098b294602b1f06a3b3",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الظهران 34457",
+          "locality": "الظهران",
+          "postcode": "34457",
+          "region": "الشرقية"
+        },
+        "name": "Muvi Suites (موڤي سويتس)",
+        "photos": [
+          {
+            "id": "65a83355d9fae73b45c83e29",
+            "created_at": "2024-01-17T20:06:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523157601_igZQi49fZkTo4ys7RRzz7iWjCljpdtn_JyVNxG9fMTU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a59d2d40fc921de300b052",
+            "created_at": "2024-01-15T21:01:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532456362_wOfTKCbewvbHrbp2vjN9LYd3rSHmF7qt0rHkd0JltQM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a582adc64769084a793ace",
+            "created_at": "2024-01-15T19:08:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532456362_khZXpf_lQw9zvnX3dLOpvJhStqxFGNe1cZ2S_BMQB6M.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a558d63bb33941cf139606",
+            "created_at": "2024-01-15T16:09:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/563498430_gRcd7B1KLcRGGs7uyeK8wxBBJRYtpaoFfJyorWI0L8w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a291657b47273e6f584973",
+            "created_at": "2024-01-13T13:34:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/522454248_e4i8U3fdGdyrm30C9WbuISt2ZecJR3eHB6OIqJLpgls.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9926785253931426,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 3719,
+          "total_ratings": 241,
+          "total_tips": 20
+        }
+      },
+      {
+        "fsq_id": "5ae6fefe35d3fc002c61c52e",
+        "categories": [
+          {
+            "id": 10024,
+            "name": "Movie Theater",
+            "short_name": "Movie Theater",
+            "plural_name": "Movie Theaters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5ae6fefe35d3fc002c61c52e",
+        "location": {
+          "address": "Near Gate 3",
+          "country": "SA",
+          "formatted_address": "Near Gate 3, الظهران 34457",
+          "locality": "الظهران",
+          "postcode": "34457",
+          "region": "الشرقية"
+        },
+        "name": "Muvi Cinemas (موڤي سينما)",
+        "photos": [
+          {
+            "id": "60bbef081bfd523928ca14ba",
+            "created_at": "2021-06-05T21:39:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/579917326_vQpQw6-y1T44IfjLe1zopfJaSd2qtuH22IIfgL0IQj0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a84e8b7c19cf339e3b07c5",
+            "created_at": "2024-01-17T22:02:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532247744__7Te9ilp5dmw2fDfrLFnGyy7VsvaCH4gjQlKPMJ-JzY.jpg",
+            "width": 1075,
+            "height": 1920
+          },
+          {
+            "id": "65a82473735b513afe92e378",
+            "created_at": "2024-01-17T19:03:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/595151084_MdnL2WcQHmvi8Xkg4ELIjwqbBPtaobjkTSvjKkS1eys.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a817abd9fae73b45753452",
+            "created_at": "2024-01-17T18:08:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/520360347_O1IL7tNYnYL2j4wlDVgwPN08I8_5OJWmazvj05CjmCQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a806c90645504659dd9d0d",
+            "created_at": "2024-01-17T16:56:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/418891472_KMwX-tMMlC35DOtD84B4ZrWzrnvaaBfK7OTd6Hk_m3U.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9997035318381026,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 20186,
+          "total_ratings": 857,
+          "total_tips": 76
+        }
+      },
+      {
+        "fsq_id": "61b0866c0ac4536082e9dc57",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/61b0866c0ac4536082e9dc57",
+        "location": {
+          "address": "Gate 7",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Gate 7, الظهران",
+          "locality": "الظهران",
+          "region": "الشرقية"
+        },
+        "name": "8Oz Coffee",
+        "photos": [
+          {
+            "id": "65a163bf6b1ba032b14099ef",
+            "created_at": "2024-01-12T16:07:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362266253_Hkwv7KUw2R2tZzkOI8TSursmngoV5pbAinpbF4Q4fiQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a16208dfe43b68b6010f67",
+            "created_at": "2024-01-12T16:00:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362266253_x7Df6siYGFLIbXNDiG95ebGX9suBSyAgFoWh1uwc68w.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a1620640e36e5a3a8bd72b",
+            "created_at": "2024-01-12T16:00:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362266253_6XRisTvZECgRxIbC5Y5KzkMBTu63isWnnfGkdJrMP2w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659d9365cc499332397d8095",
+            "created_at": "2024-01-09T18:41:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/596399692_-ZKAj88KUh50sAZ2WfHTMe-9OApPjRFJUjBFrSwn9AI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659abeb779cb8022afda0162",
+            "created_at": "2024-01-07T15:09:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/486721278_p0uRCwfUkzsrXOOpA-p_w1q4WfH3w69bWhLM5arQwRg.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9963392626965712,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 874,
+          "total_ratings": 65,
+          "total_tips": 13
+        }
+      },
+      {
+        "fsq_id": "5d8e3184ca739c0008c01ad5",
+        "categories": [
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "short_name": "Restaurant",
+            "plural_name": "Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d8e3184ca739c0008c01ad5",
+        "location": {
+          "address": "Oriya",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Oriya, الخبر 34612",
+          "locality": "Khobar",
+          "postcode": "34612",
+          "region": "الشرقية"
+        },
+        "name": "Oriya (اوريا)",
+        "photos": [
+          {
+            "id": "5e4a8f8a05b6e80008b3da55",
+            "created_at": "2020-02-17T13:05:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/564061169_Fvxo2rqw3_zeZsLeYa7OaJWTHMhKdFjG0g8Co0BrYVg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5e4a69814490e10007ada0a3",
+            "created_at": "2020-02-17T10:22:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/533021948_lytUv2lC4WDKvQX7RISackhj6cWdoVYIip5QlsUnImo.jpg",
+            "width": 1440,
+            "height": 1664
+          },
+          {
+            "id": "5eff4487e6d82f00080aa4d0",
+            "created_at": "2020-07-03T14:45:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557877794_t2vO6cCdO9Rc3w0Y2Tl-wr_-DsNhbVKjtXG9aEwXQzY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5e397b3ee0b337000846a3bc",
+            "created_at": "2020-02-04T14:10:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/340945451_muHLx0Jan6cHeLwOLpgqHFE9fIq4XY220u9yJv-Tiqo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5e5e67d7f4df8c0007979b2a",
+            "created_at": "2020-03-03T14:21:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/521666117_RtHBurJxCHNWBlA3os0dT8F8_FPAQeXMIHT2JN4zi-U.jpg",
+            "width": 1920,
+            "height": 1440
+          }
+        ],
+        "popularity": 0.9832946635730858,
+        "rating": 8.8,
+        "stats": {
+          "total_photos": 11354,
+          "total_ratings": 867,
+          "total_tips": 167
+        },
+        "tel": "055 744 6589"
+      },
+      {
+        "fsq_id": "5c7ae988a9e402002c13a500",
+        "categories": [
+          {
+            "id": 13012,
+            "name": "Hookah Bar",
+            "short_name": "Hookah Bar",
+            "plural_name": "Hookah Bars",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/hookahbar_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5c7ae988a9e402002c13a500",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخبر 34627",
+          "locality": "Khobar",
+          "postcode": "34627",
+          "region": "الشرقية"
+        },
+        "name": "Pulse Cafe (مقهى نبض)",
+        "photos": [
+          {
+            "id": "65a1e201112ea80efe4d3f41",
+            "created_at": "2024-01-13T01:06:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1393400358_ZZTwoIv78WGu4YVFCQrKFr8c51T_bjxhZT3pX7mpG8s.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659863e267d0d247f6fb2c02",
+            "created_at": "2024-01-05T20:17:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/151860880_lYWjBmaQ3O1sH2y2ivLxXcR8q0aCc-KCf06FPgt9mXk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "653bf9355237994a9ced7e03",
+            "created_at": "2023-10-27T17:53:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557145403_fqUM0qmYcPMpEzlWCvoy8hn5-yp1sxMxc_NG_AGxeX8.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "653bf9357b943d2fc8dfff39",
+            "created_at": "2023-10-27T17:53:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557145403_jNqy787RuhfHIIkCw6SKZLaJd5koCoiN_BUS7eGlWqc.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "65172ebb624df1527a51455c",
+            "created_at": "2023-09-29T20:08:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/595151084_dQxvx39kk2yM9FUFP8OGCEx3JZAk45si0C8s9tDQljI.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9895333848930137,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 475,
+          "total_ratings": 82,
+          "total_tips": 16
+        },
+        "tel": "058 353 7790"
+      },
+      {
+        "fsq_id": "5d9f863901d364000823f3a6",
+        "categories": [
+          {
+            "id": 17012,
+            "name": "Motorcycle Dealership",
+            "short_name": "Motorcycle Dealership",
+            "plural_name": "Motorcycle Dealerships",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/motorcycle_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d9f863901d364000823f3a6",
+        "location": {
+          "address": "Sinayiat Alfawaziya",
+          "country": "SA",
+          "cross_street": "9 Street",
+          "formatted_address": "Sinayiat Alfawaziya (9 Street), الخبر 34627",
+          "locality": "Khobar",
+          "postcode": "34627",
+          "region": "الشرقية"
+        },
+        "name": "Drag Bike 966",
+        "photos": [
+          {
+            "id": "657af2d32d2e040ee96a5ca2",
+            "created_at": "2023-12-14T12:19:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/506343219_ZZG6Bgxy_3xbwalnYymyVKugTKdg47e0quqeOiZ-SEA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6543c589b9ebad163879fe27",
+            "created_at": "2023-11-02T15:51:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495254878_eCqk-8fNIWNK6T8ZIk5yb8P4KLsq96QOGun1GzKHbfI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652c05fdf0131f3ce8ba4822",
+            "created_at": "2023-10-15T15:32:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/506343219_aMZyOuzzaY89TtmvdMS5WXKWIL4loT9TPvSg_70ASp0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65185d9ba4b0197af87e94f2",
+            "created_at": "2023-09-30T17:40:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/506343219_ymvjtR8Y2VcjNpyvoWYlChV1FreBu1FKccohH47i82A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6509a435375df41b6b754ffc",
+            "created_at": "2023-09-19T13:37:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/506343219_X7eC9doy48XJBjUVEG9OKreZStrAhv_BjcKCoTrHbJE.jpg",
+            "width": 1078,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9735627739108017,
+        "rating": 8.7,
+        "stats": {
+          "total_photos": 76,
+          "total_ratings": 12,
+          "total_tips": 2
+        },
+        "tel": "055 248 4448"
+      },
+      {
+        "fsq_id": "5b5cc45d0d8a0f002ca50d56",
+        "categories": [
+          {
+            "id": 16041,
+            "name": "Plaza",
+            "short_name": "Plaza",
+            "plural_name": "Plazas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5b5cc45d0d8a0f002ca50d56",
+        "location": {
+          "address": "King Saud Bin Abdulaziz Rd",
+          "country": "SA",
+          "cross_street": "Mushari Bin Abdulaziz St.",
+          "formatted_address": "King Saud Bin Abdulaziz Rd (Mushari Bin Abdulaziz St.), الخبر 34437",
+          "locality": "Khobar",
+          "postcode": "34437",
+          "region": "الشرقية"
+        },
+        "name": "Villaggio (فيلاجيو)",
+        "photos": [
+          {
+            "id": "5fbffac20d87b900f6308880",
+            "created_at": "2020-11-26T18:58:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/4294508_L-pp2ypb3Z4HFKWSsR8Fa1yMb9m5ez82alVqeHEp_z4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5fbff5dcde0eb66c01c4cc20",
+            "created_at": "2020-11-26T18:37:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/587496013_hPvUuEEl6FKLqE2nwegna1YtwLqePzSRW2ou-55gA1Y.jpg",
+            "width": 1033,
+            "height": 1920
+          },
+          {
+            "id": "5fb6b6ce97e9c969d58ab0e9",
+            "created_at": "2020-11-19T18:17:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/588738322_2FZ55aLViSGyKUGAlJ5lhaw2Pe2l6V__UNt7fU6ekDk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5fc0eef04018f4700e98e5c6",
+            "created_at": "2020-11-27T12:20:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/570648590_opm5fJvnDuzcG0MNoxDvF6JAAwoiplBHaNooous1sBk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5fc0df754b2b5306f5510568",
+            "created_at": "2020-11-27T11:13:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/69279311_xiDbBae6rEpHLwKz5nMNvJ8SXzPDK7Vkh5mzdRxWiHs.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9987238979118329,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 23878,
+          "total_ratings": 2295,
+          "total_tips": 215
+        },
+        "tel": "9200 04598"
+      },
+      {
+        "fsq_id": "5bf6c7bbe0c0c9002cb05c93",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "The Starbucks Experience is more than a cup of coffee. From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated the rich tradition of coffee, but that also brought a feeling of community, a comfortable third place away from the demands of work and home.",
+        "link": "/v3/places/5bf6c7bbe0c0c9002cb05c93",
+        "location": {
+          "address": "Dhahran-DohaStreet",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Dhahran-DohaStreet, الظهران 34452",
+          "locality": "الظهران",
+          "postcode": "34452",
+          "region": "الشرقية"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "659fab6e0f51960e94d2f849",
+            "created_at": "2024-01-11T08:48:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/531703475_Z7ghGroUIPS27TbHXBf3naUCmwvjOiZESy7XXObYk90.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65918881d9914b2496ff4fad",
+            "created_at": "2023-12-31T15:28:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/594053910_gyMoV94Z2oOSk_op8te1A2127ylkc18Gh58_mHNtDHc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6585a388362d1a19bcd94f24",
+            "created_at": "2023-12-22T14:56:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/568236689_Ocd56K6qch6RddmNIsUiDDonniXO5kAvMEHVdEH22cs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "657176f471942b7770a7a57e",
+            "created_at": "2023-12-07T07:40:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/486124934_kf7jFfyF_qK0uIV-65yF8IK8KDqiducS5glA2eAQkLU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65688c651d08fc4d467861c2",
+            "created_at": "2023-11-30T13:21:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1375918448_n7b6_Uwp1cwo2Uc1IU1OI7oGHCse8S9nrd7W9RDEIsg.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.994379994844032,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 1784,
+          "total_ratings": 261,
+          "total_tips": 35
+        },
+        "tel": "013 806 4213"
+      },
+      {
+        "fsq_id": "52096f1811d2aa759786aa1d",
+        "categories": [
+          {
+            "id": 16003,
+            "name": "Beach",
+            "short_name": "Beach",
+            "plural_name": "Beaches",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/52096f1811d2aa759786aa1d",
+        "location": {
+          "address": "Beach",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Beach, الخبر",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "Beach",
+        "photos": [
+          {
+            "id": "6560b32ba460167e89c98b5a",
+            "created_at": "2023-11-24T14:28:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495554056_90OslqIIxbv61lSFBPtSxqQSDh45dp0i-QRBsCHozqk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6536ecaadf60cd1d92e6729a",
+            "created_at": "2023-10-23T21:59:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495554056_me38xUC2XsPTF8JLGLui8TfmQnYkDkBKUl8VJTZm7r4.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "6536eca8364b4c7c42f8d106",
+            "created_at": "2023-10-23T21:59:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495554056_2c_dBsLxFC_8uo0d-nfhw7kLKmRnZsmj-pFAbPQyj58.jpg",
+            "width": 1440,
+            "height": 1800
+          },
+          {
+            "id": "64bbc3423cdd6b51fea38588",
+            "created_at": "2023-07-22T11:53:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514176686_zEzzPsGXPal-b9kSuk1IePYQI_MNWk-dDLzdp6ISXAg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "638fd01d2b037075d7cde2ab",
+            "created_at": "2022-12-06T23:28:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1364164618_tFTBnQxacNiJQd_JyGcVt-vZ7kS7qCExZk5O2P17bDo.jpg",
+            "width": 1170,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9942124258829595,
+        "rating": 8.7,
+        "stats": {
+          "total_photos": 44,
+          "total_ratings": 16,
+          "total_tips": 1
+        },
+        "tel": "053 025 7688"
+      },
+      {
+        "fsq_id": "5ccfdda68b98fd002cda78b5",
+        "categories": [
+          {
+            "id": 18035,
+            "name": "Indoor Play Area",
+            "short_name": "Indoor Play Area",
+            "plural_name": "Indoor Play Areas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5ccfdda68b98fd002cda78b5",
+        "location": {
+          "address": "Prince Sultan Bin Abdulaziz Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Prince Sultan Bin Abdulaziz Rd, الظهران 34452",
+          "locality": "الظهران",
+          "postcode": "34452",
+          "region": "الشرقية"
+        },
+        "name": "Gravity Trampoline Parks (جرافيتي ترامبليون باركس)",
+        "photos": [
+          {
+            "id": "5f99dd1910b6f24e1f136978",
+            "created_at": "2020-10-28T21:05:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/531105047_2Fe2fsnQgqBL4DPB3geMMDPzd06pWgRLzOXH52qRn7I.jpg",
+            "width": 1172,
+            "height": 1920
+          },
+          {
+            "id": "658da58a5115b9548e0dec72",
+            "created_at": "2023-12-28T16:42:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/135116945_orbAEsqcejLK9bMX1p7ZoYaiGanjVFYvYywVM4Vhc_o.jpg",
+            "width": 1081,
+            "height": 1920
+          },
+          {
+            "id": "658c61674702e010cb9619fb",
+            "created_at": "2023-12-27T17:39:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1383936072_DOQtU_j_IZ2Cmg7C_J1FxrgI5jxrwoUCHmK7SMly9_Q.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6589988c5da13207a059644f",
+            "created_at": "2023-12-25T14:58:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566698405_6hJ2KnEt5gZyQwEPLHr0gT9_okRyJglVyAEfu6m4SA8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658841f26a4c5a4484374863",
+            "created_at": "2023-12-24T14:36:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/30478378_Oed35i0LhbJFxoW6YEpaG-jtmQbC_GavaGTknOex6_0.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9790667697860274,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 331,
+          "total_ratings": 114,
+          "total_tips": 17
+        }
+      },
+      {
+        "fsq_id": "636ec08ab49f8c7c1d9fa9b8",
+        "categories": [
+          {
+            "id": 13016,
+            "name": "Lounge",
+            "short_name": "Lounge",
+            "plural_name": "Lounges",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/636ec08ab49f8c7c1d9fa9b8",
+        "location": {
+          "address": "King Fahd Bin Abdulaziz Rd",
+          "country": "SA",
+          "cross_street": "1 St",
+          "formatted_address": "King Fahd Bin Abdulaziz Rd (1 St), الخبر",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "Al Seef Cafe (السيف كافيه)",
+        "photos": [
+          {
+            "id": "65a6bd91cfc16b32c232f4d0",
+            "created_at": "2024-01-16T17:32:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/577431170_WANS4MKq2UOJ0-fd6cs8B-_-xSPEwrehXyIt2CjcrQ0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a59410c64769084aa5d2eb",
+            "created_at": "2024-01-15T20:22:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/579920883_D-MrR0ljuF7E2MkbdvvAjbMMe2bgGHbhfJU9tIzOLm8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a4376d14d9056dcd1bb7cc",
+            "created_at": "2024-01-14T19:35:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/561750914_MYjJSCcLw9c-nwX02Q1i4x1nkRV3MYkABYGd05ze0Gs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a3f7822432aa1943bb7de3",
+            "created_at": "2024-01-14T15:02:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1371170822_oCiqkrB87JB9X1IzKO2cDmjGzqT0a1XIFbCOXRsOZbg.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9949084815674143,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1333,
+          "total_ratings": 99,
+          "total_tips": 10
+        }
+      },
+      {
+        "fsq_id": "5b0d663912c8f0002c738b13",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "The Starbucks Experience is more than a cup of coffee. From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated the rich tradition of coffee, but that also brought a feeling of community, a comfortable third place away from the demands of work and home.",
+        "link": "/v3/places/5b0d663912c8f0002c738b13",
+        "location": {
+          "address": "Ansab Plaza",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Ansab Plaza, الخبر 34711",
+          "locality": "Khobar",
+          "postcode": "34711",
+          "region": "الشرقية"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "659d9d6cd084bf6127cbd2f2",
+            "created_at": "2024-01-09T19:24:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/463641494_jBXwrfLPik9-1gHvP8GFyiw0erCl0p-mM2jB7iT3du4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6599695c10e5461a077f6297",
+            "created_at": "2024-01-06T14:53:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/513826682_H0p5MWYhyXBvxMoc8L2pGw2s0VRe4JS3l9ODu7q8eZ0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6599155d244f4b5ee35521b3",
+            "created_at": "2024-01-06T08:54:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1399302515_G_cvOakJWcnAiuPzx7UHg-DbomT-R6e5HeSB-W820s8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658ece6ff898e301ef00ff70",
+            "created_at": "2023-12-29T13:49:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556149578_fhpbBLtKKHPd1F6TLvF0MJm84ZUcFYJmNxRFh1tyRyY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6586c4aacfc30b126ea1aca6",
+            "created_at": "2023-12-23T11:29:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1392774123_loVy1-7K-_MG72xM75YupbHR5oq8cxpwnn6mKmUmIiI.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.995784996133024,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 2798,
+          "total_ratings": 276,
+          "total_tips": 37
+        },
+        "tel": "013 806 4215"
+      },
+      {
+        "fsq_id": "5d5ede1296c26000087b6593",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "specialty coffee roasters and cafe.",
+        "link": "/v3/places/5d5ede1296c26000087b6593",
+        "location": {
+          "address": "King Fahd St, Al Hamra",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "King Fahd St, Al Hamra, الخبر 34628",
+          "locality": "Khobar",
+          "postcode": "34628",
+          "region": "الشرقية"
+        },
+        "name": "Buna (بُنة)",
+        "photos": [
+          {
+            "id": "5f480010171b647b4da164f5",
+            "created_at": "2020-08-27T18:48:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/40976379_lNRRzkxS4NZd8fR14lYyXHHbkQDok8SXmV8Bh-KbWtg.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5f3fcb358b3f375ac9762709",
+            "created_at": "2020-08-21T13:25:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554873728_jSvfMg8tzT1rx0q3kd4Awx2AVPNAjEoZjatv-uujmco.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5f399a7c270f0906bb1ed823",
+            "created_at": "2020-08-16T20:43:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/33669077_WaWDFZTf4PhH0Nq4YWaLtXUEaHcKjnBos6mObEy7dug.jpg",
+            "width": 1440,
+            "height": 1620
+          },
+          {
+            "id": "5f19ea718007ef153ae1f7a7",
+            "created_at": "2020-07-23T19:52:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/83930174_hP6B6Fv3AYaOH1yppW_mM7MCF3UdCEdMjQBpVrbcFFw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5f07405d46106b16da66fc98",
+            "created_at": "2020-07-09T16:05:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/96270560_OjIHvtukCY5MLgqcgKBk1MHPadcvLvkzFiwtNisXFeU.jpg",
+            "width": 1440,
+            "height": 1919
+          }
+        ],
+        "popularity": 0.9952178396493941,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 8000,
+          "total_ratings": 494,
+          "total_tips": 87
+        },
+        "tel": "054 054 2913"
+      },
+      {
+        "fsq_id": "5e7daca219fc590008385f33",
+        "categories": [
+          {
+            "id": 12114,
+            "name": "Trailer Park",
+            "short_name": "Trailer Park",
+            "plural_name": "Trailer Parks",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/home_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e7daca219fc590008385f33",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخبر 34628",
+          "locality": "Khobar",
+          "postcode": "34628",
+          "region": "الشرقية"
+        },
+        "name": "ماربيلا الحمراء",
+        "photos": [
+          {
+            "id": "65a81936f5c95f246fd525c2",
+            "created_at": "2024-01-17T18:15:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558152220_cdrsDO_ts73EHUIl3vfJFzh5ivMjzVGoXA_mbFY1XAY.jpg",
+            "width": 1615,
+            "height": 1440
+          },
+          {
+            "id": "65a577e72fb97e28eaf162e7",
+            "created_at": "2024-01-15T18:22:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/510515470_k0Po0hzFWw6JAW65glmvLKgeGAp111W-0KT6aLhSI2A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6590177ba4c6d74ced095cec",
+            "created_at": "2023-12-30T13:13:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558152220_r8naZbHYgh9v72FdthPPCA1kZtecQF0tbxHee-uGJio.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6585be4e2fe1be3c99d53965",
+            "created_at": "2023-12-22T16:50:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/525040659_gIrQMj8_rdNNCB_-_7zyiMGPSRjeYTYXiCyrAay-edA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "657b249ceefa087ee0e497c8",
+            "created_at": "2023-12-14T15:51:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558152220_4eNtc3EQBtLHWKLDdPzE5mpk6fb_nBo4_SeUZhSUEh8.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9949858210879092,
+        "rating": 8.9,
+        "stats": {
+          "total_photos": 594,
+          "total_ratings": 19,
+          "total_tips": 2
+        }
+      },
+      {
+        "fsq_id": "512cc846e4b07767b141f56d",
+        "categories": [
+          {
+            "id": 16032,
+            "name": "Park",
+            "short_name": "Park",
+            "plural_name": "Parks",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/512cc846e4b07767b141f56d",
+        "location": {
+          "address": "Ibis Ave",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Ibis Ave, الظهران 31311",
+          "locality": "الظهران",
+          "postcode": "31311",
+          "region": "الشرقية"
+        },
+        "name": "King St Park",
+        "photos": [
+          {
+            "id": "5baa37c52aff31002cc4759f",
+            "created_at": "2018-09-25T13:27:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/437395347_ICmHjTou9i6FaaI5-wDmPwKB7oOtQFwMrKE4-eSZX4I.jpg",
+            "width": 1440,
+            "height": 1920,
+            "classifications": [
+              "outdoor"
+            ]
+          },
+          {
+            "id": "56850c27498eda806f363673",
+            "created_at": "2015-12-31T11:06:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/71447361_T8YrQqJI7djQ4we7HB6RJNX72zHB9iUCW03zZMxclok.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5beb1150396de03b4dd25361",
+            "created_at": "2018-11-13T18:00:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/69747542_wUpELpVOQrH1Cvz3HaOZ9T7KqIKsSTfVbUJ2xtv2Il4.jpg",
+            "width": 1080,
+            "height": 1920,
+            "classifications": [
+              "outdoor"
+            ]
+          },
+          {
+            "id": "5a16cb7d0802d406e40ed9d3",
+            "created_at": "2017-11-23T13:22:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/20537995_HnwmJtMYoQHoXUXB5GVJbe-6CzodCmjPflzMpjua_tE.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "5bf3d5eed3cce8002c02eead",
+            "created_at": "2018-11-20T09:37:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/20537995_AabFovFPG6nb5s-mVy3fsSU0WkKPLqaoIyt8IUOG3q0.jpg",
+            "width": 1079,
+            "height": 1920,
+            "classifications": [
+              "outdoor"
+            ]
+          }
+        ],
+        "popularity": 0.9968327702702703,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 2034,
+          "total_ratings": 374,
+          "total_tips": 38
+        }
+      },
+      {
+        "fsq_id": "5e0c975ac7fdea000a60ea88",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "The Starbucks Experience is more than a cup of coffee. From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated the rich tradition of coffee, but that also brought a feeling of community, a comfortable third place away from the demands of work and home.",
+        "link": "/v3/places/5e0c975ac7fdea000a60ea88",
+        "location": {
+          "address": "Aramco Camp",
+          "country": "SA",
+          "cross_street": "Ibis Avenue",
+          "formatted_address": "Aramco Camp (Ibis Avenue), الظهران 34465",
+          "locality": "الظهران",
+          "postcode": "34465",
+          "region": "الشرقية"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "6465df01275d981d131e1bed",
+            "created_at": "2023-05-18T08:17:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/139053368_O-KkEB8ucs1M9WeNwSURgqQHIS5OvBfMj4-CEEUM36A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63b2dbe28c054236693ddbd6",
+            "created_at": "2023-01-02T13:28:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/20537995_t7UIRXSMmsoqwlMVM66S_DVB4xSlEJSUZqTW-B1_XKo.jpg",
+            "width": 1138,
+            "height": 1920
+          },
+          {
+            "id": "63b3f98b2791146121fe5fac",
+            "created_at": "2023-01-03T09:46:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/548201532_nd123JMz5yD8tBgoGR5u_YdFqa1XMYbQjlDyFiYO6Lc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63b3ebdf047655037cf1cac3",
+            "created_at": "2023-01-03T08:48:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534357698_VANCa4CCEh3syJnfmMDqFBVNVjWpHhwJyQx8v0mGM4E.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6454dbb46a610935fdd24c03",
+            "created_at": "2023-05-05T10:34:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558240681_BXh-s6W6pulv7xTF_fEFFWT5bsM2VLaOwt3FiByg9Pw.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9989442567567568,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 11560,
+          "total_ratings": 594,
+          "total_tips": 51
+        },
+        "tel": "013 891 3662"
+      },
+      {
+        "fsq_id": "5d8143c8c0c5b000086875bc",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d8143c8c0c5b000086875bc",
+        "location": {
+          "address": "King Fahad Bin Abdulaziz Rd",
+          "country": "SA",
+          "cross_street": "25A Street",
+          "formatted_address": "King Fahad Bin Abdulaziz Rd (25A Street), الخبر 34714",
+          "locality": "الخبر",
+          "postcode": "34714",
+          "region": "الشرقية"
+        },
+        "name": "The Sky Cafè",
+        "photos": [
+          {
+            "id": "64739b3b52c8684a4926e415",
+            "created_at": "2023-05-28T18:19:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1375262691_uXseW1DhrE175n6ymTob4OzwidPupBgF9C6fLBF8lDo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63ffa14073aecd4792a3c957",
+            "created_at": "2023-03-01T19:02:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1366097494_MimXqGURtaV0Cbza3-5SGa0BYIvFgvZI44WkzsNqREA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "635975b2d5505b08f795a199",
+            "created_at": "2022-10-26T18:00:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/545561107_HO55-V_A6WksgGPWPp_JG41umvY8ZhotsS9-vvwyJ_g.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "635975b042e1823997b96ac9",
+            "created_at": "2022-10-26T18:00:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/545561107_Y4vhDIUOJbo39VwekwhTVHn7WOzbXKwZDtaYg0DEWaE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6349c4a7ad4e7468dcf0b81a",
+            "created_at": "2022-10-14T20:20:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/558346400_lveRKIgO2kfF3tgqktrMPZDgQdJe0G5OZFGHTNPNGKg.jpg",
+            "width": 1048,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9647847383346223,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 494,
+          "total_ratings": 61,
+          "total_tips": 15
+        }
+      },
+      {
+        "fsq_id": "62321eef40015a36d69a61b3",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/62321eef40015a36d69a61b3",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخبر 34718",
+          "locality": "Khobar",
+          "postcode": "34718",
+          "region": "الشرقية"
+        },
+        "name": "Handel (مقبض)",
+        "photos": [
+          {
+            "id": "65a6bf0f30cc654114449f24",
+            "created_at": "2024-01-16T17:38:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1361331409_LS_cTX8kjpaq3c_JVyHJhxq29JIhGxIBQtJTAlXW1u8.jpg",
+            "width": 1247,
+            "height": 1920
+          },
+          {
+            "id": "65a6bebe40fc921de359a49b",
+            "created_at": "2024-01-16T17:37:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1361331409_sy6bw1pGwKaPi3f_R6_QEOaL70FViflMkFo1wfHqS6U.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a5749d379b2d2bdd06895a",
+            "created_at": "2024-01-15T18:08:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1387221610_MgKOmMJ0DwF5zoK_6I4TrVu6QpgR_wE_jDC9Sd9T6U4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a3fab7dd38a43196f7c58d",
+            "created_at": "2024-01-14T15:16:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/498441126_c7HjKhpG-EOPlBZ6FUjKM69r8z8vh79p1nQJY-q6Ihg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a17e412c78f93ccf2470ca",
+            "created_at": "2024-01-12T18:00:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518477949_TVYcK2hy2G5K0hFuuxY423l1ELzpmoyeMfSxVtgqaoM.jpg",
+            "width": 1280,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9804846609951018,
+        "rating": 9.1,
+        "stats": {
+          "total_photos": 690,
+          "total_ratings": 27,
+          "total_tips": 3
+        }
+      },
+      {
+        "fsq_id": "5d72baf29d6ff4000813b831",
+        "categories": [
+          {
+            "id": 16046,
+            "name": "Scenic Lookout",
+            "short_name": "Scenic Lookout",
+            "plural_name": "Scenic Lookouts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d72baf29d6ff4000813b831",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الظهران 34472",
+          "locality": "الظهران",
+          "postcode": "34472",
+          "region": "الشرقية"
+        },
+        "name": "The View",
+        "photos": [
+          {
+            "id": "65a5838bb226132b91e7829b",
+            "created_at": "2024-01-15T19:12:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405421159_pLjk04GDiPci4pSIWKv-Ayvz5QwiYGlueULlUCppfWQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a17319cd8a0925ba0f07c2",
+            "created_at": "2024-01-12T17:12:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523130322_c1xFNWRHiIi2ARA_9R9VeGaG6XMUlkkaOusG8paQWZs.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a0158f7599072cd32f659f",
+            "created_at": "2024-01-11T16:21:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518440580_cKShMRgWDv0GrR3uOdTUDgbbyGMWu0jlw8W3kK9-2Vg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a0158fbd5aa0235665f710",
+            "created_at": "2024-01-11T16:21:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518440580_gsL6jh_QT0m3aGFUW4j2cL6X60obvfDy--4tX-q_8b8.jpg",
+            "width": 1440,
+            "height": 1554
+          },
+          {
+            "id": "659c5051bbe47064bda6d9ea",
+            "created_at": "2024-01-08T19:43:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/525394721_Gciewd_YtCrSh0E5x89MRBb9Nf6ROqAHyHtQRkQ7ptE.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9837415540540541,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 675,
+          "total_ratings": 46,
+          "total_tips": 1
+        }
+      },
+      {
+        "fsq_id": "5e54189c5ad97f00081a6cd3",
+        "categories": [
+          {
+            "id": 17069,
+            "name": "Grocery Store",
+            "short_name": "Grocery Store",
+            "plural_name": "Grocery Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e54189c5ad97f00081a6cd3",
+        "location": {
+          "address": "Alqusur",
+          "country": "SA",
+          "cross_street": "Hamzah Bin Abdulmuttalib",
+          "formatted_address": "Alqusur (Hamzah Bin Abdulmuttalib), الظهران 34247",
+          "locality": "الظهران",
+          "postcode": "34247",
+          "region": "الشرقية"
+        },
+        "name": "2 Fast",
+        "photos": [
+          {
+            "id": "6576e44ed2ea7967b9221654",
+            "created_at": "2023-12-11T10:28:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/64517205_ymmHufAloagvb1EAuHYHP7GAjY65YsbitGhtx3B30wg.jpg",
+            "width": 1440,
+            "height": 1637
+          },
+          {
+            "id": "6565cbb79e9ec307ceccae2b",
+            "created_at": "2023-11-28T11:15:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/64517205_TGrRDjRkzUIC1vh1QKtAF9uMHXUYkBcPUt_8kw9yybo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6565cbb5d11b97425b3c3a80",
+            "created_at": "2023-11-28T11:15:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/64517205_G7gs51NzJBBTMo375mcRlTYEeYRgxV2iJf1VXBzE8lk.jpg",
+            "width": 1920,
+            "height": 1376
+          },
+          {
+            "id": "655bb6d82350671d2844b647",
+            "created_at": "2023-11-20T19:43:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1382698842_XlLEZD1wbioCq6PQkCqb7A-_HvRC3r4SRvDytRGH8Ys.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9936371489370668,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 207,
+          "total_ratings": 45,
+          "total_tips": 5
+        }
+      },
+      {
+        "fsq_id": "5218282711d2b8e83502a200",
+        "categories": [
+          {
+            "id": 17069,
+            "name": "Grocery Store",
+            "short_name": "Grocery Store",
+            "plural_name": "Grocery Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5218282711d2b8e83502a200",
+        "location": {
+          "address": "Al Qussor District",
+          "country": "SA",
+          "cross_street": "Prince Mohammed Bin Fahd Road",
+          "formatted_address": "Al Qussor District (Prince Mohammed Bin Fahd Road), الظهران",
+          "locality": "الظهران",
+          "region": "الشرقية"
+        },
+        "name": "Tamimi Markets (أسواق التميمي)",
+        "photos": [
+          {
+            "id": "566e7201498e06e2773946e8",
+            "created_at": "2015-12-14T07:38:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/71007867_ZOp2KNtumnKtM6cMer_2chbVg9M4_19VVO76DpuThp0.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "65a7d59bc6e95829dd0e2289",
+            "created_at": "2024-01-17T13:26:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/127769091_ngEJVRD-iHcqU0DVQO66NDa4CDMoznAxl8FT0d9PiF4.jpg",
+            "width": 1380,
+            "height": 1920
+          },
+          {
+            "id": "65a050704621c36f22bfc1b0",
+            "created_at": "2024-01-11T20:32:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/596068963_3W3dC7Mhf_Hnrxfq4gkzM7Jm60-xGKJ3YPhdgjvVYJ4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65984263eac42a2969264fb9",
+            "created_at": "2024-01-05T17:54:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/395305634_mPgwdcypYW3KqJgha7QQxYfy5sKu9QysA8MrEsMEA6U.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6593e6ba7a3a737037e2e5b1",
+            "created_at": "2024-01-02T10:34:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/498107743_B1-I_3ctZvXSUt4z1KO_ReNeTLDefQAX3DN6V9hGrgQ.jpg",
+            "width": 1309,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998946547837263,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 3669,
+          "total_ratings": 2533,
+          "total_tips": 226
+        }
+      },
+      {
+        "fsq_id": "5bfd925ce4c459002c247bfe",
+        "categories": [
+          {
+            "id": 13012,
+            "name": "Hookah Bar",
+            "short_name": "Hookah Bar",
+            "plural_name": "Hookah Bars",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/hookahbar_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5bfd925ce4c459002c247bfe",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الخبر 34632",
+          "locality": "Khobar",
+          "postcode": "34632",
+          "region": "الشرقية"
+        },
+        "name": "Mood Cafe",
+        "photos": [
+          {
+            "id": "64eb7dfca0f44719d67ed200",
+            "created_at": "2023-08-27T16:46:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543090465_LUj8-gpt2B6kbtBEBGWEUBzfiYoW2DRNd22ehdvJqcI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "639b77d17dc5f95180e48fc1",
+            "created_at": "2022-12-15T19:38:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/283560_qcp_NmobryMW6ZZ0RbGSwzCwp73ytDqZh4zVa-NTuP8.jpg",
+            "width": 1920,
+            "height": 1440
+          },
+          {
+            "id": "63879d5bfa30b73fd2837bbd",
+            "created_at": "2022-11-30T18:13:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374010935_okjgrG_rxHyHjcD6wHhGTPoF0ebOryoJhIolPgJ9dgQ.jpg",
+            "width": 1028,
+            "height": 1920
+          },
+          {
+            "id": "63821d957ca72936cf34a5ec",
+            "created_at": "2022-11-26T14:07:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/521876627_cYMK_p6MgRjE1TDTZDEymPA0p0EGKHsU3kNOQPzezcw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63820a67dd262a254862baa8",
+            "created_at": "2022-11-26T12:45:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1365388211_pZMmfjjtWSn7h4k3V6z2Nk77f0J8LssgHGBASIWHrBM.jpg",
+            "width": 1406,
+            "height": 1919
+          }
+        ],
+        "popularity": 0.9990734694462877,
+        "rating": 8.6,
+        "stats": {
+          "total_photos": 247,
+          "total_ratings": 36,
+          "total_tips": 3
+        }
+      },
+      {
+        "fsq_id": "5cfe3038829b0c002ccb9884",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5cfe3038829b0c002ccb9884",
+        "location": {
+          "address": "Prince Mohammed Bin Fahd Rd",
+          "country": "SA",
+          "cross_street": "Prince Mohammad Bin Fahad.",
+          "formatted_address": "Prince Mohammed Bin Fahd Rd (Prince Mohammad Bin Fahad.), الظهران 34247",
+          "locality": "الظهران",
+          "postcode": "34247",
+          "region": "الشرقية"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "60314e1337d2fa5a54bd7e93",
+            "created_at": "2021-02-20T17:59:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/468370615_oNtrssy69XRmNNFutCV43FfKeomrPDXjDGEwLw0IzG4.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "659a56aaa69ef911af918aee",
+            "created_at": "2024-01-07T07:45:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405539671_yTUu7BzqyaIjpWlEBq4PvP74n5_5G2Ip5mSeURjxnh4.jpg",
+            "width": 1440,
+            "height": 1786
+          },
+          {
+            "id": "65994bed6288c211f3979a1c",
+            "created_at": "2024-01-06T12:47:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518257074_kXH0q3evoJaC5LdCJdliZc9rtkEho-LaRb_ukA9j4cM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6597a37b2385bc36ddac3ac0",
+            "created_at": "2024-01-05T06:36:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/403141006_N-5YIxV_7KBqqaOP-RvzxlurLnllpvaUle4HfYpGuu8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6593482d40a1872a86dd41cd",
+            "created_at": "2024-01-01T23:18:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1378640185_9r39yh92ei51GTjCfNkfHn7TcNO2-RnUzE51VbVnJxw.jpg",
+            "width": 1078,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9993047215725934,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 6060,
+          "total_ratings": 639,
+          "total_tips": 71
+        }
+      },
+      {
+        "fsq_id": "53358748498eeee630c45a61",
+        "categories": [
+          {
+            "id": 16003,
+            "name": "Beach",
+            "short_name": "Beach",
+            "plural_name": "Beaches",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/53358748498eeee630c45a61",
+        "location": {
+          "address": "Al Aziziyah",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Al Aziziyah, الخبر",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "Al Shubaily Beach",
+        "photos": [
+          {
+            "id": "65a80de1c9fe0e7b64107c67",
+            "created_at": "2024-01-17T17:26:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557210567_cMwWgC00QkwxO_0C01J__q9pyuszpq9103waoC4EV2s.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a74fe6c7ede819aac3d46e",
+            "created_at": "2024-01-17T03:56:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/85459300_JhjHcj49Sm7e17DWfM-jcOBkwP8CgLy_nIlcXlvtJS4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6f923a1f74c26ff5b1849",
+            "created_at": "2024-01-16T21:46:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1363686686__rYBo0EWG8jaFMEJneqN9NH0pKBq9cG5rAOKXUpfeNw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6f921d9fae73b45f9ed26",
+            "created_at": "2024-01-16T21:46:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1363686686_9JzR-x4XMBVmgDCKAwh1vH-2eoP_ZtSt8KG0aOO5qdk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6d56ba1f74c26fff414eb",
+            "created_at": "2024-01-16T19:13:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/500655471_VErRPIV0yYzmKXItp-VERqHtxbzIVaEknZ_37fu2uLE.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998324310389276,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 18401,
+          "total_ratings": 508,
+          "total_tips": 63
+        }
+      },
+      {
+        "fsq_id": "5dc5e2379924a900080d2725",
+        "categories": [
+          {
+            "id": 13012,
+            "name": "Hookah Bar",
+            "short_name": "Hookah Bar",
+            "plural_name": "Hookah Bars",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/hookahbar_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "short_name": "Restaurant",
+            "plural_name": "Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5dc5e2379924a900080d2725",
+        "location": {
+          "address": "Al Taawun Dist",
+          "country": "SA",
+          "cross_street": "1st St",
+          "formatted_address": "Al Taawun Dist (1st St), الخبر 34632",
+          "locality": "Khobar",
+          "postcode": "34632",
+          "region": "الشرقية"
+        },
+        "name": "Cafe & Resturant Al Mosafer (مقهى ومطعم المسافر)",
+        "photos": [
+          {
+            "id": "6449c49ea026261bb9beb508",
+            "created_at": "2023-04-27T00:41:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/504643265_1x6Pz8iCwQC1jOz-wges6yEScVPeIE1NYAg3UNYz_Ro.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "643c8fc748f19958721d416f",
+            "created_at": "2023-04-17T00:16:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1366005225_jweLqls0NaxYn4goeQePd7h76Qq5-e09R7UAp2pUSEE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "638e7a986d667e4327c9d8d5",
+            "created_at": "2022-12-05T23:11:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/531182904_JLylqUIJ4ttlaWPJ0jonaxopYuYN4mpI7AiPRQ0LWpQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6314d2a37368e36c6e08a148",
+            "created_at": "2022-09-04T16:30:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1365783291_FWjNe4nPqJda68zxtCtEj04IaCwc-I_EDvaOUf2k9-A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6307e69037dfec69da95556b",
+            "created_at": "2022-08-25T21:16:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554534103_hD1IY8TCUkZOtRU70kxaPdm8EU_y4J7t27mw6giQ_Qc.jpg",
+            "width": 1031,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9989454423158425,
+        "rating": 8.8,
+        "stats": {
+          "total_photos": 165,
+          "total_ratings": 18,
+          "total_tips": 7
+        }
+      },
+      {
+        "fsq_id": "57029376498ec72e4e881aa1",
+        "categories": [
+          {
+            "id": 17069,
+            "name": "Grocery Store",
+            "short_name": "Grocery Store",
+            "plural_name": "Grocery Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/57029376498ec72e4e881aa1",
+        "location": {
+          "address": "Al Khozama (13A)",
+          "country": "SA",
+          "cross_street": "13A",
+          "formatted_address": "Al Khozama (13A) (13A), الخبر 34718",
+          "locality": "Khobar",
+          "postcode": "34718",
+          "region": "الشرقية"
+        },
+        "name": "Tamimi Markets (أسواق التميمي)",
+        "photos": [
+          {
+            "id": "65a5692c6d6a3a220b26f029",
+            "created_at": "2024-01-15T17:19:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581638290_v3H5WiVs9ZrOBmsaru9PUIh0xQfCJGTttNjqinKXQIE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a27a7ab608d925a1ecfdea",
+            "created_at": "2024-01-13T11:56:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/20483570_kGxa71ZHK3X9Eztfc7Y3mT_cefgVY8pN5P67DGaV5wQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "657a7ef45c283176c920382b",
+            "created_at": "2023-12-14T04:05:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/51395336_ds9Xw4n_n0Xk_mY4biU6FvxXA2AvLhzsfpsFhWdrhZM.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "657a7ef2a817e75229190ed9",
+            "created_at": "2023-12-14T04:05:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/51395336_zvlHiv1Zm5a_G8v1w3JKGeF0w2_npi1868veZ6VrQYY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6552342965392a685798e95b",
+            "created_at": "2023-11-13T14:35:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1386410954_5cRGacr89I7cj0YHvxkJSZwshQTZ-eySglpHDzhc-1g.jpg",
+            "width": 1920,
+            "height": 1439
+          }
+        ],
+        "popularity": 0.9982211910286156,
+        "rating": 9.2,
+        "stats": {
+          "total_photos": 735,
+          "total_ratings": 355,
+          "total_tips": 24
+        },
+        "tel": "013 831 5100"
+      },
+      {
+        "fsq_id": "588b154ef63c540bbd620b79",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/588b154ef63c540bbd620b79",
+        "location": {
+          "address": "13A",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "13A, الخبر",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "ستاربكس",
+        "photos": [
+          {
+            "id": "658e95b102a8c712789e4948",
+            "created_at": "2023-12-29T09:47:29.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/574692100_BvaBOdjEHpXgcr2uPyki5xOdj5Jqwppk7DFOvGwthc8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658e95b02afd892f01f23654",
+            "created_at": "2023-12-29T09:47:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/574692100_aV_Ju5E2gC1aOPm4vkrxvQi-OAVv1j9pOo1e7GkQt-I.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64a80744a686ff6c0eb4817b",
+            "created_at": "2023-07-07T12:38:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/397281977_4HwcvjRRCDZAMOgIWNt1Z2g1wiougK7irxJ44Pd8ra0.jpg",
+            "width": 1094,
+            "height": 1920
+          },
+          {
+            "id": "630bfb1104e5945c0b9c1cd3",
+            "created_at": "2022-08-28T23:32:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1385395660_IBVqcsb5nt8XXQqQ6mrIVsWroxQNETDGfe2quiV8dNA.jpg",
+            "width": 1255,
+            "height": 1919
+          },
+          {
+            "id": "62935a5d7ed07c5a5fcb8782",
+            "created_at": "2022-05-29T11:34:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/533977813_42P76hLhzyfk-eG8C6FfxUHjCWqV9CkOo19DNP06JAo.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9977184841453983,
+        "rating": 9,
+        "stats": {
+          "total_photos": 143,
+          "total_ratings": 95,
+          "total_tips": 6
+        }
+      },
+      {
+        "fsq_id": "5eefd9cd62d3db000888ad69",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5eefd9cd62d3db000888ad69",
+        "location": {
+          "address": "5068 King Fahd Ibn Abdul Aziz Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "5068 King Fahd Ibn Abdul Aziz Rd, الخبر",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "Worthy Coffee",
+        "photos": [
+          {
+            "id": "6599711a10ac306a429003ed",
+            "created_at": "2024-01-06T15:26:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/504554504_RcK_ihTEt1cNR4AXoaWtCe8tI_9qLJKKAULz89dXH_o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659952c6244f4b5ee31b11c2",
+            "created_at": "2024-01-06T13:16:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550190202_Ah9MRijsa8FdPQAAnsZ4PJQh19Tryi3x8A4oBjNXcdk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6577064759eaa1335af87bd1",
+            "created_at": "2023-12-11T12:53:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550190202_S_gSPNSQ1BhCUyp-LgeQ35LSzTxS5p6uBAuSBK39JC0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65706872478d5d7f4fcd7ac0",
+            "created_at": "2023-12-06T12:26:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550190202_LVzTE5sO6CmHCWqjJ3uXlmdxAieC82f5BQrjhxhuFdI.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "656dfe2a0908753fc19d6434",
+            "created_at": "2023-12-04T16:28:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550190202_KCJu_bKR5o8_tA1eiduYB3nes7rYq_zT5jvu4D7oDg0.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9808326888373292,
+        "rating": 8.8,
+        "stats": {
+          "total_photos": 1296,
+          "total_ratings": 36,
+          "total_tips": 8
+        }
+      },
+      {
+        "fsq_id": "508f8197e4b0d49481b1482c",
+        "categories": [
+          {
+            "id": 13002,
+            "name": "Bakery",
+            "short_name": "Bakery",
+            "plural_name": "Bakeries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/508f8197e4b0d49481b1482c",
+        "location": {
+          "address": "الخزامى (الشارع التجاري)",
+          "country": "SA",
+          "cross_street": "الشارع التجاري",
+          "formatted_address": "الخزامى (الشارع التجاري) (الشارع التجاري), الخبر",
+          "locality": "Khobar",
+          "region": "الشرقية"
+        },
+        "name": "Green Apple (التفاح الأخضر)",
+        "photos": [
+          {
+            "id": "6379dca969499b620faa8426",
+            "created_at": "2022-11-20T07:52:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/538020428_0_MJ8oviHMFNEdX3uq2ZjTW77hCAp35u-PdoEhTXJBY.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "628fdd5792109b35137c15fb",
+            "created_at": "2022-05-26T20:04:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518620798_ppmyUQHc6G0wMpTYj9GLjY3M9nk1kNDGBjBq_eLRU6g.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61843aaa265d671af18f387d",
+            "created_at": "2021-11-04T19:55:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/552820971_QeZvMDGllxGr-MF1a8ChVz4XACbshn0iYpmunnMEmmQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6019494e0a23e2014012d938",
+            "created_at": "2021-02-02T12:45:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/464265783_g-WFIsHRyPvahDoKZrw2NFz2cj6JEyqKsZls7pNFpQQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5f71ea682e14a45a264515cf",
+            "created_at": "2020-09-28T13:51:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/53113824_oI3SWqhUswAoC2bWxCOzDlDNkVBK1mT2VRte7eGjy08.jpg",
+            "width": 1033,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.975676720804331,
+        "rating": 9,
+        "stats": {
+          "total_photos": 57,
+          "total_ratings": 133,
+          "total_tips": 22
+        },
+        "tel": "013 865 6888"
+      },
+      {
+        "fsq_id": "514a0d50e4b0ce2190083f23",
+        "categories": [
+          {
+            "id": 13046,
+            "name": "Ice Cream Parlor",
+            "short_name": "Ice Cream",
+            "plural_name": "Ice Cream Parlors",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/514a0d50e4b0ce2190083f23",
+        "location": {
+          "address": "Aljaser",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Aljaser, الخبر 34714",
+          "locality": "Khobar",
+          "postcode": "34714",
+          "region": "الشرقية"
+        },
+        "name": "Baskin-Robbins",
+        "photos": [
+          {
+            "id": "6463fb9443c1a42f3b7ce099",
+            "created_at": "2023-05-16T21:54:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556149578_PuPRnNqkYYzZyMOo7lQGmJOeBMPIloodzHt2uGNhCJ0.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "6463fb9370a0e456ce0efbbd",
+            "created_at": "2023-05-16T21:54:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556149578_66cMohPAb2mRem03l03fSyEN3Mr-rnJQF56jmEeLZEM.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "63e8164ad20edd5346db6dfd",
+            "created_at": "2023-02-11T22:27:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556149578_4k2WVc4hDlIDWi7rDxk8DzkaGUuIAQge3llTJrWRlWY.jpg",
+            "width": 1017,
+            "height": 1920
+          },
+          {
+            "id": "6308cc54e6106d52061b30d0",
+            "created_at": "2022-08-26T13:36:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/452795074_Nu8BVbyJ9hAfekrMlfuRkRX955d6ia7XVoqvmpWyTxI.jpg",
+            "width": 1048,
+            "height": 1920
+          },
+          {
+            "id": "62f678892ff05307e81bd65e",
+            "created_at": "2022-08-12T15:58:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1378152361_201ASf-Eai_u9t6KvYQ5Q77QkreQsWzKCc03QvSRsPg.jpg",
+            "width": 1031,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9879350348027842,
+        "rating": 8.9,
+        "stats": {
+          "total_photos": 96,
+          "total_ratings": 101,
+          "total_tips": 9
+        }
+      },
+      {
+        "fsq_id": "5910b421ea1e4476bf93eb68",
+        "categories": [
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "short_name": "Fast Food",
+            "plural_name": "Fast Food Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5910b421ea1e4476bf93eb68",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "34714",
+          "postcode": "34714",
+          "region": "الشرقية"
+        },
+        "name": "Meltzone (ميلتزون)",
+        "photos": [
+          {
+            "id": "65428af71750716b8cf9707a",
+            "created_at": "2023-11-01T17:29:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550190202_PigY5OvuRUo9UsGPE0TIjOnLopOrouUBxD6v1xk0RSI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63a382842e9eb827729c6676",
+            "created_at": "2022-12-21T22:02:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1366104066_ouRZL4dCl9C2hovXtTJoGwtAQE-g5n0a-HWeQSToJ-w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "62a8ece014362e238e283a23",
+            "created_at": "2022-06-14T20:17:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1360605393_2ohVkIqO5iwpnF-OeGXU7strD8g67VFueveTSHTM728.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "626eb5f19d0ef442888ff0c9",
+            "created_at": "2022-05-01T16:31:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1363202473_WLBvfK334ys6EzVox--YQXz_tpzk2_V-BEx3mcuMi_Y.jpg",
+            "width": 1722,
+            "height": 1440
+          },
+          {
+            "id": "623e1d4b1273544107eb4bc0",
+            "created_at": "2022-03-25T19:51:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1366493378_Y-S488fZ4qHWLa55rIm5LYv1oQo1M2ANaDxlbqFarcA.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9888373292085589,
+        "rating": 8.8,
+        "stats": {
+          "total_photos": 86,
+          "total_ratings": 43,
+          "total_tips": 9
+        }
+      }
+    ],
+    "context": {
+      "geo_bounds": {
+        "circle": {
+          "center": {
+            "latitude": 26.2833,
+            "longitude": 50.2
+          },
+          "radius": 22000
+        }
+      }
+    }
+  }

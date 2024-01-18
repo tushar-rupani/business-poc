@@ -5,10 +5,10 @@ const {
 module.exports = (sequelize, DataTypes) => {
   class BusinessMetrics extends Model {
     static associate(models) {
-      // define association here
       BusinessMetrics.belongsTo(models.Business, {
         foreignKey: 'placeId',
-        as: 'businessMs'
+        as: 'businessInfo',
+        targetKey: "placeId"
       });
     }
   }
@@ -29,7 +29,11 @@ module.exports = (sequelize, DataTypes) => {
       defaultValue: 0
     },
     placeId: {
-      type: DataTypes.STRING
+      type: DataTypes.STRING,
+      references: {
+        model: "Business",
+        key: "placeId"
+      }
     },
     totalPhotosCount: {
       type: DataTypes.INTEGER,

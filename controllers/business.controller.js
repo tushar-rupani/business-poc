@@ -14,6 +14,19 @@ const GoogleKhobarCached = require("../backup/Google/17-Khobar.json");
 const GoogleRiyadhCached = require("../backup/Google/17-Riyadh.json");
 const GoogleAlKharjCached = require("../backup/Google/17-Al-Kharj.json");
 
+
+// async function test() {
+//   const data = await BusinessMetrics.findAll({
+//     raw: true,
+//     nest: true,
+//     include: {
+//       model: Business,
+//       as: "businessInfo"
+//     }
+//   });
+//   console.log(data);
+// }
+// test();
 exports.insertAllCategoriesOfFourSquare = async (req, res) => {
   try {
     const options = {
@@ -278,7 +291,7 @@ exports.getMetricsFromFourSquare = async (req, res) => {
     const results = getCachedData.results;
     for (const result of results) {
       const metricsPayload = {
-        rating: result.rating ?? 0,
+        rating: result.rating / 2 ?? 0,
         reviewCount: result.stats.total_ratings,
         popularity: result.popularity.toFixed(5),
         placeId: result.fsq_id,

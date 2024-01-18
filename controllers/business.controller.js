@@ -13,7 +13,7 @@ const FourSquareAlKharjCached = require("../backup/4Square - Al-Kharj.json");
 const GoogleKhobarCached = require("../backup/Google/17-Khobar.json");
 const GoogleRiyadhCached = require("../backup/Google/17-Riyadh.json");
 const GoogleAlKharjCached = require("../backup/Google/17-Al-Kharj.json");
-
+const { Op } = require("sequelize");
 
 // async function test() {
 //   const data = await BusinessMetrics.findAll({
@@ -394,25 +394,71 @@ exports.getAllCategories = async (req, res) => {
 
 exports.getBusinessByCategoryId = async (req, res) => {
   try {
-    const { category_id } = req.body;
-    const businessesByCategoryId = await CategoryBusiness.findAll({
-      raw: true,
-      nest: true,
-      attributes: [],
-      where: { categoryId: category_id },
-      include: {
-        model: Business,
-        attributes: ["id", "name", "description", "address", "link", "address", "contactNumber", "totalRatings", "popularity", "region", "categories"],
-        as: "business",
-      },
-    });
-    return generalResponse(
-      res,
-      [{ success: true, businesses: businessesByCategoryId }],
-      "Business Retrieved!",
-      true
-    );
+    const {
+      category_id,
+      current_page,
+      search_term,
+      popularity_order,
+      rating_order,
+    } = req.body;
+    if (category_id) {
+      const searchTerm = search_term ?? "";
+      const currentPage = current_page ? current_page : 1;
+      const whereFilterForBusiness = [];
+      if (popularity_order) {
+        whereFilterForBusiness.push([
+          { model: Business, as: "business" },
+          "popularity",
+          popularity_order === "high" ? "DESC" : "ASC",
+        ]);
+      } else if (rating_order) {
+        whereFilterForBusiness.push([
+          { model: Business, as: "business" },
+          "rating",
+          rating_order === "high" ? "DESC" : "ASC",
+        ]);
+      }
+      const { count, rows } = await CategoryBusiness.findAndCountAll({
+        raw: true,
+        nest: true,
+        attributes: [],
+        where: { categoryId: category_id },
+        include: {
+          model: Business,
+          attributes: [
+            "id",
+            "name",
+            "description",
+            "address",
+            "link",
+            "rating",
+            "contactNumber",
+            "totalRatings",
+            "popularity",
+            "region",
+            "categories",
+            "placeId",
+          ],
+          as: "business",
+          where: {
+            name: {
+              [Op.iLike]: `%${searchTerm}%`,
+            },
+          },
+        },
+        offset: (currentPage - 1) * 10,
+        limit: 5,
+        order: whereFilterForBusiness
+      });
+      return generalResponse(
+        res,
+        [{ success: true, businesses: rows, totalCount: count }],
+        "Business Retrieved!",
+        true
+      );
+    }
   } catch (error) {
+    console.log(error);
     return generalResponse(
       res,
       { success: false },

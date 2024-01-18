@@ -1,0 +1,3814 @@
+{
+    "results": [
+      {
+        "fsq_id": "5697deb9498e2b9c9b642e67",
+        "categories": [
+          {
+            "id": 17045,
+            "name": "Jewelry Store",
+            "short_name": "Jewelry",
+            "plural_name": "Jewelry Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/jewelry_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "Open the doors of our boutique to discover Van Cleef & Arpels’ universe and its High Jewelry, Jewelry, Engagement and Watchmaking creations. Our Sales Assistants are at your disposal to assist you in the selection of a piece, and to share with you the Maison’s sources of inspiration.",
+        "link": "/v3/places/5697deb9498e2b9c9b642e67",
+        "location": {
+          "address": "Kingdom Centre, First Floor, Olaya St",
+          "address_extended": "Olaya St",
+          "country": "SA",
+          "cross_street": "Olaya St",
+          "formatted_address": "Kingdom Centre, First Floor, Olaya St (Olaya St), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Van Cleef & Arples (فان كليف آند آربيلس)",
+        "photos": [
+          {
+            "id": "59f3592a9ef8ef32fccbacbb",
+            "created_at": "2017-10-27T16:04:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/124426105_ZhnfpsMvnb80-HX_Tn3H9EoleohxXzweMcADAmiPDYg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a3e3133b6b6301a99e2e69",
+            "created_at": "2024-01-14T13:35:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/544064928_Lz6URG7WMliIH_-TUCqm3qmXXDfGJpaF8V5KqzIN7kk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659ee28b27b514034e08a533",
+            "created_at": "2024-01-10T18:31:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1402968566_C8_e2gnU5I6Mr7g-7sM9pIDxpyDNyz3ksG12ct21VCk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659d679988037a2129ce7bf1",
+            "created_at": "2024-01-09T15:34:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1389080691_EySTKRRO_zElNLY5O2wsX9qQ6YoKm7nOB9ATDWU6kz8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65992a7e1349222605df0732",
+            "created_at": "2024-01-06T10:25:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1360132139_G5fqbkOLGh842Hui7zXVt5xEvcPb3v2jkD8b4eNpD_A.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9855221014512613,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 1072,
+          "total_ratings": 146,
+          "total_tips": 10
+        },
+        "tel": "011 211 1317"
+      },
+      {
+        "fsq_id": "5bbe10887dc9e1002c4492ff",
+        "categories": [
+          {
+            "id": 10024,
+            "name": "Movie Theater",
+            "short_name": "Movie Theater",
+            "plural_name": "Movie Theaters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5bbe10887dc9e1002c4492ff",
+        "location": {
+          "address": "Kingdom Center",
+          "country": "SA",
+          "formatted_address": "Kingdom Center, الرياض 12214",
+          "locality": "الرياض",
+          "postcode": "12214",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "VOX Cinemas",
+        "photos": [
+          {
+            "id": "6282be467b5d160939d88204",
+            "created_at": "2022-05-16T21:12:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/583127049_WSdEr2uWkmO56xCJWf_OApeL0gPgWl2_JSfzTkKi-Ag.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5dcddb20a9ba8f0008bd3b3c",
+            "created_at": "2019-11-14T22:54:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/83508354_tAkS7dPtB7913pTVmEcvEJ2giAduMvH0cF9Gd6dv12U.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5dc533835c05fe00078b8326",
+            "created_at": "2019-11-08T09:21:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/61936829_jFvf7-lYO73zWPhhjL-XnrrHpdAtFMfLbdBlpHvc8ko.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5dc55a1a24273d0008b394a8",
+            "created_at": "2019-11-08T12:05:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/17772384_9qOZHNI7Hh8Ofr_tyX2c9Eu91OpwQhvZ9ZLFJGx__I8.jpg",
+            "width": 1440,
+            "height": 1920,
+            "classifications": [
+              "indoor"
+            ]
+          },
+          {
+            "id": "5db97cbed9d8d800077c433a",
+            "created_at": "2019-10-30T12:06:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/127613245_Kc25vfhdLYQypwYS1AmM5sw2NF9TUp-OcZNPrmHkfdU.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998428698542161,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 25400,
+          "total_ratings": 2510,
+          "total_tips": 264
+        }
+      },
+      {
+        "fsq_id": "5e6dc591d4ad69000860a841",
+        "categories": [
+          {
+            "id": 17063,
+            "name": "Coffee Roaster",
+            "short_name": "Coffee Roaster",
+            "plural_name": "Coffee Roasters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e6dc591d4ad69000860a841",
+        "location": {
+          "address": "Al Urubah Rd",
+          "country": "SA",
+          "cross_street": "الرياض",
+          "formatted_address": "Al Urubah Rd (الرياض), الرياض 12341",
+          "locality": "الرياض",
+          "postcode": "12341",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Camel Step Roasters (محمصة خطوة جمل)",
+        "photos": [
+          {
+            "id": "5f9fdb370cae181fdb89d985",
+            "created_at": "2020-11-02T10:11:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/574432590_3UZeMY3siwxezbKf2A2LRGXluAIoUkt8KobbU7HFJC4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "656634d4d11b97425be3779e",
+            "created_at": "2023-11-28T18:43:32.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1397668217_sRAmzd6xciYCQxfmCmqZCcBfLGjF5p1kjl_y9fc6ewI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5fb8f2145b585a61491322e3",
+            "created_at": "2020-11-21T10:55:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/574432590_wr7tLs--8AeFwWONQRvQdlNahG0OwyPw4v6XkKIxRt8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "657b02a1de448060550f59bc",
+            "created_at": "2023-12-14T13:26:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/538135483_TC1Ec297_-BqJhe4QVIrvQ5zuSoX2ie91n9lis50O_Y.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999671122950685,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 44883,
+          "total_ratings": 2747,
+          "total_tips": 302
+        },
+        "tel": "9200 00689"
+      },
+      {
+        "fsq_id": "553901f2498ee0f835941242",
+        "categories": [
+          {
+            "id": 17020,
+            "name": "Boutique",
+            "short_name": "Boutique",
+            "plural_name": "Boutiques",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "Your DIOR boutique at Al Olaya selling Women's Ready-to-wear, Shoes including Leather Goods with Accessories",
+        "link": "/v3/places/553901f2498ee0f835941242",
+        "location": {
+          "address": "Centria Mall, Olaya St, Prince Mohammed Bin Abdulaziz Road (Tahlia), Ground Floor And",
+          "address_extended": "Ground Floor",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Centria Mall, Olaya St, Prince Mohammed Bin Abdulaziz Road (Tahlia), Ground Floor And, العليا",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Dior (ديور)",
+        "photos": [
+          {
+            "id": "65a6cf4c4f5c4b7f7151f38b",
+            "created_at": "2024-01-16T18:47:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/99797805_AUbSMDISqn2-G8Rv6kaZ-X3_yQxd2G1yeXymvJEoXDM.jpg",
+            "width": 1102,
+            "height": 1920
+          },
+          {
+            "id": "65a6cf4a59aaf42701f0d23f",
+            "created_at": "2024-01-16T18:47:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/99797805_mnNnVAoseD287kCXjJod5H4HxkJDz9rfH5i3ubFmsKY.jpg",
+            "width": 1117,
+            "height": 1920
+          },
+          {
+            "id": "659879a6230a5631b30a36b5",
+            "created_at": "2024-01-05T21:50:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/521299103_51lGNSDnkqa_DrWJG8G6MOydgElpmar9aLrI3B7nydA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659842931b7a292322377595",
+            "created_at": "2024-01-05T17:55:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581376199_hhXy6c3pUarEQjqaZMavd34Ahhi1V1nqc3q6qHZmINY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659806cf5972b40532f0f1cc",
+            "created_at": "2024-01-05T13:40:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/466680434_NPv16Obj5VU5rbQYzOI-lPikDfmsA072oXGm1uPhKlQ.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9898285637025709,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 1447,
+          "total_ratings": 197,
+          "total_tips": 20
+        },
+        "tel": "011 464 3599"
+      },
+      {
+        "fsq_id": "501a78aee4b0d92ed74b8716",
+        "categories": [
+          {
+            "id": 17045,
+            "name": "Jewelry Store",
+            "short_name": "Jewelry",
+            "plural_name": "Jewelry Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/jewelry_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/501a78aee4b0d92ed74b8716",
+        "location": {
+          "address": "Olaya St",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Olaya St, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "CHAUMET (شوميه)",
+        "photos": [
+          {
+            "id": "65a3e59e7b12be43183cb725",
+            "created_at": "2024-01-14T13:46:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/526546970_jRIWLd8FBwNLA2OPeM1nq1OXOXpOOguh1YJBrRuOpAg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659c7531f453555c06167d46",
+            "created_at": "2024-01-08T22:20:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/466677587_aXh1SXMYv8KacFa6FzoYbBJuNYe8KynKywpehdrNI9U.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ae82a4083296c3c5c265c",
+            "created_at": "2024-01-07T18:06:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534508392_BMIN_mWN5odqTvaKQRUiSr4MNRVivvDCTa6FeA5uzK8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65987ae4f251b310adee450a",
+            "created_at": "2024-01-05T21:55:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/469359880_Z2xNOkOn5dTUXriI2--EQuhPnESjs5h_1ceXIXOLIXo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6598777a69747a634a15ce0f",
+            "created_at": "2024-01-05T21:41:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/554795137_OgE9sbhh34rXW7bYX310e5djIIOEQsA99_ZL_cg9aeM.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9708505308623704,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 415,
+          "total_ratings": 111,
+          "total_tips": 3
+        }
+      },
+      {
+        "fsq_id": "5bd484aae97dfb002c827a42",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5bd484aae97dfb002c827a42",
+        "location": {
+          "address": "Olaya",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Olaya, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "IDMI Coffee Roasting Co. (محمصة وقهوة ادمي)",
+        "photos": [
+          {
+            "id": "60a39927cde0554d07ad258a",
+            "created_at": "2021-05-18T10:38:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/18538697_tHHvBvsdWAPMeI6-O4QyJczoCs3G5vBsExNZ47f8O_Q.jpg",
+            "width": 1268,
+            "height": 1919
+          },
+          {
+            "id": "657c3ea581e4734950eb34ec",
+            "created_at": "2023-12-15T11:55:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/500977315_zTohzTQE1GE5ZetZSu59H5dRYfQAr7KPJuS0O9O0Z7U.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "61b66094b26f8a68e6f0e0a5",
+            "created_at": "2021-12-12T20:50:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/460382796_eOu8uuaMeQNw3BSBsCulKKMWGs1585upDSbPX8heUzo.jpg",
+            "width": 1440,
+            "height": 1736
+          },
+          {
+            "id": "6575cac64425d41c1684fe32",
+            "created_at": "2023-12-10T14:27:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/29128213_N8bk3YcNXKlhPX3Ma2uNdtA7RXHsnbIQPyj1PkH2WwI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "655b0c3587686402aaf678e4",
+            "created_at": "2023-11-20T07:35:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/511690179_gbSHrHRPsqhBNUSO3zNL1M911WJ_S9XLz6pYicw2Po0.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998885472221766,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 80163,
+          "total_ratings": 4174,
+          "total_tips": 806
+        },
+        "tel": "055 543 1422"
+      },
+      {
+        "fsq_id": "5d263155bde33b002343a220",
+        "categories": [
+          {
+            "id": 10024,
+            "name": "Movie Theater",
+            "short_name": "Movie Theater",
+            "plural_name": "Movie Theaters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d263155bde33b002343a220",
+        "location": {
+          "address": "Inside Panorama Mall Gate 3",
+          "address_extended": "Al Takhasousi Street",
+          "country": "SA",
+          "cross_street": "Al Takhasousi Street",
+          "formatted_address": "Inside Panorama Mall Gate 3 (Al Takhasousi Street), الرياض 12332",
+          "locality": "الرياض",
+          "postcode": "12332",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "AMC Cinemas",
+        "photos": [
+          {
+            "id": "61f3c1f884385d1430ba5474",
+            "created_at": "2022-01-28T10:14:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1377874087_JgIRixHeRMMQZLJ6c32RAC49U3tjDmI4_McmdfCsf1o.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "647ae8a7a49f3f6eb4f7600d",
+            "created_at": "2023-06-03T07:15:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/531550854_BpO7Mg-U1m-YrxqNRnewPaJCKTLIbp20DXqEoM38D6A.jpg",
+            "width": 1494,
+            "height": 1440
+          },
+          {
+            "id": "61c0e0bbd0c3f55f24fb6c09",
+            "created_at": "2021-12-20T19:59:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/492561530_2nA7phUi2SUrn0B2k2MKgPxA9LGbbGkiWO6k9oJgJyo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6136655bf0d09a14acbba855",
+            "created_at": "2021-09-06T19:00:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/433788848_UtTjzn16W-M-mNrXZwepZdXUq0cjv1kENzkLZsgU-G8.jpg",
+            "width": 1032,
+            "height": 1920
+          },
+          {
+            "id": "612a27eea0fd8419ffac5337",
+            "created_at": "2021-08-28T12:11:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/354155295_fg1tZZ-H-IctThqp2NutQYdnAz61NxJGp-N-XoN-gEE.jpg",
+            "width": 1032,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998191176228767,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 20492,
+          "total_ratings": 1303,
+          "total_tips": 150
+        }
+      },
+      {
+        "fsq_id": "602532d1a869d4325f34baec",
+        "categories": [
+          {
+            "id": 13036,
+            "name": "Tea Room",
+            "short_name": "Tea Room",
+            "plural_name": "Tea Rooms",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/602532d1a869d4325f34baec",
+        "location": {
+          "address": "Prince Mohammed Bin Abdulaziz (Tahlia Street)",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Prince Mohammed Bin Abdulaziz (Tahlia Street), الرياض 12313",
+          "locality": "الرياض",
+          "postcode": "12313",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "شاهي ابو وليد",
+        "photos": [
+          {
+            "id": "65a706b9eeb41862d0e4e5fb",
+            "created_at": "2024-01-16T22:44:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/590127933_oAL5G5NcVfpjipCv_TAQ3z_0tj3UadHqt_fW32xtyEI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6feffa361896c34ec2d40",
+            "created_at": "2024-01-16T22:11:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/91887347_lJEShAIhUfwFwDP7mqMTw1dAnFGIKb_6JddImXBco3Q.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6f528d42a6b596f7627dc",
+            "created_at": "2024-01-16T21:29:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/585657553_eS6p9Nr0nP9HH7SxpHwVkLocmJgvrmPGzVl5PMWmVO4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6ea70cac7b1426c5f61a3",
+            "created_at": "2024-01-16T20:43:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/494242287_oGRJM3XaQh-ZT2E2YmxKJ4uuqmuQUe5M-fPpUeKKeUU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a5df6d59aaf427010375db",
+            "created_at": "2024-01-16T01:44:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1376279763_R_nAV0ZBa9nDovwY2NL1D5zvvtbvdocO6JaNhgZS9oU.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9996857397084322,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 6394,
+          "total_ratings": 448,
+          "total_tips": 44
+        }
+      },
+      {
+        "fsq_id": "52309bf411d296a923b191df",
+        "categories": [
+          {
+            "id": 17045,
+            "name": "Jewelry Store",
+            "short_name": "Jewelry",
+            "plural_name": "Jewelry Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/jewelry_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/52309bf411d296a923b191df",
+        "location": {
+          "address": "العليا - أسواق طيبة",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "العليا - أسواق طيبة, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "المضيّان للذهب والمجوهرات",
+        "photos": [
+          {
+            "id": "6532902030a3832bd54c285b",
+            "created_at": "2023-10-20T14:35:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/590078565_JDOiB1OojpNfmaAfe9HtcZDBNBxHmcIcnTXAMdHug2c.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64fb255852a820468ef01bb6",
+            "created_at": "2023-09-08T13:44:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581465117_hcc3FPV2K-MbFI0sFUYDpqDT7fJbW2gJUOROwJ3HDLo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64a81022b23fc0466d515353",
+            "created_at": "2023-07-07T13:16:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581465117_dJkouUoM8Nsdz8DYL2b_FKL73u5-bzHKLkCh9bWfLks.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64a8101c620f3a6c7b5f4f2a",
+            "created_at": "2023-07-07T13:16:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581465117_U9PtB1ZCUybmBwfiWb1IVj32Vju7uH6o0mHE45DFPww.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6498903d7683d923f44fd591",
+            "created_at": "2023-06-25T19:06:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/482105688_KwvohS8YZqAqMD03muQG0IJjniYqwJvlKkmrXWLCMgk.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9983921566477928,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 89,
+          "total_ratings": 293,
+          "total_tips": 13
+        },
+        "tel": "011 450 1024"
+      },
+      {
+        "fsq_id": "5e57ebb39f640c0007fd64cf",
+        "categories": [
+          {
+            "id": 17045,
+            "name": "Jewelry Store",
+            "short_name": "Jewelry",
+            "plural_name": "Jewelry Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/jewelry_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e57ebb39f640c0007fd64cf",
+        "location": {
+          "address": "Al Faisaliyah",
+          "address_extended": "Olaya Street",
+          "country": "SA",
+          "cross_street": "Prince Sultan Bin Abdualziz st",
+          "formatted_address": "Al Faisaliyah (Prince Sultan Bin Abdualziz st), الرياض 12212",
+          "locality": "الرياض",
+          "postcode": "12212",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Cartier",
+        "photos": [
+          {
+            "id": "65a6567b730bcf3b42313bab",
+            "created_at": "2024-01-16T10:12:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/40909994_gmPfhNQfe8gq-3i5ahG8ZkZV_mdxp0wy37YbaUT8HII.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6492d40fc921de3ed529f",
+            "created_at": "2024-01-16T09:15:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1361463858_EPgooc-hfU1KsS3qt-FLUxWKcNl6psevYKKfomRG9CY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a58dc7379b2d2bdd4b1a4a",
+            "created_at": "2024-01-15T19:55:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/568475160_ZS_lP0hoNR6tdbl1gs_IdZPkm6gb28VXnJp9NwfMG2I.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a58dc688c5ed7036c84477",
+            "created_at": "2024-01-15T19:55:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/568475160_NTQ0mf1VSGGlel6GSR2WYMln01s3i77W-OuNa8BsBto.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a4f2f33e7229120e913be3",
+            "created_at": "2024-01-15T08:55:15.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1361463858_AYNnMWqLJ322cqcLzR5kbUt_lPsBz-ZOT3cNT-yNn6w.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9960406857451897,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 3234,
+          "total_ratings": 163,
+          "total_tips": 14
+        },
+        "tel": "011 273 0907"
+      },
+      {
+        "fsq_id": "63f121228c3298606329b34f",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/63f121228c3298606329b34f",
+        "location": {
+          "address": "King Fahad (Prince Nayef Bin Abdulaziz)",
+          "address_extended": "ة",
+          "country": "SA",
+          "cross_street": "-ة",
+          "formatted_address": "King Fahad (Prince Nayef Bin Abdulaziz) (-ة), الرياض 12273",
+          "locality": "الرياض",
+          "postcode": "12273",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "FAHRAS (فهرس)",
+        "photos": [
+          {
+            "id": "65870b56cfc30b126e88cbad",
+            "created_at": "2023-12-23T16:31:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/84425212_rPfH2hTdpnQGUmccMjkfItU65xZExnhixYW4HDOmBHU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65833d4a5205ed08c5555638",
+            "created_at": "2023-12-20T19:15:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/436815832_B1qvpxkAEm_FejU73WbluZNOU_6hbqUq5bk_GCxL4zM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "650803c3b55b2353283ecbea",
+            "created_at": "2023-09-18T08:01:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/457069724_MZAtrqWs8Yrbxn6dRw0emfXzQTI5eI6adSsD6R_HBGs.jpg",
+            "width": 1439,
+            "height": 1919
+          },
+          {
+            "id": "6486efad6fed606990f3b39d",
+            "created_at": "2023-06-12T10:13:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1360812895_NzHUvT3wfZySH2CdwqtHY6CVJ98vYrr8dmh8oo26kFg.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65738c2346e03c095e85f16e",
+            "created_at": "2023-12-08T21:35:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/63350402_qHy-4k3rVu9PbWB9nruRna7NakRbLRlLwyq6KEfw7VM.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9963841795522521,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 2951,
+          "total_ratings": 238,
+          "total_tips": 19
+        }
+      },
+      {
+        "fsq_id": "50d6aa6fe4b091e30dd35010",
+        "categories": [
+          {
+            "id": 12080,
+            "name": "Library",
+            "short_name": "Library",
+            "plural_name": "Libraries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/50d6aa6fe4b091e30dd35010",
+        "location": {
+          "address": "King Fahd Rd",
+          "address_extended": "Street 26 طريق الملك فهد الفرعي",
+          "country": "SA",
+          "cross_street": "Street 26 طريق الملك فهد الفرعي",
+          "formatted_address": "King Fahd Rd (Street 26 طريق الملك فهد الفرعي), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "King Fahad National Library (مكتبة الملك فهد الوطنية)",
+        "photos": [
+          {
+            "id": "65a69b1440fc921de3e82394",
+            "created_at": "2024-01-16T15:04:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403890351_zAkLBaWLdOH--iAUszCshoS80u5--9xE8YTu9bgaDpE.jpg",
+            "width": 1439,
+            "height": 1920
+          },
+          {
+            "id": "65a63fea5ccdd97ff6788556",
+            "created_at": "2024-01-16T08:35:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/547893774_bzOt1X8j39d7zrz6S4w4PlJYmfXR8fOT9qRO48VC64c.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a544a261831836398d34bb",
+            "created_at": "2024-01-15T14:43:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/499178079_3SGNybMCAi5-yb_d9lL2nVUJ1QaesrYlNtGKA3ak-v0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a17568fe77ef341a0fc658",
+            "created_at": "2024-01-12T17:22:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/18924664_oARNbPJIOsKrMZtsqVrl0rgGl8wKaYH8RiyluM22r6A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a01abd38b4213d177c59a0",
+            "created_at": "2024-01-11T16:43:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557828297_V_3qRxa8h--SIydRpyGRRl28IrFlV49gy_Z28uZao48.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.995591220444459,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 4016,
+          "total_ratings": 769,
+          "total_tips": 110
+        },
+        "tel": "011 418 6111"
+      },
+      {
+        "fsq_id": "596c92b393bd637ca7e4e55a",
+        "categories": [
+          {
+            "id": 16041,
+            "name": "Plaza",
+            "short_name": "Plaza",
+            "plural_name": "Plazas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/596c92b393bd637ca7e4e55a",
+        "location": {
+          "address": "Takhassusi Rd",
+          "address_extended": "Al Takhasousi St",
+          "country": "SA",
+          "cross_street": "Al Takhasousi St",
+          "formatted_address": "Takhassusi Rd (Al Takhasousi St), الرياض 12364",
+          "locality": "الرياض",
+          "postcode": "12364",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "The Zone (ذا زون)",
+        "photos": [
+          {
+            "id": "5defa55ce204430008d5ec00",
+            "created_at": "2019-12-10T14:02:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532683362_ZYcBtFqzUgwT3z4clrtoDn764YyjGR23nhg3fDWnR3A.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5ef6395bda0c0400088345eb",
+            "created_at": "2020-06-26T18:07:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/462180053_yAuSsjonr7z_X2NaspqEMLDKeJyL9FWBL-hvlUdQS80.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5ef225207364090008c2ea6c",
+            "created_at": "2020-06-23T15:52:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523942991_qI3hBRXaZbvYf43KXMyEyg2T77jv7HxrAldbDzmqUEw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "5defb351b519ae0008777479",
+            "created_at": "2019-12-10T15:01:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/526910744_52_wJ7S2GVX_yDP6a6I_0vQlVo8FoNgMRK6NIPkm-cM.jpg",
+            "width": 1440,
+            "height": 1755
+          },
+          {
+            "id": "5df21398db204c000796f596",
+            "created_at": "2019-12-12T10:16:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/529475459_kuJtwTiFDJ4ngQx9j82WJBgIGhoKZ5tnzToSZKfVufM.jpg",
+            "width": 1440,
+            "height": 1920,
+            "classifications": [
+              "food"
+            ]
+          }
+        ],
+        "popularity": 0.9997917112021004,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 48143,
+          "total_ratings": 5223,
+          "total_tips": 437
+        }
+      },
+      {
+        "fsq_id": "61519549766bf401295d925e",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/61519549766bf401295d925e",
+        "location": {
+          "address": "Takhassusi St, حي المحمدية، Riyadh، Almugharzar",
+          "country": "SA",
+          "cross_street": "Takhassusi St",
+          "formatted_address": "Takhassusi St, حي المحمدية، Riyadh، Almugharzar (Takhassusi St), الرياض 12363",
+          "locality": "الرياض",
+          "postcode": "12363",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Out Of Line",
+        "photos": [
+          {
+            "id": "64534abaa386ab60a3d97575",
+            "created_at": "2023-05-04T06:03:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/504364157_lfFZFXfJVk85LTB-byiBxB6Pjw2KQhwg2rIUQ9Qauzw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6224e2f5f6562540c79fb51d",
+            "created_at": "2022-03-06T16:36:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/528647352_W-p_zO_CV5qXxMnxRdu0a2Koyso2XUqx-io1uWD0E48.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64260f9ea044344b67e81eab",
+            "created_at": "2023-03-30T22:39:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1394806837_FWtAYaTXW29YiL3C1_qintLqQs5DXRjUkmsXwr8MDrg.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "62efa101c5570369d0903aba",
+            "created_at": "2022-08-07T11:24:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/488090552_wBgMqc0WNLeqrngIYO7Mkaxvw5bxllZsb8q1Fp9Mxaw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "622c474aae446e27cb3307c7",
+            "created_at": "2022-03-12T07:10:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/520816710_2O9nVkzWVqy1CCpa8AEcaAkJa1K-ybWtkLg1p90VSTU.jpg",
+            "width": 1031,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998319072859057,
+        "rating": 9.7,
+        "stats": {
+          "total_photos": 32308,
+          "total_ratings": 9858,
+          "total_tips": 1072
+        }
+      },
+      {
+        "fsq_id": "5e79e7e05f382a000820d429",
+        "categories": [
+          {
+            "id": 13046,
+            "name": "Ice Cream Parlor",
+            "short_name": "Ice Cream",
+            "plural_name": "Ice Cream Parlors",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "short_name": "Restaurant",
+            "plural_name": "Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e79e7e05f382a000820d429",
+        "location": {
+          "address": "Takhassusi St",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Takhassusi St, الرياض 12363",
+          "locality": "الرياض",
+          "postcode": "12363",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Ice Cream 36 & Coffee",
+        "photos": [
+          {
+            "id": "65a1d9af406ae30bcedb7c81",
+            "created_at": "2024-01-13T00:30:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/591095801_2EexwvCrSSy3jvhxKQvW4ZeLsfTwz4rIJX9bos56iwA.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a03aa92714cd2bbaf666a1",
+            "created_at": "2024-01-11T18:59:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/31020453_PsxHBX_azv9Xodr_CilYw4syghvQ1A7I-iv18JPOR94.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659c4473f8cf9f4669d5355c",
+            "created_at": "2024-01-08T18:52:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401800392_rXs8VpHoHHUjgSVazcH6M5Qn0R3XuILygEIaMZh6Ow0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65986eeeb7870d3f5f6557de",
+            "created_at": "2024-01-05T21:04:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/536808913_44v9aOIK7P52Jh37tzzedlqk5WHK19sx3ZXoUFXQ-Fw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659484c5950b0c2be421874c",
+            "created_at": "2024-01-02T21:48:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406009575_Clz-in7HOJ_JIEO6TaY8lZ_n9WK0JWn16Hdz9srjnhk.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9978294114745202,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 3915,
+          "total_ratings": 887,
+          "total_tips": 190
+        },
+        "tel": "050 582 9829"
+      },
+      {
+        "fsq_id": "61079f0db29040498cad22bb",
+        "categories": [
+          {
+            "id": 13332,
+            "name": "Salad Restaurant",
+            "short_name": "Salad",
+            "plural_name": "Salad Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/61079f0db29040498cad22bb",
+        "location": {
+          "address": "Imam Saud Bin Abdulaziz",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Imam Saud Bin Abdulaziz, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Plenty Sld’s (بلينتي سلدز)",
+        "photos": [
+          {
+            "id": "614787439a4ebd6cc08eba5a",
+            "created_at": "2021-09-19T18:53:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/506835046_jchS7zyyBWTv7Q_2J4D-Xzm7By8upKvzQITWpyGw5go.jpg",
+            "width": 1440,
+            "height": 1655
+          },
+          {
+            "id": "61e414d92733de343eb5374f",
+            "created_at": "2022-01-16T12:51:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566835639_SlSJGN72Sy4899Tmvr-8a0tzSs7VuAeZCkwIqVGLIhc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61315d12eb34ba4d234247e3",
+            "created_at": "2021-09-02T23:24:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/137905630_X_gNAxzCFiw3fPFR1iuJfo4vi78C2t0o0iZze7iIoxM.jpg",
+            "width": 1102,
+            "height": 1920
+          },
+          {
+            "id": "635d5ea0f73e7b20753b6f47",
+            "created_at": "2022-10-29T17:10:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/531023720_xKi3aP7WNaphGdSytS_X5tFv_megq7idKyQrE4iRuPw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63014340d70b090150d40943",
+            "created_at": "2022-08-20T20:25:36.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/457127360_Ty0dRM6fPz8Dp7OFRQVRf-xLSvwEjXTlZaCZQgz9Vns.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9995943849725114,
+        "rating": 9.6,
+        "stats": {
+          "total_photos": 5669,
+          "total_ratings": 1264,
+          "total_tips": 203
+        },
+        "tel": "053 001 4486"
+      },
+      {
+        "fsq_id": "645c1d42693e945ed7a8a9e4",
+        "categories": [
+          {
+            "id": 13002,
+            "name": "Bakery",
+            "short_name": "Bakery",
+            "plural_name": "Bakeries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "Home of specialty Bakery",
+        "link": "/v3/places/645c1d42693e945ed7a8a9e4",
+        "location": {
+          "address": "Prince Turki Alawal Rd",
+          "address_extended": "Makkah Almukarama Road",
+          "country": "SA",
+          "cross_street": "Makkah Almukarama Road",
+          "formatted_address": "Prince Turki Alawal Rd (Makkah Almukarama Road), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Easy Bakery (ايزي بيكري)",
+        "photos": [
+          {
+            "id": "65a655166938d47cd82d7d92",
+            "created_at": "2024-01-16T10:06:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1402969834_DGaQxcNOLRX3MHdG8M6CWwuPiXdU6WLK9c98yiJOUic.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a64df0379b2d2bdd6b8a8e",
+            "created_at": "2024-01-16T09:35:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374453408_XHzA0z4pSP_wMFoJoEG9eec0k4AJPoEX7QB7f_97zYE.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a64c5f5bd9a67190b35969",
+            "created_at": "2024-01-16T09:29:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/539825773_mmmH03Wf7qDtNEYST5fViNihrnFRBYiWw53pra2Bn1c.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a63d16192da159b703d00b",
+            "created_at": "2024-01-16T08:23:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1375826957_8fbaKJoW1Pjp7EkbJ9jJLyfES1ixyAJKTzlDNQM2rw8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a62f6682d025527898cf92",
+            "created_at": "2024-01-16T07:25:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/600659041_VxFzQZvlN5jzlsRmaDEINInPTJ7iQlXt27Nhr1XU_b4.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9992271389341095,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 3407,
+          "total_ratings": 308,
+          "total_tips": 29
+        }
+      },
+      {
+        "fsq_id": "5e640a2684328a000895da0a",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e640a2684328a000895da0a",
+        "location": {
+          "address": "King Saud Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "King Saud Rd, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "COYARD Coffee Roasters",
+        "photos": [
+          {
+            "id": "619cc80652dcb37fe9c72cf0",
+            "created_at": "2021-11-23T10:52:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/547509110_RWnAz95HQaNsM4IjUL5tLNA5J374mqmA-uFA5iyzZqs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "62e02745111e3f48dcdd9d44",
+            "created_at": "2022-07-26T17:41:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/464696644_GAll8EORw8ycY5ECOya5obZsMl19kQy0Dhs-oJuMRgs.jpg",
+            "width": 1048,
+            "height": 1920
+          },
+          {
+            "id": "613053a734ba5b106f831919",
+            "created_at": "2021-09-02T04:31:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/374013888_929NBIZsQzIUcuEK0UGJP19g9ZJoLeVjBdTfftQeZcA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "612f822a60851217f468b97e",
+            "created_at": "2021-09-01T13:37:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1375066311_laznC2yWW4cPLuyUovXEkEQSlkAqXeh5rFzFeLVwfms.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "639063d04ea27a26cda8f663",
+            "created_at": "2022-12-07T09:58:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532971441_7v3MIon-x2RMKZ1ACbr2gUXFb-rxvOPuOQDMiLb3yMI.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9999360516848554,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 30002,
+          "total_ratings": 1949,
+          "total_tips": 251
+        }
+      },
+      {
+        "fsq_id": "617a44db19a2c2463ca2d19f",
+        "categories": [
+          {
+            "id": 13028,
+            "name": "Breakfast Spot",
+            "short_name": "Breakfast",
+            "plural_name": "Breakfast Spots",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/617a44db19a2c2463ca2d19f",
+        "location": {
+          "address": "King Abdualziz Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "King Abdualziz Rd, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "دوار السعادة",
+        "photos": [
+          {
+            "id": "659cee2f099d4c6d1d0dcb60",
+            "created_at": "2024-01-09T06:56:47.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1388292590_SzK663njkkr-XIxExnGMjB_hg5jRG1CVo_95sQ1tUtA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659cd7bcbda20437355bef88",
+            "created_at": "2024-01-09T05:21:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/533657398_gR6Hrdo0mvrWfe3M-y6RYeOpfYx7oUaQbqtipnwrEW4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659cd7ba3c65d37b81513c12",
+            "created_at": "2024-01-09T05:20:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/533657398_8HKvFfpV8eIT5JXivbJf4VNCsHreK1vJMfXoMh9mzq8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659b8bd42a4d611fe0ceeb20",
+            "created_at": "2024-01-08T05:44:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1374511882_WTQ5ga4srb-Y-Fs9vh2Lcrg3xZzg_MpCGdVoPkwBUAU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658f87426420637686629dbf",
+            "created_at": "2023-12-30T02:58:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/515609439_5YipL_-pOZ7b_xLspQPD7P5aJjee_pgUKCELaDv_n34.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9959657748617347,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 502,
+          "total_ratings": 104,
+          "total_tips": 15
+        }
+      },
+      {
+        "fsq_id": "63a91af7f09eb614faeebdd4",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "short_name": "Café",
+            "plural_name": "Cafés",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/63a91af7f09eb614faeebdd4",
+        "location": {
+          "address": "King Abdullah Rd",
+          "address_extended": "Ibn Albahri St",
+          "country": "SA",
+          "cross_street": "Ibn Albahri St",
+          "formatted_address": "King Abdullah Rd (Ibn Albahri St), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Knoll Coffee Roasters (محمصة و مقهى نول)",
+        "photos": [
+          {
+            "id": "63e559bf230cd64803ddd2bf",
+            "created_at": "2023-02-09T20:38:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569089010_0PS9XtPtqQ0oQYG9Kvzpeb18qYXP0nMMm_jIv_4mdLQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "63e55a26fc93cc68e8deb1ee",
+            "created_at": "2023-02-09T20:40:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569089010_4k2Jvm8XNYa-4ruQbjVInU5Ji9dAi2XqnfWoH65mVzk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6c954a361896c344fe70e",
+            "created_at": "2024-01-16T18:22:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/504711792_YIW8Jd_YKcCUUMGFbGPx4j4NVirz-BfDbVQwWu1mKSo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6ac7182d02552781f8cca",
+            "created_at": "2024-01-16T16:18:57.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/429044087_IHN49xkquj4VnQAtt44A4yDINrK4pi-7deTnecGThgw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a6ac70eeb41862d0d4ed4e",
+            "created_at": "2024-01-16T16:18:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/429044087_RQdEiZVlZL_rG3dVDQBMfT6_Vyn70829yH8dAwTZbXc.jpg",
+            "width": 1440,
+            "height": 1919
+          }
+        ],
+        "popularity": 0.9995213011837747,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 6633,
+          "total_ratings": 514,
+          "total_tips": 34
+        }
+      },
+      {
+        "fsq_id": "6238a307813e5968f222ac1d",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6238a307813e5968f222ac1d",
+        "location": {
+          "address": "شارع الامام محمد بن سعود",
+          "country": "SA",
+          "cross_street": "طريق الإمام سعود بن عبدالعزيز بن محمد",
+          "formatted_address": "شارع الامام محمد بن سعود (طريق الإمام سعود بن عبدالعزيز بن محمد), الرياض 12464",
+          "locality": "الرياض",
+          "postcode": "12464",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Sohba Coffee (صُحبة)",
+        "photos": [
+          {
+            "id": "6398cc8079ca03419de12fc4",
+            "created_at": "2022-12-13T19:03:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569554779_xrGG3dbNPf1UaJ0JPs97rcOeLiocOaIiLPrUfpTnLBk.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "63ac2522323cda63c522456a",
+            "created_at": "2022-12-28T11:14:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1395124345_9dhWxgdZT4BzLGTqHLUo8bRqNtse3rFFYuz_3ywdi2I.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63aa80d3b7b2fa1e638694c8",
+            "created_at": "2022-12-27T05:21:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/483912641_M3OmeSxSEG7omAxJ5EQ8ky81W2oPFVLZa90Lq-DMgGI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63a9f2ac099c9a2d1d18c6f4",
+            "created_at": "2022-12-26T19:14:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1364527150_JpPzetPljXbhuTOiCtI4ecIW_gOVILuBWXYphe_8gLw.jpg",
+            "width": 1200,
+            "height": 1920
+          },
+          {
+            "id": "62e3eac8b46d3a3e8acb9b7c",
+            "created_at": "2022-07-29T14:12:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/135604068_cxskCxBlRYgQMkEX_Kavsmv0uRWWFLEG2yE4tn9yoaw.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9996144830144139,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 15937,
+          "total_ratings": 1083,
+          "total_tips": 150
+        }
+      },
+      {
+        "fsq_id": "60915635a4c02610be71de17",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/60915635a4c02610be71de17",
+        "location": {
+          "address": "King Abdulaziz Rd",
+          "address_extended": "Almasiaf",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "King Abdulaziz Rd, الرياض 12243",
+          "locality": "الرياض",
+          "postcode": "12243",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Half Million",
+        "photos": [
+          {
+            "id": "65a61ab159aaf42701b40222",
+            "created_at": "2024-01-16T05:57:05.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/563856273_vxsuKViqscOS-xmZwJpDbVnwG9xAF694EpLoK8JfNVs.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a3da050973c37952802f2f",
+            "created_at": "2024-01-14T12:56:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/535447698_vZi6v4uLw82G8kvdFh6cPykob04o5niZZiMaZ0LMPPg.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a1e26e0ddbb46796d28926",
+            "created_at": "2024-01-13T01:07:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/539588412_EroXCv_geBICei4C6LiOrSN-oz5-jOTeoJNx-_KRC0s.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659e4320ab71c137fe282b25",
+            "created_at": "2024-01-10T07:11:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/164371933_yoyfTzAJncRJVDIdB017klCQl10ITjscEgALCTtRSAg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659dc1ee7b333854cee3e0a4",
+            "created_at": "2024-01-09T22:00:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1377637479_T9opizfJBPhKt4RkiiBboJ8VIsw_ACgL7V1jxV_wrOE.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9988635470851445,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 559,
+          "total_ratings": 77,
+          "total_tips": 9
+        }
+      },
+      {
+        "fsq_id": "5dd29e43ed8bfb00083f73d3",
+        "categories": [
+          {
+            "id": 17117,
+            "name": "Sporting Goods Retail",
+            "short_name": "Sporting Goods Retail",
+            "plural_name": "Sporting Goods Retail",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5dd29e43ed8bfb00083f73d3",
+        "location": {
+          "address": "Prince Turki Ibn Abdulaziz Al Awwal Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Prince Turki Ibn Abdulaziz Al Awwal Rd, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Al Hilal Store (متجر الهلال)",
+        "photos": [
+          {
+            "id": "65a19537af400172ea936f10",
+            "created_at": "2024-01-12T19:38:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/504937470_-GlDIhSXJma0aRUK7om0quxb6QE1fiYCsuj0YA78YWk.jpg",
+            "width": 1080,
+            "height": 1434
+          },
+          {
+            "id": "659fe46cbf2ca404bbedbaf8",
+            "created_at": "2024-01-11T12:51:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/490726601_vG8rgdluXFruxLwfXJCTu1Z87hE7wQANXcokkm3Vss0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ae513a5347c0a3a7e7f7b",
+            "created_at": "2024-01-07T17:53:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359630672_0-cLAt3X74mFATvD_w1cgOZyCsUnC__BjAoqTDbBdtg.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659ae511e8440451c9f96c9d",
+            "created_at": "2024-01-07T17:53:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1359630672_P2Tf7547mA3wn23T193tOZUX36ST8brfWU0d_tim_gw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659a53e170e0dc308f568f20",
+            "created_at": "2024-01-07T07:33:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/556452554_jN5fvX5ePc7DlGgvUVCKd-tQfY5WHc_-sGnlAhAIxyw.jpg",
+            "width": 1078,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9937878779573812,
+        "rating": 9.6,
+        "stats": {
+          "total_photos": 2449,
+          "total_ratings": 230,
+          "total_tips": 18
+        }
+      },
+      {
+        "fsq_id": "5cf1e645d552c7002ce3d324",
+        "categories": [
+          {
+            "id": 17060,
+            "name": "Candy Store",
+            "short_name": "Candy Store",
+            "plural_name": "Candy Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5cf1e645d552c7002ce3d324",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 12284",
+          "locality": "الرياض",
+          "postcode": "12284",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "جناين الخير للسكاكر المستوردة",
+        "photos": [
+          {
+            "id": "655d1454f164873283db4d6b",
+            "created_at": "2023-11-21T20:34:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/60190072_w6lXhW5VA-xd1IDnkk9zPRpcs4-HnnJCOM6vnHwp3dE.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65414d4f9a66a567b4e4beb8",
+            "created_at": "2023-10-31T18:54:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/369861559_huOb6TmKys4KCHFJ3lRU9YSK1qxCb3GundXCkioC6xo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64c3d01dab169e5a7c1d7718",
+            "created_at": "2023-07-28T14:26:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/41157560_lf-qzZxAzV0wi3mC4dlqiRLjm-YYjg3bBuKlFn0z-MA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "649ecd213026b22241e2378b",
+            "created_at": "2023-06-30T12:40:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/495825756_FMabGAuwcmZFzPRcEH2Wli7qNe8pHkg1xa1II5KXu2Q.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "648ddf7ff999c26dd39e1081",
+            "created_at": "2023-06-17T16:29:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/41157560_7NBdtXdfLsLz_3lXV29TcpmLIOPatdKFpz9VvzbvgrY.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.986015417025234,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 106,
+          "total_ratings": 39,
+          "total_tips": 4
+        }
+      },
+      {
+        "fsq_id": "6264ac63db044569c5d37a94",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 17063,
+            "name": "Coffee Roaster",
+            "short_name": "Coffee Roaster",
+            "plural_name": "Coffee Roasters",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6264ac63db044569c5d37a94",
+        "location": {
+          "address": "الملك عبدالعزيز",
+          "country": "SA",
+          "cross_street": "صلاح الدين الايوبي",
+          "formatted_address": "الملك عبدالعزيز (صلاح الدين الايوبي), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "IDMI Coffee Roasting Co. (محمصة وقهوة ادمي)",
+        "photos": [
+          {
+            "id": "65a6ec59cfc16b32c2c26cd6",
+            "created_at": "2024-01-16T20:51:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/522977118_3Q4MuoDHOZX_FOepnJBSQ14r8LWTqYYxITj3X2Z8qYY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6d738e125e50d24f86a83",
+            "created_at": "2024-01-16T19:21:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406187369_bRJsryJAKa4NAvpweNt4yqpGlON9UyUV81O032iQo_E.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6d73730cc65411490a14e",
+            "created_at": "2024-01-16T19:21:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406187369_U-awUY9thQ1huoGxvPzrp37dMGGkeSuYVIa-VhZ7auw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6d6f8d263305935fb91cd",
+            "created_at": "2024-01-16T19:20:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/447761522_Mw4wHkzipBAy-tvJQl2wrSCUQ0ZfUo2cDxl2f1SKcIM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a6afbf6938d47cd844ecc3",
+            "created_at": "2024-01-16T16:33:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532016998_L7Ks1EbsPRmWt3KBX8tuEgOUwLhThLih2xiuUQ5Wi_Y.jpg",
+            "width": 1065,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9986826647080211,
+        "rating": 9.6,
+        "stats": {
+          "total_photos": 5877,
+          "total_ratings": 297,
+          "total_tips": 38
+        },
+        "tel": "055 543 1422"
+      },
+      {
+        "fsq_id": "5e4ed51dd7810e00084ad412",
+        "categories": [
+          {
+            "id": 17043,
+            "name": "Clothing Store",
+            "short_name": "Apparel",
+            "plural_name": "Clothing Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e4ed51dd7810e00084ad412",
+        "location": {
+          "address": "Prince Turki The First St",
+          "country": "SA",
+          "cross_street": "Imam Road",
+          "formatted_address": "Prince Turki The First St (Imam Road), الرياض 12373",
+          "locality": "الرياض",
+          "postcode": "12373",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Zara",
+        "photos": [
+          {
+            "id": "65a5732a01644734977cd0eb",
+            "created_at": "2024-01-15T18:02:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1393315937_eZ_BqJi_CiqEWZ9TKKSqz_Sc1OddWxYZO2-Sq5ujrSk.jpg",
+            "width": 1168,
+            "height": 1920
+          },
+          {
+            "id": "65959fe7c19ebc58643eac13",
+            "created_at": "2024-01-03T17:56:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/555204923_48eb8IYDV6J-N0Joir-GGhhPGRA670saR1__ZYj_PmA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65959fe59a9a1b092f54739c",
+            "created_at": "2024-01-03T17:56:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/555204923_8s98J_hMYjFpCPxYxserKEMCRNucdcAEWqyIrebABPs.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65620884a51fe72b1513f608",
+            "created_at": "2023-11-25T14:45:24.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524656126_uy2zWq89bzkeJzaCj6HTLEXjzCm9Y77l0AX_igUhnzo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "655ce98f6b94d612c8f6e354",
+            "created_at": "2023-11-21T17:31:59.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1400801032_5HFBk7EqxMPYXJvztje9n29e_rHZ8oIoK6dBBScnKrI.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9982825309646878,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 555,
+          "total_ratings": 168,
+          "total_tips": 18
+        }
+      },
+      {
+        "fsq_id": "5fca47490d6d9d74b579c8fa",
+        "categories": [
+          {
+            "id": 10004,
+            "name": "Art Gallery",
+            "short_name": "Art Gallery",
+            "plural_name": "Art Galleries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5fca47490d6d9d74b579c8fa",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 12731",
+          "locality": "الرياض",
+          "postcode": "12731",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Masaha Misk Art Institute (قاعة مساحة معهد مسك للفنون)",
+        "photos": [
+          {
+            "id": "65a036c5bd5aa02356cc6f10",
+            "created_at": "2024-01-11T18:43:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566489985__vn5mOiNP1h5mkwWK1vLa2OrRtyTouzYqeK0rKxNSHE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a036c438b4213d17d2fbed",
+            "created_at": "2024-01-11T18:43:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566489985__5Plra4ZMbRctWdW3WaRV7wBet_dwh5cnN-qXdNklQM.jpg",
+            "width": 1440,
+            "height": 1575
+          },
+          {
+            "id": "65a036c12714cd2bbaeb483e",
+            "created_at": "2024-01-11T18:43:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566489985_vWR0G7acoR_1WQ-A83XQxvPOd24a4m87ZC3TQSrhb0s.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "659ef6dc0f51960e94b70734",
+            "created_at": "2024-01-10T19:58:20.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405896844_wdPItG1cFU_fco-PBGuRyMrGlmcBHx8--h75FsgpsOE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6599b41ee6162e563b56483e",
+            "created_at": "2024-01-06T20:12:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1396324474_TWhrrMXhmyyNW2eqWt4JWiaYtrX9H94VmiL-KGZkrtU.jpg",
+            "width": 1440,
+            "height": 1440
+          }
+        ],
+        "popularity": 0.9951600260909126,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 3979,
+          "total_ratings": 147,
+          "total_tips": 13
+        }
+      },
+      {
+        "fsq_id": "5b1d981679f6c700396d7731",
+        "categories": [
+          {
+            "id": 13045,
+            "name": "Gelato Shop",
+            "short_name": "Gelato",
+            "plural_name": "Gelato Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5b1d981679f6c700396d7731",
+        "location": {
+          "address": "Al-Maseef",
+          "country": "SA",
+          "cross_street": "Abi Bakr Al Siddiq Rd",
+          "formatted_address": "Al-Maseef (Abi Bakr Al Siddiq Rd), الرياض 12466",
+          "locality": "الرياض",
+          "postcode": "12466",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Etna - Artisan Gelato (إتنا - أرتيزان جيلاتو)",
+        "photos": [
+          {
+            "id": "5d1bcf1a67226600301b33ee",
+            "created_at": "2019-07-02T21:39:38.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1834674_0WJlUsmGfTohrdh2PvGPhqjftcxImwTOZOU8KgR49LY.jpg",
+            "width": 1440,
+            "height": 1920,
+            "classifications": [
+              "food"
+            ]
+          },
+          {
+            "id": "6287f61372aa1510e2548be9",
+            "created_at": "2022-05-20T20:12:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1386204209_0s0TYtgfMj7teQTQfYlmInpg6r32GoGr5ouYdvVqM4I.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "626d82398c4ed805a34b46da",
+            "created_at": "2022-04-30T18:38:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/446165402_kcWn3O1jVw0NirZumA33bVo7_rLXxNiEG5oO4RS4uLA.jpg",
+            "width": 1440,
+            "height": 1808
+          },
+          {
+            "id": "610b1bfc0d81594d15f6f888",
+            "created_at": "2021-08-04T23:00:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/473587639_ghDVnxFbIqMR0uZnV-MGkxVCCAU4DYKL9UcJYAZBNxI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "610bc9e8ee42e61d983bd475",
+            "created_at": "2021-08-05T11:22:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/522067763_f7jkMCzDzWnVT5BQIJ5_H1qsruDxO4L8xWgJH93ZKBo.jpg",
+            "width": 1037,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9946557479486294,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 3054,
+          "total_ratings": 1304,
+          "total_tips": 374
+        },
+        "tel": "055 366 7753"
+      },
+      {
+        "fsq_id": "6234a202b16a4606d097affa",
+        "categories": [
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "short_name": "Restaurant",
+            "plural_name": "Restaurants",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6234a202b16a4606d097affa",
+        "location": {
+          "address": "Othman Bin Affan Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Othman Bin Affan Rd, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Red Box",
+        "photos": [
+          {
+            "id": "65a5501ca915475ca6da1b09",
+            "created_at": "2024-01-15T15:32:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/427421410_qajVJPEjMN3tXYTslgf6VYI2HRrLTnOCMB2YUPXgHo8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659e9d5af9c64c4bbf3811ba",
+            "created_at": "2024-01-10T13:36:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/96103896_Ik3WRzqt01-W6eRc1i8V7tZNIavXty5hjk9xGU71eac.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659c470b1d19bc0568733200",
+            "created_at": "2024-01-08T19:03:39.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405133881_XLPo-3iPYGPcNN3Yr8ISa4oRkTwXnRaIOJEpZpEgx2Y.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6595c4126923117177c668bd",
+            "created_at": "2024-01-03T20:31:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557557134_3zMT1r2HdkLu8q6NETf0d7uQGBWqgrS1MpxOw8E-jD0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6592ea629fcc467cbad1803e",
+            "created_at": "2024-01-01T16:37:54.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/401150733_pDzKQIkZRjoLAiqaMYxlysc9ZCgLZw9kNc5lUDWc5c4.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9977252670755704,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 452,
+          "total_ratings": 86,
+          "total_tips": 6
+        }
+      },
+      {
+        "fsq_id": "53354ee1498e5a330d38c6e7",
+        "categories": [
+          {
+            "id": 16032,
+            "name": "Park",
+            "short_name": "Park",
+            "plural_name": "Parks",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/53354ee1498e5a330d38c6e7",
+        "location": {
+          "address": "Diplomatic Quarters",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Diplomatic Quarters, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Hajr Garden",
+        "photos": [
+          {
+            "id": "65a405fe1498160bde622052",
+            "created_at": "2024-01-14T16:04:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/575970016_3MIJByei_k8z64_L1WLKReujIo8DvZ5YpL7u3aWaau4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a405fed06c807495e41bf1",
+            "created_at": "2024-01-14T16:04:14.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/575970016_YlfUCaLKsWT1NHCovw2xY_4FeDvwMWF3pl_BC5jYmbQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659eca8dfe6217479247066d",
+            "created_at": "2024-01-10T16:49:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1402147286_ts5IzfW4E96wIgtPCoPYpuRGPtI9pNUnx1thaeYmkPc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659aa8feb977a2325c2e863d",
+            "created_at": "2024-01-07T13:37:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/571154993_jCZB6jnlPcv8_ZqoP3DNgi_bF8uvMgPbp9ld5zOuSZ8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6595d13aab5d4c6910f752d4",
+            "created_at": "2024-01-03T21:27:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/566619298_U-SF9Db_0LAR4fCJhsa2T0LMMg2_fhO9KYJKNXTYbyc.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9935686265911711,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 2057,
+          "total_ratings": 254,
+          "total_tips": 17
+        }
+      },
+      {
+        "fsq_id": "6344428e8989a415b878474d",
+        "categories": [
+          {
+            "id": 13059,
+            "name": "Juice Bar",
+            "short_name": "Juice Bar",
+            "plural_name": "Juice Bars",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/6344428e8989a415b878474d",
+        "location": {
+          "address": "KAFD",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "KAFD, الرياض 13519",
+          "locality": "الرياض",
+          "postcode": "13519",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "JOE & THE JUICE",
+        "photos": [
+          {
+            "id": "657ac74f127e4b30b8f6fe79",
+            "created_at": "2023-12-14T09:13:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401889203_Hw9cgYdNZXyQpIwQuXcAXbyN2cNI7o388Bgi2WWVmjE.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6534d43eddefe5061b4817ba",
+            "created_at": "2023-10-22T07:50:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/590107000_A1vTrkx0RF7JWQSLzDaYBdEUqdrKsRp9ltS1vodxQtc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "654f90f377f8746945c5f464",
+            "created_at": "2023-11-11T14:34:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/460069939_X-0XwLlV07LiygD0wQlFffBfs15-x6yaKzKMHP5U0WI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "652e48ef1b19c22fbb7cc1b2",
+            "created_at": "2023-10-17T08:42:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/400610745_RittZ--tILMG3ogNNDXjfiQEtgGIkwBeHwucaefKxKc.jpg",
+            "width": 1440,
+            "height": 1525
+          },
+          {
+            "id": "65a6e7b95d256e4eb20d2cf6",
+            "created_at": "2024-01-16T20:31:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/590028728_hhSdqibQcEJV5TAW5hmTF3Jr9dMatGsCj0oNy7xU8Mc.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9995596701728614,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 1205,
+          "total_ratings": 79,
+          "total_tips": 7
+        }
+      },
+      {
+        "fsq_id": "5fe627ccec39e873a595ba80",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5fe627ccec39e873a595ba80",
+        "location": {
+          "address": "Abi Bakr As Siddiq Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Abi Bakr As Siddiq Rd, الرياض 12475",
+          "locality": "الرياض",
+          "postcode": "12475",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Mothhelah Store (متجر مذهلة)",
+        "photos": [
+          {
+            "id": "65a6845130cc6541148c967f",
+            "created_at": "2024-01-16T13:27:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/596673508_zPhuJalBeqvBsXTPDST69Hpvogp4x7gGPHo1OD4iaGI.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a68450a0a1a3430502fa5b",
+            "created_at": "2024-01-16T13:27:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/596673508_IvA-f4D0AlF_cOZ4XfoMxo3pz_ffIB5H1HQGXm3SQZM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a411dad06c80749507e992",
+            "created_at": "2024-01-14T16:54:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/68993117_giDAfQmOJuNAUgaxAMeAbR_o9CkYewpVycBmNYx1czs.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a184dd644fad60f3adeb70",
+            "created_at": "2024-01-12T18:28:45.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/502267807_6pBs9oMYDGwjlYKf4JQ3TpwUv9o0_pC_rWDj7tgjnR4.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a184138c0e045c1a540134",
+            "created_at": "2024-01-12T18:25:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/502267807_wAH6l2WncWs_Jr7W75eTP9MXWFhu-JkPWTNUwofd0lo.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9960059709455398,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 614,
+          "total_ratings": 81,
+          "total_tips": 13
+        }
+      },
+      {
+        "fsq_id": "53b29925498e48dc44379962",
+        "categories": [
+          {
+            "id": 12086,
+            "name": "Non-Profit Organization",
+            "short_name": "Non-Profit Organization",
+            "plural_name": "Non-Profit Organizations",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "مؤسسة الأمير محمد بن سلمان بن عبدالعزيز الخيرية مسك الخيرية، مؤسسة خيرية غير ربحية، تكرِّس أهدافها لرعاية وتشجيع التعلم وتنمية مهارات القيادة لدى الشباب من أجل مستقبل أفضل للمملكة العربية السعودية.",
+        "link": "/v3/places/53b29925498e48dc44379962",
+        "location": {
+          "address": "Abdullah Bin Hazafa As-Shami Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Abdullah Bin Hazafa As-Shami Rd, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Misk Foundation (مؤسسة مسك الخيرية)",
+        "photos": [
+          {
+            "id": "6599a1cb10ac306a422a3944",
+            "created_at": "2024-01-06T18:54:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569519986_SD7YMAXuLGPRi2sF8CZEAwU7sk_J-b6_741fTqDYht0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "658d515cae667c1ac6f6f709",
+            "created_at": "2023-12-28T10:43:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/545040262_1CHwhFHtpZ7NqmzmjnZkaLWOHAj8GLGQrckAc7gtO6M.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65803e727cfc6b7521a84df1",
+            "created_at": "2023-12-18T12:43:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/70750490_4CT2MR_-vMIkn3Hiw7OQwiua-60MEkkc7ALSBQA_nws.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65719a3e7b440327b6ede29e",
+            "created_at": "2023-12-07T10:11:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/593450575_SFlXsUKo3rofCOxpqLhoMWaqYKolLC-LD5D1EzLi5HI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "656b7e74e86a4003775ef121",
+            "created_at": "2023-12-02T18:59:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/425082258_KZteAUgSUrcta_O5nR_lFBTt5LNR9UiiSjO2GhC53vI.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9807680009939396,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 406,
+          "total_ratings": 141,
+          "total_tips": 13
+        },
+        "tel": "011 444 4490"
+      },
+      {
+        "fsq_id": "5a8e86ec2632ec3703e57404",
+        "categories": [
+          {
+            "id": 16041,
+            "name": "Plaza",
+            "short_name": "Plaza",
+            "plural_name": "Plazas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5a8e86ec2632ec3703e57404",
+        "location": {
+          "address": "Northern Ring Branch Rd",
+          "country": "SA",
+          "cross_street": "Al Nakheel Dist.",
+          "formatted_address": "Northern Ring Branch Rd (Al Nakheel Dist.), الرياض 12385",
+          "locality": "الرياض",
+          "postcode": "12385",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "MEFIC Center (مجمع الضيافة)",
+        "photos": [
+          {
+            "id": "65a572154405c52f2221e698",
+            "created_at": "2024-01-15T17:57:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1402828097_wR8nw0Q8svRnppnE3NuG6O3SodxacP14apJVMc6Jem8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a417c73b6b6301a93d731c",
+            "created_at": "2024-01-14T17:20:07.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/581398818_yZVz31UTcpqkPi51huivH0mmPc2bkXiw5G5pXqHj7KM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a40ee31498160bde7d165e",
+            "created_at": "2024-01-14T16:42:11.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/482363900_Kr6K3aWyZWXYttywt0JF0TJ5E51Mj1v0x1kG0VGQ6GQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a2d7cc3fc8825a692d4901",
+            "created_at": "2024-01-13T18:34:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/545560588_c5UWBmLOaseNhd8HbO0u66aRMIKNLd852rA7Gjz-5x4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a2bd588478f23b98c51906",
+            "created_at": "2024-01-13T16:42:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569020369_QzCRZOhaCdV0h8pV-STSb6Kvo1Xn712wjYMm1v2e834.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9992070408922069,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 2987,
+          "total_ratings": 203,
+          "total_tips": 20
+        }
+      },
+      {
+        "fsq_id": "63222e33fc967e2c5d170036",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/63222e33fc967e2c5d170036",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "NADIM (نديم)",
+        "photos": [
+          {
+            "id": "63a8667f1c555d3322ade1bf",
+            "created_at": "2022-12-25T15:04:31.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/520325770_WXuSbM4yCdNhoMaxaWVAeDclfKLIZdgWT9o-Ny1DYG8.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6373eac98e6454553153624e",
+            "created_at": "2022-11-15T19:38:49.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/468734847_hHMUVf_VTSL7IuRC_ZBSxtMgLsmu2nPtffgi12qWjTQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "63c6d39aaf40296d92c2aea9",
+            "created_at": "2023-01-17T16:58:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/404969270_rjiQZuPpW-sSI6W7GafXrXHkGnAQfgXXW9gs2lN4BZo.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "64ef870bf3ef667d1ee1fe80",
+            "created_at": "2023-08-30T18:14:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/508450100_rSv9HWVaJO-HgDL4GzlNr2lcXKT_zbP7dm1UHzQWH5o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "64f8c405cc16fd164d850c84",
+            "created_at": "2023-09-06T18:25:09.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/500647002_YaWlqNFYNxvLZN2Wf2x3Bev4ZtbdGFgj3UdutUp14o8.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9985529409830135,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 2649,
+          "total_ratings": 200,
+          "total_tips": 32
+        }
+      },
+      {
+        "fsq_id": "64288fe8bef92c334ff15627",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/64288fe8bef92c334ff15627",
+        "location": {
+          "address": "Kafd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Kafd, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Ashjar Cafe (أشجار كافيه)",
+        "photos": [
+          {
+            "id": "64444b218a6f2c430d9a64dd",
+            "created_at": "2023-04-22T21:01:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/530579904_RkLnTX2ZSgeRxCxW2a7gPYgmBKq5NeBDjNes1e3JO4s.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "643db39c01afc82b9eb58e98",
+            "created_at": "2023-04-17T21:01:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1382542277_verEUOSWOngABQrILUjTvAlrEuqxUWZ36SmHvlHWEtc.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "644d6d587b6694653baede0c",
+            "created_at": "2023-04-29T19:17:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/562030628_ykaTvtGQmGHaEsH6PQpvZqdLDzAzBr5B75sf7as8Fms.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "6441ada53b60a74df05dc13a",
+            "created_at": "2023-04-20T21:24:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/577198278_8JMPgxLLoo8ttXq0EiE-yxuv8oKJImamY8dgTmfQ3d0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6446e92cff4b654bf0714abf",
+            "created_at": "2023-04-24T20:40:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532282626_RXj0g07QHzzusO2dSECx5Z-6tI4TdCDzb6IQpmLojPE.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9996619874770928,
+        "rating": 9.6,
+        "stats": {
+          "total_photos": 4655,
+          "total_ratings": 205,
+          "total_tips": 44
+        }
+      },
+      {
+        "fsq_id": "5ba5cfb0625a66002c45a3bd",
+        "categories": [
+          {
+            "id": 17113,
+            "name": "Record Store",
+            "short_name": "Record Store",
+            "plural_name": "Record Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/record_shop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5ba5cfb0625a66002c45a3bd",
+        "location": {
+          "address": "الرياض بارك ، بوابه ٣",
+          "country": "SA",
+          "cross_street": "الدائري الشمالي",
+          "formatted_address": "الرياض بارك ، بوابه ٣ (الدائري الشمالي), الرياض 13511",
+          "locality": "الرياض",
+          "postcode": "13511",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Virgin Megastores",
+        "photos": [
+          {
+            "id": "64ea0bb027feea3a50506404",
+            "created_at": "2023-08-26T14:26:56.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/548480007_LFvAX-b0OE1OsOSaEkv5s3vOzqesMjWfxgK5FRRFXF8.jpg",
+            "width": 1078,
+            "height": 1920
+          },
+          {
+            "id": "5d72aecf39828f0007bf0afe",
+            "created_at": "2019-09-06T19:09:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543996356_7DgOhJukLJ16ABf1-7x-p9OV-q3bQkwhD8ltUfaKfd4.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5d2120b05cbbb2002380ca11",
+            "created_at": "2019-07-06T22:29:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1261750_L_7_FX7PDoapu-QnMBc8qZtlHHjAMrNjrb22Jmada6w.jpg",
+            "width": 1920,
+            "height": 1440
+          },
+          {
+            "id": "5e62a325acf4e70008f9d110",
+            "created_at": "2020-03-06T19:23:17.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/62902368_P51WuxOdYH0_Uda6RrY-fL6fkMqbet5dacAeqGBaw7M.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "60670a0824b7ba649f73147f",
+            "created_at": "2021-04-02T12:11:52.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534058815_M6Lw4kBctX35rNe8RZBHHq_Ba8WQQ2jsUtSzaWnvcvo.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9980194293252357,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 597,
+          "total_ratings": 284,
+          "total_tips": 23
+        }
+      },
+      {
+        "fsq_id": "639d23e84175b02b520400a2",
+        "categories": [
+          {
+            "id": 13031,
+            "name": "Burger Joint",
+            "short_name": "Burgers",
+            "plural_name": "Burger Joints",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/639d23e84175b02b520400a2",
+        "location": {
+          "address": "Othman Bin Affan Rd",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "Othman Bin Affan Rd, الرياض 12474",
+          "locality": "الرياض",
+          "postcode": "12474",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Burger Hunch (برجر هنش)",
+        "photos": [
+          {
+            "id": "65a6e505e125e50d24211c01",
+            "created_at": "2024-01-16T20:20:21.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569316254_W6tgNRCIYOeriE9ZSrH60UV4eDp_lLIDUyNMU9zo7Zg.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "65a692b053f43100003feb4b",
+            "created_at": "2024-01-16T14:29:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403657149_FOYhs_QNf9wy_n3Agr1q121aThtB6d4UjMfyDIBxVlw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a57000769c1574c920550d",
+            "created_at": "2024-01-15T17:48:48.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1406202708_Ib13XUmwxxzeF7VpdUtOq6CJeCJ4UQha8nLx9uPjChc.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a53580a915475ca68bcf26",
+            "created_at": "2024-01-15T13:39:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1400919326_tm8wfbIaG1r6YsuL2U-qrdAT5Sjq3FYVfIW5UpSHOak.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a510a1055c587a3008ce29",
+            "created_at": "2024-01-15T11:01:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1401993238_DdcK_lIQ8PTsdJqcz7eIlU7apZjTH4q__-Wj4Y9b0Wg.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9993751336063013,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 1014,
+          "total_ratings": 182,
+          "total_tips": 29
+        }
+      },
+      {
+        "fsq_id": "5917234ea0215b6c29da333e",
+        "categories": [
+          {
+            "id": 17000,
+            "name": "Retail",
+            "short_name": "Retail",
+            "plural_name": "Retail",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5917234ea0215b6c29da333e",
+        "location": {
+          "address": "الدائري الشمالي",
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الدائري الشمالي, الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Jarir Bookstore (مكتبة جرير)",
+        "photos": [
+          {
+            "id": "6592fafe6d3ed902b809e044",
+            "created_at": "2024-01-01T17:48:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1405295788_4F5OEg6HZk1rZyOcBvTf4nYp-kaJsAWACOo7oPgTZ80.jpg",
+            "width": 1134,
+            "height": 1920
+          },
+          {
+            "id": "658ef979fa0a2329775f0f26",
+            "created_at": "2023-12-29T16:53:13.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518650602_FNKJ6FaSGILi4i8EvKiA_-Z6EfXJp-X6UAOBdFo11Zs.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658ef97674f0f42dad1b179d",
+            "created_at": "2023-12-29T16:53:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/518650602_eyy1xu51D_UePS7JkjpTnAKlQ6kKxuA63sGtfqOM7Lo.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "658a9d9aeea8ad1ca364c337",
+            "created_at": "2023-12-26T09:32:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/579761878_l8WjAK8B3LZnmp3aLypiuianBmvi2XI6JyujBxTxcJI.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "657dabb3b0cf5c7fa31dc023",
+            "created_at": "2023-12-16T13:52:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1403622727_cAXhq8Fp8BchyRJ3_fcdXdfFkzxrToK6bu22_B7qzqA.jpg",
+            "width": 1081,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9965705432135308,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 610,
+          "total_ratings": 619,
+          "total_tips": 28
+        }
+      },
+      {
+        "fsq_id": "5ef96a101246210008b7d8a5",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5ef96a101246210008b7d8a5",
+        "location": {
+          "address": "Hail St",
+          "address_extended": "Al Abbas Ibn Abdulmutalib",
+          "country": "SA",
+          "cross_street": "Al Abbas Ibn Abdulmutalib",
+          "formatted_address": "Hail St (Al Abbas Ibn Abdulmutalib), الرياض 12475",
+          "locality": "الرياض",
+          "postcode": "12475",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "ستاربكس",
+        "photos": [
+          {
+            "id": "65a6ef17192da159b72c68ed",
+            "created_at": "2024-01-16T21:03:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1370594328_82N4o_s7nCRL7Xpr3FuJKVrNPf-f6HDbn6od16bY0gE.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a2a3ceb608d925a17ab733",
+            "created_at": "2024-01-13T14:53:02.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1400923978_W9cX8AlfbTpGKkSfNWnf8vDykFFA3QzLe9zT3kwUO4o.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659f6db7979ce301e5753f97",
+            "created_at": "2024-01-11T04:25:27.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569223888_25IMRrivjqe9dUp2121V5C1hrq6f7WkRiXKmgic-Tlk.jpg",
+            "width": 1079,
+            "height": 1920
+          },
+          {
+            "id": "659dcb6a5cbe4371ee645e98",
+            "created_at": "2024-01-09T22:40:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/483752855_U-EiH63CCBhAi4i68hWXUOpdbWzecPlDVTDUgb0hD_w.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "65998ebca5347c0a3a6a89c2",
+            "created_at": "2024-01-06T17:32:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/532613056_R3clnmsIwvHNBB2ONTMG-SMoehX6a-UtHOq1GzlnEyY.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9986753563291475,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 6409,
+          "total_ratings": 569,
+          "total_tips": 71
+        }
+      },
+      {
+        "fsq_id": "5c02a1b2b6b04b002c9803ee",
+        "categories": [
+          {
+            "id": 16041,
+            "name": "Plaza",
+            "short_name": "Plaza",
+            "plural_name": "Plazas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 17115,
+            "name": "Shopping Plaza",
+            "short_name": "Shopping Plaza",
+            "plural_name": "Shopping Plazas",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5c02a1b2b6b04b002c9803ee",
+        "location": {
+          "address": "3160 Al Hussain Ibn Ali St",
+          "country": "SA",
+          "cross_street": "Hail St.",
+          "formatted_address": "3160 Al Hussain Ibn Ali St (Hail St.), الرياض 12475",
+          "locality": "الرياض",
+          "postcode": "12475",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Riverwalk (ريفرووك)",
+        "photos": [
+          {
+            "id": "618c0df31926fb49460d5ab5",
+            "created_at": "2021-11-10T18:22:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/533291830_xAg6CsYnR0-oWkut6sbxR9VvJmkQGduoKbrxgLmBp3M.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61e722c92733de343edaf625",
+            "created_at": "2022-01-18T20:27:53.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/535381568_HId9iGtKsS3MN4aqa2RU0A_D3JrpjZ8TwXWMmBBkzVY.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61dda7b7c4cf03003998391c",
+            "created_at": "2022-01-11T15:52:23.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/577134366_kA2cB-ySZ3ngzADechWMCux0pru2-TRofdI8ZgW_4lw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61e2e39f2353b37188d5b010",
+            "created_at": "2022-01-15T15:09:19.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/517291039_cDp8GoS1-Si6LA9E_sH5KdFMPKIA9iBpMmd0fQ8NuTU.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61e29800cceb936825f833e3",
+            "created_at": "2022-01-15T09:46:40.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/480457108_yVXdbXw06g6WLlAcjazmVxl3xPev7WHUdqlvRnUGFOk.jpg",
+            "width": 1079,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9998483511383713,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 33510,
+          "total_ratings": 1800,
+          "total_tips": 215
+        }
+      },
+      {
+        "fsq_id": "51a0fa6d498e7c1f2c0c08bc",
+        "categories": [
+          {
+            "id": 16019,
+            "name": "Hiking Trail",
+            "short_name": "Trail",
+            "plural_name": "Hiking Trails",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/51a0fa6d498e7c1f2c0c08bc",
+        "location": {
+          "address": "King KhalId St",
+          "country": "SA",
+          "cross_street": "at Al Haweya St",
+          "formatted_address": "King KhalId St (at Al Haweya St), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "AlKhuzama Walking Area (ممشى حي الخزامى)",
+        "photos": [
+          {
+            "id": "5cd4406bc9f907002c850642",
+            "created_at": "2019-05-09T14:59:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/514577992_cr1AwFMuQU67faepV-00_OAnRakLI7zd0XGOg48NfMQ.jpg",
+            "width": 1440,
+            "height": 1920,
+            "classifications": [
+              "outdoor"
+            ]
+          },
+          {
+            "id": "60c3e23f47c77877a6db32cd",
+            "created_at": "2021-06-11T22:22:55.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/523406725_noD8Wyi7wMVlQupn5_Dd29TtdqMGdlboFVQp4YxfqQA.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "5fbe72b2d9d8c32ba9eb5d6e",
+            "created_at": "2020-11-25T15:05:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/488292184_Ga1PoVFgdqrJlxetOiYsDt7CYkUOi5CQyHM0rEWQjYQ.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "61e5e764b6d33317ae23907f",
+            "created_at": "2022-01-17T22:02:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/512269550_8_ev9hdds9SVtakpMED7SfhIH--KoIVm0f-P2wB4l4s.jpg",
+            "width": 1048,
+            "height": 1920
+          },
+          {
+            "id": "6081d106cbe5ce21db97bf1d",
+            "created_at": "2021-04-22T19:39:50.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/9791557_D6-IhrrIgI2Rqws-STxL6H4LRFRe7kvuQvbdCoNa1yg.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9994975489524353,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 1050,
+          "total_ratings": 170,
+          "total_tips": 15
+        }
+      },
+      {
+        "fsq_id": "5e42cfd0448f0b0007b65336",
+        "categories": [
+          {
+            "id": 17109,
+            "name": "Perfume Store",
+            "short_name": "Perfume Store",
+            "plural_name": "Perfume Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e42cfd0448f0b0007b65336",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 13511",
+          "locality": "الرياض",
+          "postcode": "13511",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Faisal Al-Dayel Perfumes (عطور فيصل الدايل)",
+        "photos": [
+          {
+            "id": "65a1af1c411eb95035499df4",
+            "created_at": "2024-01-12T21:29:00.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/550905025_PJzZco-4nqV_hccwx5Bx9Xp8mlJ4YIYeEEoVsgIrBHs.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "659dbb961e87ed276554e1ab",
+            "created_at": "2024-01-09T21:33:10.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/483288042_p5XZYn4bgS31sXLgwv3y70ff7yVEP4WEqpBbIETAfPk.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "659c01deca9fd00931e5259b",
+            "created_at": "2024-01-08T14:08:30.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/585257657_KIH8r_21tT52fo_RiXf8_fmcMNol3SJHmAV1zqy2l7w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6598407b8f04186ecd275b1d",
+            "created_at": "2024-01-05T17:46:35.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1392661252_fj4X_ihCwH2Vu_ajQZy02xS5e5gFpMsTr4xEp1i-uqg.jpg",
+            "width": 1371,
+            "height": 1920
+          },
+          {
+            "id": "658608038127a27744587fcc",
+            "created_at": "2023-12-22T22:04:51.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/507639274__wW1kMbOwdTot71u1aHXkG-DWhKTuYbiMyCE7vGysAc.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9917305693044434,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 1480,
+          "total_ratings": 175,
+          "total_tips": 15
+        },
+        "tel": "055 410 2864"
+      },
+      {
+        "fsq_id": "5cfab3dd031320002ce5f8c1",
+        "categories": [
+          {
+            "id": 16046,
+            "name": "Scenic Lookout",
+            "short_name": "Scenic Lookout",
+            "plural_name": "Scenic Lookouts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5cfab3dd031320002ce5f8c1",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 12477",
+          "locality": "الرياض",
+          "postcode": "12477",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "مطل التعاون",
+        "photos": [
+          {
+            "id": "633e0a706601965a4df7bfe2",
+            "created_at": "2022-10-05T22:51:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543237109_WuRImfuyrm0ralJ6KCbO8Fn300AnsPW8b3As8TWVxEw.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "6303dca985bda65873c6c7fd",
+            "created_at": "2022-08-22T19:44:41.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/507083999_tgcKMRdKlXOZn75ZbMW7SdnY_wTBFpbDsmZzecbJu2k.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "639c7798a22b162da1dfc0a3",
+            "created_at": "2022-12-16T13:50:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/580630000_F4HaT_S6zrl5VCOQJj4l4NBHLoF9uoEds9WvzJhs1iI.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "623b3b6e002bfb709819912b",
+            "created_at": "2022-03-23T15:23:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/567944301_5OM3WdikUQxFQNMpT7atUZjwrDYrhpJygzCLKUM51SQ.jpg",
+            "width": 1440,
+            "height": 1897
+          },
+          {
+            "id": "63a854bcdbf4d836a44e9ef1",
+            "created_at": "2022-12-25T13:48:44.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/497057769_kDGhykiSEtDmXm4E7RKwdWjj4ADq92A1ojJ0TqIt6Cc.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9982313723125721,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 4015,
+          "total_ratings": 263,
+          "total_tips": 24
+        }
+      },
+      {
+        "fsq_id": "5d4b1d6b67ccb800085376e2",
+        "categories": [
+          {
+            "id": 17018,
+            "name": "Bookstore",
+            "short_name": "Bookstore",
+            "plural_name": "Bookstores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5d4b1d6b67ccb800085376e2",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 12476",
+          "locality": "الرياض",
+          "postcode": "12476",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Tashkeel | تَشْكِيل (تَشْكِيل)",
+        "photos": [
+          {
+            "id": "65a6e4b7fff1fd6f3c3a2350",
+            "created_at": "2024-01-16T20:19:03.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/569470902__QG_RmKd4rAAPO-mZ74SrSrZfGJG-FVQJPbgr2_zZz0.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a52d46a915475ca673f551",
+            "created_at": "2024-01-15T13:04:06.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362983086__W1UziAYN_x73pm0ffky4rgtbwN_WVC1Qxh9R7wOYT8.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a52bf93075570469c0b408",
+            "created_at": "2024-01-15T12:58:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362983086_oaO6_QKCqRhvoHnQm8cXRE5C6crzqyR8rNyF6vrtLeY.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a52bf4d3ae75122dd79318",
+            "created_at": "2024-01-15T12:58:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362983086_yfIh69YQhhDAs1OCdp6f4HZAlWIFOlU1mbZATwZ0hjQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a52bf2d91f244178af1697",
+            "created_at": "2024-01-15T12:58:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1362983086_r4XDeom6uwPGPinN9hJld6t9Jp0OtpbUNc6mAAWVyiY.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9405920152306616,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 1595,
+          "total_ratings": 151,
+          "total_tips": 23
+        }
+      },
+      {
+        "fsq_id": "5e776af3ff16150008afe6e6",
+        "categories": [
+          {
+            "id": 13036,
+            "name": "Tea Room",
+            "short_name": "Tea Room",
+            "plural_name": "Tea Rooms",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5e776af3ff16150008afe6e6",
+        "location": {
+          "address": "الرياض شارع ابو بكر الصديق",
+          "country": "SA",
+          "cross_street": "تقاطع مخرج 6",
+          "formatted_address": "الرياض شارع ابو بكر الصديق (تقاطع مخرج 6), الرياض 13312",
+          "locality": "الرياض",
+          "postcode": "13312",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "شاي بخار",
+        "photos": [
+          {
+            "id": "6352f3396396bd772528c4e5",
+            "created_at": "2022-10-21T19:30:01.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/58860846_sOCLnC5ft824BAZ3NbzksFOijXPzEw-e8w0V8Eyr4wM.jpg",
+            "width": 1440,
+            "height": 1440
+          },
+          {
+            "id": "633b6be924e28e11fe4df823",
+            "created_at": "2022-10-03T23:10:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/516920246_vBDqMsnjn9CLtbAyAeq8FM2EeSJstajTlkmvoGKcE18.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6307ec34769b353badd1b7d7",
+            "created_at": "2022-08-25T21:40:04.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/575041489_f-60tzRgNY12ocKIpQOZygokQGKQkQOVUcWg5jBcwx0.jpg",
+            "width": 1079,
+            "height": 1919
+          },
+          {
+            "id": "62a4cbf86ce2f004264a1176",
+            "created_at": "2022-06-11T17:08:08.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/529846183_X5BJ01X4qSmphlkSiFgnSAZ6b5Zxzu3A9joSoGMRpWk.jpg",
+            "width": 1028,
+            "height": 1920
+          },
+          {
+            "id": "65a606966938d47cd8283d10",
+            "created_at": "2024-01-16T04:31:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/567049800_r1tWNK0COFPrSefQkhFrYS7v3LU0Wgbl6Qgl52R1kno.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9980212564199541,
+        "rating": 9.4,
+        "stats": {
+          "total_photos": 4803,
+          "total_ratings": 484,
+          "total_tips": 55
+        }
+      },
+      {
+        "fsq_id": "5ef13779855630000806623e",
+        "categories": [
+          {
+            "id": 16046,
+            "name": "Scenic Lookout",
+            "short_name": "Scenic Lookout",
+            "plural_name": "Scenic Lookouts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5ef13779855630000806623e",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 13511",
+          "locality": "الرياض",
+          "postcode": "13511",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Al Aqiq View",
+        "photos": [
+          {
+            "id": "65a48226579aab7f9dbb0fd7",
+            "created_at": "2024-01-15T00:53:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/543362305_SNcb3RHJ-AA-bXDdsKussD5xnAtIVw6kB18rsfqEI9w.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a427d5db92f762771fbd7c",
+            "created_at": "2024-01-14T18:28:37.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/588003725_kKSpTNTNbPkzNgE869ikJQhLPV_aKJ9yExS4L1jTZSM.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "6595d29850275d5370427851",
+            "created_at": "2024-01-03T21:33:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/522663827_RBH29YABHBx7ygO8hWNmfeCVZjTqVOkL2wLas5p17z0.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6595d2664020f12c36e6e3cc",
+            "created_at": "2024-01-03T21:32:22.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/592721077_yf--l2mQopDCCmfpdifT_mR8FCyNRpRt3MiyUbkeqnA.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "6591ecfa0102114d0f403117",
+            "created_at": "2023-12-31T22:36:42.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/588821973_UcYNq-RlADu1Op71Nl6-ocLZzHh2m74UhQv_1-C3024.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "popularity": 0.9902725477191463,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 1732,
+          "total_ratings": 73,
+          "total_tips": 4
+        }
+      },
+      {
+        "fsq_id": "5fa19d457e8d734bf96d1c8e",
+        "categories": [
+          {
+            "id": 17060,
+            "name": "Candy Store",
+            "short_name": "Candy Store",
+            "plural_name": "Candy Stores",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5fa19d457e8d734bf96d1c8e",
+        "location": {
+          "address": "حي الازدهار",
+          "country": "SA",
+          "cross_street": "شارع عثمان بن عفان",
+          "formatted_address": "حي الازدهار (شارع عثمان بن عفان), الرياض",
+          "locality": "الرياض",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "العمة مزنة",
+        "photos": [
+          {
+            "id": "6595857c53d07b49c5676535",
+            "created_at": "2024-01-03T16:04:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/593105431_cLUEX_KCYZKmOMqN7wWR9CNvfAAvHbvHOMefzDdQV7o.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "657358d2a83c791688fbedad",
+            "created_at": "2023-12-08T17:56:34.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/475493991_Z2-rb45m7giA9QiAgMEEJC3fWy3StwAN6yAqMdMGHUU.jpg",
+            "width": 1169,
+            "height": 1919
+          },
+          {
+            "id": "657358d06e81d119543c8fe3",
+            "created_at": "2023-12-08T17:56:32.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/475493991_EP1EJ-pMVW4eySc1xnDkeG8MSRZMeBJzX_5TSebljbk.jpg",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "id": "65489baaffed6775d0ab08fc",
+            "created_at": "2023-11-06T07:54:18.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524774340_mJOg9fQNXDQctwbdRP2-i_4kn3o369Rpmem-au0Pjjw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65489ba81d0faf3eae46919d",
+            "created_at": "2023-11-06T07:54:16.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/524774340_ASlzeu73olukSKpygW_RRCaz2nRHY6ZjdpSV_Ugpz6c.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9943049457626932,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 241,
+          "total_ratings": 71,
+          "total_tips": 14
+        },
+        "tel": "050 455 6677"
+      },
+      {
+        "fsq_id": "5932ad6ecad1b60cd2750c82",
+        "categories": [
+          {
+            "id": 16032,
+            "name": "Park",
+            "short_name": "Park",
+            "plural_name": "Parks",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "link": "/v3/places/5932ad6ecad1b60cd2750c82",
+        "location": {
+          "country": "SA",
+          "cross_street": "",
+          "formatted_address": "الرياض 12395",
+          "locality": "الرياض",
+          "postcode": "12395",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Alnakheel Walking Area (ممشى حي النخيل)",
+        "photos": [
+          {
+            "id": "65a44ed2d7e43c10a526cd7b",
+            "created_at": "2024-01-14T21:14:58.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1383991524_oADxm_BZEwqPHyhu6_Qpd7Cge1CjQWRKhILSghazluw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a1ddeb7afd170f68fce161",
+            "created_at": "2024-01-13T00:48:43.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1395316711_giOMJb2xKkZoP4l1_BF2TUhuRPF9vQn2gOtReoWIbDw.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "65a1a932479b25589b7d6b5d",
+            "created_at": "2024-01-12T21:03:46.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/557994320_VUjz2pAm4nmInf9Ro8AwEnADzzVlR-m5lNMY7SpSFrw.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a07d25b2166e1b135b84c0",
+            "created_at": "2024-01-11T23:43:33.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/1383991524_dIZppc_Vc-unUa6e6Fj0hEUDSDu5sZBHs-Xkfg9Bwic.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "65a0696e186db66f1e09853a",
+            "created_at": "2024-01-11T22:19:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/527407399_ZF6HEa7H7MqWN-0u5v6G5pFHF6rjhIbo2p2rbG1qoac.jpg",
+            "width": 1077,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.999680258424277,
+        "rating": 9.5,
+        "stats": {
+          "total_photos": 542,
+          "total_ratings": 82,
+          "total_tips": 7
+        }
+      },
+      {
+        "fsq_id": "577180a1498e3e0c5f079b36",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "short_name": "Coffee Shop",
+            "plural_name": "Coffee Shops",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "description": "The Starbucks Experience is more than a cup of coffee. From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated the rich tradition of coffee, but that also brought a feeling of community, a comfortable third place away from the demands of work and home.",
+        "link": "/v3/places/577180a1498e3e0c5f079b36",
+        "location": {
+          "address": "Nakheel Mall",
+          "address_extended": "Exit 9, Al Imam Saud Ibn Abdul Aziz Branch Rd, Al Mughrizat",
+          "country": "SA",
+          "cross_street": "Northen Ring Rd",
+          "formatted_address": "Nakheel Mall (Northen Ring Rd), الرياض 12394",
+          "locality": "الرياض",
+          "postcode": "12394",
+          "region": "منطقة الرياض‎"
+        },
+        "name": "Starbucks (ستاربكس)",
+        "photos": [
+          {
+            "id": "5db51a5643598d000750eeaa",
+            "created_at": "2019-10-27T04:17:26.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/534694585_dQ-Te77wAT8GJ1kUCU9bnNpjEocPazWvKjMQUqldafM.jpg",
+            "width": 1440,
+            "height": 1450
+          },
+          {
+            "id": "5e64858c13fee00008b660fb",
+            "created_at": "2020-03-08T05:41:32.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/81773434_JC5NnunmiHtYF8vyH0z4L3THROF16kDwhxp3ggeb27U.jpg",
+            "width": 1440,
+            "height": 1920
+          },
+          {
+            "id": "59589c252be425119f21b105",
+            "created_at": "2017-07-02T07:09:25.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/55177079_MKsnniRUTLyhyKu4OJlkifXSatSM20ed0naISp2Mj6M.jpg",
+            "width": 1079,
+            "height": 1920,
+            "classifications": [
+              "indoor"
+            ]
+          },
+          {
+            "id": "5ed21968e3bce200073bc573",
+            "created_at": "2020-05-30T08:29:28.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/513305388_Ar03Bn4QC2nvF4ZmXPVOdykunHe4f1hheeYHZD79OeQ.jpg",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "id": "5885887816f0007b20d16dee",
+            "created_at": "2017-01-23T04:37:12.000Z",
+            "prefix": "https://fastly.4sqi.net/img/general/",
+            "suffix": "/60989620__GgezHGlbr7hVlpZMLE-asvnWb1c8yROk6e_YWnR3So.jpg",
+            "width": 1440,
+            "height": 1920
+          }
+        ],
+        "popularity": 0.9991851157555859,
+        "rating": 9.3,
+        "stats": {
+          "total_photos": 4593,
+          "total_ratings": 1916,
+          "total_tips": 149
+        },
+        "tel": "011 510 2245"
+      }
+    ],
+    "context": {
+      "geo_bounds": {
+        "circle": {
+          "center": {
+            "latitude": 24.7136,
+            "longitude": 46.6753
+          },
+          "radius": 22000
+        }
+      }
+    }
+  }

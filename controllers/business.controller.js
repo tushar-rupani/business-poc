@@ -1,7 +1,7 @@
 const { generalResponse } = require("../helpers/response.helper");
 const axios = require("axios");
 const db = require("../models/index");
-const { Category, Business, CategoryBusiness } = db;
+const { Category, Business, CategoryBusiness, BusinessMetrics } = db;
 /**
  * We'll be generally using APIs to get data, in order to reduce the redundant API calls - we are using cached data.
  * FourSquareCached Data. These data were scraped on 17th January. 2024.
@@ -13,33 +13,7 @@ const FourSquareAlKharjCached = require("../backup/4Square - Al-Kharj.json");
 const GoogleKhobarCached = require("../backup/Google/17-Khobar.json");
 const GoogleRiyadhCached = require("../backup/Google/17-Riyadh.json");
 const GoogleAlKharjCached = require("../backup/Google/17-Al-Kharj.json");
-async function test() {
-  const categoryWiseBusiness = await CategoryBusiness.findAll({
-    raw: true,
-    where: {categoryId: 13035},
-    nest: true,
-    include: {
-      model: Business,
-      as: "business"
-    }
-  });
-  const finalData = []
-  for(const cwBusiness of categoryWiseBusiness) {
-    const getAllCategories = await CategoryBusiness.findAll({
-      raw: true,
-      nest: true,
-      where: {businessId: cwBusiness.business.id},
-      include: {
-        model: Category,
-        as: "category"
-      }
-    })
-    const allCategories = getAllCategories.map((data) => data.category.name)
-    finalData.push({...cwBusiness.business, category: allCategories})
-  }
-  return finalData;
-}
-test().then(data => console.log(data))
+
 exports.insertAllCategoriesOfFourSquare = async (req, res) => {
   try {
     const options = {
@@ -83,7 +57,7 @@ exports.insertAllCategoriesOfFourSquare = async (req, res) => {
     console.error(e);
     return generalResponse(
       res,
-      { data: "error" },
+      { success: false },
       "Something went wrong while inserting categories!",
       "error",
       true
@@ -125,6 +99,7 @@ exports.insertBusinessData = async (req, res) => {
         : FourSquareKhobarCached;
     const results = getCachedData.results;
     for (const result of results) {
+      const categories = result.categories;
       const businessPayload = {
         name: result.name,
         description: result.description ?? "",
@@ -137,15 +112,20 @@ exports.insertBusinessData = async (req, res) => {
         popularity: result.popularity.toFixed(5),
         region: req.body.region,
         platform: "FourSquare",
+        categories: categories.map((category) => category.name),
+        placeId: result.fsq_id,
       };
-      const categories = result.categories;
-      const businessInstance = await Business.create(businessPayload);
-      for (const category of categories) {
-        const businessId = businessInstance.dataValues.id;
-        await CategoryBusiness.create({
-          categoryId: category.id,
-          businessId: businessId,
-        });
+      try {
+        const businessInstance = await Business.create(businessPayload);
+        for (const category of categories) {
+          const businessId = businessInstance.dataValues.id;
+          await CategoryBusiness.create({
+            categoryId: category.id,
+            businessId: businessId,
+          });
+        }
+      } catch (e) {
+        console.log("Some error occurred while inserting data!");
       }
     }
     return generalResponse(
@@ -158,7 +138,7 @@ exports.insertBusinessData = async (req, res) => {
     console.error(e);
     return generalResponse(
       res,
-      { data: "error" },
+      { success: false },
       "Something went wrong while inserting categories!",
       "error",
       true
@@ -207,14 +187,16 @@ async function handleCategoryInsertion(categories) {
     }
   }
 }
-
 function getCategoryId(allCategories, categoryName) {
   const category = allCategories.find(
     (category) => category.name === categoryName
   );
   return category.id;
 }
-
+/**
+ * This API is similar to inserting data, I thought separating it would be a better idea. Since Mixing up everything
+ * in it is a really bad idea.
+ */
 exports.insertBusinessDataFromGooglePlaces = async (req, res) => {
   try {
     const { region } = req.body;
@@ -244,14 +226,20 @@ exports.insertBusinessDataFromGooglePlaces = async (req, res) => {
         ),
         region: req.body.region,
         platform: "GooglePlaces",
+        categories: result.types.map((element) => convertToTitleCase(element)),
+        placeId: result.place_id,
       };
-      const businessInstance = await Business.create(businessPayload);
-      for (const category of result.types) {
-        const businessId = businessInstance.dataValues.id;
-        await CategoryBusiness.create({
-          categoryId: getCategoryId(categories, convertToTitleCase(category)),
-          businessId: businessId,
-        });
+      try {
+        const businessInstance = await Business.create(businessPayload);
+        for (const category of result.types) {
+          const businessId = businessInstance.dataValues.id;
+          await CategoryBusiness.create({
+            categoryId: getCategoryId(categories, convertToTitleCase(category)),
+            businessId: businessId,
+          });
+        }
+      } catch (e) {
+        console.log("Some error occurred while inserting data!");
       }
     }
     return generalResponse(
@@ -264,7 +252,102 @@ exports.insertBusinessDataFromGooglePlaces = async (req, res) => {
     console.error(e);
     return generalResponse(
       res,
-      { data: "error" },
+      { success: false },
+      "Something went wrong while inserting categories!",
+      "error",
+      true
+    );
+  }
+};
+
+/**
+ * Daily, we'll run this API in-order to get the metrics. We already have the businesses. The 50 businesses that
+ * we are going to scrap for every region has already been inserted at Businesses table. Now what we'll be doing here
+ * is to scrape records for every day just to get the metrics such as (reviews_count, ratings etc..)
+ */
+
+exports.getMetricsFromFourSquare = async (req, res) => {
+  try {
+    const { region } = req.body;
+    const getCachedData =
+      region === "Riyadh"
+        ? FourSquareRiyadhCached
+        : region === "Al-Kharj"
+        ? FourSquareAlKharjCached
+        : FourSquareKhobarCached;
+    const results = getCachedData.results;
+    for (const result of results) {
+      const metricsPayload = {
+        rating: result.rating ?? 0,
+        reviewCount: result.stats.total_ratings,
+        popularity: result.popularity.toFixed(5),
+        placeId: result.fsq_id,
+        totalPhotosCount: result.stats.total_photos,
+        createdAt: new Date("2024-01-17"),
+      };
+      await BusinessMetrics.create(metricsPayload);
+    }
+    return generalResponse(
+      res,
+      [{ success: true }],
+      "Business Metrics Records have been inserted successfully!",
+      true
+    );
+  } catch (e) {
+    console.log(e);
+    return generalResponse(
+      res,
+      { success: false },
+      "Something went wrong while inserting categories!",
+      "error",
+      true
+    );
+  }
+};
+
+/**
+ * Same way - we'll be fetching data for Google Records as well.
+ */
+
+exports.getMetricsFromGooglePlaces = async (req, res) => {
+  try {
+    const { region } = req.body;
+    const getCachedData =
+      region === "Riyadh"
+        ? GoogleRiyadhCached
+        : region === "Al-Kharj"
+        ? GoogleAlKharjCached
+        : GoogleKhobarCached;
+    const results = getCachedData.results;
+    for (const result of results) {
+      const metricsPayload = {
+        rating: result.rating ?? 0,
+        reviewCount: result.user_ratings_total,
+        popularity: calculatePopularity(
+            result.user_ratings_total,
+            result.rating
+          ),
+        placeId: result.place_id,
+        totalPhotosCount: result.photos?.length,
+        createdAt: new Date("2024-01-17"),
+      };
+      try {
+        await BusinessMetrics.create(metricsPayload);
+      } catch (e) {
+        console.log("Some error occurred while inserting data!");
+      }
+    }
+    return generalResponse(
+      res,
+      [{ success: true }],
+      "Business Records have been inserted successfully!",
+      true
+    );
+  } catch (e) {
+    console.error(e);
+    return generalResponse(
+      res,
+      { success: false },
       "Something went wrong while inserting categories!",
       "error",
       true

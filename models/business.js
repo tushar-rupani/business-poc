@@ -9,6 +9,10 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: 'businessId',
         as: 'catBusiness'
       });
+      Business.hasMany(models.BusinessMetrics, {
+        foreignKey: 'placeId',
+        as: 'businessMetrics'
+      });
     }
   }
 
@@ -56,8 +60,16 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: false,
       type: DataTypes.STRING
     },
+    categories: {
+      allowNull: true,
+      type: DataTypes.JSONB
+    },
     platform: {
       allowNull: true,
+      type: DataTypes.STRING
+    },
+    placeId: {
+      allowNull: false,
       type: DataTypes.STRING
     },
     createdAt: {

@@ -442,6 +442,7 @@ exports.getBusinessByCategoryId = async (req, res) => {
         model: CategoryBusiness,
         where: category_id ? { categoryId: category_id } : {},
         attributes: [],
+        order: [["createdAt", "desc"]],
         as: "catBusiness",
       },
     ];

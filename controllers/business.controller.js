@@ -446,10 +446,11 @@ exports.getBusinessByCategoryId = async (req, res) => {
     if (show_delta) {
       includeToAddInBusiness.push(showDeltaInformation);
     }
+    console.log(platform)
     const { count, rows } = await Business.findAndCountAll({
       where: {
         platform: {
-          [Op.eq]: platform ?? "",
+          [Op.iLike]: `%${platform ?? ""}%`,
         },
         name: {
           [Op.iLike]: `%${searchTerm}%`,

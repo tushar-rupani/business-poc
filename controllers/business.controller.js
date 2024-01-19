@@ -413,17 +413,20 @@ exports.getBusinessByCategoryId = async (req, res) => {
         "popularity",
         popularity_order === "high" ? "DESC" : "ASC",
       ]);
-    } else if (rating_order) {
+    } 
+    if (rating_order) {
       whereFilterForBusiness.push([
         "rating",
         rating_order === "high" ? "DESC" : "ASC",
       ]);
-    } else if (total_review_count_order) {
+    } 
+    if (total_review_count_order) {
       whereFilterForBusiness.push([
         "totalRatings",
-        rating_order === "high" ? "DESC" : "ASC",
+        total_review_count_order === "high" ? "DESC" : "ASC",
       ]);
     }
+    console.log(whereFilterForBusiness)
     const showDeltaInformation = {
       model: BusinessMetrics,
       as: "businessMetrics",

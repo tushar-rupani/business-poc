@@ -401,7 +401,6 @@ exports.getBusinessByCategoryId = async (req, res) => {
       popularity_order,
       rating_order,
       total_review_count_order,
-      show_delta,
       platform,
     } = req.body;
 
@@ -413,20 +412,20 @@ exports.getBusinessByCategoryId = async (req, res) => {
         "popularity",
         popularity_order === "high" ? "DESC" : "ASC",
       ]);
-    } 
+    }
     if (rating_order) {
       whereFilterForBusiness.push([
         "rating",
         rating_order === "high" ? "DESC" : "ASC",
       ]);
-    } 
+    }
     if (total_review_count_order) {
       whereFilterForBusiness.push([
         "totalRatings",
         total_review_count_order === "high" ? "DESC" : "ASC",
       ]);
     }
-    console.log(whereFilterForBusiness)
+    console.log(whereFilterForBusiness);
     const showDeltaInformation = {
       model: BusinessMetrics,
       as: "businessMetrics",
@@ -446,10 +445,7 @@ exports.getBusinessByCategoryId = async (req, res) => {
         as: "catBusiness",
       },
     ];
-    if (show_delta) {
-      includeToAddInBusiness.push(showDeltaInformation);
-    }
-    console.log(platform)
+    includeToAddInBusiness.push(showDeltaInformation);
     const { count, rows } = await Business.findAndCountAll({
       where: {
         platform: {
